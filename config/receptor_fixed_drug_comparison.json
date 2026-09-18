@@ -1,0 +1,10 @@
+{
+  "ifp_run": "runs/20260918_2126_diazepam_alprazolam_integration",
+  "pharmacology_run": "runs/20260918_1518_bzd_pharmacology_filter",
+  "compound_ids": {"diazepam": "CHEMBL12", "alprazolam": "CHEMBL661"},
+  "analysis_contract": "ANALYSIS_CONTRACT.md",
+  "difference_direction": "alprazolam_minus_diazepam",
+  "comparison_policy": "Same-receptor, same recorded assay/document context, exact finite PRIMARY measurements only; leave unmatched rows unpaired",
+  "bridge_policy": "Keep assay-to-assay matching separate from structure-to-pharmacology matching; beta2 versus beta3 is mismatch",
+  "version": "1.0.0"
+}

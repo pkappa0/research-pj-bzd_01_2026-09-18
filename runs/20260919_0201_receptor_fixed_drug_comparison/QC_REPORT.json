@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "checks": {
+    "primary_axis_is_within_receptor_drug_difference": true,
+    "two_blocks_54_distinct_features": true,
+    "all_drug_differences_correct": true,
+    "geometry_missing_not_zero": true,
+    "two_fixed_assay_comparisons_four_source_ids": true,
+    "both_drugs_same_assay_document_composition_species_endpoint_unit_relation": true,
+    "beta2_beta3_never_matched": true,
+    "integrated_receptor_blocks_not_crossed": true,
+    "no_activity_value_modification": true,
+    "all_19_eligible_rows_retained_once": true,
+    "multi_receptor_blocks_preserved": true,
+    "four_figures_png_pdf_nonempty": true,
+    "source_snapshots_identical": true,
+    "contract_snapshot_identical": true,
+    "preexisting_tracked_files_unchanged": true,
+    "null_roundtrip": true
+  },
+  "tests": {
+    "tests": 113,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "status": "PASSED",
+    "source_sha256": "63ba59cf3779dcb3b8943223763051d02b363005f3ded7fb070adfc9b9da5231"
+  },
+  "source_input_sha256": {
+    "runs/20260918_1518_bzd_pharmacology_filter/processed/bzd_activity_classification.jsonl": "0f5f7cdc83a027cc919e57f0a9a6f1102b0defe9660e111f4a56af2d3fa4dff9",
+    "runs/20260918_1518_bzd_pharmacology_filter/run_manifest.json": "843ad4e4997092ae1e58c3f42e34f6acb387c573f1c9d0446fea3f0873776063",
+    "runs/20260918_2126_diazepam_alprazolam_integration/pi_stacking_geometry_contacts.csv": "2f872756b523630c3eb2e82cde523775677f98f2d509e8cdb1663e1b3ff4f1ae",
+    "runs/20260918_2126_diazepam_alprazolam_integration/processed/diazepam_alprazolam_ifp.jsonl": "4c69939376be0baf36fea15029ffa3dbf006b590b206083bae6c162f890e0a91",
+    "runs/20260918_2126_diazepam_alprazolam_integration/run_manifest.json": "23ec4f80f2f49f88637fe943cf32e68e69c7b16b2c0b9ff0b23fc7aa7a609343"
+  },
+  "preexisting_tracked_file_count": 680,
+  "structural_feature_count": 54,
+  "pharmacology_comparison_count": 2,
+  "pharmacology_source_activity_count": 4,
+  "structure_pharmacology_exact_match_count": 0,
+  "analysis_contract_sha256": "5735c6ad2067f4110cf81046429e32fae6f24e8731b7caa4f9313fd0a82520b0"
+}
