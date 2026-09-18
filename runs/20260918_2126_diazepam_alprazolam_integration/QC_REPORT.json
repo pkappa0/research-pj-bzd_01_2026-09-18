@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "checks": {
+    "exactly_four_source_pair_records_eight_distinct_activities": true,
+    "two_id_verified_compounds": true,
+    "all_activity_fields_unchanged": true,
+    "no_pooled_or_cartesian_pairs": true,
+    "three_positive_exact_binding_ratios_one_withheld_efficacy_ratio": true,
+    "all_numeric_differences_exact_decimal": true,
+    "requested_48_features_unique": true,
+    "all_36_pose_records_available_with_contact_archives_and_mapped_residues": true,
+    "frequency_unique_poses_over_denominator": true,
+    "no_geometry_zero_imputation_for_absent_contacts": true,
+    "all_raw_geometry_records_traceable": true,
+    "integrated_eight_activity_rows_no_source_field_loss": true,
+    "subtype_residue_numbers_not_conflated": true,
+    "background_mismatch_and_local_construct_flags_present": true,
+    "eight_figure_artifacts_nonempty": true,
+    "input_snapshots_byte_identical": true,
+    "all_preexisting_tracked_files_unchanged": true,
+    "jsonl_null_and_numeric_string_roundtrip": true,
+    "csv_original_values_relations_and_ids_preserved": true
+  },
+  "tests": {
+    "tests": 98,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "status": "PASSED",
+    "source_sha256": "c793e2724275193b375ce39c3d1e22e090e376a9b72780e1432cd0124c521f18"
+  },
+  "pair_count": 4,
+  "activity_count": 8,
+  "feature_count": 48,
+  "geometry_contact_count": 23,
+  "source_input_sha256": {
+    "data/raw/strict3/receptors/alpha1_beta3_gamma2.pdbqt": "b88f2d19c56ab8fafe651e82526d9b21fe989ad9b3d93d18aa156f0b68f59be8",
+    "data/raw/strict3/receptors/alpha2_beta3_gamma2_local_9CTJ.pdbqt": "f8001b40199a2dab3d6d2e4f3ed51b6c418bb6be8fbb4a5666d9bddbf79fc8d5",
+    "data/raw/structures/strict3/6HUP.pdb": "287ea869184d0f240d9133fa17062834e17d913f060986aefd1335017380ee8f",
+    "data/raw/structures/strict3/9CTJ.pdb": "1ae0838f1fd7325bd5751d745134b191d1e750831edd28ddffec504000dc89b3",
+    "runs/20260917_1706_structure_mouse_bridge/data/processed/reassigned_interactions.csv": "f98c0d507f28fbb7af0ef9531818906e5d0a37c629339d1a8b50b89ed4bfc3e9",
+    "runs/20260917_1706_structure_mouse_bridge/data/raw/lineage/docking_results_4drug.csv": "8c4fbe72d6887487ec0753684f763695e8858311d5248bebab9a6bd545641f53",
+    "runs/20260917_1706_structure_mouse_bridge/results/tables/candidate_residue_features.csv": "e4599d5af68cdba0533fee6c1bd697358ece35cc389e073c98cafcf7f60ce3db",
+    "runs/20260917_1706_structure_mouse_bridge/results/tables/corrected_residue_mapping.csv": "49cf7fa337afffed5474e3754288c7bcd1ca65eeae5ff34b740d08505f7d8e6e",
+    "runs/20260917_1706_structure_mouse_bridge/run_manifest.json": "beda86bec080dfc2c81d97ef665513708fbf7aba4a227026f8f2ec3738352a29",
+    "runs/20260918_1518_bzd_pharmacology_filter/processed/bzd_activity_classification.jsonl": "0f5f7cdc83a027cc919e57f0a9a6f1102b0defe9660e111f4a56af2d3fa4dff9",
+    "runs/20260918_1518_bzd_pharmacology_filter/run_manifest.json": "843ad4e4997092ae1e58c3f42e34f6acb387c573f1c9d0446fea3f0873776063",
+    "runs/20260918_1518_bzd_pharmacology_filter/tables/alpha1_alpha2_pair_candidates.csv": "7dc7ba902cce2fde4d2bf69b50e773f3afdc7c2d9fb9eff9bdf5a2c924c46364",
+    "src/strict_poc.py": "8c88c64d5f7fdb4c669700db1799294e97468f83b0c95b81995fe9c8f70e3f9a",
+    "src/structure_mouse_bridge.py": "2b96b1535a1c175450161c06d22014ca22d28c19b8fb6313966dce3adea625b0"
+  },
+  "preexisting_tracked_file_count": 632,
+  "limitations": [
+    "No experimental uncertainty estimates",
+    "Alpha2 local construct",
+    "Beta2 pharmacology versus beta3 structural background",
+    "Raw PLIP contacts audited but detection not rerun"
+  ]
+}

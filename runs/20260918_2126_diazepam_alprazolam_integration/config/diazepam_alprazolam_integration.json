@@ -1,0 +1,11 @@
+{
+  "pharmacology_run": "runs/20260918_1518_bzd_pharmacology_filter",
+  "structure_run": "runs/20260917_1706_structure_mouse_bridge",
+  "compound_ids": {"diazepam": "CHEMBL12", "alprazolam": "CHEMBL661"},
+  "difference_definition": "alpha2 minus alpha1, separately for each pair and feature",
+  "ratio_definition": "alpha1 Ki / alpha2 Ki; positive finite exact values with same endpoint, unit and recorded context only",
+  "efficacy_ratio_policy": "Withhold: percent-change normalization and experimental concentration are not established; retain percentage-point difference only",
+  "structural_policy": "Use receptor-specific corrected mapping; audit contact counts against raw PLIP and all nine recorded poses; missing evidence stays null",
+  "existing_files_policy": "Never modify prior runs, source data, or LATEST_RUN.txt",
+  "rule_version": "1.0.0"
+}
