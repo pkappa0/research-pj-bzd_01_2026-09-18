@@ -1,0 +1,58 @@
+[
+  {
+    "path": "ANALYSIS_CONTRACT.md",
+    "sha256": "5735c6ad2067f4110cf81046429e32fae6f24e8731b7caa4f9313fd0a82520b0"
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "aa3c8474526e3996a1e492648cea9c291d2816b0f852ed4ce09292aeae7200bd"
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "6980334258e252af8996bf1cdb4070c894fa9467f9393ed691e50b26a3a9ebfd"
+  },
+  {
+    "path": "src/strict_poc.py",
+    "sha256": "8c88c64d5f7fdb4c669700db1799294e97468f83b0c95b81995fe9c8f70e3f9a"
+  },
+  {
+    "path": "src/four_drug_poc.py",
+    "sha256": "45d33f5a1030b53b2c32f6d8bfbcf4f142cdf6e8bbd39a5f0a31dccd09eefe19"
+  },
+  {
+    "path": "src/structure_mouse_bridge.py",
+    "sha256": "2b96b1535a1c175450161c06d22014ca22d28c19b8fb6313966dce3adea625b0"
+  },
+  {
+    "path": "outputs/docking_boxes.csv",
+    "sha256": "50a946bffc43373e171208443089febff1d70f6bd55862a065c9c20342afd618"
+  },
+  {
+    "path": "runs/20260918_1117_chembl_acquisition/processed/compounds.csv",
+    "sha256": "eccad6a03e97025295cab6b71ee052264331e834f24184528ee1cdd0a79608cd"
+  },
+  {
+    "path": "runs/20260917_1706_structure_mouse_bridge/data/processed/reassigned_interactions.csv",
+    "sha256": "f98c0d507f28fbb7af0ef9531818906e5d0a37c629339d1a8b50b89ed4bfc3e9"
+  },
+  {
+    "path": "runs/20260917_1706_structure_mouse_bridge/data/raw/lineage/docking_results_4drug.csv",
+    "sha256": "8c4fbe72d6887487ec0753684f763695e8858311d5248bebab9a6bd545641f53"
+  },
+  {
+    "path": "runs/20260917_1706_structure_mouse_bridge/results/tables/corrected_residue_mapping.csv",
+    "sha256": "49cf7fa337afffed5474e3754288c7bcd1ca65eeae5ff34b740d08505f7d8e6e"
+  },
+  {
+    "path": "runs/20260917_1706_structure_mouse_bridge/results/tables/candidate_residue_features.csv",
+    "sha256": "e4599d5af68cdba0533fee6c1bd697358ece35cc389e073c98cafcf7f60ce3db"
+  },
+  {
+    "path": "data/raw/strict3/receptors/alpha1_beta3_gamma2.pdbqt",
+    "sha256": "b88f2d19c56ab8fafe651e82526d9b21fe989ad9b3d93d18aa156f0b68f59be8"
+  },
+  {
+    "path": "data/raw/strict3/receptors/alpha2_beta3_gamma2_local_9CTJ.pdbqt",
+    "sha256": "f8001b40199a2dab3d6d2e4f3ed51b6c418bb6be8fbb4a5666d9bddbf79fc8d5"
+  }
+]

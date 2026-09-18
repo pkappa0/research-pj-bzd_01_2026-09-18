@@ -1,0 +1,21 @@
+{
+  "status": "BLOCKED_BEFORE_NEW_DOCKING",
+  "parent_commit": "dce284b5cbd3adb271a4ee38f7c0f56390be51a8",
+  "created_at": "2026-09-19T07:09:38.328934+09:00",
+  "config_sha256": "d18129a5dea5d6abcddf22f2df84972d8924a90d33b2f45d85a607d3a8f3eddc",
+  "artifact_sha256": {
+    "code/ten_drug_preflight.py": "3f9d722883940f4b75096da70de1a56bf00bff5b3a3b3f975a8864239a7e16ee",
+    "code/test_ten_drug_preflight.py": "ac71325b647a4ee87d2f8ce6cb8c7533303b7fcf34fe46ca0c590e6e13f509be",
+    "config/unsupervised_analysis_config.json": "d18129a5dea5d6abcddf22f2df84972d8924a90d33b2f45d85a607d3a8f3eddc",
+    "logs/PLIP/execution_status.json": "751ffb3cde8a4edd85d1b4a16d8a9dad7fa86d721943ccca15f76b0566e57533",
+    "logs/docking/execution_status.json": "751ffb3cde8a4edd85d1b4a16d8a9dad7fa86d721943ccca15f76b0566e57533",
+    "logs/provenance/ANALYSIS_CONTRACT.md": "5735c6ad2067f4110cf81046429e32fae6f24e8731b7caa4f9313fd0a82520b0",
+    "logs/provenance/source_inventory.json": "506333d6e0186dd83133df298d69b5cd87dd9e41859d772b3912cd1413f61e7c",
+    "logs/tests/tests.xml": "2427deacf2f99aeee87fdf605b565fc23f8e8eb74da0a1ff3cf3c0ebc8c9aa7c",
+    "reports/FINAL_REPORT.md": "0e37d5e096c07c3b7c3f91da1d94dd2f9c126f87f36c0437c038365cd620f429",
+    "reports/QC_REPORT.json": "bb5f23d1788ccb864f0a0c883b5dd1ee695ae0e25a266ee0ef8a756ec565c41e",
+    "tables/compound_structure_registry.csv": "a77904004e0a2de76da77b29d60f4d6f938913a70b3cdb1340723916d01587b5",
+    "tables/legacy_four_drug_frequency_qc.csv": "19aa38694aa0ee9c5588caee6c096dd3230cca31250b7988229f26d6920c87fe",
+    "tables/protocol_audit.csv": "bd30f7445f58db8e47191b87d6572928f2c50bd543e820a63d0085f78ecf8902"
+  }
+}

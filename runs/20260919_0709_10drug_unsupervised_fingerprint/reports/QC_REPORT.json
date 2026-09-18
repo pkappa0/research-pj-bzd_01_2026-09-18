@@ -1,0 +1,18 @@
+{
+  "status": "BLOCKED_BEFORE_NEW_DOCKING",
+  "gate_passed": false,
+  "legacy_frequency_rows_checked": 100,
+  "legacy_frequency_match": true,
+  "legacy_pose_rows": 72,
+  "new_docking_jobs_executed": 0,
+  "structural_clustering_executed": false,
+  "pca_executed": false,
+  "external_annotations_loaded": false,
+  "config_frozen_before_analysis": true,
+  "compound_structures_available": 10,
+  "ten_drug_matrix_available": false,
+  "missing_values_imputed": false,
+  "tests_passed": 129,
+  "tests_failed": 0,
+  "existing_files_unchanged": 759
+}

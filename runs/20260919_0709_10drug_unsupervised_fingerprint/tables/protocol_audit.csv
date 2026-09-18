@@ -1,0 +1,17 @@
+item,status,finding,evidence
+receptor structure,documented,6HUP alpha1 full pentamer; 9CTJ provisional alpha2 local,src/strict_poc.py:prepare_receptors
+receptor preparation,documented,PDB model 0 ATOM protein; remove HETATM; altloc A/blank; simplified atom types; all receptor charges zero; no pH assignment,src/strict_poc.py:prepare_receptors
+chain selection,documented,alpha1 ABCDE (interface D/C); alpha2 CDE (interface D/E),src/strict_poc.py:prepare_receptors
+binding box,documented,archived exact centers and 20 A x 20 A x 20 A sizes; native DZP / gamma2 transferred,outputs/docking_boxes.csv
+ligand preparation,documented_with_unknown_defaults,"ChEMBL SMILES; AddHs; EmbedMolecule randomSeed SHA256(drug) mod (2^31-1); MMFF maxIters500, UFF on exception; RemoveHs; rigid TORSDOF0",src/strict_poc.py:generate_ligands; src/four_drug_poc.py:generate_alprazolam_ligand
+protonation and charge,documented_limitations,"No pH/microstate enumeration; Gasteiger on no-H ligand, charge failure zero fallback; old failure incidence not logged",src/strict_poc.py:generate_ligands
+software versions,BLOCKER,Historical Vina/RDKit/PLIP/Open Babel versions not found; current Vina 1.2.7 is NOT evidence of historical version,"requirements.txt (unpinned, excludes docking dependencies); git initial snapshot"
+docking parameters,documented,exhaustiveness8; num_modes9; energy_range4; seed20260917; CPU/default min_rmsd unspecified,src/strict_poc.py:run_vina; src/four_drug_poc.py:run_alprazolam_docking
+pose selection,documented,"all returned scored MODEL poses; no score-based subset; 72 archived rows, 9 per drug/block",data/raw/lineage/docking_results_4drug.csv
+PLIP extraction,BLOCKER,CLI -x -t -q --breakcomposite --name report; vendored package/config absent; distance/angle cutoffs and Open Babel protonation defaults cannot be verified,src/strict_poc.py:run_plip; .gitignore
+raw job evidence,BLOCKER,"poses.pdbqt, per-pose PLIP report.xml and Vina logs not present; docking paths in tables refer to former environment; per-pose successful extraction cannot be independently audited",data/raw/strict3/docking and strict4/docking are gitignored
+residue mapping,documented,"receptor-specific chain+residue lookup; alpha D/D, gamma C/E; do not use chain D alone; unknown chains must remain unresolved",runs/20260917_1706_structure_mouse_bridge/results/tables/corrected_residue_mapping.csv
+common residue key,documented,"BZD_SITE_* alpha alignment and BZD_GAMMA2_* gamma alignment, block-qualified",corrected_residue_mapping.csv
+frequency,documented,unique interacting poses / valid pose count; existing archived candidates recounted without overwriting,src/structure_mouse_bridge.py:_features
+interaction types,documented_partial_thresholds,"hydrophobic_interaction, hydrogen_bond, water_bridge, salt_bridge, pi_stack, pi_cation, halogen_bond, metal_complex parser; preserve all actually observed",src/strict_poc.py:run_plip
+geometry,documented_partial_thresholds,"pi centdist A, angle degrees, offset A, P/T; raw-contact mean/median/std; P/T unique pose frequency; no-contact geometry NA; thresholds unknown",src/structure_mouse_bridge.py:_features

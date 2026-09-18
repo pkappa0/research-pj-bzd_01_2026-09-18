@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "stage": "preregistered_before_new_docking_or_clustering; execution_blocked_by_legacy_environment_audit",
+  "primary_comparison": "same receptor -> different drugs",
+  "drugs": ["diazepam", "alprazolam", "triazolam", "zolpidem", "lorazepam", "clonazepam", "midazolam", "temazepam", "zopiclone", "zaleplon"],
+  "legacy_drugs": ["diazepam", "alprazolam", "triazolam", "zolpidem"],
+  "new_drugs": ["lorazepam", "clonazepam", "midazolam", "temazepam", "zopiclone", "zaleplon"],
+  "blocks": ["alpha1", "alpha2"],
+  "compound_source": "runs/20260918_1117_chembl_acquisition/processed/compounds.csv",
+  "structural_source": "runs/20260917_1706_structure_mouse_bridge",
+  "docking": {"seed": 20260917, "exhaustiveness": 8, "num_modes": 9, "energy_range": 4, "box_source": "outputs/docking_boxes.csv", "adopt_all_returned_poses": true, "score_based_rerun": false, "pose_count_gate": "if not 9, flag and stop primary comparison; never pad or rerun based on score", "versions": null},
+  "schema": "union of observed receptor-qualified resolved common residue keys across ten drugs, using archived receptor-specific mapping; retain all observed interaction types; raw unmapped contacts retained separately; no manual residue selection",
+  "zero_policy": "only when mapping/site existence and successful extraction of all nine poses are audited",
+  "missing_policy": "NA, no zero imputation; retain mask and counts",
+  "representations": {
+    "A": "per-block residue binary any-contact over all observed interaction types (pose union); supplementary typed binary also exported",
+    "B": "per-block residue any-contact frequency: union of contacting pose IDs / valid pose count, not sum of type frequencies",
+    "C": "per-block residue x interaction type frequencies plus P/T stacking pose frequencies",
+    "D": "C plus contact-conditional raw-contact means of centroid distance, angle, offset; units and observation counts retained",
+    "E": "alpha1 B concatenated with alpha2 B in fixed order, never averaged"
+  },
+  "primary": {"representations": ["B_alpha1", "B_alpha2", "E"], "distance": "euclidean", "linkage": "average", "cluster_cut_k": 3, "pca": "center-only frequency features; SVD; no unit variance scaling; zero variance columns excluded with audit; PC signs largest absolute loading positive", "similarity": ["euclidean", "cosine"]},
+  "pairwise_missing": "use jointly observed columns, save feature count and identities; Euclidean sqrt(sum squared differences), no rescaling; cosine NA if zero norm; binary Jaccard NA if empty union",
+  "clustering_pca_missing": "within each representation use same all-ten-complete columns for all drugs; save exclusions; stop if insufficient variable dimensions; do not cluster an incomplete distance matrix",
+  "secondary": {"representations": ["A_alpha1", "A_alpha2", "C_alpha1", "C_alpha2", "D_alpha1", "D_alpha2"], "binary_distance": "1-Jaccard", "frequency_distance": "euclidean", "D_scaling": "z-score each all-ten-complete nonconstant feature; retain raw and missingness outside analysis", "linkage": "average", "fixed_sensitivity": "cosine average-linkage for B/E; alternative cuts k=2 and k=4; report all, never select by annotation", "comparison": "adjusted Rand agreement across cuts/metrics where defined; compare pairwise distance ranks; no significance claims"},
+  "reproducibility_limit": "metric/representation sensitivity is not independent docking reproducibility; one legacy seed cannot establish repeatability",
+  "heatmaps": "drug columns; C residue x interaction type rows; order by corresponding primary B/E dendrogram; no display filter used for primary computations",
+  "feature_exploration": "export all PCA loadings and cluster mean differences; top ten absolute loadings per PC and ten largest cluster contrasts by deterministic lexical tie break; flag full drug range <=2/9 as small, do not call mechanistic findings",
+  "external_annotation_gate": "write structural output hash manifest and frozen config hash before any activity/phenotype annotation load; annotation cannot alter clusters/PCA/config",
+  "annotation_policy": "keep each assay/composition/species/endpoint/unit/relation/document separately; no cross-study pooling; missing matched values NA; retain beta2/beta3 context mismatch; mouse-only verified existing evidence; class labels solely post-freeze overlay",
+  "supervised_training": false
+}
