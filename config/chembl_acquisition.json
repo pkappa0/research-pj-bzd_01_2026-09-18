@@ -1,0 +1,21 @@
+{
+  "api_base": "https://www.ebi.ac.uk/chembl/api/data/",
+  "registry": "config/compound_registry.csv",
+  "parent_run": "20260917_1926_residue_class_heatmap",
+  "target_search_terms": [
+    "aminobutyric acid receptor",
+    "GABA-A",
+    "GABA A receptor",
+    "GABA(A)",
+    "benzodiazepine"
+  ],
+  "target_ids": [
+    "CHEMBL2094121",
+    "CHEMBL2094130"
+  ],
+  "page_size": 100,
+  "batch_size": 20,
+  "timeout_seconds": 45,
+  "attempts": 3,
+  "request_delay_seconds": 0.1
+}

@@ -1,0 +1,99 @@
+target_chembl_id,pref_name,scope
+CHEMBL1962,Gamma-aminobutyric acid receptor subunit alpha-1,gabaa_related_site_unverified
+CHEMBL1920,Gamma-aminobutyric acid receptor subunit beta-2,gabaa_related_site_unverified
+CHEMBL2472,Gamma-aminobutyric acid receptor subunit alpha-4,gabaa_related_site_unverified
+CHEMBL4558,Gamma-aminobutyric acid receptor subunit beta-1,gabaa_related_site_unverified
+CHEMBL3591,Gamma-aminobutyric acid receptor subunit delta,gabaa_related_site_unverified
+CHEMBL3139,Gamma-aminobutyric acid receptor subunit alpha-1,gabaa_related_site_unverified
+CHEMBL292,Gamma-aminobutyric acid receptor subunit alpha-4,gabaa_related_site_unverified
+CHEMBL5112,Gamma-aminobutyric acid receptor subunit alpha-5,gabaa_related_site_unverified
+CHEMBL2579,Gamma-aminobutyric acid receptor subunit alpha-6,gabaa_related_site_unverified
+CHEMBL293,Gamma-aminobutyric acid receptor subunit alpha-6,gabaa_related_site_unverified
+CHEMBL296,Gamma-aminobutyric acid receptor subunit gamma-1,gabaa_related_site_unverified
+CHEMBL300,Gamma-aminobutyric acid receptor subunit alpha-5,gabaa_related_site_unverified
+CHEMBL2375,Gamma-aminobutyric acid receptor subunit rho-2,gabaa_rho_separate_review
+CHEMBL1847,Gamma-aminobutyric acid receptor subunit beta-3,gabaa_related_site_unverified
+CHEMBL2304,Gamma-aminobutyric acid receptor subunit alpha-5,gabaa_related_site_unverified
+CHEMBL3026,Gamma-aminobutyric acid receptor subunit alpha-3,gabaa_related_site_unverified
+CHEMBL328,Gamma-aminobutyric acid receptor subunit alpha-3,gabaa_related_site_unverified
+CHEMBL4956,Gamma-aminobutyric acid receptor subunit alpha-2,gabaa_related_site_unverified
+CHEMBL3561,Gamma-aminobutyric acid receptor subunit rho-1,gabaa_rho_separate_review
+CHEMBL341,Gamma-aminobutyric acid receptor subunit alpha-2,gabaa_related_site_unverified
+CHEMBL343,Gamma-aminobutyric acid receptor subunit alpha-1,gabaa_related_site_unverified
+CHEMBL3430899,Gamma-aminobutyric acid receptor subunit alpha-4/beta3/delta,gabaa_related_site_unverified
+CHEMBL3883322,Gamma-aminobutyric acid receptor subunit alpha-1/beta-2/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL3885570,Gamma-aminobutyric acid receptor subunit alpha-1/ beta-1,gabaa_related_site_unverified
+CHEMBL3885571,Gamma-aminobutyric acid receptor subunit alpha-2/beta-2,gabaa_related_site_unverified
+CHEMBL3885572,Gamma-aminobutyric acid receptor subunit alpha-3/ beta-2,gabaa_related_site_unverified
+CHEMBL3885573,Gamma-aminobutyric acid receptor subunit alpha-3/ beta-3/gamma-3,gabaa_related_site_unverified
+CHEMBL3885574,Gamma-aminobutyric acid receptor subunit alpha-3/beta-3,gabaa_related_site_unverified
+CHEMBL3885575,Gamma-aminobutyric acid receptor subunit alpha-3/beta-3/theta,gabaa_related_site_unverified
+CHEMBL3885576,Gamma-aminobutyric acid receptor subunit alpha-5/beta-2,gabaa_related_site_unverified
+CHEMBL3885577,Gamma-aminobutyric acid receptor subunit alpha-5/beta-3/gamma-3,gabaa_related_site_unverified
+CHEMBL3885578,Gamma-aminobutyric acid receptor subunit alpha-6/beta-3,gabaa_related_site_unverified
+CHEMBL4296044,Gamma-aminobutyric acid receptor subunit alpha-1/beta-2/delta,gabaa_related_site_unverified
+CHEMBL4296045,Gamma-aminobutyric acid receptor subunit beta-1/beta-2,gabaa_related_site_unverified
+CHEMBL4296046,Gamma-aminobutyric acid receptor subunit alpha-4/beta-2/delta,gabaa_related_site_unverified
+CHEMBL4296047,Gamma-aminobutyric acid receptor subunit alpha-3/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL4296048,Gamma-aminobutyric acid receptor subunit alpha-2/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL4296049,Gamma-aminobutyric acid receptor subunit alpha-4/beta-3,gabaa_related_site_unverified
+CHEMBL4296050,Gamma-aminobutyric acid receptor subunit alpha-4/beta-3/delta,gabaa_related_site_unverified
+CHEMBL4296051,Gamma-aminobutyric acid receptor subunit alpha-4/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL4296052,Gamma-aminobutyric acid receptor subunit alpha-6/beta-3,gabaa_related_site_unverified
+CHEMBL4296053,Gamma-aminobutyric acid receptor subunit alpha-6/beta-3/delta,gabaa_related_site_unverified
+CHEMBL4296054,Gamma-aminobutyric acid receptor subunit alpha-6/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL4296055,Gamma-aminobutyric acid receptor subunit alpha-6/beta-2,gabaa_related_site_unverified
+CHEMBL4296056,Gamma-aminobutyric acid receptor subunit alpha-6/beta-2/delta,gabaa_related_site_unverified
+CHEMBL4296057,Gamma-aminobutyric acid receptor subunit alpha-5/beta-3,gabaa_related_site_unverified
+CHEMBL4296058,Gamma-aminobutyric acid receptor subunit alpha-1/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL4296059,Gamma-aminobutyric acid receptor subunit alpha-1/beta-2/gamma-2,gabaa_related_site_unverified
+CHEMBL4296060,Gamma-aminobutyric acid receptor subunit alpha-1/beta-3,gabaa_related_site_unverified
+CHEMBL4296061,Gamma-aminobutyric acid receptor subunit alpha-1/beta-3/delta,gabaa_related_site_unverified
+CHEMBL4296062,Gamma-aminobutyric acid receptor subunit alpha-1/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL4296063,Gamma-aminobutyric acid receptor subunit alpha-1/beta-2,gabaa_related_site_unverified
+CHEMBL4296064,Gamma-aminobutyric acid receptor subunit alpha-2/beta-3,gabaa_related_site_unverified
+CHEMBL4523638,Gamma-aminobutyric acid receptor subunit alpha-1/gamma-2,gabaa_related_site_unverified
+CHEMBL4523639,Gamma-aminobutyric acid receptor subunit alpha-4/beta-1/delta,gabaa_related_site_unverified
+CHEMBL4523640,Gamma-aminobutyric acid receptor subunit alpha-4/beta-2/gamma-2,gabaa_related_site_unverified
+CHEMBL4523641,Gamma-aminobutyric acid receptor subunit alpha-5/beta-2/gamma-2,gabaa_related_site_unverified
+CHEMBL4879423,Gamma-aminobutyric acid receptor-associated protein,excluded_non_gabaa
+CHEMBL4879445,Gamma-aminobutyric acid receptor-associated protein-like 2,excluded_non_gabaa
+CHEMBL4879515,Gamma-aminobutyric acid receptor-associated protein-like 1,excluded_non_gabaa
+CHEMBL5291947,Gamma-aminobutyric acid receptor subunit alpha-1/alpha-6/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL5291948,Gamma-aminobutyric acid receptor subunit alpha-6/beta-3/alpha-1,gabaa_related_site_unverified
+CHEMBL5291949,Gamma-aminobutyric acid receptor subunit alpha-2/beta-1/gamma-2,gabaa_related_site_unverified
+CHEMBL5291950,Gamma-aminobutyric acid receptor subunit gamma-2/beta-3,gabaa_related_site_unverified
+CHEMBL5303741,Gamma-aminobutyric acid receptor subunit alpha-1/alpha-2/beta-2/gamma-2,gabaa_related_site_unverified
+CHEMBL1907597,GABA-A receptor; GABA-A site (alpha1/beta2 interface),gabaa_related_site_unverified
+CHEMBL1907607,GABA-A receptor; anion channel,gabaa_related_site_unverified
+CHEMBL2093872,GABA-A receptor; anion channel,gabaa_related_site_unverified
+CHEMBL2094107,GABA-A receptor; anion channel,gabaa_related_site_unverified
+CHEMBL2094120,GABA-A receptor; alpha-3/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL2094121,GABA-A receptor; alpha-1/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL2094122,GABA-A receptor; alpha-5/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL2094130,GABA-A receptor; alpha-2/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL2094133,GABA-A receptor; anion channel,gabaa_related_site_unverified
+CHEMBL2095167,GABA-A receptor; alpha-1/beta-2/gamma-2,gabaa_related_site_unverified
+CHEMBL2095172,GABA-A receptor; alpha-1/beta-2/gamma-2,gabaa_related_site_unverified
+CHEMBL2095190,GABA-A receptor; alpha-6/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL2109243,GABA-A receptor; benzodiazepine site,gabaa_related_site_unverified
+CHEMBL2109244,GABA-A receptor; agonist GABA site,gabaa_related_site_unverified
+CHEMBL2364024,GABA-A receptor,gabaa_related_site_unverified
+CHEMBL2364025,GABA-A receptor,gabaa_related_site_unverified
+CHEMBL2364676,Nematode GABA-A receptor,gabaa_related_site_unverified
+CHEMBL4106151,GABA-A receptor alpha-1/beta-3,gabaa_related_site_unverified
+CHEMBL4106157,GABA-A receptor alpha-4/beta-3/delta,gabaa_related_site_unverified
+CHEMBL4680049,GABA-A receptor alpha-1/beta-1,gabaa_related_site_unverified
+CHEMBL5303569,GABA-A receptor; anion channel,gabaa_related_site_unverified
+CHEMBL2111413,GABA A receptor alpha-2/beta-2/gamma-2,gabaa_related_site_unverified
+CHEMBL2111327,GABA A receptor alpha-2/beta-2/gamma-2,gabaa_related_site_unverified
+CHEMBL2111339,GABA A receptor alpha-3/beta-2/gamma-2,gabaa_related_site_unverified
+CHEMBL2111343,GABA A receptor alpha-3/beta-2/gamma-2,gabaa_related_site_unverified
+CHEMBL2111370,GABA A receptor alpha-6/beta-2/gamma-2,gabaa_related_site_unverified
+CHEMBL2111374,GABA A receptor alpha-5/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL2111392,GABA A receptor alpha-1/beta-1/gamma-2,gabaa_related_site_unverified
+CHEMBL2111365,GABA A receptor alpha-6/beta-2/gamma-2,gabaa_related_site_unverified
+CHEMBL2111366,GABA A receptor alpha-4/beta-3/gamma-2,gabaa_related_site_unverified
+CHEMBL5139,Peripheral-type benzodiazepine receptor,excluded_non_gabaa
+CHEMBL2096683,Benzodiazepine receptors; peripheral & central,benzodiazepine_mixed_central_peripheral_review
+CHEMBL5169104,Peripheral-type benzodiazepine receptor-associated protein 1,excluded_non_gabaa

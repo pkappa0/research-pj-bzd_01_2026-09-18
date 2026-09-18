@@ -1,0 +1,12 @@
+flag,rows
+assay_target_subunit_conflict_review,5
+assay_target_subunit_text_discrepancy_review,18
+censored_or_nonexact_relation,45
+missing_standard_relation,5
+missing_standard_units,41
+missing_standard_value,6
+no_structured_assay_parameters,434
+not_specific_protein_complex,216
+source_data_validity_comment,5
+source_potential_duplicate,97
+target_subunits_unspecified,146

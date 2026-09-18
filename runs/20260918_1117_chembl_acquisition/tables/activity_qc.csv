@@ -1,0 +1,435 @@
+activity_id,qc_flags,molecule_chembl_id,source_request_id,source_json_pointer
+90762,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/0
+116266,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/1
+119027,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/2
+139849,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/3
+177698,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/4
+177699,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/5
+215667,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/6
+215668,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/7
+215671,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/8
+217244,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/9
+234637,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/10
+234638,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/11
+234639,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/12
+286330,"[""source_data_validity_comment"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/13
+320285,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/14
+320290,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/15
+351488,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/16
+351489,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/17
+351492,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/18
+351493,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/19
+357786,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/20
+372154,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/21
+389956,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/22
+389957,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/23
+389958,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/24
+389959,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/25
+389960,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/26
+389961,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/27
+422598,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/28
+434675,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/29
+434676,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/30
+441406,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/31
+442386,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/32
+442387,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/33
+442388,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/34
+442389,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/35
+454337,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/36
+454338,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/37
+457807,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/38
+466921,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/39
+466922,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/40
+485896,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/41
+485897,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/42
+501148,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/43
+505655,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/44
+505656,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/45
+507139,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/46
+507140,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/47
+507141,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/48
+534900,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/49
+548914,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/50
+548915,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/51
+548924,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/52
+551295,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/53
+582658,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/54
+582659,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/55
+599580,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/56
+599581,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/57
+599582,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/58
+599583,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/59
+599584,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/60
+604850,"[""source_potential_duplicate"", ""assay_target_subunit_text_discrepancy_review"", ""assay_target_subunit_conflict_review"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/61
+604851,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/62
+604852,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/63
+604853,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/64
+667542,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/65
+667543,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/66
+667544,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/67
+667545,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/68
+667546,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/69
+667547,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/70
+667548,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/71
+667549,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/72
+701710,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/73
+701711,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/74
+701712,"[""missing_standard_units"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/75
+706337,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/76
+706569,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/77
+708685,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/78
+709826,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/79
+709827,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/80
+718805,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/81
+755415,"[""missing_standard_value"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/82
+755416,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/83
+759911,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/84
+761200,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/85
+788043,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/86
+792162,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/87
+792163,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/88
+792164,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/89
+792165,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/90
+807849,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/91
+807850,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/92
+807851,"[""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/93
+863588,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/94
+863591,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/95
+863592,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/96
+866191,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/97
+870546,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/98
+870547,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00010,/activities/99
+874022,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/0
+874023,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/1
+874027,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/2
+874030,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/3
+874031,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/4
+874034,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/5
+874035,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/6
+904042,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/7
+904043,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/8
+922098,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/9
+922778,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/10
+927815,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/11
+930272,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/12
+936624,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/13
+936625,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/14
+968598,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/15
+988889,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/16
+988890,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/17
+992373,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/18
+997961,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/19
+997962,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/20
+998107,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/21
+1001855,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/22
+1001856,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/23
+1004279,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/24
+1020226,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/25
+1039765,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/26
+1039766,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/27
+1106447,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/28
+1106448,"[""missing_standard_value"", ""missing_standard_units"", ""missing_standard_relation"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/29
+1145117,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/30
+1145122,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/31
+1145123,"[""missing_standard_units"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/32
+1145124,"[""missing_standard_units"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/33
+1161034,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/34
+1161711,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/35
+1161712,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/36
+1161713,"[""missing_standard_units"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/37
+1176073,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/38
+1176074,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/39
+1279107,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/40
+1296375,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/41
+1296376,"[""missing_standard_value"", ""missing_standard_relation"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/42
+1302881,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/43
+1412501,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/44
+1412502,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/45
+1412503,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/46
+1412504,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/47
+1412505,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/48
+1412506,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/49
+1412598,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/50
+1412599,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/51
+1505239,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/52
+1611107,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/53
+1667045,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/54
+1667046,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/55
+1667047,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/56
+1667048,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/57
+1667049,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/58
+1667050,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/59
+1667051,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/60
+1679889,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/61
+1679890,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/62
+1679913,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/63
+1681580,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/64
+1689389,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/65
+1700854,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/66
+1701383,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/67
+1825792,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/68
+1844027,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/69
+1844028,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/70
+1844029,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/71
+1844030,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/72
+1844031,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/73
+1844032,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/74
+1876208,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/75
+1876214,"[""assay_target_subunit_text_discrepancy_review"", ""assay_target_subunit_conflict_review"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/76
+2278236,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/77
+2278237,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/78
+2278239,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/79
+2461331,"[""not_specific_protein_complex"", ""assay_target_subunit_text_discrepancy_review"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/80
+2633954,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/81
+2633999,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/82
+5118861,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/83
+5118869,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/84
+5118875,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/85
+5118876,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/86
+5118878,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/87
+5118880,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/88
+5118919,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/89
+5118923,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/90
+12662656,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/91
+15133382,"[""missing_standard_value"", ""missing_standard_units"", ""missing_standard_relation"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/92
+19039236,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/93
+19259362,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/94
+22823128,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/95
+22823144,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/96
+24758855,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/97
+24843214,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/98
+24843256,"[""no_structured_assay_parameters""]",CHEMBL12,request_00011,/activities/99
+24851231,"[""missing_standard_value"", ""missing_standard_units"", ""missing_standard_relation"", ""no_structured_assay_parameters""]",CHEMBL12,request_00012,/activities/0
+25013383,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00012,/activities/1
+29082441,"[""no_structured_assay_parameters""]",CHEMBL12,request_00012,/activities/2
+29082452,"[""no_structured_assay_parameters""]",CHEMBL12,request_00012,/activities/3
+29089169,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL12,request_00012,/activities/4
+29089227,"[""no_structured_assay_parameters""]",CHEMBL12,request_00012,/activities/5
+29089238,"[""no_structured_assay_parameters""]",CHEMBL12,request_00012,/activities/6
+29089249,"[""no_structured_assay_parameters""]",CHEMBL12,request_00012,/activities/7
+29089260,"[""no_structured_assay_parameters""]",CHEMBL12,request_00012,/activities/8
+320286,"[""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/0
+320289,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/1
+320292,"[""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/2
+320293,"[""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/3
+320294,"[""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/4
+320295,"[""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/5
+351494,"[""censored_or_nonexact_relation"", ""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/6
+694101,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/7
+701714,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/8
+792166,"[""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/9
+792167,"[""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/10
+807853,"[""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/11
+1039770,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/12
+1161714,"[""missing_standard_units"", ""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/13
+1701379,"[""assay_target_subunit_text_discrepancy_review"", ""assay_target_subunit_conflict_review"", ""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/14
+1876211,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/15
+2278238,"[""not_specific_protein_complex"", ""assay_target_subunit_text_discrepancy_review"", ""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/16
+2633991,"[""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/17
+17966225,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/18
+19259408,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/19
+24843235,"[""no_structured_assay_parameters""]",CHEMBL12,request_00013,/activities/20
+1279110,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL12,request_00014,/activities/0
+1279111,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL12,request_00014,/activities/1
+2633973,"[""not_specific_protein_complex"", ""assay_target_subunit_text_discrepancy_review"", ""no_structured_assay_parameters""]",CHEMBL12,request_00014,/activities/2
+2634003,"[""not_specific_protein_complex"", ""assay_target_subunit_text_discrepancy_review"", ""no_structured_assay_parameters""]",CHEMBL12,request_00014,/activities/3
+17966217,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL12,request_00014,/activities/4
+17966220,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL12,request_00014,/activities/5
+17966222,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL12,request_00014,/activities/6
+25128225,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL12,request_00014,/activities/7
+25130809,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL12,request_00014,/activities/8
+25076504,"[""no_structured_assay_parameters""]",CHEMBL12,request_00015,/activities/0
+25076507,"[""no_structured_assay_parameters""]",CHEMBL12,request_00015,/activities/1
+25076511,"[""source_data_validity_comment"", ""no_structured_assay_parameters""]",CHEMBL12,request_00015,/activities/2
+25076512,"[""no_structured_assay_parameters""]",CHEMBL12,request_00015,/activities/3
+25076513,"[""no_structured_assay_parameters""]",CHEMBL12,request_00015,/activities/4
+25076515,"[""no_structured_assay_parameters""]",CHEMBL12,request_00015,/activities/5
+25076516,"[""no_structured_assay_parameters""]",CHEMBL12,request_00015,/activities/6
+25076517,"[""no_structured_assay_parameters""]",CHEMBL12,request_00015,/activities/7
+25076521,"[""no_structured_assay_parameters""]",CHEMBL12,request_00015,/activities/8
+25076523,"[""no_structured_assay_parameters""]",CHEMBL12,request_00015,/activities/9
+25076524,"[""no_structured_assay_parameters""]",CHEMBL12,request_00015,/activities/10
+25076526,"[""no_structured_assay_parameters""]",CHEMBL12,request_00015,/activities/11
+25076527,"[""no_structured_assay_parameters""]",CHEMBL12,request_00015,/activities/12
+2461352,"[""not_specific_protein_complex"", ""assay_target_subunit_text_discrepancy_review"", ""no_structured_assay_parameters""]",CHEMBL12,request_00016,/activities/0
+19259380,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL12,request_00016,/activities/1
+19259426,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL12,request_00016,/activities/2
+24843277,"[""no_structured_assay_parameters""]",CHEMBL12,request_00016,/activities/3
+25076505,"[""source_data_validity_comment"", ""no_structured_assay_parameters""]",CHEMBL12,request_00016,/activities/4
+25076506,"[""no_structured_assay_parameters""]",CHEMBL12,request_00016,/activities/5
+25076514,"[""no_structured_assay_parameters""]",CHEMBL12,request_00016,/activities/6
+25076518,"[""no_structured_assay_parameters""]",CHEMBL12,request_00016,/activities/7
+25076519,"[""no_structured_assay_parameters""]",CHEMBL12,request_00016,/activities/8
+25076522,"[""no_structured_assay_parameters""]",CHEMBL12,request_00016,/activities/9
+25076525,"[""no_structured_assay_parameters""]",CHEMBL12,request_00016,/activities/10
+25128178,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL580,request_00020,/activities/0
+25130756,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL580,request_00020,/activities/1
+141810,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL452,request_00024,/activities/0
+141811,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL452,request_00024,/activities/1
+275567,"[""source_data_validity_comment"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL452,request_00024,/activities/2
+878696,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL452,request_00024,/activities/3
+878697,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL452,request_00024,/activities/4
+878698,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL452,request_00024,/activities/5
+942060,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL452,request_00024,/activities/6
+942061,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL452,request_00024,/activities/7
+960283,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL452,request_00024,/activities/8
+960284,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL452,request_00024,/activities/9
+960285,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL452,request_00024,/activities/10
+995663,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL452,request_00024,/activities/11
+1016962,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL452,request_00024,/activities/12
+1505241,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL452,request_00024,/activities/13
+25128433,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL452,request_00026,/activities/0
+25131041,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL452,request_00026,/activities/1
+350409,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL661,request_00030,/activities/0
+350410,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL661,request_00030,/activities/1
+350411,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL661,request_00030,/activities/2
+679541,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL661,request_00030,/activities/3
+24843226,"[""no_structured_assay_parameters""]",CHEMBL661,request_00030,/activities/4
+24843268,"[""no_structured_assay_parameters""]",CHEMBL661,request_00030,/activities/5
+350414,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL661,request_00031,/activities/0
+350415,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL661,request_00031,/activities/1
+24843247,"[""no_structured_assay_parameters""]",CHEMBL661,request_00031,/activities/2
+25128552,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL661,request_00032,/activities/0
+25131170,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL661,request_00032,/activities/1
+350412,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL661,request_00034,/activities/0
+350413,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL661,request_00034,/activities/1
+350416,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL661,request_00034,/activities/2
+350417,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL661,request_00034,/activities/3
+24843289,"[""no_structured_assay_parameters""]",CHEMBL661,request_00034,/activities/4
+520131,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL655,request_00036,/activities/0
+25128550,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL655,request_00038,/activities/0
+25131168,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL655,request_00038,/activities/1
+292495,"[""source_data_validity_comment"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL967,request_00042,/activities/0
+25128227,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL967,request_00044,/activities/0
+25130811,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL967,request_00044,/activities/1
+599586,"[""no_structured_assay_parameters""]",CHEMBL646,request_00048,/activities/0
+599587,"[""no_structured_assay_parameters""]",CHEMBL646,request_00048,/activities/1
+599588,"[""no_structured_assay_parameters""]",CHEMBL646,request_00048,/activities/2
+599589,"[""no_structured_assay_parameters""]",CHEMBL646,request_00048,/activities/3
+599590,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL646,request_00048,/activities/4
+684273,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL646,request_00048,/activities/5
+684274,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL646,request_00048,/activities/6
+684275,"[""missing_standard_units"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL646,request_00048,/activities/7
+2461330,"[""not_specific_protein_complex"", ""assay_target_subunit_text_discrepancy_review"", ""no_structured_assay_parameters""]",CHEMBL646,request_00048,/activities/8
+25128553,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL646,request_00050,/activities/0
+25131171,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL646,request_00050,/activities/1
+2461351,"[""not_specific_protein_complex"", ""assay_target_subunit_text_discrepancy_review"", ""no_structured_assay_parameters""]",CHEMBL646,request_00052,/activities/0
+331765,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/0
+331770,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/1
+346463,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/2
+346464,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/3
+346465,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/4
+574081,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/5
+574082,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/6
+574083,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/7
+574084,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/8
+595754,"[""source_potential_duplicate"", ""assay_target_subunit_text_discrepancy_review"", ""assay_target_subunit_conflict_review"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/9
+595755,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/10
+595756,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/11
+595757,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/12
+618407,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/13
+618408,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/14
+618409,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/15
+618410,"[""censored_or_nonexact_relation"", ""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/16
+618411,"[""censored_or_nonexact_relation"", ""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/17
+662349,"[""censored_or_nonexact_relation"", ""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/18
+662350,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/19
+662351,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/20
+662352,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/21
+662353,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/22
+662354,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/23
+662355,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/24
+793338,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/25
+810275,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/26
+810276,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/27
+886261,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/28
+886262,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/29
+886263,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/30
+886264,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/31
+886265,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/32
+908901,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/33
+1038572,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/34
+1106753,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/35
+1412600,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/36
+1412601,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/37
+1412602,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/38
+1412603,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/39
+1505242,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/40
+1505243,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/41
+1700832,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/42
+1700838,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/43
+1701382,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/44
+1825758,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/45
+1825760,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/46
+1844041,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/47
+1844050,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/48
+1844059,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/49
+1844068,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/50
+1844073,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/51
+1844078,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/52
+2185137,"[""source_potential_duplicate"", ""not_specific_protein_complex"", ""assay_target_subunit_text_discrepancy_review"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/53
+2185138,"[""not_specific_protein_complex"", ""assay_target_subunit_text_discrepancy_review"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/54
+2401379,"[""not_specific_protein_complex"", ""assay_target_subunit_text_discrepancy_review"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/55
+2401381,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/56
+2633955,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/57
+3519533,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/58
+3519534,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/59
+3519535,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/60
+3519536,"[""censored_or_nonexact_relation"", ""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/61
+3519537,"[""censored_or_nonexact_relation"", ""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/62
+15133383,"[""missing_standard_value"", ""missing_standard_units"", ""missing_standard_relation"", ""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/63
+16823503,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/64
+16823507,"[""missing_standard_units"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/65
+19306676,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/66
+25013385,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/67
+29089182,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/68
+29089261,"[""no_structured_assay_parameters""]",CHEMBL911,request_00054,/activities/69
+331766,"[""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/0
+331769,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/1
+331772,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/2
+331773,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/3
+331774,"[""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/4
+331775,"[""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/5
+346468,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/6
+346469,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/7
+793340,"[""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/8
+810277,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/9
+810278,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/10
+908902,"[""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/11
+908903,"[""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/12
+1106755,"[""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/13
+1106756,"[""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/14
+1505244,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/15
+1700850,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/16
+1701378,"[""assay_target_subunit_text_discrepancy_review"", ""assay_target_subunit_conflict_review"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/17
+1825759,"[""source_potential_duplicate"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/18
+2401380,"[""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/19
+2401382,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""assay_target_subunit_text_discrepancy_review"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/20
+2401384,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/21
+2633992,"[""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/22
+17966226,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/23
+19306677,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/24
+29089264,"[""no_structured_assay_parameters""]",CHEMBL911,request_00055,/activities/25
+2633974,"[""not_specific_protein_complex"", ""assay_target_subunit_text_discrepancy_review"", ""no_structured_assay_parameters""]",CHEMBL911,request_00056,/activities/0
+17966218,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00056,/activities/1
+17966221,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00056,/activities/2
+17966223,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00056,/activities/3
+25128411,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00056,/activities/4
+25131017,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00056,/activities/5
+29089263,"[""no_structured_assay_parameters""]",CHEMBL911,request_00057,/activities/0
+346466,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00058,/activities/0
+346467,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00058,/activities/1
+346470,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00058,/activities/2
+346471,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00058,/activities/3
+2401383,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""assay_target_subunit_text_discrepancy_review"", ""no_structured_assay_parameters""]",CHEMBL911,request_00058,/activities/4
+25013387,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL911,request_00058,/activities/5
+994803,"[""not_specific_protein_complex"", ""target_subunits_unspecified"", ""no_structured_assay_parameters""]",CHEMBL135400,request_00060,/activities/0
+16774819,"[""no_structured_assay_parameters""]",CHEMBL135400,request_00062,/activities/0
+25128071,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL135400,request_00062,/activities/1
+25130641,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL135400,request_00062,/activities/2
+12662653,"[""no_structured_assay_parameters""]",CHEMBL1521,request_00066,/activities/0
+12662654,"[""no_structured_assay_parameters""]",CHEMBL1521,request_00066,/activities/1
+12662683,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL1521,request_00066,/activities/2
+12662684,"[""censored_or_nonexact_relation"", ""no_structured_assay_parameters""]",CHEMBL1521,request_00068,/activities/0
+25128316,"[""censored_or_nonexact_relation"", ""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL1521,request_00068,/activities/1
+25130910,"[""not_specific_protein_complex"", ""no_structured_assay_parameters""]",CHEMBL1521,request_00068,/activities/2

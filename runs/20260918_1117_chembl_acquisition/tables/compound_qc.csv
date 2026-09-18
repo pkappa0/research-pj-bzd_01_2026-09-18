@@ -1,0 +1,11 @@
+drug_id,molecule_chembl_id,identity_status,missing_smiles,missing_inchikey,multicomponent_smiles,different_parent_id,chirality_as_reported,activity_rows,ifp_available
+diazepam,CHEMBL12,id_and_inchikey_verified,False,False,False,False,2,263,True
+lorazepam,CHEMBL580,id_and_inchikey_verified,False,False,False,False,0,2,False
+clonazepam,CHEMBL452,id_and_inchikey_verified,False,False,False,False,2,16,False
+alprazolam,CHEMBL661,id_and_inchikey_verified,False,False,False,False,2,16,True
+midazolam,CHEMBL655,id_and_inchikey_verified,False,False,False,False,2,3,False
+temazepam,CHEMBL967,id_and_inchikey_verified,False,False,False,False,0,3,False
+triazolam,CHEMBL646,id_and_inchikey_verified,False,False,False,False,2,12,True
+zolpidem,CHEMBL911,id_and_inchikey_verified,False,False,False,False,2,109,True
+zopiclone,CHEMBL135400,id_and_inchikey_verified,False,False,False,False,0,4,False
+zaleplon,CHEMBL1521,id_and_inchikey_verified,False,False,False,False,2,6,False

@@ -84,7 +84,7 @@ python fetch_chembl.py --config config/poc.yaml
 - `data/processed/pharmacology.csv`: 解析用processed activity表
 - `results/tables/chembl_qc.csv`: missing、未解決名、候補数、activity件数
 
-現在の作業フォルダには `data/raw/drug_list.csv` がないため、今回の実行ではAPI接続とtarget候補・ChEMBL versionの取得だけを行い、薬剤activity行は生成していません。薬剤リストを配置した後に同じコマンドを再実行してください。
+上記は旧取得処理の説明です。現在は `data/raw/drug_list.csv` と10剤・434行の取得済みデータがあります。新規取得には以下の「ID固定・provenance付き取得」を使ってください。旧コマンドはlegacy出力を上書きするため、今回の拡張では実行していません。
 
 ## Strict 3-drug mechanistic PoC
 
@@ -184,3 +184,22 @@ fallback CSVでは少なくとも `drug_id`、`input_drug_name`、`target_name` 
 GtoPdb ligandはdrug nameだけで確定せず、既存ChEMBLのcanonical SMILESまたはInChIKeyと照合できた候補だけを自動採用します。nameだけ一致する候補、複数候補、chemical identifierがない候補はQCへ出します。
 
 生成物は `data/raw/gtopdb/api/` の原JSON、`data/raw/gtopdb/gtopdb_interactions_raw.csv`、`data/processed/gtopdb_interactions_raw.csv`、`data/processed/gtopdb_interactions_normalized.csv`、`data/processed/pharmacology_master_raw.csv`、`results/tables/gtopdb_ligand_match_qc.csv`、`gtopdb_drug_target_counts.csv`、`gtopdb_alpha1_alpha2_presence.csv`、`gtopdb_receptor_composition.csv`、`gtopdb_comparable_metrics.csv`、`pharmacology_comparable_metrics.csv`、`pharmacology_duplicate_qc.csv`、`pharmacology_tier_summary.csv`、`outputs/GTOPDB_FETCH_REPORT.md`、`outputs/PHARMACOLOGY_INTEGRATION_REPORT.md`です。ChEMBLとGtoPdbのduplicate候補は削除せず、PMID/DOIを第一優先にフラグ付けします。
+
+## ID固定・provenance付き取得（2026-09-18追加）
+
+既存IFPは4剤、既存の化合物registryは10剤です。新しい取得処理はChEMBL IDを必須とし、登録済みfull InChIKeyを照合します。各実行を新規runへ保存し、過去のraw/processed・fingerprint・phenotypeを上書きしません。
+
+```bash
+python3 -m src.acquire_chembl
+python3 -m src.acquire_chembl --replay-run runs/<run_id>
+python3 -m src.acquire_chembl --verify-run runs/<run_id>
+MPLBACKEND=Agg python3 -m pytest -q
+```
+
+- [既存解析レビュー・化合物一覧](docs/REPOSITORY_REVIEW.md)
+- [取得手順・データ契約・QC・provenance](docs/DATA_ACQUISITION.md)
+- [明示ID registry](config/compound_registry.csv) / [取得設定](config/chembl_acquisition.json)
+
+元API応答はrun内の `raw/`、加工表は `processed/`、QCは `tables/` に分離します。assay条件・target component・activity type・unit・relation・文献情報を保持し、名前一致による化合物統合、欠損補完、活性の平均化は行いません。取得完了はML readinessやBZD-siteへの特異性を意味しません。
+
+今回の実取得・QC結果は [ACQUISITION_REPORT](docs/ACQUISITION_REPORT.md) を参照してください。正式runは `20260918_1117_chembl_acquisition`（10剤・434活性・335 assay・116文献）です。
