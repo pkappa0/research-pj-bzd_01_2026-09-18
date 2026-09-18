@@ -1,0 +1,18 @@
+# Python caches and local tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# Vendored/temporary runtimes and PLIP working directories
+work/
+data/raw/strict3/docking/
+data/raw/strict4/docking/
+
+# Local credentials and editor metadata
+.env
+.venv/
+.idea/
+.vscode/
+
+# Keep run manifests, tables, reports and figures under version control.

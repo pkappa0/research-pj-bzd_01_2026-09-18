@@ -1,0 +1,11 @@
+drug_id,common_metric_count,common_metrics,comparable_same_metric_unit
+diazepam,3,Activity | % ; Efficacy | % ; Ki | nM,True
+lorazepam,0,,False
+clonazepam,0,,False
+alprazolam,0,,False
+midazolam,0,,False
+temazepam,0,,False
+triazolam,1,Ki | nM,True
+zolpidem,2,Efficacy | % ; Ki | nM,True
+zopiclone,0,,False
+zaleplon,0,,False

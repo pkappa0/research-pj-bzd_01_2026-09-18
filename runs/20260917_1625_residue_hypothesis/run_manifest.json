@@ -1,0 +1,65 @@
+{
+  "run_id": "20260917_1625_residue_hypothesis",
+  "started_at": "2026-09-17T16:25:04+09:00",
+  "completed_at": "2026-09-17T16:25:25+09:00",
+  "analysis_phase": "BZD interface residue hypothesis validation",
+  "analysis_purpose": "Recover chain-mapped BZD-interface interactions and compare residue-level drug profiles within each receptor.",
+  "parent_run": "20260917_1604_multireceptor_feature",
+  "drugs": [
+    "diazepam",
+    "alprazolam",
+    "triazolam",
+    "zolpidem"
+  ],
+  "receptors": {
+    "alpha1": "alpha1_beta3_gamma2",
+    "alpha2": "alpha2_beta3_gamma2_local_9CTJ"
+  },
+  "docking_parameters": {
+    "docking_executed": false,
+    "source": "20260917_1604_multireceptor_feature",
+    "pose_counts": "copied existing docking results"
+  },
+  "input_files": [
+    "data/raw/structures/strict3/6HUP.pdb",
+    "data/raw/structures/strict3/9CTJ.pdb",
+    "raw/docking_results_4drug.csv",
+    "raw/plip_interactions_4drug.csv",
+    "raw/residue_mapping.csv",
+    "raw/structures/strict3/6HUP.pdb",
+    "raw/structures/strict3/9CTJ.pdb",
+    "runs/20260917_1604_multireceptor_feature/raw/docking_results_4drug.csv",
+    "runs/20260917_1604_multireceptor_feature/raw/plip_interactions_4drug.csv",
+    "runs/20260917_1604_multireceptor_feature/raw/residue_mapping.csv"
+  ],
+  "output_files": [
+    "raw/docking_results_4drug.csv",
+    "raw/plip_interactions_4drug.csv",
+    "raw/residue_mapping.csv",
+    "raw/structures/strict3/6HUP.pdb",
+    "raw/structures/strict3/9CTJ.pdb",
+    "tables/aromatic_interaction_summary.csv",
+    "tables/corrected_residue_mapping.csv",
+    "tables/recovered_interactions_qc.csv",
+    "tables/residue_interaction_features_alpha1.csv",
+    "tables/residue_interaction_features_alpha2.csv",
+    "tables/residue_level_drug_comparison.csv"
+  ],
+  "git_commit": null,
+  "code_version": "workspace_code_sha256:632e5f89685ac794",
+  "notes": [
+    "Gamma2 chain C (6HUP) to chain E (9CTJ) mapping added by unique global sequence alignment.",
+    "Hydrophobic and pi_stack are retained as separate interaction features.",
+    "Alpha2 remains a provisional local construct; primary comparisons are within receptor.",
+    "Run stopped during report generation because the first implementation omitted the originally_unresolved audit column; no previous run was modified."
+  ],
+  "qc_status": "FAILED",
+  "source_run": "20260917_1604_multireceptor_feature",
+  "source_files": [
+    "runs/20260917_1604_multireceptor_feature/raw/plip_interactions_4drug.csv",
+    "runs/20260917_1604_multireceptor_feature/raw/docking_results_4drug.csv",
+    "runs/20260917_1604_multireceptor_feature/raw/residue_mapping.csv",
+    "data/raw/structures/strict3/6HUP.pdb",
+    "data/raw/structures/strict3/9CTJ.pdb"
+  ]
+}

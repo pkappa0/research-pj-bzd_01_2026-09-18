@@ -1,0 +1,187 @@
+{
+  "molecules": [
+    {
+      "atc_classifications": [
+        "N05BA56",
+        "N05BA06"
+      ],
+      "availability_type": 1,
+      "biotherapeutic": null,
+      "black_box_warning": 1,
+      "chemical_probe": 0,
+      "chirality": 0,
+      "cross_references": [
+        {
+          "xref_id": "lorazepam",
+          "xref_name": "lorazepam",
+          "xref_src": "DailyMed"
+        }
+      ],
+      "dosed_ingredient": true,
+      "first_approval": 1977,
+      "first_in_class": 0,
+      "helm_notation": null,
+      "inorganic_flag": 0,
+      "max_phase": "4.0",
+      "molecule_chembl_id": "CHEMBL580",
+      "molecule_hierarchy": {
+        "active_chembl_id": "CHEMBL580",
+        "molecule_chembl_id": "CHEMBL580",
+        "parent_chembl_id": "CHEMBL580"
+      },
+      "molecule_properties": {
+        "alogp": "3.10",
+        "aromatic_rings": 2,
+        "full_molformula": "C15H10Cl2N2O2",
+        "full_mwt": "321.16",
+        "hba": 3,
+        "hbd": 2,
+        "heavy_atoms": 21,
+        "mw_freebase": "321.16",
+        "np_likeness_score": "-0.37",
+        "num_ro5_violations": 0,
+        "psa": "61.69",
+        "qed_weighted": "0.85",
+        "ro3_pass": "N",
+        "rtb": 1
+      },
+      "molecule_structures": {
+        "canonical_smiles": "O=C1Nc2ccc(Cl)cc2C(c2ccccc2Cl)=NC1O",
+        "molfile": "\n     RDKit          2D\n\n 21 23  0  0  0  0  0  0  0  0999 V2000\n    5.5125   -4.5667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.2042   -4.4250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    4.9625   -4.1292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.5250   -2.9792    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    6.2167   -3.1417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.5167   -3.7875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.1500   -5.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.9667   -3.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.3500   -4.4667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.5042   -5.8042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.6667   -2.5875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.3542   -3.0542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.7292   -4.1042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.2292   -3.8000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    6.2167   -5.8167    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    3.7417   -3.4042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.1125   -4.4625    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    4.4500   -5.1792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.1417   -6.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0792   -5.7917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.4292   -6.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  2  0\n  3  1  1  0\n  4  8  1  0\n  5  6  1  0\n  6  2  1  0\n  7  1  1  0\n  8  3  1  0\n  9  3  2  0\n 10  7  2  0\n 11  5  2  0\n 12  8  2  0\n 13  9  1  0\n 14  6  1  0\n 15 10  1  0\n 16 13  2  0\n 17 13  1  0\n 18  7  1  0\n 19 10  1  0\n 20 18  2  0\n 21 20  1  0\n  5  4  1  0\n 21 19  2  0\n 16 12  1  0\nM  END\n> <chembl_id>\nCHEMBL580\n\n> <chembl_pref_name>\nLORAZEPAM",
+        "standard_inchi": "InChI=1S/C15H10Cl2N2O2/c16-8-5-6-12-10(7-8)13(19-15(21)14(20)18-12)9-3-1-2-4-11(9)17/h1-7,15,21H,(H,18,20)",
+        "standard_inchi_key": "DIWRORZWFLOCLC-UHFFFAOYSA-N"
+      },
+      "molecule_synonyms": [
+        {
+          "molecule_synonym": "Abbloraz",
+          "syn_type": "TRADE_NAME",
+          "synonyms": "ABBLORAZ"
+        },
+        {
+          "molecule_synonym": "Ativan",
+          "syn_type": "TRADE_NAME",
+          "synonyms": "ATIVAN"
+        },
+        {
+          "molecule_synonym": "Loraz",
+          "syn_type": "TRADE_NAME",
+          "synonyms": "LORAZ"
+        },
+        {
+          "molecule_synonym": "Lorazepam",
+          "syn_type": "ATC",
+          "synonyms": "LORAZEPAM"
+        },
+        {
+          "molecule_synonym": "Lorazepam",
+          "syn_type": "BAN",
+          "synonyms": "LORAZEPAM"
+        },
+        {
+          "molecule_synonym": "Lorazepam",
+          "syn_type": "BNF",
+          "synonyms": "LORAZEPAM"
+        },
+        {
+          "molecule_synonym": "Lorazepam",
+          "syn_type": "FDA",
+          "synonyms": "LORAZEPAM"
+        },
+        {
+          "molecule_synonym": "Lorazepam",
+          "syn_type": "INN",
+          "synonyms": "LORAZEPAM"
+        },
+        {
+          "molecule_synonym": "Lorazepam",
+          "syn_type": "JAN",
+          "synonyms": "LORAZEPAM"
+        },
+        {
+          "molecule_synonym": "Lorazepam",
+          "syn_type": "MERCK_INDEX",
+          "synonyms": "LORAZEPAM"
+        },
+        {
+          "molecule_synonym": "Lorazepam",
+          "syn_type": "OTHER",
+          "synonyms": "LORAZEPAM"
+        },
+        {
+          "molecule_synonym": "Lorazepam",
+          "syn_type": "TRADE_NAME",
+          "synonyms": "LORAZEPAM"
+        },
+        {
+          "molecule_synonym": "Lorazepam",
+          "syn_type": "USAN",
+          "synonyms": "LORAZEPAM"
+        },
+        {
+          "molecule_synonym": "Lorazepam",
+          "syn_type": "USP",
+          "synonyms": "LORAZEPAM"
+        },
+        {
+          "molecule_synonym": "Lorazepam civ",
+          "syn_type": "USP",
+          "synonyms": "LORAZEPAM CIV"
+        },
+        {
+          "molecule_synonym": "Lorazepam intensol",
+          "syn_type": "TRADE_NAME",
+          "synonyms": "LORAZEPAM INTENSOL"
+        },
+        {
+          "molecule_synonym": "Lorazepam preservative free",
+          "syn_type": "TRADE_NAME",
+          "synonyms": "LORAZEPAM PRESERVATIVE FREE"
+        },
+        {
+          "molecule_synonym": "Loreev xr",
+          "syn_type": "TRADE_NAME",
+          "synonyms": "LOREEV XR"
+        },
+        {
+          "molecule_synonym": "NSC-289758",
+          "syn_type": "RESEARCH_CODE",
+          "synonyms": "NSC-289758"
+        },
+        {
+          "molecule_synonym": "Temesta",
+          "syn_type": "TRADE_NAME",
+          "synonyms": "TEMESTA"
+        },
+        {
+          "molecule_synonym": "WY-4036",
+          "syn_type": "RESEARCH_CODE",
+          "synonyms": "WY-4036"
+        }
+      ],
+      "molecule_type": "Small molecule",
+      "natural_product": 1,
+      "oral": true,
+      "orphan": 0,
+      "parenteral": true,
+      "polymer_flag": 0,
+      "pref_name": "LORAZEPAM",
+      "prodrug": 0,
+      "structure_type": "MOL",
+      "therapeutic_flag": true,
+      "topical": false,
+      "usan_stem": "-azepam",
+      "usan_stem_definition": "antianxiety agents (diazepam type)",
+      "usan_substem": "-azepam",
+      "usan_year": 1969,
+      "veterinary": 0,
+      "withdrawn_flag": false
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

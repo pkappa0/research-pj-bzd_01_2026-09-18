@@ -1,0 +1,11 @@
+drug_id,input_drug_name,status,match_status,match_method,molecule_candidate_count,molecule_chembl_id,activity_count,target_candidate_count,notes
+diazepam,Diazepam,loaded,matched,exact_preferred_name,1,CHEMBL12,263,90,
+lorazepam,Lorazepam,loaded,matched,exact_preferred_name,1,CHEMBL580,2,90,
+clonazepam,Clonazepam,loaded,matched,exact_preferred_name,1,CHEMBL452,16,90,
+alprazolam,Alprazolam,loaded,matched,exact_preferred_name,1,CHEMBL661,16,90,
+midazolam,Midazolam,loaded,matched,exact_preferred_name,1,CHEMBL655,3,90,
+temazepam,Temazepam,loaded,matched,exact_preferred_name,1,CHEMBL967,3,90,
+triazolam,Triazolam,loaded,matched,exact_preferred_name,1,CHEMBL646,12,90,
+zolpidem,Zolpidem,loaded,matched,exact_preferred_name,1,CHEMBL911,109,90,
+zopiclone,Zopiclone,loaded,matched,exact_preferred_name,1,CHEMBL135400,4,90,
+zaleplon,Zaleplon,loaded,matched,exact_preferred_name,1,CHEMBL1521,6,90,

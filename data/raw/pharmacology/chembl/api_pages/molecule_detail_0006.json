@@ -1,0 +1,155 @@
+{
+  "atc_classifications": [
+    "N05CD05"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 1,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [
+    {
+      "xref_id": "triazolam",
+      "xref_name": "triazolam",
+      "xref_src": "DailyMed"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 1978,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL646",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL646",
+    "molecule_chembl_id": "CHEMBL646",
+    "parent_chembl_id": "CHEMBL646"
+  },
+  "molecule_properties": {
+    "alogp": "4.23",
+    "aromatic_rings": 3,
+    "full_molformula": "C17H12Cl2N4",
+    "full_mwt": "343.22",
+    "hba": 4,
+    "hbd": 0,
+    "heavy_atoms": 23,
+    "mw_freebase": "343.22",
+    "np_likeness_score": "-0.87",
+    "num_ro5_violations": 0,
+    "psa": "43.07",
+    "qed_weighted": "0.66",
+    "ro3_pass": "N",
+    "rtb": 1
+  },
+  "molecule_structures": {
+    "canonical_smiles": "Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2",
+    "molfile": "\n     RDKit          2D\n\n 23 26  0  0  0  0  0  0  0  0999 V2000\n    2.8917   -2.3167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3375   -3.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3375   -2.7542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8917   -3.9125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5917   -2.4792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5917   -3.7417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    3.9625   -1.8792    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4750   -1.3292    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.8417   -1.6250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5500   -4.5250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.8917   -3.1167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.7250   -2.4000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.7250   -3.8292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.9125   -5.1167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.1042   -3.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.1042   -2.7542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6167   -5.0917    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    0.4917   -3.8167    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    1.8417   -4.5250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.2375   -1.2667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5750   -5.7417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.5000   -5.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8625   -5.7542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  3  2  0\n  3  1  1  0\n  4  2  1  0\n  5  1  1  0\n  6 11  1  0\n  7  5  2  0\n  8  9  2  0\n  9  1  1  0\n 10  4  1  0\n 11  5  1  0\n 12  3  1  0\n 13  2  1  0\n 14 10  1  0\n 15 16  1  0\n 16 12  2  0\n 17 14  1  0\n 18 15  1  0\n 19 10  2  0\n 20  9  1  0\n 21 14  2  0\n 22 19  1  0\n 23 22  2  0\n  8  7  1  0\n  6  4  2  0\n 15 13  2  0\n 23 21  1  0\nM  END\n> <chembl_id>\nCHEMBL646\n\n> <chembl_pref_name>\nTRIAZOLAM",
+    "standard_inchi": "InChI=1S/C17H12Cl2N4/c1-10-21-22-16-9-20-17(12-4-2-3-5-14(12)19)13-8-11(18)6-7-15(13)23(10)16/h2-8H,9H2,1H3",
+    "standard_inchi_key": "JOFWLTCLBGQGBO-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Halcion",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "HALCION"
+    },
+    {
+      "molecule_synonym": "Kention",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "KENTION"
+    },
+    {
+      "molecule_synonym": "N05CD05",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "N05CD05"
+    },
+    {
+      "molecule_synonym": "Triazolam",
+      "syn_type": "ATC",
+      "synonyms": "TRIAZOLAM"
+    },
+    {
+      "molecule_synonym": "Triazolam",
+      "syn_type": "BAN",
+      "synonyms": "TRIAZOLAM"
+    },
+    {
+      "molecule_synonym": "Triazolam",
+      "syn_type": "BNF",
+      "synonyms": "TRIAZOLAM"
+    },
+    {
+      "molecule_synonym": "Triazolam",
+      "syn_type": "FDA",
+      "synonyms": "TRIAZOLAM"
+    },
+    {
+      "molecule_synonym": "Triazolam",
+      "syn_type": "INN",
+      "synonyms": "TRIAZOLAM"
+    },
+    {
+      "molecule_synonym": "Triazolam",
+      "syn_type": "JAN",
+      "synonyms": "TRIAZOLAM"
+    },
+    {
+      "molecule_synonym": "Triazolam",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "TRIAZOLAM"
+    },
+    {
+      "molecule_synonym": "Triazolam",
+      "syn_type": "OTHER",
+      "synonyms": "TRIAZOLAM"
+    },
+    {
+      "molecule_synonym": "Triazolam",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "TRIAZOLAM"
+    },
+    {
+      "molecule_synonym": "Triazolam",
+      "syn_type": "USAN",
+      "synonyms": "TRIAZOLAM"
+    },
+    {
+      "molecule_synonym": "Triazolam",
+      "syn_type": "USP",
+      "synonyms": "TRIAZOLAM"
+    },
+    {
+      "molecule_synonym": "Triazolam civ",
+      "syn_type": "USP",
+      "synonyms": "TRIAZOLAM CIV"
+    },
+    {
+      "molecule_synonym": "U-33,030",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "U-33,030"
+    },
+    {
+      "molecule_synonym": "U-33030",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "U-33030"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": true,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "TRIAZOLAM",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": null,
+  "usan_stem_definition": null,
+  "usan_substem": null,
+  "usan_year": 1973,
+  "veterinary": 0,
+  "withdrawn_flag": true
+}

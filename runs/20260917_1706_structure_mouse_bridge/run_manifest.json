@@ -1,0 +1,75 @@
+{
+  "run_id": "20260917_1706_structure_mouse_bridge",
+  "started_at": "2026-09-17T17:06:38+09:00",
+  "completed_at": "2026-09-17T17:06:39+09:00",
+  "analysis_phase": "structure-to-mouse phenotype evidence bridge",
+  "analysis_purpose": "Re-map corrected BZD-interface PLIP contacts by receptor-specific chain keys and place them beside raw mouse phenotype evidence.",
+  "parent_run": "20260917_1629_residue_hypothesis",
+  "drugs": [
+    "diazepam",
+    "alprazolam",
+    "triazolam",
+    "zolpidem"
+  ],
+  "receptors": {
+    "alpha1": "alpha1_beta3_gamma2",
+    "alpha2": "alpha2_beta3_gamma2_local_9CTJ"
+  },
+  "docking_parameters": {
+    "docking_executed": false,
+    "source_run": "20260917_1629_residue_hypothesis",
+    "frequency_definition": "interacting poses / valid poses"
+  },
+  "input_files": [
+    "data/raw/lineage/aromatic_interaction_summary.csv",
+    "data/raw/lineage/corrected_residue_mapping.csv",
+    "data/raw/lineage/docking_results_4drug.csv",
+    "data/raw/lineage/plip_interactions_4drug.csv",
+    "data/raw/lineage/recovered_interactions_qc.csv",
+    "data/raw/lineage/residue_interaction_features_alpha1.csv",
+    "data/raw/lineage/residue_interaction_features_alpha2.csv",
+    "runs/20260917_1629_residue_hypothesis/raw/docking_results_4drug.csv",
+    "runs/20260917_1629_residue_hypothesis/raw/plip_interactions_4drug.csv",
+    "runs/20260917_1629_residue_hypothesis/tables/corrected_residue_mapping.csv"
+  ],
+  "output_files": [
+    "FINAL_REPORT.md",
+    "QC_REPORT.md",
+    "data/processed/mouse_phenotype_raw.csv",
+    "data/processed/reassigned_interactions.csv",
+    "data/raw/lineage/aromatic_interaction_summary.csv",
+    "data/raw/lineage/corrected_residue_mapping.csv",
+    "data/raw/lineage/docking_results_4drug.csv",
+    "data/raw/lineage/plip_interactions_4drug.csv",
+    "data/raw/lineage/recovered_interactions_qc.csv",
+    "data/raw/lineage/residue_interaction_features_alpha1.csv",
+    "data/raw/lineage/residue_interaction_features_alpha2.csv",
+    "reports/STRUCTURE_TO_MOUSE_PHENOTYPE_REPORT.md",
+    "results/figures/mouse_primary_phenotype_heatmap.png",
+    "results/figures/residue_ligand_frequency_heatmap.png",
+    "results/figures/structural_vs_mouse_phenotype.png",
+    "results/tables/aromatic_geometry_by_ligand.csv",
+    "results/tables/candidate_residue_features.csv",
+    "results/tables/corrected_residue_mapping.csv",
+    "results/tables/mapping_reassignment_qc.csv",
+    "results/tables/mouse_primary_phenotype_matrix.csv",
+    "results/tables/residue_ligand_frequency_matrix.csv",
+    "results/tables/residue_literature_validation.csv"
+  ],
+  "git_commit": null,
+  "code_version": "workspace_code_sha256:c928e68da471caad",
+  "notes": [
+    "New immutable run; no prior run modified.",
+    "Receptor-specific mapping key prevents chain-D collision between alpha1 and alpha2 contexts.",
+    "Mouse phenotype records are raw literature evidence; no imputation or cross-study pooling.",
+    "Structural matrix includes only candidate features observed in lossless raw PLIP; absent drug-feature rows are labeled no_interaction_observed."
+  ],
+  "qc_status": "COMPLETED_WITH_QC",
+  "source_run": "20260917_1629_residue_hypothesis",
+  "source_files": [
+    "plip_interactions_4drug.csv",
+    "docking_results_4drug.csv",
+    "corrected_residue_mapping.csv",
+    "recovered_interactions_qc.csv"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "molecules": [
+    {
+      "atc_classifications": [
+        "N05CF02"
+      ],
+      "availability_type": 1,
+      "biotherapeutic": null,
+      "black_box_warning": 1,
+      "chemical_probe": 0,
+      "chirality": 2,
+      "cross_references": [],
+      "dosed_ingredient": false,
+      "first_approval": 1992,
+      "first_in_class": 0,
+      "helm_notation": null,
+      "inorganic_flag": 0,
+      "max_phase": "4.0",
+      "molecule_chembl_id": "CHEMBL911",
+      "molecule_hierarchy": {
+        "active_chembl_id": "CHEMBL911",
+        "molecule_chembl_id": "CHEMBL911",
+        "parent_chembl_id": "CHEMBL911"
+      },
+      "molecule_properties": {
+        "alogp": "3.25",
+        "aromatic_rings": 3,
+        "full_molformula": "C19H21N3O",
+        "full_mwt": "307.40",
+        "hba": 3,
+        "hbd": 0,
+        "heavy_atoms": 23,
+        "mw_freebase": "307.40",
+        "np_likeness_score": "-1.87",
+        "num_ro5_violations": 0,
+        "psa": "37.61",
+        "qed_weighted": "0.74",
+        "ro3_pass": "N",
+        "rtb": 3
+      },
+      "molecule_structures": {
+        "canonical_smiles": "Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1",
+        "molfile": "\n     RDKit          2D\n\n 23 25  0  0  1  0  0  0  0  0999 V2000\n   -0.9583   -1.5167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.6708   -1.3042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9583   -0.3792    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.5708   -0.9750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.6708   -0.5792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9500   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3375   -2.5875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.2875   -1.6667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.2875   -0.2292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.1292   -0.9750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.9083   -1.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.9083   -0.5792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3375   -3.3000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2625   -2.2417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4917   -0.3542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4917   -1.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2125   -0.3542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2125   -1.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.5667   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.5125   -1.6542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2625   -3.6417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9500   -3.6417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.2792   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  1  0\n  3  4  1  0\n  4  1  2  0\n  5  2  1  0\n  6  1  1  0\n  7  6  1  0\n  8  2  1  0\n  9  5  1  0\n 10  4  1  0\n 11  8  2  0\n 12 11  1  0\n 13  7  1  0\n 14  7  2  0\n 15 10  2  0\n 16 10  1  0\n 17 15  1  0\n 18 16  2  0\n 19 18  1  0\n 20 11  1  0\n 21 13  1  0\n 22 13  1  0\n 23 19  1  0\n  3  5  2  0\n  9 12  2  0\n 17 19  2  0\nM  END\n> <chembl_id>\nCHEMBL911\n\n> <chembl_pref_name>\nZOLPIDEM",
+        "standard_inchi": "InChI=1S/C19H21N3O/c1-13-5-8-15(9-6-13)19-16(11-18(23)21(3)4)22-12-14(2)7-10-17(22)20-19/h5-10,12H,11H2,1-4H3",
+        "standard_inchi_key": "ZAFYATHCZYHLPB-UHFFFAOYSA-N"
+      },
+      "molecule_synonyms": [
+        {
+          "molecule_synonym": "Sanval",
+          "syn_type": "OTHER",
+          "synonyms": "SANVAL"
+        },
+        {
+          "molecule_synonym": "Zolpidem",
+          "syn_type": "ATC",
+          "synonyms": "ZOLPIDEM"
+        },
+        {
+          "molecule_synonym": "Zolpidem",
+          "syn_type": "BAN",
+          "synonyms": "ZOLPIDEM"
+        },
+        {
+          "molecule_synonym": "Zolpidem",
+          "syn_type": "INN",
+          "synonyms": "ZOLPIDEM"
+        },
+        {
+          "molecule_synonym": "Zolpidem",
+          "syn_type": "MERCK_INDEX",
+          "synonyms": "ZOLPIDEM"
+        },
+        {
+          "molecule_synonym": "Zolpidem",
+          "syn_type": "OTHER",
+          "synonyms": "ZOLPIDEM"
+        },
+        {
+          "molecule_synonym": "Zolpidem civ",
+          "syn_type": "USP",
+          "synonyms": "ZOLPIDEM CIV"
+        }
+      ],
+      "molecule_type": "Small molecule",
+      "natural_product": 1,
+      "oral": true,
+      "orphan": 0,
+      "parenteral": false,
+      "polymer_flag": 0,
+      "pref_name": "ZOLPIDEM",
+      "prodrug": 0,
+      "structure_type": "MOL",
+      "therapeutic_flag": true,
+      "topical": true,
+      "usan_stem": "-pidem",
+      "usan_stem_definition": "hypnotics/sedatives (zolpidem type)",
+      "usan_substem": "-pidem",
+      "usan_year": 1987,
+      "veterinary": 0,
+      "withdrawn_flag": false
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

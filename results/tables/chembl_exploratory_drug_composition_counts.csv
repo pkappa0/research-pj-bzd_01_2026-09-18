@@ -1,0 +1,11 @@
+drug_id,alpha1/beta2/gamma2,alpha1/beta3/gamma2,alpha2/beta2/gamma2,alpha2/beta3/gamma2
+diazepam,12,15,1,16
+lorazepam,0,0,0,0
+clonazepam,0,0,0,0
+alprazolam,1,0,1,0
+midazolam,0,0,0,0
+temazepam,0,0,0,0
+triazolam,0,1,0,1
+zolpidem,4,9,3,9
+zopiclone,0,0,0,0
+zaleplon,1,0,0,1

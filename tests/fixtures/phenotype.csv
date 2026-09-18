@@ -1,0 +1,4 @@
+drug_id,drug_name_raw,sedation,ataxia,anxiolytic_effect
+diazepam,Diazepam,1,1,1
+zolpidem,Zolpidem,1,0,0
+lorazepam,Lorazepam,1,1,1

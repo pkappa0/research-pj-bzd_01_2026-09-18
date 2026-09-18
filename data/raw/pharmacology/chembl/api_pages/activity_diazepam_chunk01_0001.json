@@ -1,0 +1,69 @@
+{
+  "activities": [
+    {
+      "action_type": {
+        "action_type": "POSITIVE ALLOSTERIC MODULATOR",
+        "description": "Enhances the action of the endogenous ligand of a receptor through binding to a site distinct from that ligand",
+        "parent_type": "POSITIVE MODULATOR"
+      },
+      "activity_comment": null,
+      "activity_id": 24843235,
+      "activity_properties": [],
+      "assay_chembl_id": "CHEMBL5146041",
+      "assay_description": "Displacement of [3H]flunitrazepam from human recombinant alpha2beta2gamma2 GABAA receptor expressed in HEK cell membrane by competitive radioligand binding assay",
+      "assay_type": "B",
+      "assay_variant_accession": null,
+      "assay_variant_mutation": null,
+      "bao_endpoint": "BAO_0000192",
+      "bao_format": "BAO_0000249",
+      "bao_label": "cell membrane format",
+      "canonical_smiles": "CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21",
+      "data_validity_comment": null,
+      "data_validity_description": null,
+      "document_chembl_id": "CHEMBL5143601",
+      "document_journal": "Bioorg Med Chem Lett",
+      "document_year": 2022,
+      "ligand_efficiency": {
+        "bei": "27.04",
+        "le": "0.53",
+        "lle": "4.55",
+        "sei": "23.57"
+      },
+      "modality": null,
+      "molecule_chembl_id": "CHEMBL12",
+      "molecule_pref_name": "DIAZEPAM",
+      "parent_molecule_chembl_id": "CHEMBL12",
+      "pchembl_value": "7.70",
+      "potential_duplicate": 0,
+      "qudt_units": "http://www.openphacts.org/units/Nanomolar",
+      "record_id": 3880480,
+      "relation": "=",
+      "src_id": 1,
+      "standard_flag": 1,
+      "standard_relation": "=",
+      "standard_text_value": null,
+      "standard_type": "Ki",
+      "standard_units": "nM",
+      "standard_upper_value": null,
+      "standard_value": "20.0",
+      "target_chembl_id": "CHEMBL2111413",
+      "target_organism": "Homo sapiens",
+      "target_pref_name": "GABA A receptor alpha-2/beta-2/gamma-2",
+      "target_tax_id": "9606",
+      "text_value": null,
+      "toid": null,
+      "type": "Ki",
+      "units": "nM",
+      "uo_units": "UO_0000065",
+      "upper_value": null,
+      "value": "20.0"
+    }
+  ],
+  "page_meta": {
+    "limit": 10,
+    "next": null,
+    "offset": 10,
+    "previous": "/chembl/api/data/activity.json?limit=10&offset=0&molecule_chembl_id=CHEMBL12&target_chembl_id__in=CHEMBL2111374%2CCHEMBL2111392%2CCHEMBL2111413%2CCHEMBL5303569%2CCHEMBL1847%2CCHEMBL1920%2CCHEMBL1962%2CCHEMBL2304%2CCHEMBL2364024%2CCHEMBL2364025%2CCHEMBL2364676%2CCHEMBL2472%2CCHEMBL2579%2CCHEMBL292%2CCHEMBL293%2CCHEMBL296%2CCHEMBL300%2CCHEMBL3026%2CCHEMBL3139%2CCHEMBL328",
+    "total_count": 11
+  }
+}

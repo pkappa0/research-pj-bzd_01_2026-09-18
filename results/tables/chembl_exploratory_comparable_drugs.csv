@@ -1,0 +1,11 @@
+drug_id,has_alpha1_alpha2_same_metric_unit,common_metric_unit_count,common_metric_units,has_same_beta_subtype_comparison,has_different_beta_subtype_comparison,same_beta_comparison_count,different_beta_comparison_count
+diazepam,True,4,Activity | % ; EC50 | nM ; Efficacy | % ; Ki | nM,True,True,4,5
+lorazepam,False,0,,False,False,0,0
+clonazepam,False,0,,False,False,0,0
+alprazolam,True,1,Ki | nM,True,False,1,0
+midazolam,False,0,,False,False,0,0
+temazepam,False,0,,False,False,0,0
+triazolam,True,1,Ki | nM,True,False,1,0
+zolpidem,True,3,EC50 | nM ; Efficacy | % ; Ki | nM,True,True,3,2
+zopiclone,False,0,,False,False,0,0
+zaleplon,True,1,EC50 | nM,False,True,0,1

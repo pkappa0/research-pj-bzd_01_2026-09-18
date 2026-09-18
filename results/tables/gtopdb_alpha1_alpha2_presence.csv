@@ -1,0 +1,11 @@
+drug_id,input_drug_name,gtopdb_alpha1_quantitative,gtopdb_alpha2_quantitative,gtopdb_both,gtopdb_alpha1_targets,gtopdb_alpha2_targets,gtopdb_compositions,same_beta_gamma_pair_exists,same_metric_pair_exists,same_reference_pair_exists,best_tier
+diazepam,Diazepam,False,False,False,0,0,,False,False,False,
+lorazepam,Lorazepam,False,False,False,0,0,,False,False,False,
+clonazepam,Clonazepam,False,False,False,0,0,,False,False,False,
+alprazolam,Alprazolam,False,False,False,0,0,,False,False,False,
+midazolam,Midazolam,False,False,False,0,0,,False,False,False,
+temazepam,Temazepam,False,False,False,0,0,,False,False,False,
+triazolam,Triazolam,False,False,False,0,0,,False,False,False,
+zolpidem,Zolpidem,False,False,False,0,0,,False,False,False,
+zopiclone,Zopiclone,False,False,False,0,0,,False,False,False,
+zaleplon,Zaleplon,False,False,False,0,0,,False,False,False,

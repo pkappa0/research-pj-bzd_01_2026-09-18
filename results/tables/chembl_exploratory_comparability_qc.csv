@@ -1,0 +1,18 @@
+drug_id,metric_key,standard_type,standard_units,alpha1_composition,alpha2_composition,alpha1_beta_subtype,alpha2_beta_subtype,beta_comparison,alpha1_activity_count,alpha2_activity_count
+diazepam,Activity | %,Activity,%,alpha1/beta2/gamma2,alpha2/beta3/gamma2,beta2,beta3,different_beta_subtype,3,3
+diazepam,Activity | %,Activity,%,alpha1/beta3/gamma2,alpha2/beta3/gamma2,beta3,beta3,same_beta_subtype,2,3
+diazepam,EC50 | nM,EC50,nM,alpha1/beta2/gamma2,alpha2/beta3/gamma2,beta2,beta3,different_beta_subtype,2,1
+diazepam,Efficacy | %,Efficacy,%,alpha1/beta2/gamma2,alpha2/beta3/gamma2,beta2,beta3,different_beta_subtype,1,3
+diazepam,Efficacy | %,Efficacy,%,alpha1/beta3/gamma2,alpha2/beta3/gamma2,beta3,beta3,same_beta_subtype,5,3
+diazepam,Ki | nM,Ki,nM,alpha1/beta2/gamma2,alpha2/beta2/gamma2,beta2,beta2,same_beta_subtype,3,1
+diazepam,Ki | nM,Ki,nM,alpha1/beta2/gamma2,alpha2/beta3/gamma2,beta2,beta3,different_beta_subtype,3,9
+diazepam,Ki | nM,Ki,nM,alpha1/beta3/gamma2,alpha2/beta2/gamma2,beta3,beta2,different_beta_subtype,8,1
+diazepam,Ki | nM,Ki,nM,alpha1/beta3/gamma2,alpha2/beta3/gamma2,beta3,beta3,same_beta_subtype,8,9
+alprazolam,Ki | nM,Ki,nM,alpha1/beta2/gamma2,alpha2/beta2/gamma2,beta2,beta2,same_beta_subtype,1,1
+triazolam,Ki | nM,Ki,nM,alpha1/beta3/gamma2,alpha2/beta3/gamma2,beta3,beta3,same_beta_subtype,1,1
+zolpidem,EC50 | nM,EC50,nM,alpha1/beta2/gamma2,alpha2/beta2/gamma2,beta2,beta2,same_beta_subtype,1,1
+zolpidem,Efficacy | %,Efficacy,%,alpha1/beta3/gamma2,alpha2/beta2/gamma2,beta3,beta2,different_beta_subtype,2,1
+zolpidem,Efficacy | %,Efficacy,%,alpha1/beta3/gamma2,alpha2/beta3/gamma2,beta3,beta3,same_beta_subtype,2,2
+zolpidem,Ki | nM,Ki,nM,alpha1/beta3/gamma2,alpha2/beta2/gamma2,beta3,beta2,different_beta_subtype,7,1
+zolpidem,Ki | nM,Ki,nM,alpha1/beta3/gamma2,alpha2/beta3/gamma2,beta3,beta3,same_beta_subtype,7,7
+zaleplon,EC50 | nM,EC50,nM,alpha1/beta2/gamma2,alpha2/beta3/gamma2,beta2,beta3,different_beta_subtype,1,1

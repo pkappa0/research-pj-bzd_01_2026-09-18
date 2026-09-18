@@ -1,0 +1,9 @@
+drug_id,drug_name_raw,receptor,pose_id,original_residue,interaction_type,pdb_id,chain,source_file
+diazepam,Diazepam,alpha1,a1,TYR160,hydrogen_bond,p1,A,synthetic
+diazepam,Diazepam,alpha1,a1,LEU164,hydrophobic,p1,A,synthetic
+diazepam,Diazepam,alpha1,a2,TYR160,hydrogen_bond,p2,A,synthetic
+zolpidem,Zolpidem,alpha1,a1,TYR160,hydrogen_bond,p3,A,synthetic
+zolpidem,Zolpidem,alpha1,a1,PHE200,pi_stacking,p3,A,synthetic
+lorazepam,Lorazepam,alpha2,a1,TYR161,hydrogen_bond,p4,A,synthetic
+lorazepam,Lorazepam,alpha2,a2,TYR161,hydrogen_bond,p5,A,synthetic
+lorazepam,Lorazepam,alpha2,a2,LEU165,hydrophobic,p5,A,synthetic

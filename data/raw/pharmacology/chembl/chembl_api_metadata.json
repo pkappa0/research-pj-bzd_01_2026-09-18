@@ -1,0 +1,12 @@
+{
+  "api_base": "https://www.ebi.ac.uk/chembl/api/data",
+  "retrieved_at_utc": "2026-09-17T02:17:48.329450+00:00",
+  "chembl_version": "ChEMBL_37",
+  "status": "UP",
+  "target_search_terms": [
+    "aminobutyric acid receptor",
+    "GABA-A",
+    "GABA A receptor"
+  ],
+  "chembl_release_date": "2026-05-01"
+}

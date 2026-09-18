@@ -1,0 +1,29 @@
+drug_id,check,status,details
+diazepam,integration_metric_selection,exact_contexts_retained,Ki; 9 exact comparison context(s); no cross-reference median
+alprazolam,integration_metric_selection,exact_contexts_retained,Ki; 1 exact comparison context(s); no cross-reference median
+triazolam,integration_metric_selection,exact_contexts_retained,Ki; 1 exact comparison context(s); no cross-reference median
+zolpidem,integration_metric_selection,exact_contexts_retained,Ki; 7 exact comparison context(s); no cross-reference median
+diazepam,target_annotation_vs_assay_description,not_available_in_archived_chembl_table,No assay_description field was retained for these rows; no automatic correction performed.
+alprazolam,target_annotation_vs_assay_description,not_available_in_archived_chembl_table,No assay_description field was retained for these rows; no automatic correction performed.
+triazolam,target_annotation_vs_assay_description,not_available_in_archived_chembl_table,No assay_description field was retained for these rows; no automatic correction performed.
+zolpidem,target_annotation_vs_assay_description,not_available_in_archived_chembl_table,No assay_description field was retained for these rows; no automatic correction performed.
+diazepam,tier_filter,tier1_only,Tier 2/3 rows excluded from primary dataset
+alprazolam,tier_filter,tier1_only,Tier 2/3 rows excluded from primary dataset
+triazolam,tier_filter,tier1_only,Tier 2/3 rows excluded from primary dataset
+zolpidem,tier_filter,tier1_only,Tier 2/3 rows excluded from primary dataset
+diazepam,duplicate_same_reference_assay_context,no_exact_duplicate,duplicate_rows=0; exact pair contexts retained in raw table
+diazepam,metric_unit_separation,kept_separate,Ki/nM; Efficacy/%; Activity/%
+diazepam,missing_vs_zero,no_zero_imputation,missing evidence remains absent; no synthetic zero was inserted
+alprazolam,duplicate_same_reference_assay_context,no_exact_duplicate,duplicate_rows=0; exact pair contexts retained in raw table
+alprazolam,metric_unit_separation,kept_separate,Ki/nM
+alprazolam,missing_vs_zero,no_zero_imputation,missing evidence remains absent; no synthetic zero was inserted
+triazolam,duplicate_same_reference_assay_context,no_exact_duplicate,duplicate_rows=0; exact pair contexts retained in raw table
+triazolam,metric_unit_separation,kept_separate,Ki/nM
+triazolam,missing_vs_zero,no_zero_imputation,missing evidence remains absent; no synthetic zero was inserted
+zolpidem,duplicate_same_reference_assay_context,no_exact_duplicate,duplicate_rows=0; exact pair contexts retained in raw table
+zolpidem,metric_unit_separation,kept_separate,Ki/nM; Efficacy/%
+zolpidem,missing_vs_zero,no_zero_imputation,missing evidence remains absent; no synthetic zero was inserted
+diazepam,docking_vs_pharmacology_composition,composition_mismatch_review,pharmacology contexts=alpha1/beta2/gamma2 vs alpha2/beta2/gamma2; alpha1/beta3/gamma2 vs alpha2/beta3/gamma2; docking=alpha1/beta3/gamma2 vs alpha2/beta3/gamma2_local_9CTJ
+alprazolam,docking_vs_pharmacology_composition,composition_mismatch_review,pharmacology contexts=alpha1/beta2/gamma2 vs alpha2/beta2/gamma2; docking=alpha1/beta3/gamma2 vs alpha2/beta3/gamma2_local_9CTJ
+triazolam,docking_vs_pharmacology_composition,same_beta3_background,pharmacology contexts=alpha1/beta3/gamma2 vs alpha2/beta3/gamma2; docking=alpha1/beta3/gamma2 vs alpha2/beta3/gamma2_local_9CTJ
+zolpidem,docking_vs_pharmacology_composition,same_beta3_background,pharmacology contexts=alpha1/beta3/gamma2 vs alpha2/beta3/gamma2; docking=alpha1/beta3/gamma2 vs alpha2/beta3/gamma2_local_9CTJ

@@ -1,0 +1,4 @@
+drug_id,drug_name_raw,ki_alpha1_nM,selectivity_alpha1_alpha2
+diazepam,Diazepam,10,1.2
+zolpidem,Zolpidem,20,8.0
+lorazepam,Lorazepam,5,1.5

@@ -1,0 +1,2 @@
+drug_id,drug_name_raw,ki_alpha1_nM,kd_alpha1_nM,ic50_alpha1_nM,ec50_alpha1_nM,selectivity_alpha1_alpha2,measurement_method,source_reference
+example_drug,Example Drug,100,,,,,example_method,replace_with_source

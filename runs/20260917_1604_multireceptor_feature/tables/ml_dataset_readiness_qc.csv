@@ -1,0 +1,2 @@
+status,n_drugs,n_features,missing_rate_all_features,zero_variance_feature_count,highly_sparse_frequency_feature_count,distance_stat_missing_cells,distance_stat_zero_cells,unresolved_interaction_rows_excluded,unresolved_feature_count,label_rows,feature_leakage_risk,reason
+NOT READY FOR MODEL TRAINING,4,200,0.15625,30,2,100,0,177,17,4,low by column content; future ML must split by drug and keep labels out of X,"n=4, provisional alpha2 structure, unresolved mapping exclusions, and distance missingness require QC before training"

@@ -1,0 +1,91 @@
+target_chembl_id,target_name,target_type,organism,receptor_subtype,target_class
+CHEMBL1962,Gamma-aminobutyric acid receptor subunit alpha-1,SINGLE PROTEIN,Homo sapiens,alpha1,subunit_specific
+CHEMBL1920,Gamma-aminobutyric acid receptor subunit beta-2,SINGLE PROTEIN,Homo sapiens,beta2,subunit_specific
+CHEMBL2472,Gamma-aminobutyric acid receptor subunit alpha-4,SINGLE PROTEIN,Homo sapiens,alpha4,subunit_specific
+CHEMBL4558,Gamma-aminobutyric acid receptor subunit beta-1,SINGLE PROTEIN,Homo sapiens,beta1,subunit_specific
+CHEMBL3591,Gamma-aminobutyric acid receptor subunit delta,SINGLE PROTEIN,Homo sapiens,delta,subunit_specific
+CHEMBL3139,Gamma-aminobutyric acid receptor subunit alpha-1,SINGLE PROTEIN,Mus musculus,alpha1,subunit_specific
+CHEMBL292,Gamma-aminobutyric acid receptor subunit alpha-4,SINGLE PROTEIN,Rattus norvegicus,alpha4,subunit_specific
+CHEMBL5112,Gamma-aminobutyric acid receptor subunit alpha-5,SINGLE PROTEIN,Homo sapiens,alpha5,subunit_specific
+CHEMBL2579,Gamma-aminobutyric acid receptor subunit alpha-6,SINGLE PROTEIN,Homo sapiens,alpha6,subunit_specific
+CHEMBL293,Gamma-aminobutyric acid receptor subunit alpha-6,SINGLE PROTEIN,Rattus norvegicus,alpha6,subunit_specific
+CHEMBL296,Gamma-aminobutyric acid receptor subunit gamma-1,SINGLE PROTEIN,Rattus norvegicus,gamma1,subunit_specific
+CHEMBL300,Gamma-aminobutyric acid receptor subunit alpha-5,SINGLE PROTEIN,Rattus norvegicus,alpha5,subunit_specific
+CHEMBL1847,Gamma-aminobutyric acid receptor subunit beta-3,SINGLE PROTEIN,Homo sapiens,beta3,subunit_specific
+CHEMBL2304,Gamma-aminobutyric acid receptor subunit alpha-5,SINGLE PROTEIN,Mus musculus,alpha5,subunit_specific
+CHEMBL3026,Gamma-aminobutyric acid receptor subunit alpha-3,SINGLE PROTEIN,Homo sapiens,alpha3,subunit_specific
+CHEMBL328,Gamma-aminobutyric acid receptor subunit alpha-3,SINGLE PROTEIN,Rattus norvegicus,alpha3,subunit_specific
+CHEMBL4956,Gamma-aminobutyric acid receptor subunit alpha-2,SINGLE PROTEIN,Homo sapiens,alpha2,subunit_specific
+CHEMBL341,Gamma-aminobutyric acid receptor subunit alpha-2,SINGLE PROTEIN,Rattus norvegicus,alpha2,subunit_specific
+CHEMBL343,Gamma-aminobutyric acid receptor subunit alpha-1,SINGLE PROTEIN,Rattus norvegicus,alpha1,subunit_specific
+CHEMBL3430899,Gamma-aminobutyric acid receptor subunit alpha-4/beta3/delta,PROTEIN COMPLEX,Homo sapiens,alpha4/beta3/delta,composite_target
+CHEMBL3883322,Gamma-aminobutyric acid receptor subunit alpha-1/beta-2/beta-3/gamma-2,PROTEIN COMPLEX,Rattus norvegicus,alpha1/beta2/beta3/gamma2,composite_target
+CHEMBL3885570,Gamma-aminobutyric acid receptor subunit alpha-1/ beta-1,PROTEIN COMPLEX,Homo sapiens,alpha1/beta1,composite_target
+CHEMBL3885571,Gamma-aminobutyric acid receptor subunit alpha-2/beta-2,PROTEIN COMPLEX,Homo sapiens,alpha2/beta2,composite_target
+CHEMBL3885572,Gamma-aminobutyric acid receptor subunit alpha-3/ beta-2,PROTEIN COMPLEX,Homo sapiens,alpha3/beta2,composite_target
+CHEMBL3885573,Gamma-aminobutyric acid receptor subunit alpha-3/ beta-3/gamma-3,PROTEIN COMPLEX,Homo sapiens,alpha3/beta3/gamma3,composite_target
+CHEMBL3885574,Gamma-aminobutyric acid receptor subunit alpha-3/beta-3,PROTEIN COMPLEX,Homo sapiens,alpha3/beta3,composite_target
+CHEMBL3885575,Gamma-aminobutyric acid receptor subunit alpha-3/beta-3/theta,PROTEIN COMPLEX,Homo sapiens,alpha3/beta3/theta,composite_target
+CHEMBL3885576,Gamma-aminobutyric acid receptor subunit alpha-5/beta-2,PROTEIN COMPLEX,Homo sapiens,alpha5/beta2,composite_target
+CHEMBL3885577,Gamma-aminobutyric acid receptor subunit alpha-5/beta-3/gamma-3,PROTEIN COMPLEX,Homo sapiens,alpha5/beta3/gamma3,composite_target
+CHEMBL3885578,Gamma-aminobutyric acid receptor subunit alpha-6/beta-3,PROTEIN COMPLEX,Homo sapiens,alpha6/beta3,composite_target
+CHEMBL4296044,Gamma-aminobutyric acid receptor subunit alpha-1/beta-2/delta,PROTEIN COMPLEX,Homo sapiens,alpha1/beta2/delta,composite_target
+CHEMBL4296045,Gamma-aminobutyric acid receptor subunit beta-1/beta-2,PROTEIN COMPLEX,Homo sapiens,beta1/beta2,composite_target
+CHEMBL4296046,Gamma-aminobutyric acid receptor subunit alpha-4/beta-2/delta,PROTEIN COMPLEX,Homo sapiens,alpha4/beta2/delta,composite_target
+CHEMBL4296047,Gamma-aminobutyric acid receptor subunit alpha-3/beta-3/gamma-2,PROTEIN COMPLEX,Rattus norvegicus,alpha3/beta3/gamma2,composite_target
+CHEMBL4296048,Gamma-aminobutyric acid receptor subunit alpha-2/beta-3/gamma-2,PROTEIN COMPLEX,Rattus norvegicus,alpha2/beta3/gamma2,composite_target
+CHEMBL4296049,Gamma-aminobutyric acid receptor subunit alpha-4/beta-3,PROTEIN COMPLEX,Rattus norvegicus,alpha4/beta3,composite_target
+CHEMBL4296050,Gamma-aminobutyric acid receptor subunit alpha-4/beta-3/delta,PROTEIN COMPLEX,Rattus norvegicus,alpha4/beta3/delta,composite_target
+CHEMBL4296051,Gamma-aminobutyric acid receptor subunit alpha-4/beta-3/gamma-2,PROTEIN COMPLEX,Rattus norvegicus,alpha4/beta3/gamma2,composite_target
+CHEMBL4296052,Gamma-aminobutyric acid receptor subunit alpha-6/beta-3,PROTEIN COMPLEX,Rattus norvegicus,alpha6/beta3,composite_target
+CHEMBL4296053,Gamma-aminobutyric acid receptor subunit alpha-6/beta-3/delta,PROTEIN COMPLEX,Rattus norvegicus,alpha6/beta3/delta,composite_target
+CHEMBL4296054,Gamma-aminobutyric acid receptor subunit alpha-6/beta-3/gamma-2,PROTEIN COMPLEX,Rattus norvegicus,alpha6/beta3/gamma2,composite_target
+CHEMBL4296055,Gamma-aminobutyric acid receptor subunit alpha-6/beta-2,PROTEIN COMPLEX,Rattus norvegicus,alpha6/beta2,composite_target
+CHEMBL4296056,Gamma-aminobutyric acid receptor subunit alpha-6/beta-2/delta,PROTEIN COMPLEX,Rattus norvegicus,alpha6/beta2/delta,composite_target
+CHEMBL4296057,Gamma-aminobutyric acid receptor subunit alpha-5/beta-3,PROTEIN COMPLEX,Homo sapiens,alpha5/beta3,composite_target
+CHEMBL4296058,Gamma-aminobutyric acid receptor subunit alpha-1/beta-3/gamma-2,PROTEIN COMPLEX,Mus musculus,alpha1/beta3/gamma2,composite_target
+CHEMBL4296059,Gamma-aminobutyric acid receptor subunit alpha-1/beta-2/gamma-2,PROTEIN COMPLEX,Mus musculus,alpha1/beta2/gamma2,composite_target
+CHEMBL4296060,Gamma-aminobutyric acid receptor subunit alpha-1/beta-3,PROTEIN COMPLEX,Rattus norvegicus,alpha1/beta3,composite_target
+CHEMBL4296061,Gamma-aminobutyric acid receptor subunit alpha-1/beta-3/delta,PROTEIN COMPLEX,Rattus norvegicus,alpha1/beta3/delta,composite_target
+CHEMBL4296062,Gamma-aminobutyric acid receptor subunit alpha-1/beta-3/gamma-2,PROTEIN COMPLEX,Rattus norvegicus,alpha1/beta3/gamma2,composite_target
+CHEMBL4296063,Gamma-aminobutyric acid receptor subunit alpha-1/beta-2,PROTEIN COMPLEX,Rattus norvegicus,alpha1/beta2,composite_target
+CHEMBL4296064,Gamma-aminobutyric acid receptor subunit alpha-2/beta-3,PROTEIN COMPLEX,Homo sapiens,alpha2/beta3,composite_target
+CHEMBL4523638,Gamma-aminobutyric acid receptor subunit alpha-1/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha1/gamma2,composite_target
+CHEMBL4523639,Gamma-aminobutyric acid receptor subunit alpha-4/beta-1/delta,PROTEIN COMPLEX,Homo sapiens,alpha4/beta1/delta,composite_target
+CHEMBL4523640,Gamma-aminobutyric acid receptor subunit alpha-4/beta-2/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha4/beta2/gamma2,composite_target
+CHEMBL4523641,Gamma-aminobutyric acid receptor subunit alpha-5/beta-2/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha5/beta2/gamma2,composite_target
+CHEMBL5291947,Gamma-aminobutyric acid receptor subunit alpha-1/alpha-6/beta-3/gamma-2,PROTEIN COMPLEX,Rattus norvegicus,alpha1/alpha6/beta3/gamma2,composite_target
+CHEMBL5291948,Gamma-aminobutyric acid receptor subunit alpha-6/beta-3/alpha-1,PROTEIN COMPLEX,Rattus norvegicus,alpha6/beta3/alpha1,composite_target
+CHEMBL5291949,Gamma-aminobutyric acid receptor subunit alpha-2/beta-1/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha2/beta1/gamma2,composite_target
+CHEMBL5291950,Gamma-aminobutyric acid receptor subunit gamma-2/beta-3,PROTEIN COMPLEX,Rattus norvegicus,gamma2/beta3,composite_target
+CHEMBL5303741,Gamma-aminobutyric acid receptor subunit alpha-1/alpha-2/beta-2/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha1/alpha2/beta2/gamma2,composite_target
+CHEMBL1907597,GABA-A receptor; GABA-A site (alpha1/beta2 interface),PROTEIN COMPLEX,Homo sapiens,alpha1/beta2,composite_target
+CHEMBL1907607,GABA-A receptor; anion channel,PROTEIN COMPLEX GROUP,Rattus norvegicus,,generic_gabaa_target
+CHEMBL2093872,GABA-A receptor; anion channel,PROTEIN COMPLEX GROUP,Homo sapiens,,generic_gabaa_target
+CHEMBL2094107,GABA-A receptor; anion channel,PROTEIN COMPLEX GROUP,Bos taurus,,generic_gabaa_target
+CHEMBL2094120,GABA-A receptor; alpha-3/beta-3/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha3/beta3/gamma2,composite_target
+CHEMBL2094121,GABA-A receptor; alpha-1/beta-3/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha1/beta3/gamma2,composite_target
+CHEMBL2094122,GABA-A receptor; alpha-5/beta-3/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha5/beta3/gamma2,composite_target
+CHEMBL2094130,GABA-A receptor; alpha-2/beta-3/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha2/beta3/gamma2,composite_target
+CHEMBL2094133,GABA-A receptor; anion channel,PROTEIN COMPLEX GROUP,Mus musculus,,generic_gabaa_target
+CHEMBL2095167,GABA-A receptor; alpha-1/beta-2/gamma-2,PROTEIN COMPLEX,Rattus norvegicus,alpha1/beta2/gamma2,composite_target
+CHEMBL2095172,GABA-A receptor; alpha-1/beta-2/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha1/beta2/gamma2,composite_target
+CHEMBL2095190,GABA-A receptor; alpha-6/beta-3/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha6/beta3/gamma2,composite_target
+CHEMBL2109243,GABA-A receptor; benzodiazepine site,PROTEIN COMPLEX GROUP,Homo sapiens,,generic_gabaa_target
+CHEMBL2109244,GABA-A receptor; agonist GABA site,PROTEIN COMPLEX GROUP,Homo sapiens,,generic_gabaa_target
+CHEMBL2364024,GABA-A receptor,PROTEIN COMPLEX GROUP,Sarcoptes scabiei,,generic_gabaa_target
+CHEMBL2364025,GABA-A receptor,PROTEIN COMPLEX GROUP,Pediculus humanus,,generic_gabaa_target
+CHEMBL2364676,Nematode GABA-A receptor,PROTEIN COMPLEX GROUP,Onchocercidae,,generic_gabaa_target
+CHEMBL4106151,GABA-A receptor alpha-1/beta-3,PROTEIN COMPLEX,Homo sapiens,alpha1/beta3,composite_target
+CHEMBL4106157,GABA-A receptor alpha-4/beta-3/delta,PROTEIN COMPLEX,Homo sapiens,alpha4/beta3/delta,composite_target
+CHEMBL4680049,GABA-A receptor alpha-1/beta-1,PROTEIN COMPLEX,Bos taurus,alpha1/beta1,composite_target
+CHEMBL5303569,GABA-A receptor; anion channel,PROTEIN COMPLEX GROUP,Canis lupus familiaris,,generic_gabaa_target
+CHEMBL2111413,GABA A receptor alpha-2/beta-2/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha2/beta2/gamma2,composite_target
+CHEMBL2111327,GABA A receptor alpha-2/beta-2/gamma-2,PROTEIN COMPLEX,Rattus norvegicus,alpha2/beta2/gamma2,composite_target
+CHEMBL2111339,GABA A receptor alpha-3/beta-2/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha3/beta2/gamma2,composite_target
+CHEMBL2111343,GABA A receptor alpha-3/beta-2/gamma-2,PROTEIN COMPLEX,Rattus norvegicus,alpha3/beta2/gamma2,composite_target
+CHEMBL2111370,GABA A receptor alpha-6/beta-2/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha6/beta2/gamma2,composite_target
+CHEMBL2111374,GABA A receptor alpha-5/beta-3/gamma-2,PROTEIN COMPLEX,Rattus norvegicus,alpha5/beta3/gamma2,composite_target
+CHEMBL2111392,GABA A receptor alpha-1/beta-1/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha1/beta1/gamma2,composite_target
+CHEMBL2111365,GABA A receptor alpha-6/beta-2/gamma-2,PROTEIN COMPLEX,Rattus norvegicus,alpha6/beta2/gamma2,composite_target
+CHEMBL2111366,GABA A receptor alpha-4/beta-3/gamma-2,PROTEIN COMPLEX,Homo sapiens,alpha4/beta3/gamma2,composite_target

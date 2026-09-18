@@ -1,0 +1,53 @@
+{
+  "run_id": "20260917_1756_grouped_heatmap",
+  "started_at": "2026-09-17T17:56:57+09:00",
+  "completed_at": "2026-09-17T17:56:58+09:00",
+  "analysis_phase": "residue-class grouped fingerprint visualization",
+  "analysis_purpose": "Improve interpretability of the existing residue-by-ligand frequency heatmap without modifying raw frequencies or the parent run.",
+  "parent_run": "20260917_1755_grouped_heatmap",
+  "drugs": [
+    "diazepam",
+    "alprazolam",
+    "triazolam",
+    "zolpidem"
+  ],
+  "receptors": {
+    "alpha1": "alpha1_beta3_gamma2",
+    "alpha2": "alpha2_beta3_gamma2_local_9CTJ"
+  },
+  "docking_parameters": {
+    "docking_executed": false,
+    "source_run": "20260917_1755_grouped_heatmap",
+    "row_normalization": "mean-centered across four drugs"
+  },
+  "input_files": [
+    "data/raw/lineage/candidate_residue_features.csv",
+    "data/raw/lineage/residue_ligand_frequency_matrix.csv",
+    "runs/20260917_1755_grouped_heatmap/data/raw/lineage/residue_ligand_frequency_matrix.csv"
+  ],
+  "output_files": [
+    "FINAL_REPORT.md",
+    "QC_REPORT.md",
+    "data/raw/lineage/candidate_residue_features.csv",
+    "data/raw/lineage/residue_ligand_frequency_matrix.csv",
+    "reports/GROUPED_HEATMAP_REPORT.md",
+    "results/figures/residue_ligand_frequency_heatmap_grouped.png",
+    "results/figures/residue_ligand_frequency_heatmap_row_normalized.png",
+    "results/tables/grouped_heatmap_top_differences.csv",
+    "results/tables/residue_ligand_frequency_matrix_grouped.csv",
+    "results/tables/residue_ligand_frequency_matrix_row_normalized.csv"
+  ],
+  "git_commit": null,
+  "code_version": "workspace_code_sha256:1116f774ced136d6",
+  "notes": [
+    "Existing heatmap and parent run are immutable.",
+    "Residue class is visualization-only and remains separate from interaction type.",
+    "No unobserved candidate feature was added."
+  ],
+  "qc_status": "COMPLETED_WITH_QC",
+  "source_run": "20260917_1755_grouped_heatmap",
+  "source_files": [
+    "data/raw/lineage/residue_ligand_frequency_matrix.csv",
+    "data/raw/lineage/candidate_residue_features.csv"
+  ]
+}

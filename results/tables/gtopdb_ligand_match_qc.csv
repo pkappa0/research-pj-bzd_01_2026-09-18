@@ -1,0 +1,11 @@
+drug_id,input_drug_name,status,gtopdb_ligand_id,gtopdb_ligand_name,candidate_count,chembl_molecule_id,chembl_inchikey,chembl_canonical_smiles,note
+diazepam,Diazepam,api_key_missing,,,0,CHEMBL12,AAOVKJBEBIDNHE-UHFFFAOYSA-N,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,GTP_API_KEY is absent; no ligand was auto-confirmed
+lorazepam,Lorazepam,api_key_missing,,,0,CHEMBL580,DIWRORZWFLOCLC-UHFFFAOYSA-N,O=C1Nc2ccc(Cl)cc2C(c2ccccc2Cl)=NC1O,GTP_API_KEY is absent; no ligand was auto-confirmed
+clonazepam,Clonazepam,api_key_missing,,,0,CHEMBL452,DGBIGWXXNGSACT-UHFFFAOYSA-N,O=C1CN=C(c2ccccc2Cl)c2cc([N+](=O)[O-])ccc2N1,GTP_API_KEY is absent; no ligand was auto-confirmed
+alprazolam,Alprazolam,api_key_missing,,,0,CHEMBL661,VREFGVBLTWBCJP-UHFFFAOYSA-N,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2,GTP_API_KEY is absent; no ligand was auto-confirmed
+midazolam,Midazolam,api_key_missing,,,0,CHEMBL655,DDLIGBOFAVUZHB-UHFFFAOYSA-N,Cc1ncc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2,GTP_API_KEY is absent; no ligand was auto-confirmed
+temazepam,Temazepam,api_key_missing,,,0,CHEMBL967,SEQDDYPDSLOBDC-UHFFFAOYSA-N,CN1C(=O)C(O)N=C(c2ccccc2)c2cc(Cl)ccc21,GTP_API_KEY is absent; no ligand was auto-confirmed
+triazolam,Triazolam,api_key_missing,,,0,CHEMBL646,JOFWLTCLBGQGBO-UHFFFAOYSA-N,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,GTP_API_KEY is absent; no ligand was auto-confirmed
+zolpidem,Zolpidem,api_key_missing,,,0,CHEMBL911,ZAFYATHCZYHLPB-UHFFFAOYSA-N,Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1,GTP_API_KEY is absent; no ligand was auto-confirmed
+zopiclone,Zopiclone,api_key_missing,,,0,CHEMBL135400,GBBSUAFBMRNDJC-UHFFFAOYSA-N,CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1,GTP_API_KEY is absent; no ligand was auto-confirmed
+zaleplon,Zaleplon,api_key_missing,,,0,CHEMBL1521,HUNXMJYCHXQEGX-UHFFFAOYSA-N,CCN(C(C)=O)c1cccc(-c2ccnc3c(C#N)cnn23)c1,GTP_API_KEY is absent; no ligand was auto-confirmed

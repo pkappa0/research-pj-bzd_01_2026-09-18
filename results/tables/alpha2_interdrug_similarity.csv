@@ -1,0 +1,7 @@
+receptor,drug_a,drug_b,jaccard_similarity_binary,shared_features,union_features,cosine_similarity_frequency,euclidean_distance_frequency,n_frequency_features
+alpha2,diazepam,alprazolam,0.7777777777777778,7,9,0.9473309334313418,0.4581228472908512,9
+alpha2,diazepam,triazolam,0.4444444444444444,4,9,0.6521918820501721,0.753592220347252,9
+alpha2,diazepam,zolpidem,0.5555555555555556,5,9,0.8740284488750756,0.41573970964154905,9
+alpha2,alprazolam,triazolam,0.625,5,8,0.7724095683983876,0.7286042804780001,9
+alpha2,alprazolam,zolpidem,0.75,6,8,0.8713653103636214,0.5773502691896258,9
+alpha2,triazolam,zolpidem,0.5714285714285714,4,7,0.7530940414109725,0.6478835438717001,9

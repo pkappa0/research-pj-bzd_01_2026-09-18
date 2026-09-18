@@ -1,0 +1,15 @@
+drug_id,target_label,standard_type,activity_count
+diazepam,alpha1_beta3_gamma2,Activity,2
+diazepam,alpha1_beta3_gamma2,Efficacy,5
+diazepam,alpha1_beta3_gamma2,Ki,8
+diazepam,alpha2_beta3_gamma2,Activity,3
+diazepam,alpha2_beta3_gamma2,EC50,1
+diazepam,alpha2_beta3_gamma2,Efficacy,3
+diazepam,alpha2_beta3_gamma2,Ki,9
+triazolam,alpha1_beta3_gamma2,Ki,1
+triazolam,alpha2_beta3_gamma2,Ki,1
+zaleplon,alpha2_beta3_gamma2,EC50,1
+zolpidem,alpha1_beta3_gamma2,Efficacy,2
+zolpidem,alpha1_beta3_gamma2,Ki,7
+zolpidem,alpha2_beta3_gamma2,Efficacy,2
+zolpidem,alpha2_beta3_gamma2,Ki,7

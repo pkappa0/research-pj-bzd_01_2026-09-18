@@ -1,0 +1,8 @@
+pdb_id,title,composition,co_crystal_ligand,resolution_angstrom,bzd_site_assessment,bzd_ligand_present,poc_decision
+6HUP,"human full-length alpha1beta3gamma2L GABA(A)R with diazepam, GABA and Mb38",alpha1beta3gamma2,DZP (diazepam),3.58,exact alpha1beta3gamma2 receptor; BZD ligand in alpha1/gamma2 site,yes,selected alpha1; docking scaffold
+7QNE,human full-length synaptic alpha1beta3gamma2 GABA(A)R with Ro15-4513 and Mb38,alpha1beta3gamma2,EIE (Ro15-4513),2.7,exact alpha1beta3gamma2 receptor; BZD-site ligand,yes,alternative alpha1 candidate
+6X3X,human GABAA receptor alpha1-beta2-gamma2 with GABA plus diazepam,alpha1beta2gamma2,DZP (diazepam),2.92,different beta subtype,yes,not selected; beta2
+9CTJ,native human GABAA receptor beta2-alpha1-beta3-alpha2-gamma2 assembly,beta2-alpha1-beta3-alpha2-gamma2,none,3.74,mixed alpha1/alpha2 and beta2/beta3; contains alpha2-beta3-gamma2 local site,no,selected only as provisional alpha2 local-site construct
+9CX7,native human GABAA receptor beta3-alpha1-gamma2-beta3-alpha2 assembly,beta3-alpha1-gamma2-beta3-alpha2,none,3.3,mixed alpha1/alpha2; not an exact alpha2beta3gamma2 receptor,no,not selected
+9CXC,native human GABAA receptor beta3-alpha1-gamma2-beta2-alpha2 assembly,beta3-alpha1-gamma2-beta2-alpha2,none,3.3,mixed alpha1/alpha2 and beta2/beta3,no,not selected
+9CSB,native human GABAA receptor beta3-alpha1-beta2-alpha2-gamma2 assembly,beta3-alpha1-beta2-alpha2-gamma2,none,3.34,mixed alpha1/alpha2 and beta2/beta3,no,not selected

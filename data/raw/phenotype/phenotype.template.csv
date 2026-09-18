@@ -1,0 +1,2 @@
+drug_id,drug_name_raw,sedation,ataxia,amnesia,anxiolytic_effect,muscle_relaxation,phenotype_scale,source_reference
+example_drug,Example Drug,0,0,0,0,0,binary,replace_with_source

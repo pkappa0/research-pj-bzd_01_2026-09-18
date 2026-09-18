@@ -1,0 +1,6 @@
+receptor,original_residue,common_position,mapping_confidence,mapping_note,alignment_source
+alpha1,TYR160,POS_023,high,synthetic mapping,synthetic
+alpha1,LEU164,POS_024,high,synthetic mapping,synthetic
+alpha1,PHE200,POS_041,medium,synthetic mapping,synthetic
+alpha2,TYR161,POS_023,high,synthetic mapping,synthetic
+alpha2,LEU165,POS_024,high,synthetic mapping,synthetic

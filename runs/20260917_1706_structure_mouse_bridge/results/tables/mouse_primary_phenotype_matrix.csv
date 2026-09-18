@@ -1,0 +1,9 @@
+row_id,phenotype,assay,metric,study_id,evidence_tier,condition,reference,diazepam,alprazolam,triazolam,zolpidem
+Nishino2008_diazepam_2mgkg_60min,motor_impairment,rotarod,positive_mice_fraction,Nishino2008,P1,"2 mg/kg oral, 60 min, n=10","Nishino et al., J Pharmacol Sci 107:349-354 (2008)",0.4,,,
+Nishino2008_diazepam_5mgkg_60min,motor_impairment,rotarod,positive_mice_fraction,Nishino2008,P1,"5 mg/kg oral, 60 min, n=10","Nishino et al., J Pharmacol Sci 107:349-354 (2008)",0.5,,,
+Nishino2008_diazepam_10mgkg_60min,motor_impairment,rotarod,positive_mice_fraction,Nishino2008,P1,"10 mg/kg oral, 60 min, n=10","Nishino et al., J Pharmacol Sci 107:349-354 (2008)",0.9,,,
+Nishino2008_diazepam_20mgkg_60min,motor_impairment,rotarod,positive_mice_fraction,Nishino2008,P1,"20 mg/kg oral, 60 min, n=10","Nishino et al., J Pharmacol Sci 107:349-354 (2008)",1.0,,,
+Nishino2008_triazolam_0.5mgkg_60min,motor_impairment,rotarod,positive_mice_fraction,Nishino2008,P1,"0.5 mg/kg oral, 60 min, n=10","Nishino et al., J Pharmacol Sci 107:349-354 (2008)",,,0.3,
+Nishino2008_triazolam_1mgkg_60min,motor_impairment,rotarod,positive_mice_fraction,Nishino2008,P1,"1 mg/kg oral, 60 min, n=10","Nishino et al., J Pharmacol Sci 107:349-354 (2008)",,,0.4,
+Nishino2008_triazolam_2mgkg_60min,motor_impairment,rotarod,positive_mice_fraction,Nishino2008,P1,"2 mg/kg oral, 60 min, n=10","Nishino et al., J Pharmacol Sci 107:349-354 (2008)",,,0.7,
+Nishino2008_triazolam_5mgkg_60min,motor_impairment,rotarod,positive_mice_fraction,Nishino2008,P1,"5 mg/kg oral, 60 min, n=10","Nishino et al., J Pharmacol Sci 107:349-354 (2008)",,,0.9,

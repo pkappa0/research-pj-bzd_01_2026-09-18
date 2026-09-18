@@ -1,0 +1,4 @@
+drug_id,jaccard_alpha1_vs_alpha2,changed_interaction_feature_count,alpha1_features,alpha2_features,fingerprint_status
+diazepam,0.29411764705882354,12,13,9,computed_from_PLIP
+triazolam,0.1111111111111111,16,11,9,computed_from_PLIP
+zolpidem,0.2857142857142857,10,11,7,computed_from_PLIP

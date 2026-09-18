@@ -1,0 +1,6 @@
+input,path,status,missing_columns,records,unmapped_rows,n_drugs,n_poses,pose_counts_by_drug
+interactions,data/raw/interactions/interactions.csv,missing,,,,,,
+residue_mapping,data/raw/residue_mapping.csv,missing,,,,,,
+fingerprint,derived,no_records,,0.0,0.0,0.0,0.0,
+pharmacology,data/raw/pharmacology/pharmacology.csv,missing,,0.0,,,,
+phenotype,data/raw/phenotype/phenotype.csv,missing,,0.0,,,,

@@ -1,0 +1,171 @@
+{
+  "molecules": [
+    {
+      "atc_classifications": [
+        "N05CD07"
+      ],
+      "availability_type": 1,
+      "biotherapeutic": null,
+      "black_box_warning": 1,
+      "chemical_probe": 0,
+      "chirality": 0,
+      "cross_references": [
+        {
+          "xref_id": "temazepam",
+          "xref_name": "temazepam",
+          "xref_src": "DailyMed"
+        }
+      ],
+      "dosed_ingredient": true,
+      "first_approval": 1981,
+      "first_in_class": 0,
+      "helm_notation": null,
+      "inorganic_flag": 0,
+      "max_phase": "4.0",
+      "molecule_chembl_id": "CHEMBL967",
+      "molecule_hierarchy": {
+        "active_chembl_id": "CHEMBL967",
+        "molecule_chembl_id": "CHEMBL967",
+        "parent_chembl_id": "CHEMBL967"
+      },
+      "molecule_properties": {
+        "alogp": "2.47",
+        "aromatic_rings": 2,
+        "full_molformula": "C16H13ClN2O2",
+        "full_mwt": "300.75",
+        "hba": 3,
+        "hbd": 1,
+        "heavy_atoms": 21,
+        "mw_freebase": "300.75",
+        "np_likeness_score": "-0.40",
+        "num_ro5_violations": 0,
+        "psa": "52.90",
+        "qed_weighted": "0.88",
+        "ro3_pass": "N",
+        "rtb": 1
+      },
+      "molecule_structures": {
+        "canonical_smiles": "CN1C(=O)C(O)N=C(c2ccccc2)c2cc(Cl)ccc21",
+        "molfile": "\n     RDKit          2D\n\n 21 23  0  0  0  0  0  0  0  0999 V2000\n    1.9875   -2.7792    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    1.3042   -1.3417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7500   -2.4917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2917   -2.9292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9917   -1.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7542   -1.7792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3042   -2.1417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.1417   -1.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.1375   -2.8292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.4417   -0.9417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.9417   -3.5500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.0125   -2.1542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4833   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.1625   -0.6417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4833   -1.7667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.1083   -2.8250    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    1.3042   -4.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2417   -3.5542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1208   -4.1750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.9542   -4.7875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.2417   -4.7917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  5  1  0\n  3  4  1  0\n  4  1  2  0\n  5  7  1  0\n  6  3  1  0\n  7  1  1  0\n  8  6  2  0\n  9  3  2  0\n 10  5  2  0\n 11  4  1  0\n 12  7  1  0\n 13  9  1  0\n 14  2  1  0\n 15 13  2  0\n 16 13  1  0\n 17 11  2  0\n 18 11  1  0\n 19 18  2  0\n 20 17  1  0\n 21 19  1  0\n  2  6  1  0\n 21 20  2  0\n 15  8  1  0\nM  END\n> <chembl_id>\nCHEMBL967\n\n> <chembl_pref_name>\nTEMAZEPAM",
+        "standard_inchi": "InChI=1S/C16H13ClN2O2/c1-19-13-8-7-11(17)9-12(13)14(18-15(20)16(19)21)10-5-3-2-4-6-10/h2-9,15,20H,1H3",
+        "standard_inchi_key": "SEQDDYPDSLOBDC-UHFFFAOYSA-N"
+      },
+      "molecule_synonyms": [
+        {
+          "molecule_synonym": "Kentepam",
+          "syn_type": "TRADE_NAME",
+          "synonyms": "KENTEPAM"
+        },
+        {
+          "molecule_synonym": "Normison",
+          "syn_type": "TRADE_NAME",
+          "synonyms": "NORMISON"
+        },
+        {
+          "molecule_synonym": "NSC-246303",
+          "syn_type": "RESEARCH_CODE",
+          "synonyms": "NSC-246303"
+        },
+        {
+          "molecule_synonym": "Restoril",
+          "syn_type": "TRADE_NAME",
+          "synonyms": "RESTORIL"
+        },
+        {
+          "molecule_synonym": "(rs)-temazepam",
+          "syn_type": "OTHER",
+          "synonyms": "(RS)-TEMAZEPAM"
+        },
+        {
+          "molecule_synonym": "Temaz",
+          "syn_type": "TRADE_NAME",
+          "synonyms": "TEMAZ"
+        },
+        {
+          "molecule_synonym": "Temazepam",
+          "syn_type": "ATC",
+          "synonyms": "TEMAZEPAM"
+        },
+        {
+          "molecule_synonym": "Temazepam",
+          "syn_type": "BAN",
+          "synonyms": "TEMAZEPAM"
+        },
+        {
+          "molecule_synonym": "Temazepam",
+          "syn_type": "BNF",
+          "synonyms": "TEMAZEPAM"
+        },
+        {
+          "molecule_synonym": "Temazepam",
+          "syn_type": "FDA",
+          "synonyms": "TEMAZEPAM"
+        },
+        {
+          "molecule_synonym": "Temazepam",
+          "syn_type": "INN",
+          "synonyms": "TEMAZEPAM"
+        },
+        {
+          "molecule_synonym": "Temazepam",
+          "syn_type": "MERCK_INDEX",
+          "synonyms": "TEMAZEPAM"
+        },
+        {
+          "molecule_synonym": "Temazepam",
+          "syn_type": "OTHER",
+          "synonyms": "TEMAZEPAM"
+        },
+        {
+          "molecule_synonym": "Temazepam",
+          "syn_type": "TRADE_NAME",
+          "synonyms": "TEMAZEPAM"
+        },
+        {
+          "molecule_synonym": "Temazepam",
+          "syn_type": "USAN",
+          "synonyms": "TEMAZEPAM"
+        },
+        {
+          "molecule_synonym": "Temazepam",
+          "syn_type": "USP",
+          "synonyms": "TEMAZEPAM"
+        },
+        {
+          "molecule_synonym": "Temazepam civ",
+          "syn_type": "USP",
+          "synonyms": "TEMAZEPAM CIV"
+        },
+        {
+          "molecule_synonym": "WY-3917",
+          "syn_type": "RESEARCH_CODE",
+          "synonyms": "WY-3917"
+        }
+      ],
+      "molecule_type": "Small molecule",
+      "natural_product": 1,
+      "oral": true,
+      "orphan": 0,
+      "parenteral": false,
+      "polymer_flag": 0,
+      "pref_name": "TEMAZEPAM",
+      "prodrug": 0,
+      "structure_type": "MOL",
+      "therapeutic_flag": true,
+      "topical": false,
+      "usan_stem": "-azepam",
+      "usan_stem_definition": "antianxiety agents (diazepam type)",
+      "usan_substem": "-azepam",
+      "usan_year": 1969,
+      "veterinary": 0,
+      "withdrawn_flag": false
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

@@ -1,0 +1,36 @@
+inputs:
+  interactions: data/raw/interactions/interactions.csv
+  pharmacology: data/raw/pharmacology/pharmacology.csv
+  phenotype: data/raw/phenotype/phenotype.csv
+  residue_mapping: data/raw/residue_mapping.csv
+outputs:
+  processed: data/processed
+  figures: results/figures
+  tables: results/tables
+analysis:
+  clustering_method: average
+  fingerprint_similarity: jaccard
+  frequency_distance: euclidean
+  min_nonzero_frequency: 0
+chembl:
+  input_drug_list: data/raw/drug_list.csv
+  raw_output_dir: data/raw/pharmacology/chembl
+  processed_output: data/processed/pharmacology.csv
+  qc_output: results/tables/chembl_qc.csv
+  target_candidates_output: data/raw/pharmacology/chembl/target_candidates.csv
+  api_base: https://www.ebi.ac.uk/chembl/api/data
+  request_timeout_seconds: 45
+  request_delay_seconds: 0.1
+  target_search_terms:
+    - aminobutyric acid receptor
+    - GABA-A
+    - GABA A receptor
+  target_chembl_ids: []
+gtopdb:
+  api_base: https://www.guidetopharmacology.org/services/
+  raw_output_dir: data/raw/gtopdb
+  fallback_csv: data/raw/gtopdb/gtopdb_interactions.csv
+  results_dir: results/tables
+  outputs_dir: outputs
+  request_timeout_seconds: 30
+  request_delay_seconds: 0.1

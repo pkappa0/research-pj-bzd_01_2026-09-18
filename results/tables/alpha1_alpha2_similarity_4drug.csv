@@ -1,0 +1,5 @@
+drug_id,jaccard_similarity,shared_features,alpha1_only_features,alpha2_only_features,changed_features,cosine_similarity_frequency,euclidean_distance_frequency,valid_features,unresolved_mapping_included
+diazepam,0.5555555555555556,5,0,4,4,0.7870437974535283,0.5555555555555556,9,True
+alprazolam,0.7777777777777778,7,0,2,2,0.812721411819416,0.6666666666666667,9,True
+triazolam,0.2222222222222222,2,0,7,7,0.5037394916424782,0.9558139185602917,9,True
+zolpidem,0.5714285714285714,4,0,3,3,0.8627959628145763,0.49690399499995325,7,True

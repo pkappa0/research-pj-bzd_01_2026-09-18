@@ -1,0 +1,49 @@
+{
+  "run_id": "20260917_1926_residue_class_heatmap",
+  "started_at": "2026-09-17T19:26:33+09:00",
+  "completed_at": "2026-09-17T19:26:34+09:00",
+  "analysis_phase": "residue-class-first interaction fingerprint visualization",
+  "analysis_purpose": "Reorder residue frequency heatmaps by chemical residue class, then residue/site, receptor, and interaction type.",
+  "parent_run": "20260917_1925_residue_class_heatmap",
+  "drugs": [
+    "diazepam",
+    "alprazolam",
+    "triazolam",
+    "zolpidem"
+  ],
+  "receptors": {
+    "alpha1": "alpha1_beta3_gamma2",
+    "alpha2": "alpha2_beta3_gamma2_local_9CTJ"
+  },
+  "docking_parameters": {
+    "docking_executed": false,
+    "source_run": "20260917_1925_residue_class_heatmap",
+    "row_normalization": "row mean-centered across four drugs"
+  },
+  "input_files": [
+    "data/raw/lineage/residue_ligand_frequency_matrix.csv",
+    "runs/20260917_1925_residue_class_heatmap/data/raw/lineage/residue_ligand_frequency_matrix.csv"
+  ],
+  "output_files": [
+    "FINAL_REPORT.md",
+    "QC_REPORT.md",
+    "data/raw/lineage/residue_ligand_frequency_matrix.csv",
+    "reports/RESIDUE_CLASS_GROUPED_HEATMAP_REPORT.md",
+    "results/figures/residue_class_grouped_frequency_heatmap.png",
+    "results/figures/residue_class_grouped_row_normalized_heatmap.png",
+    "results/tables/residue_class_grouped_frequency_matrix.csv",
+    "results/tables/residue_class_grouped_row_normalized_matrix.csv"
+  ],
+  "git_commit": null,
+  "code_version": "workspace_code_sha256:b6a651851655f14f",
+  "notes": [
+    "Existing heatmaps and prior runs are immutable.",
+    "Receptor is secondary within each residue/site; alpha1 and alpha2 are adjacent.",
+    "Residue class is visualization-only and interaction type remains separate."
+  ],
+  "qc_status": "COMPLETED_WITH_QC",
+  "source_run": "20260917_1925_residue_class_heatmap",
+  "source_files": [
+    "data/raw/lineage/residue_ligand_frequency_matrix.csv"
+  ]
+}

@@ -1,0 +1,11 @@
+drug_id,input_drug_name,gtopdb_alpha1_quantitative,gtopdb_alpha2_quantitative,gtopdb_both,combined_alpha1_quantitative,combined_alpha2_quantitative,combined_alpha1_alpha2,best_tier,tier1_pairs,tier2_pairs,tier3_pairs,chEMBL_strict_comparable,gtopdb_subtype_specific_missing
+diazepam,Diazepam,False,False,False,True,True,True,1.0,13,83,82,True,True
+lorazepam,Lorazepam,False,False,False,True,False,False,,0,0,0,False,True
+clonazepam,Clonazepam,False,False,False,True,False,False,,0,0,0,False,True
+alprazolam,Alprazolam,False,False,False,True,True,True,1.0,1,0,2,False,True
+midazolam,Midazolam,False,False,False,True,False,False,,0,0,0,False,True
+temazepam,Temazepam,False,False,False,True,False,False,,0,0,0,False,True
+triazolam,Triazolam,False,False,False,True,True,True,1.0,1,0,0,True,True
+zolpidem,Zolpidem,False,False,False,True,True,True,1.0,9,45,40,True,True
+zopiclone,Zopiclone,False,False,False,True,False,False,,0,0,0,False,True
+zaleplon,Zaleplon,False,False,False,True,True,True,3.0,0,0,1,False,True

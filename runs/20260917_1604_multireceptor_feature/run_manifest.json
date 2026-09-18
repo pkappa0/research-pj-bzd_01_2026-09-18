@@ -1,0 +1,76 @@
+{
+  "run_id": "20260917_1604_multireceptor_feature",
+  "started_at": "2026-09-17T16:04:41+09:00",
+  "completed_at": "2026-09-17T16:04:57+09:00",
+  "analysis_phase": "multi-receptor fingerprint feature engineering",
+  "analysis_purpose": "Versioned re-run of the four-drug alpha1/alpha2 feature-engineering PoC with immutable input lineage.",
+  "parent_run": "legacy_unversioned_4drug_poc",
+  "drugs": [
+    "diazepam",
+    "alprazolam",
+    "triazolam",
+    "zolpidem"
+  ],
+  "receptors": {
+    "alpha1": "alpha1_beta3_gamma2",
+    "alpha2": "alpha2_beta3_gamma2_local_9CTJ"
+  },
+  "docking_parameters": {
+    "docking_executed": false,
+    "source": "existing four-drug docking outputs",
+    "poses": "as supplied by source run"
+  },
+  "input_files": [
+    "config/code_snapshot/multireceptor_poc.py",
+    "config/code_snapshot/poc.yaml",
+    "data/processed/primary_tier1_pharmacology_raw.csv",
+    "outputs/residue_mapping.csv",
+    "raw/docking_results_4drug.csv",
+    "raw/plip_interactions_4drug.csv",
+    "raw/primary_tier1_pharmacology_raw.csv",
+    "raw/residue_mapping.csv",
+    "results/tables/docking_results_4drug.csv",
+    "results/tables/plip_interactions_4drug.csv"
+  ],
+  "output_files": [
+    "FINAL_REPORT.md",
+    "QC_REPORT.md",
+    "config/code_snapshot/multireceptor_poc.py",
+    "config/code_snapshot/poc.yaml",
+    "figures/alpha1_interdrug_fingerprint_heatmap.png",
+    "figures/alpha2_interdrug_fingerprint_heatmap.png",
+    "figures/combined_multireceptor_fingerprint_heatmap.png",
+    "figures/interaction_distance_heatmap.png",
+    "figures/interaction_frequency_heatmap.png",
+    "processed/alpha1_drug_feature_matrix.csv",
+    "processed/alpha2_drug_feature_matrix.csv",
+    "processed/combined_alpha1_alpha2_feature_matrix.csv",
+    "processed/drug_pharmacology_labels.csv",
+    "raw/docking_results_4drug.csv",
+    "raw/plip_interactions_4drug.csv",
+    "raw/primary_tier1_pharmacology_raw.csv",
+    "raw/residue_mapping.csv",
+    "reports/MULTIRECEPTOR_FINGERPRINT_REPORT.md",
+    "tables/alpha1_interdrug_similarity.csv",
+    "tables/alpha1_variable_features.csv",
+    "tables/alpha2_interdrug_similarity.csv",
+    "tables/alpha2_variable_features.csv",
+    "tables/ml_dataset_readiness_qc.csv",
+    "tables/unresolved_feature_qc.csv"
+  ],
+  "git_commit": null,
+  "code_version": "workspace_code_sha256:4587f90ffdd2f4c3",
+  "notes": [
+    "Legacy four-drug outputs are copied byte-for-byte into raw/ and never modified.",
+    "This phase is descriptive feature engineering; no ML training or inferential statistics are run.",
+    "If no prior versioned run exists, parent_run identifies the legacy unversioned four-drug phase."
+  ],
+  "qc_status": "NOT READY FOR MODEL TRAINING",
+  "source_run": "legacy_unversioned_4drug_poc",
+  "source_files": [
+    "results/tables/plip_interactions_4drug.csv",
+    "results/tables/docking_results_4drug.csv",
+    "outputs/residue_mapping.csv",
+    "data/processed/primary_tier1_pharmacology_raw.csv"
+  ]
+}

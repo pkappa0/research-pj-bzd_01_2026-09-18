@@ -1,0 +1,79 @@
+{
+  "activities": [
+    {
+      "action_type": {
+        "action_type": "POSITIVE ALLOSTERIC MODULATOR",
+        "description": "Enhances the action of the endogenous ligand of a receptor through binding to a site distinct from that ligand",
+        "parent_type": "POSITIVE MODULATOR"
+      },
+      "activity_comment": null,
+      "activity_id": 29089261,
+      "activity_properties": [
+        {
+          "comments": null,
+          "relation": "=",
+          "result_flag": 0,
+          "standard_relation": "=",
+          "standard_text_value": null,
+          "standard_type": "DOSE",
+          "standard_units": "nM",
+          "standard_value": "100.0",
+          "text_value": null,
+          "type": "DOSE",
+          "units": "nM",
+          "value": "100.0"
+        }
+      ],
+      "assay_chembl_id": "CHEMBL6082003",
+      "assay_description": "Positive allosteric modulation of rat alpha1beta2gamma2 GABA-A receptor expressed in Xenopus laevis Oocyte assessed as increase in GABA-induced current at 100 nM by electrophysiological recordings relative to GABA",
+      "assay_type": "B",
+      "assay_variant_accession": null,
+      "assay_variant_mutation": null,
+      "bao_endpoint": "BAO_0001103",
+      "bao_format": "BAO_0000219",
+      "bao_label": "cell-based format",
+      "canonical_smiles": "Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1",
+      "data_validity_comment": null,
+      "data_validity_description": null,
+      "document_chembl_id": "CHEMBL6078707",
+      "document_journal": "J Med Chem",
+      "document_year": 2024,
+      "ligand_efficiency": null,
+      "modality": null,
+      "molecule_chembl_id": "CHEMBL911",
+      "molecule_pref_name": "ZOLPIDEM",
+      "parent_molecule_chembl_id": "CHEMBL911",
+      "pchembl_value": null,
+      "potential_duplicate": 0,
+      "qudt_units": "http://qudt.org/vocab/unit#Percent",
+      "record_id": 4665700,
+      "relation": "=",
+      "src_id": 1,
+      "standard_flag": 0,
+      "standard_relation": "=",
+      "standard_text_value": null,
+      "standard_type": "Activity",
+      "standard_units": "%",
+      "standard_upper_value": null,
+      "standard_value": "180.0",
+      "target_chembl_id": "CHEMBL2095167",
+      "target_organism": "Rattus norvegicus",
+      "target_pref_name": "GABA-A receptor; alpha-1/beta-2/gamma-2",
+      "target_tax_id": "10116",
+      "text_value": null,
+      "toid": null,
+      "type": "Activity",
+      "units": "%",
+      "uo_units": "UO_0000187",
+      "upper_value": null,
+      "value": "180.0"
+    }
+  ],
+  "page_meta": {
+    "limit": 10,
+    "next": null,
+    "offset": 70,
+    "previous": "/chembl/api/data/activity.json?limit=10&offset=60&molecule_chembl_id=CHEMBL911&target_chembl_id__in=CHEMBL1907597%2CCHEMBL1907607%2CCHEMBL2093872%2CCHEMBL2094107%2CCHEMBL2094120%2CCHEMBL2094121%2CCHEMBL2094122%2CCHEMBL2094130%2CCHEMBL2094133%2CCHEMBL2095167%2CCHEMBL2095172%2CCHEMBL2095190%2CCHEMBL2109243%2CCHEMBL2109244%2CCHEMBL2111327%2CCHEMBL2111339%2CCHEMBL2111343%2CCHEMBL2111365%2CCHEMBL2111366%2CCHEMBL2111370",
+    "total_count": 71
+  }
+}

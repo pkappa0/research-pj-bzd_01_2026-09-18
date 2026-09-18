@@ -1,0 +1,11 @@
+drug_id,alpha1_activity_count,alpha2_activity_count,primary_presence_category
+diazepam,15,16,both
+lorazepam,0,0,neither
+clonazepam,0,0,neither
+alprazolam,0,0,neither
+midazolam,0,0,neither
+temazepam,0,0,neither
+triazolam,1,1,both
+zolpidem,9,9,both
+zopiclone,0,0,neither
+zaleplon,0,1,alpha2_only

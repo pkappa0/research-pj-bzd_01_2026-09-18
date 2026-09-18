@@ -1,0 +1,6 @@
+input,path,status,missing_columns,records,unmapped_rows,n_drugs,n_poses,pose_counts_by_drug
+interactions,/Users/k-atsumi/Documents/Codex/2026-09-17/files-pasted-by-the-user-benzodiazepine/runs/20260917_1602_base_pipeline/raw/interactions.csv,missing,,,,,,
+residue_mapping,/Users/k-atsumi/Documents/Codex/2026-09-17/files-pasted-by-the-user-benzodiazepine/runs/20260917_1602_base_pipeline/raw/residue_mapping.csv,missing,,,,,,
+fingerprint,derived,no_records,,0.0,0.0,0.0,0.0,
+pharmacology,/Users/k-atsumi/Documents/Codex/2026-09-17/files-pasted-by-the-user-benzodiazepine/runs/20260917_1602_base_pipeline/raw/pharmacology.csv,missing,,0.0,,,,
+phenotype,/Users/k-atsumi/Documents/Codex/2026-09-17/files-pasted-by-the-user-benzodiazepine/runs/20260917_1602_base_pipeline/raw/phenotype.csv,missing,,0.0,,,,

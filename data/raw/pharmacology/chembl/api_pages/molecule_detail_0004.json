@@ -1,0 +1,140 @@
+{
+  "atc_classifications": [
+    "N05CD08"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": null,
+  "black_box_warning": 1,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [
+    {
+      "xref_id": "midazolam",
+      "xref_name": "midazolam",
+      "xref_src": "DailyMed"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 1985,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL655",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL655",
+    "molecule_chembl_id": "CHEMBL655",
+    "parent_chembl_id": "CHEMBL655"
+  },
+  "molecule_properties": {
+    "alogp": "4.32",
+    "aromatic_rings": 3,
+    "full_molformula": "C18H13ClFN3",
+    "full_mwt": "325.77",
+    "hba": 3,
+    "hbd": 0,
+    "heavy_atoms": 23,
+    "mw_freebase": "325.77",
+    "np_likeness_score": "-0.60",
+    "num_ro5_violations": 0,
+    "psa": "30.18",
+    "qed_weighted": "0.65",
+    "ro3_pass": "N",
+    "rtb": 1
+  },
+  "molecule_structures": {
+    "canonical_smiles": "Cc1ncc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2",
+    "molfile": "\n     RDKit          2D\n\n 23 26  0  0  0  0  0  0  0  0999 V2000\n    5.7667   -3.9167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    5.2000   -5.0750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.7750   -5.5250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.2000   -4.3542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.4625   -5.3542    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    6.3542   -2.9417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    6.4542   -4.0667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.6917   -3.2167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4250   -6.1292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.8042   -3.4667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.7542   -4.7292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.5875   -4.0167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.5917   -5.4375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.7667   -6.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.9750   -5.0792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.9750   -4.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.4875   -6.7625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    3.3667   -5.4375    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    4.6917   -6.1292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.0792   -2.8625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4167   -7.3500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.3375   -6.7417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7042   -7.3542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  4  2  0\n  3  2  1  0\n  4  1  1  0\n  5 11  1  0\n  6  8  2  0\n  7  1  1  0\n  8  1  1  0\n  9  3  1  0\n 10  7  2  0\n 11  7  1  0\n 12  4  1  0\n 13  2  1  0\n 14  9  1  0\n 15 16  1  0\n 16 12  2  0\n 17 14  1  0\n 18 15  1  0\n 19  9  2  0\n 20  8  1  0\n 21 14  2  0\n 22 19  1  0\n 23 22  2  0\n  6 10  1  0\n  5  3  2  0\n 15 13  2  0\n 23 21  1  0\nM  END\n> <chembl_id>\nCHEMBL655\n\n> <chembl_pref_name>\nMIDAZOLAM",
+    "standard_inchi": "InChI=1S/C18H13ClFN3/c1-11-21-9-13-10-22-18(14-4-2-3-5-16(14)20)15-8-12(19)6-7-17(15)23(11)13/h2-9H,10H2,1H3",
+    "standard_inchi_key": "DDLIGBOFAVUZHB-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Midazolam",
+      "syn_type": "ATC",
+      "synonyms": "MIDAZOLAM"
+    },
+    {
+      "molecule_synonym": "Midazolam",
+      "syn_type": "BAN",
+      "synonyms": "MIDAZOLAM"
+    },
+    {
+      "molecule_synonym": "Midazolam",
+      "syn_type": "FDA",
+      "synonyms": "MIDAZOLAM"
+    },
+    {
+      "molecule_synonym": "Midazolam",
+      "syn_type": "INN",
+      "synonyms": "MIDAZOLAM"
+    },
+    {
+      "molecule_synonym": "Midazolam",
+      "syn_type": "JAN",
+      "synonyms": "MIDAZOLAM"
+    },
+    {
+      "molecule_synonym": "Midazolam",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "MIDAZOLAM"
+    },
+    {
+      "molecule_synonym": "Midazolam",
+      "syn_type": "OTHER",
+      "synonyms": "MIDAZOLAM"
+    },
+    {
+      "molecule_synonym": "Midazolam",
+      "syn_type": "USP",
+      "synonyms": "MIDAZOLAM"
+    },
+    {
+      "molecule_synonym": "Midazolam civ",
+      "syn_type": "USP",
+      "synonyms": "MIDAZOLAM CIV"
+    },
+    {
+      "molecule_synonym": "Midazolam in 0.8% sodium chloride",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "MIDAZOLAM IN 0.8% SODIUM CHLORIDE"
+    },
+    {
+      "molecule_synonym": "Midazolam in 0.9% sodium chloride",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "MIDAZOLAM IN 0.9% SODIUM CHLORIDE"
+    },
+    {
+      "molecule_synonym": "Nayzilam",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "NAYZILAM"
+    },
+    {
+      "molecule_synonym": "USL-261",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "USL-261"
+    },
+    {
+      "molecule_synonym": "USL261",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "USL261"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": true,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "MIDAZOLAM",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": true,
+  "topical": true,
+  "usan_stem": null,
+  "usan_stem_definition": null,
+  "usan_substem": null,
+  "usan_year": 1978,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

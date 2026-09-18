@@ -1,0 +1,10 @@
+subunit_scope,residue_label,common_position,validation_class,evidence_summary,pmid,doi,source_url
+gamma2,TYR58,BZD_GAMMA2_058,consistent,Direct proximity/mutagenesis evidence for gamma2 Tyr58 in classical BZD pocket,9351978,,https://pubmed.ncbi.nlm.nih.gov/9351978/
+gamma2,PHE77,BZD_GAMMA2_077,consistent,gamma2 Phe77 is required for high-affinity binding/modulation of several BZD-site ligands,9351978,,https://pubmed.ncbi.nlm.nih.gov/9351978/
+gamma2,ASN60,BZD_GAMMA2_060,consistent,Cysteine-reactive ligand study located gamma2 Asn60 relative to classical BZDs,,10.1021/cb500186a,https://pubs.acs.org/doi/10.1021/cb500186a
+alpha1/alpha2,HIS102/H101,BZD_SITE_102,consistent,Conserved alpha histidine is required for diazepam/BZD agonist sensitivity; numbering differs by construct,1346133,,https://pubmed.ncbi.nlm.nih.gov/1346133/
+alpha1,PHE100,BZD_SITE_100,partially_consistent,Loop-A neighboring Phe100 is close to the BZD pocket; direct ligand proximity is reported for adjacent alpha residues,17854801,,https://pubmed.ncbi.nlm.nih.gov/17854801/
+alpha1,LYS156/157,BZD_SITE_156/BZD_SITE_157,not_established,No direct primary residue-specific validation was identified in the searched set,,,
+alpha1,SER205/206,BZD_SITE_205/BZD_SITE_206,partially_consistent,Alpha loop-C positions 206/209 influence BZD-site ligand affinity; exact numbering differs,9380031,,https://pubmed.ncbi.nlm.nih.gov/9380031/
+alpha1,TYR210/211,BZD_SITE_210/BZD_SITE_211,consistent,Alpha tyrosines near 159/209-210 are reported as critical for diazepam binding/modulation and aromatic pocket structure,9145922,10.1124/mol.51.5.833,https://pubmed.ncbi.nlm.nih.gov/9145922/
+alpha1/alpha2,BZD interface,all,partially_consistent,Structural review places F100/H102/Y160/Y210 and gamma2 Y58/F77 at the alpha-gamma BZD interface,,10.1038/s41586-018-0255-3,https://www.nature.com/articles/s41586-018-0255-3

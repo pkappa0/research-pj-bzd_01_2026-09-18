@@ -1,0 +1,2 @@
+drug_id,drug_name_raw,receptor,pose_id,original_residue,interaction_type,pdb_id,chain,source_file
+example_drug,Example Drug,alpha1,pose_001,TYR160,hydrogen_bond,example.pdb,A,plip_report.csv

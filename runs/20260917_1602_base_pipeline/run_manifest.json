@@ -1,0 +1,60 @@
+{
+  "run_id": "20260917_1602_base_pipeline",
+  "started_at": "2026-09-17T16:02:17+09:00",
+  "completed_at": "2026-09-17T16:02:18+09:00",
+  "analysis_phase": "base_pipeline",
+  "analysis_purpose": "General interaction-fingerprint pipeline with immutable run-level outputs and input QC.",
+  "parent_run": "20260917_1559_multireceptor_feature",
+  "drugs": [],
+  "receptors": {},
+  "docking_parameters": {
+    "docking_executed": false,
+    "config_analysis": {
+      "clustering_method": "average",
+      "fingerprint_similarity": "jaccard",
+      "frequency_distance": "euclidean",
+      "min_nonzero_frequency": 0
+    }
+  },
+  "input_files": [
+    "config/poc.yaml",
+    "data/raw/interactions/interactions.csv",
+    "data/raw/pharmacology/pharmacology.csv",
+    "data/raw/phenotype/phenotype.csv",
+    "data/raw/residue_mapping.csv"
+  ],
+  "output_files": [
+    "FINAL_REPORT.md",
+    "QC_REPORT.md",
+    "config/poc.yaml",
+    "figures/fingerprint_binary_heatmap.png",
+    "figures/fingerprint_frequency_heatmap.png",
+    "figures/fingerprint_similarity_heatmap.png",
+    "figures/integrated_heatmap.png",
+    "figures/pharmacology_heatmap.png",
+    "figures/phenotype_heatmap.png",
+    "processed/fingerprint_binary.csv",
+    "processed/fingerprint_frequency.csv",
+    "processed/fingerprint_similarity.csv",
+    "processed/integrated_dataset.csv",
+    "processed/pharmacology_processed.csv",
+    "processed/phenotype_processed.csv",
+    "processed/residue_mapping.csv",
+    "tables/exploratory_correlations.csv",
+    "tables/qc_summary.csv"
+  ],
+  "git_commit": null,
+  "code_version": "workspace_code_sha256:aea2bb0db43bf000",
+  "notes": [
+    "The requested run-directory policy is enforced by this wrapper.",
+    "Existing legacy outputs are not modified."
+  ],
+  "qc_status": "COMPLETED_WITH_QC",
+  "source_run": "20260917_1559_multireceptor_feature",
+  "source_files": [
+    "data/raw/interactions/interactions.csv",
+    "data/raw/pharmacology/pharmacology.csv",
+    "data/raw/phenotype/phenotype.csv",
+    "data/raw/residue_mapping.csv"
+  ]
+}
