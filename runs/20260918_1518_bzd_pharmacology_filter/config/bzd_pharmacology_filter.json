@@ -1,0 +1,16 @@
+{
+  "source_run": "runs/20260918_1117_chembl_acquisition",
+  "expected_activity_count": 434,
+  "rule_version": "1.0.0",
+  "primary_policy": "Require an explicit single alpha1 or alpha2, one beta, gamma2 composition in BOTH target name and assay description, a specific protein-complex target, and no review flags. No union or completion of partial descriptions.",
+  "numeric_policy": "Point-comparison counts require PRIMARY, finite value, exact '=' relation, reported compatible units and assay species, no ChEMBL potential_duplicate flag. All original rows remain available.",
+  "species_policy": "Use the reported assay organism only, never fill it from target or prose. Conflicting organism evidence gives unknown and REVIEW; preserve each source separately.",
+  "pair_policy": "Same compound, document, species, beta/gamma background, endpoint/type/unit/relation and subtype-masked recorded assay context; no averaging, ratios or claim of unreported conditions being equal.",
+  "existing_files_policy": "Do not update existing files, including runs/LATEST_RUN.txt.",
+  "references": [
+    "https://chembl.gitbook.io/chembl-interface-documentation/frequently-asked-questions/chembl-data-questions",
+    "https://www.nature.com/articles/s41586-018-0255-3",
+    "https://www.nature.com/articles/s41586-018-0832-5",
+    "https://pubmed.ncbi.nlm.nih.gov/3035434/"
+  ]
+}

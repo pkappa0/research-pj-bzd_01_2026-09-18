@@ -1,0 +1,11 @@
+molecule_chembl_id,drug_id,ifp_available,alpha1_primary_data,alpha2_primary_data,alpha1_usable_count,alpha2_usable_count,binding_data,functional_data,human_data,primary_activity_count,comparable_activity_count,review_activity_count,review_flag_count,recorded_context_pair_count,both_subtypes_present,both_subtypes_point_usable,reviewed_alpha1_mentions,reviewed_alpha2_mentions,category_counts,docking_triage,additional_docking_coverage_rank
+CHEMBL12,diazepam,True,True,True,12,5,True,True,True,34,17,90,151,3,True,True,33,9,"{""EXCLUDE"":11,""PRIMARY"":34,""REVIEW"":90,""SECONDARY"":128}",existing_ifp,
+CHEMBL580,lorazepam,False,False,False,0,0,False,False,False,0,0,2,3,0,False,False,2,0,"{""REVIEW"":2}",insufficient_subtype_data,
+CHEMBL452,clonazepam,False,False,False,0,0,False,False,False,0,0,5,7,0,False,False,2,0,"{""EXCLUDE"":2,""REVIEW"":5,""SECONDARY"":9}",insufficient_subtype_data,
+CHEMBL661,alprazolam,True,True,True,1,1,True,False,True,2,2,11,28,1,True,True,4,2,"{""EXCLUDE"":1,""PRIMARY"":2,""REVIEW"":11,""SECONDARY"":2}",existing_ifp,
+CHEMBL655,midazolam,False,False,False,0,0,False,False,False,0,0,2,3,0,False,False,2,0,"{""REVIEW"":2,""SECONDARY"":1}",insufficient_subtype_data,
+CHEMBL967,temazepam,False,False,False,0,0,False,False,False,0,0,3,4,0,False,False,2,0,"{""REVIEW"":3}",insufficient_subtype_data,
+CHEMBL646,triazolam,True,True,True,0,0,False,False,False,2,0,2,3,0,True,False,2,0,"{""PRIMARY"":2,""REVIEW"":2,""SECONDARY"":8}",existing_ifp,
+CHEMBL911,zolpidem,True,True,True,3,5,True,True,True,32,8,33,69,0,True,True,15,4,"{""PRIMARY"":32,""REVIEW"":33,""SECONDARY"":44}",existing_ifp,
+CHEMBL135400,zopiclone,False,False,False,0,0,False,False,False,0,0,3,5,0,False,False,3,0,"{""REVIEW"":3,""SECONDARY"":1}",insufficient_subtype_data,
+CHEMBL1521,zaleplon,False,False,False,0,0,False,False,False,0,0,6,8,0,False,False,3,1,"{""REVIEW"":6}",manual_review_before_docking_priority,

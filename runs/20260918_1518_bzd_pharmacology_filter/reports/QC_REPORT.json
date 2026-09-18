@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "checks": {
+    "expected_source_count": true,
+    "activity_id_one_to_one_in_order": true,
+    "unique_activity_ids": true,
+    "all_rows_exactly_one_category": true,
+    "category_total_equals_source": true,
+    "every_original_field_preserved_including_null_relation_and_ids": true,
+    "no_review_in_primary": true,
+    "registry_ids_unique_and_exactly_cover_source": true,
+    "species_not_imputed": true,
+    "composition_not_imputed": true,
+    "censored_values_never_point_usable": true,
+    "group_keys_keep_composition_endpoint_species_unit_document_assay_separate": true,
+    "groups_cover_primary_once": true,
+    "pairs_match_recorded_context_and_beta_gamma": true,
+    "input_snapshots_byte_identical": true,
+    "preexisting_tracked_files_unchanged": true,
+    "jsonl_source_values_roundtrip": true,
+    "csv_id_and_relation_roundtrip": true
+  },
+  "tests": {
+    "tests": 70,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "status": "PASSED",
+    "source_sha256": "26c299aafe6d7167a55abb2607716d6dec3d4446d146635a62d4408c6e0c1957"
+  },
+  "source_activity_count": 434,
+  "category_counts": {
+    "SECONDARY": 193,
+    "EXCLUDE": 14,
+    "REVIEW": 157,
+    "PRIMARY": 70
+  },
+  "source_raw_responses_verified": 94,
+  "source_input_sha256": {
+    "config/compound_registry.csv": "57fdf1c0de49b0588aaf7282dce25fc98538c078a905e6d9dc8b47e00d68f94a",
+    "processed/activities.jsonl": "9a33ccabba43aeccac2706e5e6b07a660fe430ce48e04502e8b8aa5a18a507e9",
+    "processed/assays.jsonl": "b303052d80867e967b8c7e2be9e9b81c32f52e990302783e1ee5e175b4df5c18",
+    "processed/compounds.jsonl": "6645c46f566a6e80ba2ad77a9369e37c4d089666cbf044a9dac3aa7e23f7fc60",
+    "processed/documents.jsonl": "29d46ad9ce8395279a97a00095f8bd5ec4ddcf1f6f3779e0e53f334a0d4edae7",
+    "processed/targets.jsonl": "030a5da36fee0ff97f1079c4a10d33155680b72d017031ed756c9bf05832882d",
+    "raw/requests.jsonl": "6ac4c005699647f19fe777811f1a9844b7ede91ddf97031c02d030b53cf15f72",
+    "run_manifest.json": "5b8504229fc8351689f97d8037cca9089a6f88729d86924bfe18a6f3713debd2"
+  },
+  "preexisting_tracked_file_count": 602
+}
