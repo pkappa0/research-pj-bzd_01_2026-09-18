@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "frequency_threshold": "0.40",
+  "maximum_absolute_difference": "2/9",
+  "exclude_if": "both frequencies strictly below threshold AND absolute difference <= maximum",
+  "arithmetic": "exact rational contacting-pose counts / audited pose denominator",
+  "missing_policy": "retain missing features, never impute",
+  "geometry_policy": "retain in reduced only when its parent pi-stack frequency is retained; no geometry threshold",
+  "purpose": "presentation only, not significance or ML feature selection",
+  "ifp_run": "runs/20260918_2126_diazepam_alprazolam_integration",
+  "pharmacology_run": "runs/20260918_1518_bzd_pharmacology_filter",
+  "reference_run": "runs/20260919_0201_receptor_fixed_drug_comparison",
+  "docking_source": "runs/20260917_1706_structure_mouse_bridge/data/raw/lineage/docking_results_4drug.csv",
+  "compound_ids": {"diazepam": "CHEMBL12", "alprazolam": "CHEMBL661"}
+}

@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "checks": {
+    "raw_ifp_matches_previous_run": true,
+    "activity_values_reextracted": true,
+    "endpoint_columns_separate": true,
+    "blocks_not_averaged": true,
+    "geometry_na_preserved": true,
+    "filtered_features_retained_in_raw": true,
+    "mismatch_preserved": true,
+    "source_ids_present": true,
+    "missing_y_not_zero": true,
+    "n_two_no_training": true,
+    "baseline_union_bounded": true,
+    "preexisting_tracked_files_unchanged": true
+  },
+  "tests": {
+    "tests": 126,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "status": "PASSED",
+    "source_sha256": "96435d07e555153cc9dbb2b05a790374a9c09a42360da4852eec34a97b062db7"
+  },
+  "n_drugs": 2,
+  "x_features": 54,
+  "observed_y": 4,
+  "retained_frequency_features": 9,
+  "retained_geometry_features": 6,
+  "training_executed": false,
+  "preexisting_tracked_file_count": 721,
+  "figures_visually_checked": true
+}
