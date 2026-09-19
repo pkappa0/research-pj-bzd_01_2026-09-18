@@ -1,0 +1,17 @@
+{
+  "frozen_at": "2026-09-19T19:49:11.611844+09:00",
+  "artifacts": {
+    "tables/feature_phenotype_ranks.csv": "9391abd484ef012b5132794f7f68bc9e53cebee9a2bf637156ee9ee6dce6616b",
+    "tables/feature_phenotype_spearman.csv": "de3fc205e6df804c779a45681d34a22ab8f9e40cbbc1fec3c06045be30c36edf",
+    "tables/fingerprint_phenotype_joined.csv": "583ed45e2585545e311d83e6e827cf976ef22881fedcf791488179f81d84d8e9",
+    "tables/phenotype_axis_mapping.csv": "c53f3ad465b5402597c50a6a4c8e948f297daaf0314d980c2bb21a40000c2913",
+    "tables/phenotype_comparability_tiers.csv": "73d2679929014a9d5c52e64bc9b77c4938616df695a3972542c21519efc424f1",
+    "tables/phenotype_evidence_raw.csv": "156c8c461c7813ce8e0045b4639d65d15dcedbe9b6da88ae5f79d9d9b807cf55",
+    "tables/phenotype_missingness_summary.csv": "73bd0557aaf8952ddd92f47f6f3505f8911bfbeef898c97f2e11b8c7cf75ed56",
+    "tables/phenotype_normalized_within_study.csv": "1eea9d38fdca800809f6b04984158a32d02ded4bdd90744b73fc250bda026179",
+    "tables/phenotype_profile_10drug.csv": "4d30fbac4c551ceb5bb32cdea06e16d5e79dad4ed3c8576d8f051d707ccd8baf",
+    "tables/source_audit_corrections.csv": "cf63e6a132f4b18127a6597b7f2a3f11b48c89e025c8a0541d5428f4cb60e44e",
+    "tables/structural_vs_phenotype_similarity.csv": "d444f0edf43759441ab8491055b200886553f87883cb22422dcaa8e7f543e9c4",
+    "tables/within_study_dose_response.csv": "9acba245b2b1b1324db76862790f6842920099262c32c599cd8a56bf94a6136f"
+  }
+}

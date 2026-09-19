@@ -1,0 +1,9 @@
+assay,phenotype_axis,direction,caveat
+beam_walking,P1,higher impairment score = stronger impairment,"Assay is a proxy, not a pure physiological axis; loaded_grid mixes strength/coordination"
+loaded_grid,P2,higher impairment score = stronger impairment,"Assay is a proxy, not a pure physiological axis; loaded_grid mixes strength/coordination"
+locomotor_activity,P3,higher impairment score = stronger impairment,"Assay is a proxy, not a pure physiological axis; loaded_grid mixes strength/coordination"
+loss_of_righting_reflex,P4,higher impairment score = stronger impairment,"Assay is a proxy, not a pure physiological axis; loaded_grid mixes strength/coordination"
+open_field,P3,higher impairment score = stronger impairment,"Assay is a proxy, not a pure physiological axis; loaded_grid mixes strength/coordination"
+righting_reflex_with_thiopental,P4,higher impairment score = stronger impairment,"Assay is a proxy, not a pure physiological axis; loaded_grid mixes strength/coordination"
+rotarod,P1,higher impairment score = stronger impairment,"Assay is a proxy, not a pure physiological axis; loaded_grid mixes strength/coordination"
+traction,P2,higher impairment score = stronger impairment,"Assay is a proxy, not a pure physiological axis; loaded_grid mixes strength/coordination"

@@ -1,0 +1,70 @@
+evidence_id,drug,phenotype_axis,block_key,tier,tier_reason,primary_eligible
+Y0001,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0002,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0003,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0004,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0005,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0006,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0007,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0008,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0009,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|10.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0010,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|10.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0011,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|10.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0012,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|10.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0013,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|20.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0014,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|20.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0015,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|20.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0016,diazepam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|20.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0017,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|0.5|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0018,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|0.5|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0019,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|0.5|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0020,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|0.5|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0021,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|1.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0022,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|1.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0023,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|1.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0024,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|1.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0025,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0026,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0027,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0028,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0029,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0030,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0031,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0032,triazolam,P1,Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,1,same fully recorded study/assay/dose/time/route/vehicle; two drugs,True
+Y0033,triazolam,P1,Tanaka2008|rotarod|mouse|ddY|male|intraperitoneal|0.3|mg/kg|15/30/60 min; qualitative aggregate|qualitative_motor_coordination_result|0.5% PPG|none|acute,4,qualitative only; numerical value NA,False
+Y0034,zolpidem,P1,Tanaka2008|rotarod|mouse|ddY|male|intraperitoneal|3.0|mg/kg|15/30/60 min; qualitative aggregate|qualitative_motor_coordination_result|saline|none|acute,4,qualitative only; numerical value NA,False
+Y0035,zolpidem,P4,Tanaka2008|righting_reflex_with_thiopental|mouse|ddY|male|intraperitoneal|3.0|mg/kg|duration after thiopental|righting_reflex_duration|saline|thiopental 20 mg/kg IV 10 min after drug|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0036,zolpidem,P4,Tanaka2008|righting_reflex_with_thiopental|mouse|ddY|male|intraperitoneal|10.0|mg/kg|duration after thiopental|righting_reflex_duration|saline|thiopental 20 mg/kg IV 10 min after drug|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0037,triazolam,P4,Tanaka2008|righting_reflex_with_thiopental|mouse|ddY|male|intraperitoneal|0.3|mg/kg|duration after thiopental|righting_reflex_duration|0.5% PPG|thiopental 20 mg/kg IV 10 min after drug|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0038,diazepam,P1,Bourin1992|rotarod|mouse|not_reported_in_extracted_table|NA|not_reported_in_abstract|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0039,alprazolam,P1,Bourin1992|rotarod|mouse|not_reported_in_extracted_table|NA|not_reported_in_abstract|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0040,diazepam,P1,Bayley1996|rotarod|mouse|not_reported_in_extracted_table|NA|not_reported_in_abstract|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0041,zolpidem,P1,Bayley1996|rotarod|mouse|not_reported_in_extracted_table|NA|not_reported_in_abstract|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0042,alprazolam,P1,Henauer1984|rotarod|mouse|not_reported_in_extracted_table|NA|not_reported_in_abstract|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0043,alprazolam,P3,Lopez1988|open_field|mouse|not_reported_in_extracted_table|NA|not_reported_in_abstract|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0044,triazolam,P3,Lopez1988|open_field|mouse|not_reported_in_extracted_table|NA|not_reported_in_abstract|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0045,zopiclone,P4,Tanaka2008|righting_reflex_with_thiopental|mouse|ddY|male|intraperitoneal|3.0|mg/kg|duration after thiopental|righting_reflex_duration|0.5% PPG|thiopental 20 mg/kg IV 10 min after drug|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0046,zopiclone,P4,Tanaka2008|righting_reflex_with_thiopental|mouse|ddY|male|intraperitoneal|6.0|mg/kg|duration after thiopental|righting_reflex_duration|0.5% PPG|thiopental 20 mg/kg IV 10 min after drug|acute,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0047,zolpidem,P2,Tanaka2008|traction|mouse|ddY|male|intraperitoneal|3.0|mg/kg|15/30/60 min; qualitative aggregate|qualitative_report|saline|none|acute,4,qualitative only; numerical value NA,False
+Y0048,zopiclone,P1,Tanaka2008|rotarod|mouse|ddY|male|intraperitoneal|6.0|mg/kg|15/30/60 min; qualitative aggregate|qualitative_report|0.5% PPG|none|acute,4,qualitative only; numerical value NA,False
+Y0049,zopiclone,P2,Tanaka2008|traction|mouse|ddY|male|intraperitoneal|6.0|mg/kg|15/30/60 min; qualitative aggregate|qualitative_report|0.5% PPG|none|acute,4,qualitative only; numerical value NA,False
+Y0050,triazolam,P2,Tanaka2008|traction|mouse|ddY|male|intraperitoneal|0.3|mg/kg|15/30/60 min; qualitative aggregate|qualitative_report|0.5% PPG|none|acute,4,qualitative only; numerical value NA,False
+Y0051,zolpidem,P1,Sanger1996|rotarod|mouse|NA|NA|NA|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0052,zolpidem,P2,Sanger1996|loaded_grid|mouse|NA|NA|NA|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0053,zolpidem,P3,Sanger1996|locomotor_activity|mouse|NA|NA|NA|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0054,zaleplon,P1,Sanger1996|rotarod|mouse|NA|NA|NA|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0055,zaleplon,P2,Sanger1996|loaded_grid|mouse|NA|NA|NA|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0056,zaleplon,P3,Sanger1996|locomotor_activity|mouse|NA|NA|NA|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0057,diazepam,P1,Stanley2005|rotarod|mouse|NA|NA|NA|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0058,diazepam,P1,Stanley2005|beam_walking|mouse|NA|NA|NA|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0059,lorazepam,P1,Stanley2005|rotarod|mouse|NA|NA|NA|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0060,lorazepam,P1,Stanley2005|beam_walking|mouse|NA|NA|NA|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0061,clonazepam,P3,Ono1976|open_field|mouse|NA|NA|oral|NA|mg/kg|NA|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0062,clonazepam,P1,Barnhill1990|rotarod|mouse|CD-1|male|intraperitoneal|2.0|mg/kg|multiple times up to 14 h|qualitative_report|NA|NA|NA,4,qualitative only; numerical value NA,False
+Y0063,temazepam,P3,Marshall1997|locomotor_activity|mouse|NA|NA|oral|10.0|mg/kg|NA|qualitative_report|NA|NA|daily for 7 days; acute challenge,4,qualitative only; numerical value NA,False
+Y0064,midazolam,P4,Shi2024_PMC11559241|loss_of_righting_reflex|mouse|C57BL/6|male|intraperitoneal|90.0|mg/kg|within 10 min|LORR_count|NA|none|acute dose determination,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0065,midazolam,P4,Shi2024_PMC11559241|loss_of_righting_reflex|mouse|C57BL/6|male|intraperitoneal|71.25|mg/kg|within 10 min|LORR_count|NA|none|acute dose determination,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0066,midazolam,P4,Shi2024_PMC11559241|loss_of_righting_reflex|mouse|C57BL/6|male|intraperitoneal|58.0|mg/kg|within 10 min|LORR_count|NA|none|acute dose determination,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0067,midazolam,P4,Shi2024_PMC11559241|loss_of_righting_reflex|mouse|C57BL/6|male|intraperitoneal|46.56|mg/kg|within 10 min|LORR_count|NA|none|acute dose determination,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0068,midazolam,P4,Shi2024_PMC11559241|loss_of_righting_reflex|mouse|C57BL/6|male|intraperitoneal|37.38|mg/kg|within 10 min|LORR_count|NA|none|acute dose determination,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False
+Y0069,midazolam,P4,Shi2024_PMC11559241|loss_of_righting_reflex|mouse|C57BL/6|male|intraperitoneal|30.0|mg/kg|within 10 min|LORR_count|NA|none|acute dose determination,2,numeric but unmatched dose/vehicle/age/study or single panel drug,False

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-19",
+  "search_engine": "web search; primary literature inclusion only",
+  "queries": [
+    "zolpidem zopiclone zaleplon diazepam mice rotarod traction locomotor comparative",
+    "lorazepam clonazepam midazolam temazepam mice rotarod muscle relaxation comparative",
+    "temazepam midazolam alprazolam mouse rotarod locomotor righting reflex comparative ED50",
+    "temazepam mice locomotor rotarod pharmacological profile",
+    "temazepam mouse righting reflex locomotor activity pharmacology study",
+    "temazepam mice locomotor -site:benchchem.com -site:wikipedia.org",
+    "clonazepam mice rotarod locomotor impairment study PubMed"
+  ],
+  "scope": "targeted feasibility search, not systematic review",
+  "identity_exclusions": [
+    "eszopiclone is not zopiclone",
+    "tetrazepam is not temazepam"
+  ],
+  "fulltext_attempts": {
+    "Sanger1996": "publisher HTTP403; abstract only",
+    "Stanley2005": "publisher restricted access; abstract only",
+    "Nishino2008": "PDF downloaded and Table1 rendered",
+    "Tanaka2008": "PDF downloaded and Table1 rendered",
+    "Shi2024": "PMC indexed fulltext/Table1 and methods verified"
+  }
+}

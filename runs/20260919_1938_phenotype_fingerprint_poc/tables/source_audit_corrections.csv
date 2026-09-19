@@ -1,0 +1,4 @@
+study,field,old,new,source
+Nishino2008,strain; sex; control; vehicle,not_reported; missing,ICR; male; 0/10; 0.5% CMC sodium,Methods p349-350 and Table1 p353
+Tanaka2008,error_type,sd,SEM,Table1 footnote p279
+Tanaka2008,triazolam dose ambiguity,0.3 mg/kg archived,0.3 retained from Table1/results; methods paragraph says 3,Table1/results versus methods p278; unresolved source inconsistency

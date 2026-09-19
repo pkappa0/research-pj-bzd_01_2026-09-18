@@ -1,0 +1,13 @@
+study_id,source_url,doi,pmid,accessed_date,source_file_sha256,extraction_scope,provenance,numeric_rows
+Nishino2008,https://www.jstage.jst.go.jp/article/jphs/107/3/107_08107FP/_pdf,10.1254/jphs.08107FP,18603828,2026-09-19,59b33291a6f19d9f0246df50fae2c72f27171844dc98bd611ef0ae435eec054d,Table 1 p353; methods p349-350,archived extraction + original PDF audit,32
+Tanaka2008,https://www.jstage.jst.go.jp/article/jphs/107/3/107_FP0071991/_pdf,10.1254/jphs.FP0071991,18603831,2026-09-19,ff74f1cc7dde2ef55b375f4d6ee07cbe34f6ba123abed6ac10c2a082f7dee89b,Figure 1 / results p279;Figure1; results p279;Table 1 p279;Table1 p279,archived extraction + original PDF audit,5
+Bourin1992,https://pubmed.ncbi.nlm.nih.gov/1637802/,NA,1637802,2026-09-19,NA,abstract,archived record,0
+Bayley1996,https://pubmed.ncbi.nlm.nih.gov/22302946/,10.1177/026988119601000305,22302946,2026-09-19,NA,abstract,archived record,0
+Henauer1984,https://pubmed.ncbi.nlm.nih.gov/6493004/,10.1016/0024-3205(84)90564-2,6493004,2026-09-19,NA,abstract,archived record,0
+Lopez1988,https://pubmed.ncbi.nlm.nih.gov/2845448/,10.1016/0091-3057(88)90488-1,2845448,2026-09-19,NA,abstract,archived record,0
+Sanger1996,https://pubmed.ncbi.nlm.nih.gov/8905326/,10.1016/0014-2999(96)00510-9,8905326,2026-09-19,NA,abstract,primary public article / abstract,0
+Stanley2005,https://pubmed.ncbi.nlm.nih.gov/15888506/,10.1177/0269881105051524,15888506,2026-09-19,NA,abstract,primary public article / abstract,0
+Ono1976,https://pubmed.ncbi.nlm.nih.gov/986989/,10.1254/fpj.72.297,986989,2026-09-19,NA,abstract,primary public article / abstract,0
+Barnhill1990,https://pubmed.ncbi.nlm.nih.gov/2162948/,NA,2162948,2026-09-19,NA,abstract,primary public article / abstract,0
+Marshall1997,https://pubmed.ncbi.nlm.nih.gov/9264062/,10.1016/s0091-3057(96)00132-3,9264062,2026-09-19,NA,abstract,primary public article / abstract,0
+Shi2024_PMC11559241,https://pmc.ncbi.nlm.nih.gov/articles/PMC11559241/,10.1186/s40001-024-02142-6,NA,2026-09-19,NA,Table1; Animals; drug dose methods,primary public article / abstract,6

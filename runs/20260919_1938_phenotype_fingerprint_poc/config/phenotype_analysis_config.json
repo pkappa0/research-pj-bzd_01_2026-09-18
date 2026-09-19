@@ -1,0 +1,37 @@
+{
+  "created_at": "2026-09-19T19:39:40.841952+09:00",
+  "X_run": "runs/20260919_0724_10drug_standardized_redocking",
+  "X_matrix": "tables/fingerprint_10drug_multireceptor.csv",
+  "X_sha256": "c986ba328a01fd4bc6909ca24e4724d7eea5971e5a5ea6ae0fc2faa3147b2f10",
+  "structural_freeze_sha256": "75972f1b7e063fcc4fdd13c544a4eca3dc9e7de1b302496fb35511675139a406",
+  "axes": {
+    "P1": "motor coordination / ataxia",
+    "P2": "muscle relaxation",
+    "P3": "sedation / locomotor suppression",
+    "P4": "hypnosis / righting reflex impairment"
+  },
+  "primary_species": "mouse",
+  "primary_keys": [
+    "study",
+    "assay",
+    "species",
+    "strain",
+    "sex",
+    "route",
+    "dose",
+    "dose_unit",
+    "time",
+    "outcome",
+    "vehicle",
+    "co_treatment",
+    "acute_chronic"
+  ],
+  "normalization": "failure=count/n; reductions=(control-drug)/control when valid; duration remains raw; no clipping or cross-study pooling",
+  "min_n_rho": 3,
+  "n2_rho": "NA; directional rank contrast only",
+  "feature_order": "all 48 frozen E columns; no selection",
+  "correlation": "Spearman within exact recorded context; no p values or model",
+  "figure4_rule": "Nishino2008 common 2 mg/kg 60 min; chosen as pre-existing complete context, before X/Y join",
+  "sensitivity": "Tier2/3 quantitative rows stored separately, never pooled across context",
+  "pair_metrics": "Euclidean distances for frozen alpha1 alpha2 E; cosine similarity; phenotype absolute differences within block; no cross-block association estimate from repeated same drug pair"
+}

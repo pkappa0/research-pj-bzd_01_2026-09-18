@@ -1,0 +1,529 @@
+block_key,phenotype_axis,feature,rho,n_effective,status,evidence_ids
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_203|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_204|GLN|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_205|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_154|PRO|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_201|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_203|ILE|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_204|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_212|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0001;Y0025
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_203|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_204|GLN|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_205|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_154|PRO|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_201|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_203|ILE|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_204|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_212|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0002;Y0026
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_203|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_204|GLN|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_205|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_154|PRO|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_201|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_203|ILE|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_204|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_212|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0003;Y0027
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_203|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_204|GLN|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_205|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_154|PRO|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_201|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_203|ILE|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_204|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|2.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_212|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0004;Y0028
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_203|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_204|GLN|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_205|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_154|PRO|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_201|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_203|ILE|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_204|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|15.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_212|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0005;Y0029
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_203|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_204|GLN|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_205|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_154|PRO|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_201|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_203|ILE|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_204|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|30.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_212|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0006;Y0030
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_203|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_204|GLN|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_205|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_154|PRO|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_201|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_203|ILE|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_204|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|60.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_212|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0007;Y0031
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_203|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_204|GLN|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_205|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha1|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_100|PHE|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_102|HIS|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_103|ASN|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_138|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_154|PRO|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_156|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_160|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_201|GLU|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_203|ILE|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_204|LYS|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_206|SER|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_207|THR|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_210|TYR|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+Nishino2008|rotarod|mouse|ICR|male|oral|5.0|mg/kg|90.0|positive_or_fallen_mice|0.5% CMC sodium|none|acute,P1,alpha2|BZD_SITE_212|VAL|any_contact_frequency,NA,2,n_effective_lt_3,Y0008;Y0032
+no_Tier1_numeric_context,P2,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_SITE_100|PHE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_SITE_102|HIS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_SITE_103|ASN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_SITE_138|GLU|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_SITE_156|LYS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_SITE_160|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_SITE_203|VAL|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_SITE_204|GLN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_SITE_205|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_SITE_206|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_SITE_207|THR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha1|BZD_SITE_210|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_SITE_100|PHE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_SITE_102|HIS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_SITE_103|ASN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_SITE_138|GLU|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_SITE_154|PRO|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_SITE_156|LYS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_SITE_160|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_SITE_201|GLU|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_SITE_203|ILE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_SITE_204|LYS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_SITE_206|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_SITE_207|THR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_SITE_210|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P2,alpha2|BZD_SITE_212|VAL|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_SITE_100|PHE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_SITE_102|HIS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_SITE_103|ASN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_SITE_138|GLU|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_SITE_156|LYS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_SITE_160|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_SITE_203|VAL|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_SITE_204|GLN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_SITE_205|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_SITE_206|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_SITE_207|THR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha1|BZD_SITE_210|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_SITE_100|PHE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_SITE_102|HIS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_SITE_103|ASN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_SITE_138|GLU|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_SITE_154|PRO|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_SITE_156|LYS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_SITE_160|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_SITE_201|GLU|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_SITE_203|ILE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_SITE_204|LYS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_SITE_206|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_SITE_207|THR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_SITE_210|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P3,alpha2|BZD_SITE_212|VAL|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_SITE_100|PHE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_SITE_102|HIS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_SITE_103|ASN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_SITE_138|GLU|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_SITE_156|LYS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_SITE_160|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_SITE_203|VAL|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_SITE_204|GLN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_SITE_205|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_SITE_206|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_SITE_207|THR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha1|BZD_SITE_210|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_SITE_100|PHE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_SITE_102|HIS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_SITE_103|ASN|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_SITE_138|GLU|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_SITE_154|PRO|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_SITE_156|LYS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_SITE_160|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_SITE_201|GLU|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_SITE_203|ILE|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_SITE_204|LYS|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_SITE_206|SER|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_SITE_207|THR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_SITE_210|TYR|any_contact_frequency,NA,0,no_comparable_data,NA
+no_Tier1_numeric_context,P4,alpha2|BZD_SITE_212|VAL|any_contact_frequency,NA,0,no_comparable_data,NA

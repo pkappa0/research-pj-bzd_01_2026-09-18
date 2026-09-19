@@ -1,0 +1,49 @@
+{
+  "status": "PASS_WITH_EVIDENCE_LIMITATIONS",
+  "evidence_rows": 69,
+  "drugs_with_any_evidence": 10,
+  "drugs_with_numeric_evidence": 5,
+  "axis_coverage": {
+    "P1": {
+      "any": 8,
+      "numeric": 2,
+      "tier1": 2
+    },
+    "P2": {
+      "any": 4,
+      "numeric": 0,
+      "tier1": 0
+    },
+    "P3": {
+      "any": 6,
+      "numeric": 0,
+      "tier1": 0
+    },
+    "P4": {
+      "any": 4,
+      "numeric": 4,
+      "tier1": 0
+    }
+  },
+  "tier1_drugs": 2,
+  "tier1_contexts": 8,
+  "unique_Tier1_drug_pairs": 1,
+  "estimable_spearman": 0,
+  "all_48_X_features_retained": true,
+  "X_hash_unchanged": true,
+  "old_files_hash_unchanged": 925,
+  "no_docking_or_clustering": true,
+  "no_supervised_ML": true,
+  "no_missing_zero_imputation": true,
+  "ML_rationale": "indeterminate",
+  "tests": {
+    "tests": 140,
+    "failures": 0,
+    "errors": 0
+  },
+  "all_Nishino_counts_checked_against_rendered_table": true,
+  "source_PDF_tables_visually_reviewed": true,
+  "raw_processed_separated": true,
+  "raw69_joined69_no_join_expansion": true,
+  "source_audit_records": 40
+}
