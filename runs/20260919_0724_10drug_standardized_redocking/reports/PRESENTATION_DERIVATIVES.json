@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-09-19T09:22:19.611335+09:00",
+  "reason": "Align dendrogram and heatmap panel widths; separate nearby PCA labels. No numeric data, cluster, metric, threshold or PCA change. Original frozen figures retained.",
+  "frozen_source_sha256": "75972f1b7e063fcc4fdd13c544a4eca3dc9e7de1b302496fb35511675139a406",
+  "artifacts": {
+    "figures/reviewed/multireceptor_10drug_heatmap.png": "0e1d1751f4c9af9033b3f34ea2b2936db9f31bd042f374f8029a4e07dca03fb8",
+    "figures/reviewed/multireceptor_10drug_heatmap.pdf": "8efdef8dbc7696f0c8c1cdc0397547346e1bc5e3256671a2a26b31687b713c4b",
+    "figures/reviewed/fingerprint_pca.png": "0cdba32df29bd8b583e9cafbc781a72c55d3b38bb21afdebce4ef3a295cedeb8",
+    "figures/reviewed/fingerprint_pca.pdf": "1975c6dee55cb794fbf4fb00770aa6339d26a88ba6fb1636476dfdea36213046",
+    "figures/reviewed/alpha2_10drug_heatmap.pdf": "a523b22e7aeb811e5c392027921d858bcb5691c941481c8d0385a97f85e736bb",
+    "figures/reviewed/alpha2_10drug_heatmap.png": "9e8a0099c2426cb94fa65754ac4088890c4a26925f2d8cecdcee91e3678ba1fb",
+    "figures/reviewed/alpha1_10drug_heatmap.png": "a47fae36d171fb0962a6bd6cc2be87a31aa1e3952f9ccd24506c3ba574abfb58",
+    "figures/reviewed/alpha1_10drug_heatmap.pdf": "4eaae11ffef95b0bf898dffd5c5d5cbb9e2250bf4be12ab0cc8f80a84d597baa"
+  }
+}

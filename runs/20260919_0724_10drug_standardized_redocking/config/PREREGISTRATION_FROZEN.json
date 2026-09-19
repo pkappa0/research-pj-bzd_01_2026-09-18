@@ -1,0 +1,19 @@
+{
+  "at": "2026-09-19T07:26:27.445692+09:00",
+  "artifacts": {
+    "config/ANALYSIS_CONTRACT.md": "5735c6ad2067f4110cf81046429e32fae6f24e8731b7caa4f9313fd0a82520b0",
+    "config/conda_explicit_lock.txt": "e9591884644dbeaa47cf43167d5ca47bef09aa7b955d6c587a9c10c5728f3cb7",
+    "config/PRE_DOCKING_AMENDMENT.json": "053944ed04a3451064e6466fdd85dbefe56c1fb350bd2cac1353d8f27eaec384",
+    "config/unsupervised_analysis_config.json": "0ed54cc2d0dd9c2d4a00f72896e66042e657e957f76716f699371b009f40e3f4",
+    "config/docking_config.json": "d3c6a7fd0b773c2a2d0811451bd8de7c9e952f8e0e19992686fa5060b76aa35b",
+    "config/software_versions.json": "9ddf571c157e420d09177ff7a4f6d44638fe0dacff0f290b4f931b3739d2c75b",
+    "config/plip_config.py": "c9bcb4d2e9fe75e694c93f2d5b4f119a0e9fe7a3b71412a1081923a7b2c729d2",
+    "config/ANALYSIS_CONTRACT_ADDENDUM.md": "89f1a7d30ea8ae5aadf525d69f2c0981d78349011f51acedc1ef636b912e89c2",
+    "config/plip_effective_config.json": "1e15e7b3b6db7eb8fbe5fe3db250c0b694fb46fb716d20dacc9c86af474557d8",
+    "config/complete_environment_lock.txt": "79704449ab03b88b3c5916072bc8193b4de4367423c288380b3b0f4ff0f230da",
+    "config/INITIAL_PREREGISTRATION_FROZEN.json": "d1d383999df69b3c1cdc39e0854e271d614328aeb5b2b179686205cf6589155e",
+    "config/conda_base_lock.json": "a739f5eb293c6849b4521461730421f0547e7c230b86b8df716bcd16dcacb9cc",
+    "config/PREPARED_INPUTS_FROZEN.json": "c990c59d47a76c3aa8462e39299f639429c722a530fe1708411651b8f524d94a"
+  },
+  "docking_started": false
+}

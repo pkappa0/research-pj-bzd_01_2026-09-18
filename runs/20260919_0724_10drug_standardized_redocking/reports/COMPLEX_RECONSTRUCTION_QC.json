@@ -1,0 +1,128 @@
+[
+  {
+    "drug": "diazepam",
+    "block": "alpha1",
+    "seed": 2026091901,
+    "pose": 1,
+    "match": true
+  },
+  {
+    "drug": "diazepam",
+    "block": "alpha1",
+    "seed": 2026091901,
+    "pose": 2,
+    "match": true
+  },
+  {
+    "drug": "diazepam",
+    "block": "alpha1",
+    "seed": 2026091901,
+    "pose": 3,
+    "match": true
+  },
+  {
+    "drug": "diazepam",
+    "block": "alpha1",
+    "seed": 2026091901,
+    "pose": 4,
+    "match": true
+  },
+  {
+    "drug": "diazepam",
+    "block": "alpha1",
+    "seed": 2026091901,
+    "pose": 5,
+    "match": true
+  },
+  {
+    "drug": "diazepam",
+    "block": "alpha1",
+    "seed": 2026091901,
+    "pose": 6,
+    "match": true
+  },
+  {
+    "drug": "diazepam",
+    "block": "alpha1",
+    "seed": 2026091901,
+    "pose": 7,
+    "match": true
+  },
+  {
+    "drug": "diazepam",
+    "block": "alpha1",
+    "seed": 2026091901,
+    "pose": 8,
+    "match": true
+  },
+  {
+    "drug": "diazepam",
+    "block": "alpha1",
+    "seed": 2026091901,
+    "pose": 9,
+    "match": true
+  },
+  {
+    "drug": "zopiclone",
+    "block": "alpha2",
+    "seed": 2026091905,
+    "pose": 1,
+    "match": true
+  },
+  {
+    "drug": "zopiclone",
+    "block": "alpha2",
+    "seed": 2026091905,
+    "pose": 2,
+    "match": true
+  },
+  {
+    "drug": "zopiclone",
+    "block": "alpha2",
+    "seed": 2026091905,
+    "pose": 3,
+    "match": true
+  },
+  {
+    "drug": "zopiclone",
+    "block": "alpha2",
+    "seed": 2026091905,
+    "pose": 4,
+    "match": true
+  },
+  {
+    "drug": "zopiclone",
+    "block": "alpha2",
+    "seed": 2026091905,
+    "pose": 5,
+    "match": true
+  },
+  {
+    "drug": "zopiclone",
+    "block": "alpha2",
+    "seed": 2026091905,
+    "pose": 6,
+    "match": true
+  },
+  {
+    "drug": "zopiclone",
+    "block": "alpha2",
+    "seed": 2026091905,
+    "pose": 7,
+    "match": true
+  },
+  {
+    "drug": "zopiclone",
+    "block": "alpha2",
+    "seed": 2026091905,
+    "pose": 8,
+    "match": true
+  },
+  {
+    "drug": "zopiclone",
+    "block": "alpha2",
+    "seed": 2026091905,
+    "pose": 9,
+    "match": true
+  }
+]

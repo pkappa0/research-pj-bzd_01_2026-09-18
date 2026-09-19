@@ -1,0 +1,31 @@
+{
+  "at": "2026-09-19T07:26:27.436552+09:00",
+  "files": {
+    "raw/receptors/alpha1_selected.pdb": "c4afc89674d120cec091409c00b8e0d05afd514ced062edd42d2f1129e945c4f",
+    "raw/receptors/alpha2_prepared_H.pdb": "98f514c879aa2c201dca96a3feddb60dcc1062459842b9c9a7aa6a8c6db2bc3a",
+    "raw/receptors/alpha2_selected.pdb": "2659bf8f894864c87265fb9810dbee7ab27e67ac840d347f6bb4a09d400e367b",
+    "raw/receptors/alpha1.pdbqt": "1089f81e8bbc900a2522d34c5ed65a11c35f3c8046954386dafde623056a806a",
+    "raw/receptors/alpha1_prepared_H.pdb": "7c66f54a02541b8e03935120e711b20af5bbba6d4f82730cda6c09e323a01717",
+    "raw/receptors/alpha2.pdbqt": "c3bcd380238909d2b6c7cabc56ab6cb69e4f80613e7640cf760aa1f4a737ab87",
+    "raw/ligands/zopiclone.sdf": "b9c7bc6b847635e4ee3f11ca3f9eb503a848aa2745e834e57a090162d1af7894",
+    "raw/ligands/zolpidem.pdbqt": "94a1aaf616ade727bdb06444ada6471effdd02201c08d49954f8f79ef00b9592",
+    "raw/ligands/zaleplon.sdf": "71606081a540b6fceb96f7ae2a50cd2308e467072b0c5011b96a7bb24e61abc1",
+    "raw/ligands/midazolam.pdbqt": "3273ec8905f3aeec5eb1991e694bafce82b42d73f180026caedd462693f5d8c5",
+    "raw/ligands/diazepam.pdbqt": "7fc847e735c8de8c9520058b03d47a7dbe413812aacbebc1966073252cc4d13f",
+    "raw/ligands/lorazepam.sdf": "b9a2e11dd5b36c4e337b04fd11c50ea6482100742f1315513d3ac3c69cbcc1d4",
+    "raw/ligands/alprazolam.sdf": "16c7dd95e2682ff0c778154ca1909414066dccf9d2fed8b47e732f4e56f6b2ca",
+    "raw/ligands/zaleplon.pdbqt": "b66de494c2f2d6385dd4d9ab38d1a603860a54f9f6569fd622921c05b050c525",
+    "raw/ligands/clonazepam.sdf": "0031491246f29cf5cdaf0e640de5c8cf0627c9aef1c22159781da8091a41b176",
+    "raw/ligands/clonazepam.pdbqt": "0954fb07c83527a769d1cd81be22000aca55fab4ad3ee7e5581ece8743ee4173",
+    "raw/ligands/midazolam.sdf": "dd8e33ff63cc7ab2dd13e4fd466ced5b3de40e05f23698360da8847b6dc90312",
+    "raw/ligands/alprazolam.pdbqt": "bd2fbb8eb21a0c129e8ba468b82cd703173902b923d5b8f17c4c61b5696d7102",
+    "raw/ligands/zolpidem.sdf": "7f73bf2ba39cbc94447f362af69c806a6a2ffe6e07c68f1aabf14bfcdd16f8a3",
+    "raw/ligands/lorazepam.pdbqt": "fcfe5c0de74fd7078352d05a805206d8cae4c226b1e8abd3b1ea1502ca45561a",
+    "raw/ligands/triazolam.sdf": "5ae3504caa179a06208f03529530ff823b4714f8426b677f2b1eed8611dcb807",
+    "raw/ligands/zopiclone.pdbqt": "bc5c31cc2bed6550b60b50f72e0225cdbf7bfeb4df744b53feeba1be9f2cf78b",
+    "raw/ligands/temazepam.sdf": "4cf96e7cc0b528c2d9d220bdca6cc3dd572d8d93b86470f44219c07451c082a2",
+    "raw/ligands/temazepam.pdbqt": "335396324a34fe73f14ef1cf62b29004069a6a9023c763b02533bd13fbd31708",
+    "raw/ligands/triazolam.pdbqt": "f001f1fea9752a76e54e18a190013380fa7100fdaabbc0a867866d1ea8fa12bc",
+    "raw/ligands/diazepam.sdf": "1294056d6c7367eab1866d153c08b0c3f7886f58adba0f979e771145afff68e2"
+  }
+}

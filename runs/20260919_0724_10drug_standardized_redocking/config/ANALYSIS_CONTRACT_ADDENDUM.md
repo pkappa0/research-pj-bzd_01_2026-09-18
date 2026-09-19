@@ -1,0 +1,1 @@
+Primary: same receptor → different drugs. All ten drugs newly redocked under common frozen environment, five computational search seeds; not biological replicates. Legacy runs retained and not combined. This authorized revision supersedes the preflight requirement to recover the legacy environment. Structural results freeze precedes external annotation; no supervised training.

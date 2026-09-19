@@ -1,0 +1,345 @@
+{
+  "representations": {
+    "B_alpha1": {
+      "features": 21,
+      "PC1": 0.4309877612415828,
+      "PC2": 0.25535090464445215,
+      "clusters": {
+        "diazepam": 1,
+        "alprazolam": 1,
+        "triazolam": 1,
+        "zolpidem": 2,
+        "lorazepam": 1,
+        "clonazepam": 1,
+        "midazolam": 1,
+        "temazepam": 1,
+        "zopiclone": 3,
+        "zaleplon": 1
+      }
+    },
+    "B_alpha2": {
+      "features": 27,
+      "PC1": 0.49583304534507866,
+      "PC2": 0.15306324054047124,
+      "clusters": {
+        "diazepam": 2,
+        "alprazolam": 1,
+        "triazolam": 1,
+        "zolpidem": 2,
+        "lorazepam": 1,
+        "clonazepam": 1,
+        "midazolam": 1,
+        "temazepam": 1,
+        "zopiclone": 1,
+        "zaleplon": 3
+      }
+    },
+    "E": {
+      "features": 48,
+      "PC1": 0.40722547325606245,
+      "PC2": 0.20096992026626326,
+      "clusters": {
+        "diazepam": 2,
+        "alprazolam": 2,
+        "triazolam": 2,
+        "zolpidem": 1,
+        "lorazepam": 2,
+        "clonazepam": 2,
+        "midazolam": 2,
+        "temazepam": 2,
+        "zopiclone": 3,
+        "zaleplon": 1
+      }
+    }
+  },
+  "seed_stability": [
+    {
+      "representation": "B_alpha1",
+      "seed": 2026091901,
+      "aggregate_distance_spearman": 0.8226768166139709,
+      "aggregate_cluster_ARI": 0.6463654223968566,
+      "seed_assignments": {
+        "diazepam": 1,
+        "alprazolam": 1,
+        "triazolam": 1,
+        "zolpidem": 2,
+        "lorazepam": 1,
+        "clonazepam": 1,
+        "midazolam": 1,
+        "temazepam": 1,
+        "zopiclone": 3,
+        "zaleplon": 2
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    },
+    {
+      "representation": "B_alpha1",
+      "seed": 2026091902,
+      "aggregate_distance_spearman": 0.9143610013175228,
+      "aggregate_cluster_ARI": 1.0,
+      "seed_assignments": {
+        "diazepam": 1,
+        "alprazolam": 1,
+        "triazolam": 1,
+        "zolpidem": 2,
+        "lorazepam": 1,
+        "clonazepam": 1,
+        "midazolam": 1,
+        "temazepam": 1,
+        "zopiclone": 3,
+        "zaleplon": 1
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    },
+    {
+      "representation": "B_alpha1",
+      "seed": 2026091903,
+      "aggregate_distance_spearman": 0.8909312557916816,
+      "aggregate_cluster_ARI": 1.0,
+      "seed_assignments": {
+        "diazepam": 1,
+        "alprazolam": 1,
+        "triazolam": 1,
+        "zolpidem": 2,
+        "lorazepam": 1,
+        "clonazepam": 1,
+        "midazolam": 1,
+        "temazepam": 1,
+        "zopiclone": 3,
+        "zaleplon": 1
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    },
+    {
+      "representation": "B_alpha1",
+      "seed": 2026091904,
+      "aggregate_distance_spearman": 0.879715372782887,
+      "aggregate_cluster_ARI": 1.0,
+      "seed_assignments": {
+        "diazepam": 1,
+        "alprazolam": 1,
+        "triazolam": 1,
+        "zolpidem": 2,
+        "lorazepam": 1,
+        "clonazepam": 1,
+        "midazolam": 1,
+        "temazepam": 1,
+        "zopiclone": 3,
+        "zaleplon": 1
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    },
+    {
+      "representation": "B_alpha1",
+      "seed": 2026091905,
+      "aggregate_distance_spearman": 0.874958826590774,
+      "aggregate_cluster_ARI": 0.6463654223968566,
+      "seed_assignments": {
+        "diazepam": 2,
+        "alprazolam": 2,
+        "triazolam": 2,
+        "zolpidem": 1,
+        "lorazepam": 2,
+        "clonazepam": 2,
+        "midazolam": 2,
+        "temazepam": 2,
+        "zopiclone": 3,
+        "zaleplon": 1
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    },
+    {
+      "representation": "B_alpha2",
+      "seed": 2026091901,
+      "aggregate_distance_spearman": 0.804875649199235,
+      "aggregate_cluster_ARI": 0.9110671936758893,
+      "seed_assignments": {
+        "diazepam": 3,
+        "alprazolam": 2,
+        "triazolam": 2,
+        "zolpidem": 1,
+        "lorazepam": 2,
+        "clonazepam": 2,
+        "midazolam": 2,
+        "temazepam": 2,
+        "zopiclone": 2,
+        "zaleplon": 1
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    },
+    {
+      "representation": "B_alpha2",
+      "seed": 2026091902,
+      "aggregate_distance_spearman": 0.8566628348795395,
+      "aggregate_cluster_ARI": 0.6463654223968566,
+      "seed_assignments": {
+        "diazepam": 1,
+        "alprazolam": 1,
+        "triazolam": 1,
+        "zolpidem": 2,
+        "lorazepam": 1,
+        "clonazepam": 1,
+        "midazolam": 1,
+        "temazepam": 1,
+        "zopiclone": 1,
+        "zaleplon": 3
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    },
+    {
+      "representation": "B_alpha2",
+      "seed": 2026091903,
+      "aggregate_distance_spearman": 0.8886253625762184,
+      "aggregate_cluster_ARI": 0.6463654223968566,
+      "seed_assignments": {
+        "diazepam": 1,
+        "alprazolam": 1,
+        "triazolam": 1,
+        "zolpidem": 2,
+        "lorazepam": 1,
+        "clonazepam": 1,
+        "midazolam": 1,
+        "temazepam": 1,
+        "zopiclone": 1,
+        "zaleplon": 3
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    },
+    {
+      "representation": "B_alpha2",
+      "seed": 2026091904,
+      "aggregate_distance_spearman": 0.8377363480858582,
+      "aggregate_cluster_ARI": 0.37375745526838966,
+      "seed_assignments": {
+        "diazepam": 1,
+        "alprazolam": 1,
+        "triazolam": 2,
+        "zolpidem": 1,
+        "lorazepam": 2,
+        "clonazepam": 2,
+        "midazolam": 1,
+        "temazepam": 2,
+        "zopiclone": 2,
+        "zaleplon": 3
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    },
+    {
+      "representation": "B_alpha2",
+      "seed": 2026091905,
+      "aggregate_distance_spearman": 0.8921029460046067,
+      "aggregate_cluster_ARI": 0.6428571428571429,
+      "seed_assignments": {
+        "diazepam": 1,
+        "alprazolam": 2,
+        "triazolam": 2,
+        "zolpidem": 1,
+        "lorazepam": 2,
+        "clonazepam": 2,
+        "midazolam": 2,
+        "temazepam": 2,
+        "zopiclone": 3,
+        "zaleplon": 1
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    },
+    {
+      "representation": "E",
+      "seed": 2026091901,
+      "aggregate_distance_spearman": 0.8607286401180981,
+      "aggregate_cluster_ARI": 1.0,
+      "seed_assignments": {
+        "diazepam": 2,
+        "alprazolam": 2,
+        "triazolam": 2,
+        "zolpidem": 1,
+        "lorazepam": 2,
+        "clonazepam": 2,
+        "midazolam": 2,
+        "temazepam": 2,
+        "zopiclone": 3,
+        "zaleplon": 1
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    },
+    {
+      "representation": "E",
+      "seed": 2026091902,
+      "aggregate_distance_spearman": 0.9557568899217506,
+      "aggregate_cluster_ARI": 1.0,
+      "seed_assignments": {
+        "diazepam": 1,
+        "alprazolam": 1,
+        "triazolam": 1,
+        "zolpidem": 2,
+        "lorazepam": 1,
+        "clonazepam": 1,
+        "midazolam": 1,
+        "temazepam": 1,
+        "zopiclone": 3,
+        "zaleplon": 2
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    },
+    {
+      "representation": "E",
+      "seed": 2026091903,
+      "aggregate_distance_spearman": 0.9424242424242423,
+      "aggregate_cluster_ARI": 1.0,
+      "seed_assignments": {
+        "diazepam": 2,
+        "alprazolam": 2,
+        "triazolam": 2,
+        "zolpidem": 1,
+        "lorazepam": 2,
+        "clonazepam": 2,
+        "midazolam": 2,
+        "temazepam": 2,
+        "zopiclone": 3,
+        "zaleplon": 1
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    },
+    {
+      "representation": "E",
+      "seed": 2026091904,
+      "aggregate_distance_spearman": 0.8913043478260868,
+      "aggregate_cluster_ARI": 1.0,
+      "seed_assignments": {
+        "diazepam": 2,
+        "alprazolam": 2,
+        "triazolam": 2,
+        "zolpidem": 1,
+        "lorazepam": 2,
+        "clonazepam": 2,
+        "midazolam": 2,
+        "temazepam": 2,
+        "zopiclone": 3,
+        "zaleplon": 1
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    },
+    {
+      "representation": "E",
+      "seed": 2026091905,
+      "aggregate_distance_spearman": 0.9182779411417915,
+      "aggregate_cluster_ARI": 0.6428571428571429,
+      "seed_assignments": {
+        "diazepam": 2,
+        "alprazolam": 1,
+        "triazolam": 1,
+        "zolpidem": 2,
+        "lorazepam": 1,
+        "clonazepam": 1,
+        "midazolam": 1,
+        "temazepam": 1,
+        "zopiclone": 3,
+        "zaleplon": 2
+      },
+      "interpretation": "computational_search_sensitivity_not_biological_replicates"
+    }
+  ],
+  "unmapped_contacts": 1,
+  "frequency_features": 118,
+  "geometry_features": 30
+}

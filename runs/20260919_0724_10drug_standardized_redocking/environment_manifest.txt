@@ -1,0 +1,5 @@
+Fixed before docking. Layered environment: exact conda plip_env base + isolated venv --system-site-packages pip lock. Base is read-only; no global environment changed.
+Python 3.12.13 | packaged by conda-forge | (main, Mar  5 2026, 17:06:14) [Clang 19.1.7 ]
+Vina AutoDock Vina v1.2.7
+OpenBabel package 3.1.1, library 3.1.0
+See config/software_versions.json, conda_explicit_lock.txt, complete_environment_lock.txt. Vina binary SHA256 recorded; executable is an existing arm64 Mach-O Vina 1.2.7 at /opt/homebrew/bin/vina; installation provenance was not recorded. Its actual bytes are identified by SHA256, not inferred from its directory.

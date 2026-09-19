@@ -1,0 +1,20 @@
+PREP ligand diazepam 1 1 1
+PREP ligand alprazolam 1 1 1
+PREP ligand triazolam 1 1 1
+PREP ligand zolpidem 3 3 3
+PREP ligand lorazepam 1 2 2
+PREP ligand clonazepam 2 2 2
+PREP ligand midazolam 1 1 1
+PREP ligand temazepam 1 2 2
+PREP ligand zopiclone 2 3 3
+PREP ligand zaleplon 3 4 4
+==============================
+*** Open Babel Warning  in PerceiveBondOrders
+  Failed to kekulize aromatic bonds in OBMol::PerceiveBondOrders (title is /Users/k-atsumi/Documents/Codex/2026-09-18/github-readme-final-report-csv-git/work/repository/runs/20260919_0724_10drug_standardized_redocking/raw/receptors/alpha1_selected.pdb)
+
+PREP receptor alpha1 27532
+==============================
+*** Open Babel Warning  in PerceiveBondOrders
+  Failed to kekulize aromatic bonds in OBMol::PerceiveBondOrders (title is /Users/k-atsumi/Documents/Codex/2026-09-18/github-readme-final-report-csv-git/work/repository/runs/20260919_0724_10drug_standardized_redocking/raw/receptors/alpha2_selected.pdb)
+
+PREP receptor alpha2 14156

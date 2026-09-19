@@ -1,0 +1,14 @@
+{
+  "started_at": "2026-09-19T09:13:50.927865+09:00",
+  "structural_freeze_at": "2026-09-19T07:36:47.607701+09:00",
+  "freeze_sha256": "75972f1b7e063fcc4fdd13c544a4eca3dc9e7de1b302496fb35511675139a406",
+  "sources": {
+    "runs/20260918_1518_bzd_pharmacology_filter/processed/bzd_activity_classification.jsonl": "0f5f7cdc83a027cc919e57f0a9a6f1102b0defe9660e111f4a56af2d3fa4dff9",
+    "runs/20260917_1706_structure_mouse_bridge/data/processed/mouse_phenotype_raw.csv": "813e40645c6c4e9d1d166200d27b562bfd571490caff744275f4b938c1b3f75f"
+  },
+  "matched_pharmacology_contexts": 5,
+  "matched_activity_count": 10,
+  "mouse_P1_rows": 39,
+  "matched_mouse_conditions": 8,
+  "independent_mouse_drug_pairs": 1
+}

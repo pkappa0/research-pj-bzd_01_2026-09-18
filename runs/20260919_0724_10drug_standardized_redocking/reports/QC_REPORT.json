@@ -1,0 +1,52 @@
+{
+  "status": "PASS_WITH_METHOD_LIMITATIONS",
+  "tests": {
+    "tests": 136,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "docking_success": 100,
+  "docking_jobs": 100,
+  "poses": 883,
+  "plip_success": 883,
+  "raw_contacts": 4568,
+  "unmapped_contacts": 0,
+  "xml_reports_archived": 883,
+  "archived_members": 4232,
+  "all_archived_member_hashes_verified": true,
+  "five_seeds_fixed": true,
+  "same_environment": true,
+  "same_prepared_receptor_per_block": true,
+  "same_box_and_parameters": true,
+  "torsion_branch_equality": true,
+  "frequency_denominator_range": [
+    35,
+    45
+  ],
+  "seed_denominator_distribution": {
+    "9": 91,
+    "8": 3,
+    "7": 4,
+    "6": 2
+  },
+  "NA_not_zero": true,
+  "blocks_concatenated_not_averaged": true,
+  "structural_freeze_verified_after_annotation": true,
+  "external_loaded_after_freeze": true,
+  "existing_files_unchanged": 776,
+  "unstable_type_frequency_drug_features": 11,
+  "unstable_union_frequency_drug_features": 7,
+  "visual_review": "frozen original figures retained; reviewed layout-only derivatives supplied",
+  "method_limitations": [
+    "alpha2 provisional local construct",
+    "beta3 structure vs beta2 pharmacology",
+    "single initial conformer per ligand, fixed rings",
+    "source-unspecified stereochemistry for three compounds",
+    "no protonation microstate ensemble",
+    "OpenBabel full-protein kekulization warnings; binding-site mapping/types separately audited",
+    "single receptor coordinates per block",
+    "n=10; sparse comparable external data"
+  ],
+  "ML_rationale": "indeterminate"
+}
