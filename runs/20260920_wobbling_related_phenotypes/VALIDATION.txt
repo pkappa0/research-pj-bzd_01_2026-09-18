@@ -1,0 +1,1 @@
+PASS: all data and table files byte-identical to prior wobbling run; frozen X/Y hashes unchanged; revised labels and layout visually reviewed.

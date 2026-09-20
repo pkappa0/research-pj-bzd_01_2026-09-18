@@ -1,0 +1,673 @@
+structural_feature,phenotype_term,phenotype_axis,n_effective,missingness,rho,status
+alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,Ataxia,C1,9,1,0.13693063937629152,estimable
+alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,Balance disorder,C1,10,0,0.40618119722996154,estimable
+alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,Coordination abnormal,C1,8,2,0.4123930494211612,estimable
+alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,Gait disturbance,C1,10,0,0.40618119722996154,estimable
+alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,Fall,C2,10,0,0.058025885318565944,estimable
+alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,Somnolence,C3,10,0,0.5222329678670935,estimable
+alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,Sedation,C3,10,0,-0.1740776559556978,estimable
+alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,Dizziness,C4,10,0,0.1740776559556978,estimable
+alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,Vertigo,C4,10,0,-0.1740776559556978,estimable
+alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,Muscular weakness,C5,10,0,0.5222329678670935,estimable
+alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,Hypotonia,C5,8,2,-0.08247860988423225,estimable
+alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,Amnesia,C6,10,0,0.5222329678670935,estimable
+alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,Memory impairment,C6,10,0,0.40618119722996154,estimable
+alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,Cognitive disorder,C6,9,1,0.4107919181288746,estimable
+alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,Ataxia,C1,9,1,-0.4937281711658766,estimable
+alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,Balance disorder,C1,10,0,-0.4255338805760452,estimable
+alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,Coordination abnormal,C1,8,2,-0.05988131309566294,estimable
+alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,Gait disturbance,C1,10,0,-0.601826488243264,estimable
+alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,Fall,C2,10,0,0.03039527718400323,estimable
+alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,Somnolence,C3,10,0,-0.4498501023232478,estimable
+alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,Sedation,C3,10,0,0.3161108827136336,estimable
+alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,Dizziness,C4,10,0,-0.5653521556224601,estimable
+alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,Vertigo,C4,10,0,0.11550205329921227,estimable
+alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,Muscular weakness,C5,10,0,-0.5653521556224601,estimable
+alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,Hypotonia,C5,8,2,0.26347777762091695,estimable
+alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,Amnesia,C6,10,0,-0.3404271044608361,estimable
+alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,Memory impairment,C6,10,0,-0.5714312110592608,estimable
+alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,Cognitive disorder,C6,9,1,-0.12552411131335847,estimable
+alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,Ataxia,C1,9,1,-0.11715583722580122,estimable
+alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,Balance disorder,C1,10,0,0.43769199144964654,estimable
+alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,Coordination abnormal,C1,8,2,0.16766767666785626,estimable
+alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,Gait disturbance,C1,10,0,0.6200636545536659,estimable
+alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,Fall,C2,10,0,0.516719712128055,estimable
+alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,Somnolence,C3,10,0,0.2735574946560291,estimable
+alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,Sedation,C3,10,0,-0.16413449679361744,estimable
+alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,Dizziness,C4,10,0,0.705170430668875,estimable
+alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,Vertigo,C4,10,0,-0.07294866524160776,estimable
+alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,Muscular weakness,C5,10,0,0.6261427099904665,estimable
+alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,Hypotonia,C5,8,2,-0.7545045450053531,estimable
+alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,Amnesia,C6,10,0,0.41337576970244394,estimable
+alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,Memory impairment,C6,10,0,0.6322217654272672,estimable
+alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,Cognitive disorder,C6,9,1,0.05857791861290061,estimable
+alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,Ataxia,C1,9,1,-0.03347309635022892,estimable
+alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,Balance disorder,C1,10,0,-0.018293022999573125,estimable
+alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,Coordination abnormal,C1,8,2,0.10778636357219329,estimable
+alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,Gait disturbance,C1,10,0,-0.28049301932678794,estimable
+alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,Fall,C2,10,0,0.3109813909927431,estimable
+alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,Somnolence,C3,10,0,-0.07926976633148354,estimable
+alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,Sedation,C3,10,0,0.3048837166595521,estimable
+alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,Dizziness,C4,10,0,-0.28049301932678794,estimable
+alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,Vertigo,C4,10,0,0.7256232456497339,estimable
+alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,Muscular weakness,C5,10,0,-0.439032551989755,estimable
+alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,Hypotonia,C5,8,2,0.10778636357219329,estimable
+alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,Amnesia,C6,10,0,-0.14024650966339397,estimable
+alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,Memory impairment,C6,10,0,-0.28659069365997897,estimable
+alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,Cognitive disorder,C6,9,1,-0.30125786715206027,estimable
+alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,Ataxia,C1,9,1,-0.03960590171906697,estimable
+alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,Balance disorder,C1,10,0,-0.047795211939924316,estimable
+alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,Coordination abnormal,C1,8,2,0.5182674893104818,estimable
+alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,Gait disturbance,C1,10,0,-0.08876253645985946,estimable
+alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,Fall,C2,10,0,0.4642963445592649,estimable
+alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,Somnolence,C3,10,0,0.2389760596996216,estimable
+alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,Sedation,C3,10,0,0.2389760596996216,estimable
+alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,Dizziness,C4,10,0,-0.061450986779902704,estimable
+alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,Vertigo,C4,10,0,-0.06827887419989188,estimable
+alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,Muscular weakness,C5,10,0,0.21166451001966485,estimable
+alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,Hypotonia,C5,8,2,-0.13638618139749523,estimable
+alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,Amnesia,C6,10,0,0.35505014583943784,estimable
+alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,Memory impairment,C6,10,0,-0.01365577483997838,estimable
+alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,Cognitive disorder,C6,9,1,0.09901475429766744,estimable
+alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,Ataxia,C1,9,1,-0.5941474602165634,estimable
+alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,Balance disorder,C1,10,0,-0.24924127290882647,estimable
+alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,Coordination abnormal,C1,8,2,0.26347777762091695,estimable
+alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,Gait disturbance,C1,10,0,-0.2613993837824278,estimable
+alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,Fall,C2,10,0,0.47416632407045034,estimable
+alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,Somnolence,C3,10,0,-0.29179466096643103,estimable
+alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,Sedation,C3,10,0,-0.38298049251844074,estimable
+alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,Dizziness,C4,10,0,-0.17629260766721874,estimable
+alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,Vertigo,C4,10,0,0.03039527718400323,estimable
+alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,Muscular weakness,C5,10,0,-0.10942299786241164,estimable
+alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,Hypotonia,C5,8,2,-0.6586944440522925,estimable
+alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,Amnesia,C6,10,0,0.006079055436800647,estimable
+alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,Memory impairment,C6,10,0,-0.2735574946560291,estimable
+alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,Cognitive disorder,C6,9,1,-0.5774109120414489,estimable
+alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,Ataxia,C1,9,1,-0.22594340036404525,estimable
+alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,Balance disorder,C1,10,0,-0.298786042326361,estimable
+alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,Coordination abnormal,C1,8,2,-0.8263621207201486,estimable
+alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,Gait disturbance,C1,10,0,-0.15244185832977605,estimable
+alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,Fall,C2,10,0,-0.7561116173156891,estimable
+alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,Somnolence,C3,10,0,-0.12805116099701186,estimable
+alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,Sedation,C3,10,0,-0.0060976743331910424,estimable
+alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,Dizziness,C4,10,0,-0.018293022999573125,estimable
+alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,Vertigo,C4,10,0,-0.40854418032379974,estimable
+alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,Muscular weakness,C5,10,0,-0.1036604636642477,estimable
+alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,Hypotonia,C5,8,2,0.09581010095306072,estimable
+alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,Amnesia,C6,10,0,-0.3048837166595521,estimable
+alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,Memory impairment,C6,10,0,-0.07926976633148354,estimable
+alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,Cognitive disorder,C6,9,1,-0.108787563138244,estimable
+alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,Ataxia,C1,9,1,-0.12185435916898849,estimable
+alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,Balance disorder,C1,10,0,0.23920802801903726,estimable
+alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,Coordination abnormal,C1,8,2,-0.024397501823713332,estimable
+alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,Gait disturbance,C1,10,0,0.49781130155313164,estimable
+alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,Fall,C2,10,0,0.12283655492869483,estimable
+alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,Somnolence,C3,10,0,0.01939524551505708,estimable
+alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,Sedation,C3,10,0,-0.03232540919176179,estimable
+alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,Dizziness,C4,10,0,0.5495319562599505,estimable
+alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,Vertigo,C4,10,0,-0.5107414652298363,estimable
+alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,Muscular weakness,C5,10,0,0.5883224472900647,estimable
+alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,Hypotonia,C5,8,2,-0.3659625273557,estimable
+alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,Amnesia,C6,10,0,0.252138191695742,estimable
+alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,Memory impairment,C6,10,0,0.5107414652298363,estimable
+alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,Cognitive disorder,C6,9,1,0.3394514291136108,estimable
+alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,Ataxia,C1,9,1,0.27386127875258304,estimable
+alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,Balance disorder,C1,10,0,0.5449492609130662,estimable
+alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,Coordination abnormal,C1,8,2,0.26497886671513365,estimable
+alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,Gait disturbance,C1,10,0,0.6227991553292184,estimable
+alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,Fall,C2,10,0,0.5103493078392206,estimable
+alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,Somnolence,C3,10,0,-0.03459995307384547,estimable
+alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,Sedation,C3,10,0,0.043249941342306836,estimable
+alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,Dizziness,C4,10,0,0.6227991553292184,estimable
+alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,Vertigo,C4,10,0,0.27679962459076374,estimable
+alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,Muscular weakness,C5,10,0,0.354649519006916,estimable
+alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,Hypotonia,C5,8,2,-0.17145691375685118,estimable
+alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,Amnesia,C6,10,0,0.19894973017461143,estimable
+alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,Memory impairment,C6,10,0,0.5449492609130662,estimable
+alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,Cognitive disorder,C6,9,1,0.27386127875258304,estimable
+alpha1|BZD_SITE_100|PHE|any_contact_frequency,Ataxia,C1,9,1,0.21666666666666667,estimable
+alpha1|BZD_SITE_100|PHE|any_contact_frequency,Balance disorder,C1,10,0,-0.1515151515151515,estimable
+alpha1|BZD_SITE_100|PHE|any_contact_frequency,Coordination abnormal,C1,8,2,0.0,estimable
+alpha1|BZD_SITE_100|PHE|any_contact_frequency,Gait disturbance,C1,10,0,-0.4666666666666666,estimable
+alpha1|BZD_SITE_100|PHE|any_contact_frequency,Fall,C2,10,0,-0.2121212121212121,estimable
+alpha1|BZD_SITE_100|PHE|any_contact_frequency,Somnolence,C3,10,0,-0.06666666666666665,estimable
+alpha1|BZD_SITE_100|PHE|any_contact_frequency,Sedation,C3,10,0,0.5393939393939393,estimable
+alpha1|BZD_SITE_100|PHE|any_contact_frequency,Dizziness,C4,10,0,-0.6606060606060605,estimable
+alpha1|BZD_SITE_100|PHE|any_contact_frequency,Vertigo,C4,10,0,0.3696969696969697,estimable
+alpha1|BZD_SITE_100|PHE|any_contact_frequency,Muscular weakness,C5,10,0,-0.6363636363636362,estimable
+alpha1|BZD_SITE_100|PHE|any_contact_frequency,Hypotonia,C5,8,2,0.8333333333333335,estimable
+alpha1|BZD_SITE_100|PHE|any_contact_frequency,Amnesia,C6,10,0,-0.34545454545454546,estimable
+alpha1|BZD_SITE_100|PHE|any_contact_frequency,Memory impairment,C6,10,0,-0.5030303030303029,estimable
+alpha1|BZD_SITE_100|PHE|any_contact_frequency,Cognitive disorder,C6,9,1,0.25,estimable
+alpha1|BZD_SITE_102|HIS|any_contact_frequency,Ataxia,C1,9,1,-0.54393781569122,estimable
+alpha1|BZD_SITE_102|HIS|any_contact_frequency,Balance disorder,C1,10,0,-0.36586045999146244,estimable
+alpha1|BZD_SITE_102|HIS|any_contact_frequency,Coordination abnormal,C1,8,2,-0.28743030285918214,estimable
+alpha1|BZD_SITE_102|HIS|any_contact_frequency,Gait disturbance,C1,10,0,-0.2195162759948775,estimable
+alpha1|BZD_SITE_102|HIS|any_contact_frequency,Fall,C2,10,0,-0.0060976743331910424,estimable
+alpha1|BZD_SITE_102|HIS|any_contact_frequency,Somnolence,C3,10,0,-0.7561116173156891,estimable
+alpha1|BZD_SITE_102|HIS|any_contact_frequency,Sedation,C3,10,0,-0.6829395253173965,estimable
+alpha1|BZD_SITE_102|HIS|any_contact_frequency,Dizziness,C4,10,0,-0.02439069733276417,estimable
+alpha1|BZD_SITE_102|HIS|any_contact_frequency,Vertigo,C4,10,0,-0.15244185832977605,estimable
+alpha1|BZD_SITE_102|HIS|any_contact_frequency,Muscular weakness,C5,10,0,-0.36586045999146244,estimable
+alpha1|BZD_SITE_102|HIS|any_contact_frequency,Hypotonia,C5,8,2,-0.4191691916696406,estimable
+alpha1|BZD_SITE_102|HIS|any_contact_frequency,Amnesia,C6,10,0,-0.48171627232209224,estimable
+alpha1|BZD_SITE_102|HIS|any_contact_frequency,Memory impairment,C6,10,0,-0.298786042326361,estimable
+alpha1|BZD_SITE_102|HIS|any_contact_frequency,Cognitive disorder,C6,9,1,-0.5606743638663345,estimable
+alpha1|BZD_SITE_103|ASN|any_contact_frequency,Ataxia,C1,9,1,0.3423265984407288,estimable
+alpha1|BZD_SITE_103|ASN|any_contact_frequency,Balance disorder,C1,10,0,0.19894973017461143,estimable
+alpha1|BZD_SITE_103|ASN|any_contact_frequency,Coordination abnormal,C1,8,2,-0.23380488239570615,estimable
+alpha1|BZD_SITE_103|ASN|any_contact_frequency,Gait disturbance,C1,10,0,0.16434977710076598,estimable
+alpha1|BZD_SITE_103|ASN|any_contact_frequency,Fall,C2,10,0,-0.27679962459076374,estimable
+alpha1|BZD_SITE_103|ASN|any_contact_frequency,Somnolence,C3,10,0,0.4497993899599911,estimable
+alpha1|BZD_SITE_103|ASN|any_contact_frequency,Sedation,C3,10,0,0.5449492609130662,estimable
+alpha1|BZD_SITE_103|ASN|any_contact_frequency,Dizziness,C4,10,0,0.12974982402692048,estimable
+alpha1|BZD_SITE_103|ASN|any_contact_frequency,Vertigo,C4,10,0,0.1556997888323046,estimable
+alpha1|BZD_SITE_103|ASN|any_contact_frequency,Muscular weakness,C5,10,0,0.22489969497999554,estimable
+alpha1|BZD_SITE_103|ASN|any_contact_frequency,Hypotonia,C5,8,2,0.18704390591656492,estimable
+alpha1|BZD_SITE_103|ASN|any_contact_frequency,Amnesia,C6,10,0,0.16434977710076598,estimable
+alpha1|BZD_SITE_103|ASN|any_contact_frequency,Memory impairment,C6,10,0,0.24219967151691824,estimable
+alpha1|BZD_SITE_103|ASN|any_contact_frequency,Cognitive disorder,C6,9,1,0.11410886614690961,estimable
+alpha1|BZD_SITE_138|GLU|any_contact_frequency,Ataxia,C1,9,1,0.0,estimable
+alpha1|BZD_SITE_138|GLU|any_contact_frequency,Balance disorder,C1,10,0,-0.058025885318565944,estimable
+alpha1|BZD_SITE_138|GLU|any_contact_frequency,Coordination abnormal,C1,8,2,-0.24743582965269675,estimable
+alpha1|BZD_SITE_138|GLU|any_contact_frequency,Gait disturbance,C1,10,0,0.1740776559556978,estimable
+alpha1|BZD_SITE_138|GLU|any_contact_frequency,Fall,C2,10,0,-0.058025885318565944,estimable
+alpha1|BZD_SITE_138|GLU|any_contact_frequency,Somnolence,C3,10,0,0.1740776559556978,estimable
+alpha1|BZD_SITE_138|GLU|any_contact_frequency,Sedation,C3,10,0,0.1740776559556978,estimable
+alpha1|BZD_SITE_138|GLU|any_contact_frequency,Dizziness,C4,10,0,0.40618119722996154,estimable
+alpha1|BZD_SITE_138|GLU|any_contact_frequency,Vertigo,C4,10,0,-0.40618119722996154,estimable
+alpha1|BZD_SITE_138|GLU|any_contact_frequency,Muscular weakness,C5,10,0,0.40618119722996154,estimable
+alpha1|BZD_SITE_138|GLU|any_contact_frequency,Hypotonia,C5,8,2,-0.24743582965269675,estimable
+alpha1|BZD_SITE_138|GLU|any_contact_frequency,Amnesia,C6,10,0,0.1740776559556978,estimable
+alpha1|BZD_SITE_138|GLU|any_contact_frequency,Memory impairment,C6,10,0,0.2901294265928297,estimable
+alpha1|BZD_SITE_138|GLU|any_contact_frequency,Cognitive disorder,C6,9,1,0.0,estimable
+alpha1|BZD_SITE_156|LYS|any_contact_frequency,Ataxia,C1,9,1,0.25104822262671694,estimable
+alpha1|BZD_SITE_156|LYS|any_contact_frequency,Balance disorder,C1,10,0,0.17792750455055614,estimable
+alpha1|BZD_SITE_156|LYS|any_contact_frequency,Coordination abnormal,C1,8,2,-0.14285714285714288,estimable
+alpha1|BZD_SITE_156|LYS|any_contact_frequency,Gait disturbance,C1,10,0,0.2883652659957289,estimable
+alpha1|BZD_SITE_156|LYS|any_contact_frequency,Fall,C2,10,0,-0.09203146787097731,estimable
+alpha1|BZD_SITE_156|LYS|any_contact_frequency,Somnolence,C3,10,0,0.46015733935488656,estimable
+alpha1|BZD_SITE_156|LYS|any_contact_frequency,Sedation,C3,10,0,-0.05521888072258639,estimable
+alpha1|BZD_SITE_156|LYS|any_contact_frequency,Dizziness,C4,10,0,0.3374487155269168,estimable
+alpha1|BZD_SITE_156|LYS|any_contact_frequency,Vertigo,C4,10,0,-0.1533857797849622,estimable
+alpha1|BZD_SITE_156|LYS|any_contact_frequency,Muscular weakness,C5,10,0,0.2883652659957289,estimable
+alpha1|BZD_SITE_156|LYS|any_contact_frequency,Hypotonia,C5,8,2,-0.09523809523809526,estimable
+alpha1|BZD_SITE_156|LYS|any_contact_frequency,Amnesia,C6,10,0,0.16565664216775916,estimable
+alpha1|BZD_SITE_156|LYS|any_contact_frequency,Memory impairment,C6,10,0,0.32517785314411984,estimable
+alpha1|BZD_SITE_156|LYS|any_contact_frequency,Cognitive disorder,C6,9,1,0.12552411131335847,estimable
+alpha1|BZD_SITE_160|TYR|any_contact_frequency,Ataxia,C1,9,1,-0.06666666666666667,estimable
+alpha1|BZD_SITE_160|TYR|any_contact_frequency,Balance disorder,C1,10,0,-0.1515151515151515,estimable
+alpha1|BZD_SITE_160|TYR|any_contact_frequency,Coordination abnormal,C1,8,2,0.19047619047619052,estimable
+alpha1|BZD_SITE_160|TYR|any_contact_frequency,Gait disturbance,C1,10,0,-0.3939393939393939,estimable
+alpha1|BZD_SITE_160|TYR|any_contact_frequency,Fall,C2,10,0,0.19999999999999998,estimable
+alpha1|BZD_SITE_160|TYR|any_contact_frequency,Somnolence,C3,10,0,-0.13939393939393938,estimable
+alpha1|BZD_SITE_160|TYR|any_contact_frequency,Sedation,C3,10,0,0.24848484848484845,estimable
+alpha1|BZD_SITE_160|TYR|any_contact_frequency,Dizziness,C4,10,0,-0.3696969696969697,estimable
+alpha1|BZD_SITE_160|TYR|any_contact_frequency,Vertigo,C4,10,0,0.4545454545454545,estimable
+alpha1|BZD_SITE_160|TYR|any_contact_frequency,Muscular weakness,C5,10,0,-0.5151515151515151,estimable
+alpha1|BZD_SITE_160|TYR|any_contact_frequency,Hypotonia,C5,8,2,0.3333333333333334,estimable
+alpha1|BZD_SITE_160|TYR|any_contact_frequency,Amnesia,C6,10,0,-0.1515151515151515,estimable
+alpha1|BZD_SITE_160|TYR|any_contact_frequency,Memory impairment,C6,10,0,-0.3696969696969697,estimable
+alpha1|BZD_SITE_160|TYR|any_contact_frequency,Cognitive disorder,C6,9,1,0.049999999999999996,estimable
+alpha1|BZD_SITE_203|VAL|any_contact_frequency,Ataxia,C1,9,1,-0.38333333333333336,estimable
+alpha1|BZD_SITE_203|VAL|any_contact_frequency,Balance disorder,C1,10,0,-0.5151515151515151,estimable
+alpha1|BZD_SITE_203|VAL|any_contact_frequency,Coordination abnormal,C1,8,2,-0.1666666666666667,estimable
+alpha1|BZD_SITE_203|VAL|any_contact_frequency,Gait disturbance,C1,10,0,-0.2606060606060606,estimable
+alpha1|BZD_SITE_203|VAL|any_contact_frequency,Fall,C2,10,0,0.07878787878787878,estimable
+alpha1|BZD_SITE_203|VAL|any_contact_frequency,Somnolence,C3,10,0,-0.6121212121212121,estimable
+alpha1|BZD_SITE_203|VAL|any_contact_frequency,Sedation,C3,10,0,-0.49090909090909085,estimable
+alpha1|BZD_SITE_203|VAL|any_contact_frequency,Dizziness,C4,10,0,0.0303030303030303,estimable
+alpha1|BZD_SITE_203|VAL|any_contact_frequency,Vertigo,C4,10,0,-0.41818181818181815,estimable
+alpha1|BZD_SITE_203|VAL|any_contact_frequency,Muscular weakness,C5,10,0,-0.0303030303030303,estimable
+alpha1|BZD_SITE_203|VAL|any_contact_frequency,Hypotonia,C5,8,2,-0.5952380952380953,estimable
+alpha1|BZD_SITE_203|VAL|any_contact_frequency,Amnesia,C6,10,0,-0.23636363636363633,estimable
+alpha1|BZD_SITE_203|VAL|any_contact_frequency,Memory impairment,C6,10,0,-0.2606060606060606,estimable
+alpha1|BZD_SITE_203|VAL|any_contact_frequency,Cognitive disorder,C6,9,1,-0.7,estimable
+alpha1|BZD_SITE_204|GLN|any_contact_frequency,Ataxia,C1,9,1,-0.17431926281167376,estimable
+alpha1|BZD_SITE_204|GLN|any_contact_frequency,Balance disorder,C1,10,0,0.36327795350909364,estimable
+alpha1|BZD_SITE_204|GLN|any_contact_frequency,Coordination abnormal,C1,8,2,-0.3575666109671579,estimable
+alpha1|BZD_SITE_204|GLN|any_contact_frequency,Gait disturbance,C1,10,0,0.32900644846106597,estimable
+alpha1|BZD_SITE_204|GLN|any_contact_frequency,Fall,C2,10,0,-0.04798010706723878,estimable
+alpha1|BZD_SITE_204|GLN|any_contact_frequency,Somnolence,C3,10,0,0.020562903028816623,estimable
+alpha1|BZD_SITE_204|GLN|any_contact_frequency,Sedation,C3,10,0,-0.11652311716329421,estimable
+alpha1|BZD_SITE_204|GLN|any_contact_frequency,Dizziness,C4,10,0,0.39754945855712137,estimable
+alpha1|BZD_SITE_204|GLN|any_contact_frequency,Vertigo,C4,10,0,0.5551983817780488,estimable
+alpha1|BZD_SITE_204|GLN|any_contact_frequency,Muscular weakness,C5,10,0,0.0,estimable
+alpha1|BZD_SITE_204|GLN|any_contact_frequency,Hypotonia,C5,8,2,-0.44695826370894737,estimable
+alpha1|BZD_SITE_204|GLN|any_contact_frequency,Amnesia,C6,10,0,-0.006854301009605541,estimable
+alpha1|BZD_SITE_204|GLN|any_contact_frequency,Memory impairment,C6,10,0,0.34271505048027706,estimable
+alpha1|BZD_SITE_204|GLN|any_contact_frequency,Cognitive disorder,C6,9,1,-0.1926686588971131,estimable
+alpha1|BZD_SITE_205|SER|any_contact_frequency,Ataxia,C1,9,1,-0.09999999999999999,estimable
+alpha1|BZD_SITE_205|SER|any_contact_frequency,Balance disorder,C1,10,0,0.01818181818181818,estimable
+alpha1|BZD_SITE_205|SER|any_contact_frequency,Coordination abnormal,C1,8,2,0.5714285714285715,estimable
+alpha1|BZD_SITE_205|SER|any_contact_frequency,Gait disturbance,C1,10,0,-0.006060606060606061,estimable
+alpha1|BZD_SITE_205|SER|any_contact_frequency,Fall,C2,10,0,-0.05454545454545454,estimable
+alpha1|BZD_SITE_205|SER|any_contact_frequency,Somnolence,C3,10,0,0.24848484848484845,estimable
+alpha1|BZD_SITE_205|SER|any_contact_frequency,Sedation,C3,10,0,-0.5636363636363636,estimable
+alpha1|BZD_SITE_205|SER|any_contact_frequency,Dizziness,C4,10,0,-0.05454545454545454,estimable
+alpha1|BZD_SITE_205|SER|any_contact_frequency,Vertigo,C4,10,0,-0.11515151515151514,estimable
+alpha1|BZD_SITE_205|SER|any_contact_frequency,Muscular weakness,C5,10,0,0.309090909090909,estimable
+alpha1|BZD_SITE_205|SER|any_contact_frequency,Hypotonia,C5,8,2,-0.1666666666666667,estimable
+alpha1|BZD_SITE_205|SER|any_contact_frequency,Amnesia,C6,10,0,0.5636363636363636,estimable
+alpha1|BZD_SITE_205|SER|any_contact_frequency,Memory impairment,C6,10,0,0.09090909090909088,estimable
+alpha1|BZD_SITE_205|SER|any_contact_frequency,Cognitive disorder,C6,9,1,-0.03333333333333333,estimable
+alpha1|BZD_SITE_206|SER|any_contact_frequency,Ataxia,C1,9,1,-0.17025130615174974,estimable
+alpha1|BZD_SITE_206|SER|any_contact_frequency,Balance disorder,C1,10,0,0.4630423666103975,estimable
+alpha1|BZD_SITE_206|SER|any_contact_frequency,Coordination abnormal,C1,8,2,0.036827146210517726,estimable
+alpha1|BZD_SITE_206|SER|any_contact_frequency,Gait disturbance,C1,10,0,0.5926942292613089,estimable
+alpha1|BZD_SITE_206|SER|any_contact_frequency,Fall,C2,10,0,0.580346432818365,estimable
+alpha1|BZD_SITE_206|SER|any_contact_frequency,Somnolence,C3,10,0,-0.024695592885887872,estimable
+alpha1|BZD_SITE_206|SER|any_contact_frequency,Sedation,C3,10,0,-0.24078203063740672,estimable
+alpha1|BZD_SITE_206|SER|any_contact_frequency,Dizziness,C4,10,0,0.6420854150330846,estimable
+alpha1|BZD_SITE_206|SER|any_contact_frequency,Vertigo,C4,10,0,0.19756474308710298,estimable
+alpha1|BZD_SITE_206|SER|any_contact_frequency,Muscular weakness,C5,10,0,0.29634711463065444,estimable
+alpha1|BZD_SITE_206|SER|any_contact_frequency,Hypotonia,C5,8,2,-0.8224729320348959,estimable
+alpha1|BZD_SITE_206|SER|any_contact_frequency,Amnesia,C6,10,0,0.049391185771775745,estimable
+alpha1|BZD_SITE_206|SER|any_contact_frequency,Memory impairment,C6,10,0,0.4939118577177574,estimable
+alpha1|BZD_SITE_206|SER|any_contact_frequency,Cognitive disorder,C6,9,1,-0.08512565307587487,estimable
+alpha1|BZD_SITE_207|THR|any_contact_frequency,Ataxia,C1,9,1,0.19328413556768415,estimable
+alpha1|BZD_SITE_207|THR|any_contact_frequency,Balance disorder,C1,10,0,0.2621999963272148,estimable
+alpha1|BZD_SITE_207|THR|any_contact_frequency,Coordination abnormal,C1,8,2,0.3952166664313755,estimable
+alpha1|BZD_SITE_207|THR|any_contact_frequency,Gait disturbance,C1,10,0,0.09146511499786561,estimable
+alpha1|BZD_SITE_207|THR|any_contact_frequency,Fall,C2,10,0,0.5304976669876206,estimable
+alpha1|BZD_SITE_207|THR|any_contact_frequency,Somnolence,C3,10,0,0.3109813909927431,estimable
+alpha1|BZD_SITE_207|THR|any_contact_frequency,Sedation,C3,10,0,0.5914744103195311,estimable
+alpha1|BZD_SITE_207|THR|any_contact_frequency,Dizziness,C4,10,0,0.09146511499786561,estimable
+alpha1|BZD_SITE_207|THR|any_contact_frequency,Vertigo,C4,10,0,0.5548883643203848,estimable
+alpha1|BZD_SITE_207|THR|any_contact_frequency,Muscular weakness,C5,10,0,0.12805116099701186,estimable
+alpha1|BZD_SITE_207|THR|any_contact_frequency,Hypotonia,C5,8,2,-0.03592878785739777,estimable
+alpha1|BZD_SITE_207|THR|any_contact_frequency,Amnesia,C6,10,0,0.31707906532593416,estimable
+alpha1|BZD_SITE_207|THR|any_contact_frequency,Memory impairment,C6,10,0,0.15244185832977605,estimable
+alpha1|BZD_SITE_207|THR|any_contact_frequency,Cognitive disorder,C6,9,1,0.06722926454528143,estimable
+alpha1|BZD_SITE_210|TYR|any_contact_frequency,Ataxia,C1,9,1,-0.6272087408492496,estimable
+alpha1|BZD_SITE_210|TYR|any_contact_frequency,Balance disorder,C1,10,0,-0.6074076879484503,estimable
+alpha1|BZD_SITE_210|TYR|any_contact_frequency,Coordination abnormal,C1,8,2,-0.3233590907165799,estimable
+alpha1|BZD_SITE_210|TYR|any_contact_frequency,Gait disturbance,C1,10,0,-0.6074076879484503,estimable
+alpha1|BZD_SITE_210|TYR|any_contact_frequency,Fall,C2,10,0,-0.32517785314411984,estimable
+alpha1|BZD_SITE_210|TYR|any_contact_frequency,Somnolence,C3,10,0,-0.39880302744090174,estimable
+alpha1|BZD_SITE_210|TYR|any_contact_frequency,Sedation,C3,10,0,-0.3497195779097138,estimable
+alpha1|BZD_SITE_210|TYR|any_contact_frequency,Dizziness,C4,10,0,-0.4356156145892926,estimable
+alpha1|BZD_SITE_210|TYR|any_contact_frequency,Vertigo,C4,10,0,-0.31290699076132283,estimable
+alpha1|BZD_SITE_210|TYR|any_contact_frequency,Muscular weakness,C5,10,0,-0.5951368255656533,estimable
+alpha1|BZD_SITE_210|TYR|any_contact_frequency,Hypotonia,C5,8,2,-0.03592878785739777,estimable
+alpha1|BZD_SITE_210|TYR|any_contact_frequency,Amnesia,C6,10,0,-0.46015733935488656,estimable
+alpha1|BZD_SITE_210|TYR|any_contact_frequency,Memory impairment,C6,10,0,-0.5583242384172624,estimable
+alpha1|BZD_SITE_210|TYR|any_contact_frequency,Cognitive disorder,C6,9,1,-0.23732222626728364,estimable
+alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,Ataxia,C1,9,1,0.13693063937629152,estimable
+alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,Balance disorder,C1,10,0,0.37194949554383877,estimable
+alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,Coordination abnormal,C1,8,2,0.4123930494211612,estimable
+alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,Gait disturbance,C1,10,0,0.29409960112768646,estimable
+alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,Fall,C2,10,0,0.39789946034922286,estimable
+alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,Somnolence,C3,10,0,0.3113995776646092,estimable
+alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,Sedation,C3,10,0,0.12974982402692048,estimable
+alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,Dizziness,C4,10,0,0.1037998592215364,estimable
+alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,Vertigo,C4,10,0,0.12974982402692048,estimable
+alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,Muscular weakness,C5,10,0,0.1556997888323046,estimable
+alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,Hypotonia,C5,8,2,-0.08247860988423225,estimable
+alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,Amnesia,C6,10,0,0.1556997888323046,estimable
+alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,Memory impairment,C6,10,0,0.21624970671153415,estimable
+alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,Cognitive disorder,C6,9,1,0.4107919181288746,estimable
+alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,Ataxia,C1,9,1,-0.25104822262671694,estimable
+alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,Balance disorder,C1,10,0,-0.17073488132934914,estimable
+alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,Coordination abnormal,C1,8,2,0.11904761904761905,estimable
+alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,Gait disturbance,C1,10,0,-0.3048837166595521,estimable
+alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,Fall,C2,10,0,0.28049301932678794,estimable
+alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,Somnolence,C3,10,0,-0.36586045999146244,estimable
+alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,Sedation,C3,10,0,0.5426930156540026,estimable
+alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,Dizziness,C4,10,0,-0.36586045999146244,estimable
+alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,Vertigo,C4,10,0,0.042683720332337284,estimable
+alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,Muscular weakness,C5,10,0,-0.3597627856582714,estimable
+alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,Hypotonia,C5,8,2,0.4285714285714286,estimable
+alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,Amnesia,C6,10,0,-0.28659069365997897,estimable
+alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,Memory impairment,C6,10,0,-0.3475674369918894,estimable
+alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,Cognitive disorder,C6,9,1,0.2761530448893886,estimable
+alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,Ataxia,C1,9,1,0.39840953644479793,estimable
+alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,Balance disorder,C1,10,0,-0.11236664374387367,estimable
+alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,Coordination abnormal,C1,8,2,-0.26497886671513365,estimable
+alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,Gait disturbance,C1,10,0,0.0,estimable
+alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,Fall,C2,10,0,-0.3146266024828463,estimable
+alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,Somnolence,C3,10,0,0.20225995873897262,estimable
+alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,Sedation,C3,10,0,0.13483997249264842,estimable
+alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,Dizziness,C4,10,0,0.044946657497549475,estimable
+alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,Vertigo,C4,10,0,-0.1797866299901979,estimable
+alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,Muscular weakness,C5,10,0,0.1797866299901979,estimable
+alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,Hypotonia,C5,8,2,0.06234796863885497,estimable
+alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,Amnesia,C6,10,0,0.0,estimable
+alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,Memory impairment,C6,10,0,0.022473328748774737,estimable
+alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,Cognitive disorder,C6,9,1,-0.23904572186687872,estimable
+alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,Ataxia,C1,9,1,0.05857791861290061,estimable
+alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,Balance disorder,C1,10,0,-0.10334394242561099,estimable
+alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,Coordination abnormal,C1,8,2,0.2515015150017844,estimable
+alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,Gait disturbance,C1,10,0,0.13373921960961418,estimable
+alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,Fall,C2,10,0,0.16413449679361744,estimable
+alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,Somnolence,C3,10,0,-0.07294866524160776,estimable
+alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,Sedation,C3,10,0,-0.08510677611520903,estimable
+alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,Dizziness,C4,10,0,0.3282689935872349,estimable
+alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,Vertigo,C4,10,0,-0.5471149893120582,estimable
+alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,Muscular weakness,C5,10,0,0.4559291577600484,estimable
+alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,Hypotonia,C5,8,2,-0.05988131309566294,estimable
+alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,Amnesia,C6,10,0,0.33434804902403553,estimable
+alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,Memory impairment,C6,10,0,0.2249250511616239,estimable
+alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,Cognitive disorder,C6,9,1,0.217575126276488,estimable
+alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,Ataxia,C1,9,1,0.30276503540974914,estimable
+alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,Balance disorder,C1,10,0,0.6031784888452876,estimable
+alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,Coordination abnormal,C1,8,2,-0.012770236105969925,estimable
+alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,Gait disturbance,C1,10,0,0.5346354787492321,estimable
+alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,Fall,C2,10,0,0.12337741817289974,estimable
+alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,Somnolence,C3,10,0,0.19877472927856069,estimable
+alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,Sedation,C3,10,0,0.1919204282689551,estimable
+alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,Dizziness,C4,10,0,0.49350967269159896,estimable
+alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,Vertigo,C4,10,0,0.6374499938933152,estimable
+alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,Muscular weakness,C5,10,0,0.17135752524013853,estimable
+alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,Hypotonia,C5,8,2,-0.0510809444238797,estimable
+alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,Amnesia,C6,10,0,0.1507946222113219,estimable
+alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,Memory impairment,C6,10,0,0.5140725757204155,estimable
+alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,Cognitive disorder,C6,9,1,0.1926686588971131,estimable
+alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,Ataxia,C1,9,1,-0.38990643368252725,estimable
+alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,Balance disorder,C1,10,0,-0.4449492083146097,estimable
+alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,Coordination abnormal,C1,8,2,-0.6508140266182866,estimable
+alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,Gait disturbance,C1,10,0,-0.27332594225040313,estimable
+alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,Fall,C2,10,0,-0.41316712200642336,estimable
+alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,Somnolence,C3,10,0,-0.6674238124719146,estimable
+alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,Sedation,C3,10,0,-0.4322363737913352,estimable
+alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,Dizziness,C4,10,0,-0.18433610058748118,estimable
+alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,Vertigo,C4,10,0,-0.3750286184365996,estimable
+alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,Muscular weakness,C5,10,0,-0.292395194035315,estimable
+alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,Hypotonia,C5,8,2,-0.20025046972870358,estimable
+alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,Amnesia,C6,10,0,-0.5593647190240808,estimable
+alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,Memory impairment,C6,10,0,-0.35595936665168776,estimable
+alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,Cognitive disorder,C6,9,1,-0.5372044197403709,estimable
+alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,Ataxia,C1,9,1,-0.19328413556768415,estimable
+alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,Balance disorder,C1,10,0,-0.15244185832977605,estimable
+alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,Coordination abnormal,C1,8,2,0.0,estimable
+alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,Gait disturbance,C1,10,0,-0.45122790065613705,estimable
+alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,Fall,C2,10,0,0.03658604599914625,estimable
+alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,Somnolence,C3,10,0,-0.2500046476608327,estimable
+alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,Sedation,C3,10,0,0.445130226322946,estimable
+alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,Dizziness,C4,10,0,-0.5731813873199579,estimable
+alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,Vertigo,C4,10,0,0.5365953413208115,estimable
+alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,Muscular weakness,C5,10,0,-0.6341581306518683,estimable
+alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,Hypotonia,C5,8,2,0.4431217169079058,estimable
+alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,Amnesia,C6,10,0,-0.3841534829910357,estimable
+alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,Memory impairment,C6,10,0,-0.5000092953216654,estimable
+alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,Cognitive disorder,C6,9,1,-0.12605487102240268,estimable
+alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,Ataxia,C1,9,1,NA,constant-feature
+alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,Balance disorder,C1,10,0,0.058025885318565944,estimable
+alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,Coordination abnormal,C1,8,2,NA,constant-feature
+alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,Gait disturbance,C1,10,0,-0.058025885318565944,estimable
+alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,Fall,C2,10,0,0.5222329678670935,estimable
+alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,Somnolence,C3,10,0,-0.1740776559556978,estimable
+alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,Sedation,C3,10,0,0.40618119722996154,estimable
+alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,Dizziness,C4,10,0,-0.058025885318565944,estimable
+alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,Vertigo,C4,10,0,0.40618119722996154,estimable
+alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,Muscular weakness,C5,10,0,-0.40618119722996154,estimable
+alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,Hypotonia,C5,8,2,NA,constant-feature
+alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,Amnesia,C6,10,0,-0.40618119722996154,estimable
+alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,Memory impairment,C6,10,0,-0.1740776559556978,estimable
+alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,Cognitive disorder,C6,9,1,NA,constant-feature
+alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,Ataxia,C1,9,1,-0.5477225575051661,estimable
+alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,Balance disorder,C1,10,0,-0.06919990614769093,estimable
+alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,Coordination abnormal,C1,8,2,-0.5773502691896258,estimable
+alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,Gait disturbance,C1,10,0,-0.16434977710076598,estimable
+alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,Fall,C2,10,0,0.1556997888323046,estimable
+alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,Somnolence,C3,10,0,-0.18164975363768868,estimable
+alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,Sedation,C3,10,0,0.06054991787922956,estimable
+alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,Dizziness,C4,10,0,-0.008649988268461367,estimable
+alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,Vertigo,C4,10,0,0.4497993899599911,estimable
+alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,Muscular weakness,C5,10,0,-0.5276492843761433,estimable
+alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,Hypotonia,C5,8,2,-0.4123930494211612,estimable
+alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,Amnesia,C6,10,0,-0.4497993899599911,estimable
+alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,Memory impairment,C6,10,0,-0.18164975363768868,estimable
+alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,Cognitive disorder,C6,9,1,-0.4107919181288746,estimable
+alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,Ataxia,C1,9,1,0.13693063937629152,estimable
+alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,Balance disorder,C1,10,0,0.4930493313022979,estimable
+alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,Coordination abnormal,C1,8,2,0.23380488239570615,estimable
+alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,Gait disturbance,C1,10,0,0.5881992022553729,estimable
+alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,Fall,C2,10,0,0.5276492843761433,estimable
+alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,Somnolence,C3,10,0,-0.13839981229538187,estimable
+alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,Sedation,C3,10,0,-0.043249941342306836,estimable
+alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,Dizziness,C4,10,0,0.5881992022553729,estimable
+alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,Vertigo,C4,10,0,0.24219967151691824,estimable
+alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,Muscular weakness,C5,10,0,0.33734954246999327,estimable
+alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,Hypotonia,C5,8,2,-0.3273268353539886,estimable
+alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,Amnesia,C6,10,0,0.14704980056384323,estimable
+alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,Memory impairment,C6,10,0,0.4930493313022979,estimable
+alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,Cognitive disorder,C6,9,1,0.13693063937629152,estimable
+alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,Ataxia,C1,9,1,0.17573375583870185,estimable
+alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,Balance disorder,C1,10,0,0.45122790065613705,estimable
+alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,Coordination abnormal,C1,8,2,0.5952380952380953,estimable
+alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,Gait disturbance,C1,10,0,0.6097674333191042,estimable
+alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,Fall,C2,10,0,0.3963488316574177,estimable
+alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,Somnolence,C3,10,0,0.36586045999146244,estimable
+alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,Sedation,C3,10,0,-0.2378092989944506,estimable
+alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,Dizziness,C4,10,0,0.5487906899871938,estimable
+alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,Vertigo,C4,10,0,-0.15853953266296708,estimable
+alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,Muscular weakness,C5,10,0,0.8963581269790831,estimable
+alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,Hypotonia,C5,8,2,-0.6190476190476191,estimable
+alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,Amnesia,C6,10,0,0.7500139429824981,estimable
+alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,Memory impairment,C6,10,0,0.6341581306518683,estimable
+alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,Cognitive disorder,C6,9,1,0.09205101496312953,estimable
+alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,Ataxia,C1,9,1,-0.13989948335653377,estimable
+alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,Balance disorder,C1,10,0,-0.20111222724172673,estimable
+alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,Coordination abnormal,C1,8,2,-0.1532428332716391,estimable
+alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,Gait disturbance,C1,10,0,0.12326233282557446,estimable
+alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,Fall,C2,10,0,-0.0518999296107682,estimable
+alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,Somnolence,C3,10,0,-0.2984245952619171,estimable
+alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,Sedation,C3,10,0,-0.39573696328210745,estimable
+alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,Dizziness,C4,10,0,0.2140872096444188,estimable
+alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,Vertigo,C4,10,0,-0.7136240321480626,estimable
+alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,Muscular weakness,C5,10,0,0.33734954246999327,estimable
+alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,Hypotonia,C5,8,2,-0.38310708317909775,estimable
+alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,Amnesia,C6,10,0,-0.06487491201346024,estimable
+alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,Memory impairment,C6,10,0,0.07136240321480626,estimable
+alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,Cognitive disorder,C6,9,1,-0.2448240958739341,estimable
+alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,Ataxia,C1,9,1,-0.18257418583505536,estimable
+alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,Balance disorder,C1,10,0,0.06919990614769093,estimable
+alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,Coordination abnormal,C1,8,2,-0.15586992159713742,estimable
+alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,Gait disturbance,C1,10,0,0.33734954246999327,estimable
+alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,Fall,C2,10,0,0.22489969497999554,estimable
+alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,Somnolence,C3,10,0,-0.12974982402692048,estimable
+alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,Sedation,C3,10,0,-0.0518999296107682,estimable
+alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,Dizziness,C4,10,0,0.5276492843761433,estimable
+alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,Vertigo,C4,10,0,-0.29409960112768646,estimable
+alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,Muscular weakness,C5,10,0,0.4497993899599911,estimable
+alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,Hypotonia,C5,8,2,-0.5923057020691221,estimable
+alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,Amnesia,C6,10,0,0.1037998592215364,estimable
+alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,Memory impairment,C6,10,0,0.354649519006916,estimable
+alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,Cognitive disorder,C6,9,1,-0.18257418583505536,estimable
+alpha2|BZD_SITE_100|PHE|any_contact_frequency,Ataxia,C1,9,1,-0.2677847708018314,estimable
+alpha2|BZD_SITE_100|PHE|any_contact_frequency,Balance disorder,C1,10,0,-0.3890595479552414,estimable
+alpha2|BZD_SITE_100|PHE|any_contact_frequency,Coordination abnormal,C1,8,2,0.08383383833392813,estimable
+alpha2|BZD_SITE_100|PHE|any_contact_frequency,Gait disturbance,C1,10,0,-0.6930123197952737,estimable
+alpha2|BZD_SITE_100|PHE|any_contact_frequency,Fall,C2,10,0,-0.1945297739776207,estimable
+alpha2|BZD_SITE_100|PHE|any_contact_frequency,Somnolence,C3,10,0,-0.10942299786241164,estimable
+alpha2|BZD_SITE_100|PHE|any_contact_frequency,Sedation,C3,10,0,0.1945297739776207,estimable
+alpha2|BZD_SITE_100|PHE|any_contact_frequency,Dizziness,C4,10,0,-0.8267515394048879,estimable
+alpha2|BZD_SITE_100|PHE|any_contact_frequency,Vertigo,C4,10,0,0.2735574946560291,estimable
+alpha2|BZD_SITE_100|PHE|any_contact_frequency,Muscular weakness,C5,10,0,-0.6079055436800646,estimable
+alpha2|BZD_SITE_100|PHE|any_contact_frequency,Hypotonia,C5,8,2,0.4191691916696406,estimable
+alpha2|BZD_SITE_100|PHE|any_contact_frequency,Amnesia,C6,10,0,-0.23100410659842455,estimable
+alpha2|BZD_SITE_100|PHE|any_contact_frequency,Memory impairment,C6,10,0,-0.6747751534848716,estimable
+alpha2|BZD_SITE_100|PHE|any_contact_frequency,Cognitive disorder,C6,9,1,-0.217575126276488,estimable
+alpha2|BZD_SITE_102|HIS|any_contact_frequency,Ataxia,C1,9,1,0.6,estimable
+alpha2|BZD_SITE_102|HIS|any_contact_frequency,Balance disorder,C1,10,0,0.14589733048321551,estimable
+alpha2|BZD_SITE_102|HIS|any_contact_frequency,Coordination abnormal,C1,8,2,-0.04761904761904763,estimable
+alpha2|BZD_SITE_102|HIS|any_contact_frequency,Gait disturbance,C1,10,0,0.14589733048321551,estimable
+alpha2|BZD_SITE_102|HIS|any_contact_frequency,Fall,C2,10,0,0.03647433262080388,estimable
+alpha2|BZD_SITE_102|HIS|any_contact_frequency,Somnolence,C3,10,0,0.3100318272768329,estimable
+alpha2|BZD_SITE_102|HIS|any_contact_frequency,Sedation,C3,10,0,0.4924034903808523,estimable
+alpha2|BZD_SITE_102|HIS|any_contact_frequency,Dizziness,C4,10,0,0.24316221747202585,estimable
+alpha2|BZD_SITE_102|HIS|any_contact_frequency,Vertigo,C4,10,0,0.24924127290882647,estimable
+alpha2|BZD_SITE_102|HIS|any_contact_frequency,Muscular weakness,C5,10,0,0.11550205329921227,estimable
+alpha2|BZD_SITE_102|HIS|any_contact_frequency,Hypotonia,C5,8,2,0.28571428571428575,estimable
+alpha2|BZD_SITE_102|HIS|any_contact_frequency,Amnesia,C6,10,0,0.10942299786241164,estimable
+alpha2|BZD_SITE_102|HIS|any_contact_frequency,Memory impairment,C6,10,0,0.1945297739776207,estimable
+alpha2|BZD_SITE_102|HIS|any_contact_frequency,Cognitive disorder,C6,9,1,0.11666666666666665,estimable
+alpha2|BZD_SITE_103|ASN|any_contact_frequency,Ataxia,C1,9,1,-0.235302425908485,estimable
+alpha2|BZD_SITE_103|ASN|any_contact_frequency,Balance disorder,C1,10,0,-0.5487906899871938,estimable
+alpha2|BZD_SITE_103|ASN|any_contact_frequency,Coordination abnormal,C1,8,2,-0.554257096618662,estimable
+alpha2|BZD_SITE_103|ASN|any_contact_frequency,Gait disturbance,C1,10,0,-0.31707906532593416,estimable
+alpha2|BZD_SITE_103|ASN|any_contact_frequency,Fall,C2,10,0,-0.3963488316574177,estimable
+alpha2|BZD_SITE_103|ASN|any_contact_frequency,Somnolence,C3,10,0,-0.6646465023178235,estimable
+alpha2|BZD_SITE_103|ASN|any_contact_frequency,Sedation,C3,10,0,-0.31707906532593416,estimable
+alpha2|BZD_SITE_103|ASN|any_contact_frequency,Dizziness,C4,10,0,-0.12195348666382083,estimable
+alpha2|BZD_SITE_103|ASN|any_contact_frequency,Vertigo,C4,10,0,-0.58537673598634,estimable
+alpha2|BZD_SITE_103|ASN|any_contact_frequency,Muscular weakness,C5,10,0,-0.2561023219940237,estimable
+alpha2|BZD_SITE_103|ASN|any_contact_frequency,Hypotonia,C5,8,2,0.0,estimable
+alpha2|BZD_SITE_103|ASN|any_contact_frequency,Amnesia,C6,10,0,-0.5000092953216654,estimable
+alpha2|BZD_SITE_103|ASN|any_contact_frequency,Memory impairment,C6,10,0,-0.3475674369918894,estimable
+alpha2|BZD_SITE_103|ASN|any_contact_frequency,Cognitive disorder,C6,9,1,-0.2689170581811257,estimable
+alpha2|BZD_SITE_138|GLU|any_contact_frequency,Ataxia,C1,9,1,0.4036867138796656,estimable
+alpha2|BZD_SITE_138|GLU|any_contact_frequency,Balance disorder,C1,10,0,0.7197016060085818,estimable
+alpha2|BZD_SITE_138|GLU|any_contact_frequency,Coordination abnormal,C1,8,2,0.42141779149700753,estimable
+alpha2|BZD_SITE_138|GLU|any_contact_frequency,Gait disturbance,C1,10,0,0.8842048302391148,estimable
+alpha2|BZD_SITE_138|GLU|any_contact_frequency,Fall,C2,10,0,0.4249666625955435,estimable
+alpha2|BZD_SITE_138|GLU|any_contact_frequency,Somnolence,C3,10,0,0.4523838666339657,estimable
+alpha2|BZD_SITE_138|GLU|any_contact_frequency,Sedation,C3,10,0,0.05483440807684433,estimable
+alpha2|BZD_SITE_138|GLU|any_contact_frequency,Dizziness,C4,10,0,0.8430790241814815,estimable
+alpha2|BZD_SITE_138|GLU|any_contact_frequency,Vertigo,C4,10,0,-0.05483440807684433,estimable
+alpha2|BZD_SITE_138|GLU|any_contact_frequency,Muscular weakness,C5,10,0,0.836224723171876,estimable
+alpha2|BZD_SITE_138|GLU|any_contact_frequency,Hypotonia,C5,8,2,-0.2298642499074586,estimable
+alpha2|BZD_SITE_138|GLU|any_contact_frequency,Amnesia,C6,10,0,0.6168870908644988,estimable
+alpha2|BZD_SITE_138|GLU|any_contact_frequency,Memory impairment,C6,10,0,0.8842048302391148,estimable
+alpha2|BZD_SITE_138|GLU|any_contact_frequency,Cognitive disorder,C6,9,1,0.587180674734059,estimable
+alpha2|BZD_SITE_154|PRO|any_contact_frequency,Ataxia,C1,9,1,-0.6238794669049377,estimable
+alpha2|BZD_SITE_154|PRO|any_contact_frequency,Balance disorder,C1,10,0,-0.4318209636051491,estimable
+alpha2|BZD_SITE_154|PRO|any_contact_frequency,Coordination abnormal,C1,8,2,-0.5773502691896258,estimable
+alpha2|BZD_SITE_154|PRO|any_contact_frequency,Gait disturbance,C1,10,0,-0.2878806424034327,estimable
+alpha2|BZD_SITE_154|PRO|any_contact_frequency,Fall,C2,10,0,-0.3084435454322494,estimable
+alpha2|BZD_SITE_154|PRO|any_contact_frequency,Somnolence,C3,10,0,-0.6991387029797651,estimable
+alpha2|BZD_SITE_154|PRO|any_contact_frequency,Sedation,C3,10,0,-0.747118810047004,estimable
+alpha2|BZD_SITE_154|PRO|any_contact_frequency,Dizziness,C4,10,0,-0.12337741817289974,estimable
+alpha2|BZD_SITE_154|PRO|any_contact_frequency,Vertigo,C4,10,0,-0.2056290302881662,estimable
+alpha2|BZD_SITE_154|PRO|any_contact_frequency,Muscular weakness,C5,10,0,-0.3906951575475158,estimable
+alpha2|BZD_SITE_154|PRO|any_contact_frequency,Hypotonia,C5,8,2,-0.4536323543632775,estimable
+alpha2|BZD_SITE_154|PRO|any_contact_frequency,Amnesia,C6,10,0,-0.5346354787492321,estimable
+alpha2|BZD_SITE_154|PRO|any_contact_frequency,Memory impairment,C6,10,0,-0.34956935148988255,estimable
+alpha2|BZD_SITE_154|PRO|any_contact_frequency,Cognitive disorder,C6,9,1,-0.6881023532039754,estimable
+alpha2|BZD_SITE_156|LYS|any_contact_frequency,Ataxia,C1,9,1,-0.435150252552976,estimable
+alpha2|BZD_SITE_156|LYS|any_contact_frequency,Balance disorder,C1,10,0,-0.6646465023178235,estimable
+alpha2|BZD_SITE_156|LYS|any_contact_frequency,Coordination abnormal,C1,8,2,-0.7380952380952381,estimable
+alpha2|BZD_SITE_156|LYS|any_contact_frequency,Gait disturbance,C1,10,0,-0.42073952899018185,estimable
+alpha2|BZD_SITE_156|LYS|any_contact_frequency,Fall,C2,10,0,-0.5731813873199579,estimable
+alpha2|BZD_SITE_156|LYS|any_contact_frequency,Somnolence,C3,10,0,-0.5914744103195311,estimable
+alpha2|BZD_SITE_156|LYS|any_contact_frequency,Sedation,C3,10,0,-0.4024465059906087,estimable
+alpha2|BZD_SITE_156|LYS|any_contact_frequency,Dizziness,C4,10,0,-0.15244185832977605,estimable
+alpha2|BZD_SITE_156|LYS|any_contact_frequency,Vertigo,C4,10,0,-0.6768418509842056,estimable
+alpha2|BZD_SITE_156|LYS|any_contact_frequency,Muscular weakness,C5,10,0,-0.2682976706604058,estimable
+alpha2|BZD_SITE_156|LYS|any_contact_frequency,Hypotonia,C5,8,2,-0.07142857142857144,estimable
+alpha2|BZD_SITE_156|LYS|any_contact_frequency,Amnesia,C6,10,0,-0.4573255749893281,estimable
+alpha2|BZD_SITE_156|LYS|any_contact_frequency,Memory impairment,C6,10,0,-0.37805580865784455,estimable
+alpha2|BZD_SITE_156|LYS|any_contact_frequency,Cognitive disorder,C6,9,1,-0.36820405985251814,estimable
+alpha2|BZD_SITE_160|TYR|any_contact_frequency,Ataxia,C1,9,1,-0.3575277429186744,estimable
+alpha2|BZD_SITE_160|TYR|any_contact_frequency,Balance disorder,C1,10,0,-0.1723280873710658,estimable
+alpha2|BZD_SITE_160|TYR|any_contact_frequency,Coordination abnormal,C1,8,2,0.22893227903814295,estimable
+alpha2|BZD_SITE_160|TYR|any_contact_frequency,Gait disturbance,C1,10,0,-0.44928394207456446,estimable
+alpha2|BZD_SITE_160|TYR|any_contact_frequency,Fall,C2,10,0,0.11078234188139946,estimable
+alpha2|BZD_SITE_160|TYR|any_contact_frequency,Somnolence,C3,10,0,-0.12309149097933272,estimable
+alpha2|BZD_SITE_160|TYR|any_contact_frequency,Sedation,C3,10,0,0.3569653238400649,estimable
+alpha2|BZD_SITE_160|TYR|any_contact_frequency,Dizziness,C4,10,0,-0.609302880347697,estimable
+alpha2|BZD_SITE_160|TYR|any_contact_frequency,Vertigo,C4,10,0,0.23387383286073218,estimable
+alpha2|BZD_SITE_160|TYR|any_contact_frequency,Muscular weakness,C5,10,0,-0.473902240270431,estimable
+alpha2|BZD_SITE_160|TYR|any_contact_frequency,Hypotonia,C5,8,2,0.48196269271187986,estimable
+alpha2|BZD_SITE_160|TYR|any_contact_frequency,Amnesia,C6,10,0,-0.18463723646899907,estimable
+alpha2|BZD_SITE_160|TYR|any_contact_frequency,Memory impairment,C6,10,0,-0.4615930911724977,estimable
+alpha2|BZD_SITE_160|TYR|any_contact_frequency,Cognitive disorder,C6,9,1,0.16173874084416223,estimable
+alpha2|BZD_SITE_201|GLU|any_contact_frequency,Ataxia,C1,9,1,0.13693063937629152,estimable
+alpha2|BZD_SITE_201|GLU|any_contact_frequency,Balance disorder,C1,10,0,0.40618119722996154,estimable
+alpha2|BZD_SITE_201|GLU|any_contact_frequency,Coordination abnormal,C1,8,2,0.4123930494211612,estimable
+alpha2|BZD_SITE_201|GLU|any_contact_frequency,Gait disturbance,C1,10,0,0.40618119722996154,estimable
+alpha2|BZD_SITE_201|GLU|any_contact_frequency,Fall,C2,10,0,0.058025885318565944,estimable
+alpha2|BZD_SITE_201|GLU|any_contact_frequency,Somnolence,C3,10,0,0.5222329678670935,estimable
+alpha2|BZD_SITE_201|GLU|any_contact_frequency,Sedation,C3,10,0,-0.1740776559556978,estimable
+alpha2|BZD_SITE_201|GLU|any_contact_frequency,Dizziness,C4,10,0,0.1740776559556978,estimable
+alpha2|BZD_SITE_201|GLU|any_contact_frequency,Vertigo,C4,10,0,-0.1740776559556978,estimable
+alpha2|BZD_SITE_201|GLU|any_contact_frequency,Muscular weakness,C5,10,0,0.5222329678670935,estimable
+alpha2|BZD_SITE_201|GLU|any_contact_frequency,Hypotonia,C5,8,2,-0.08247860988423225,estimable
+alpha2|BZD_SITE_201|GLU|any_contact_frequency,Amnesia,C6,10,0,0.5222329678670935,estimable
+alpha2|BZD_SITE_201|GLU|any_contact_frequency,Memory impairment,C6,10,0,0.40618119722996154,estimable
+alpha2|BZD_SITE_201|GLU|any_contact_frequency,Cognitive disorder,C6,9,1,0.4107919181288746,estimable
+alpha2|BZD_SITE_203|ILE|any_contact_frequency,Ataxia,C1,9,1,-0.235302425908485,estimable
+alpha2|BZD_SITE_203|ILE|any_contact_frequency,Balance disorder,C1,10,0,-0.6158651076522952,estimable
+alpha2|BZD_SITE_203|ILE|any_contact_frequency,Coordination abnormal,C1,8,2,-0.05988131309566294,estimable
+alpha2|BZD_SITE_203|ILE|any_contact_frequency,Gait disturbance,C1,10,0,-0.7317209199829249,estimable
+alpha2|BZD_SITE_203|ILE|any_contact_frequency,Fall,C2,10,0,0.10975813799743875,estimable
+alpha2|BZD_SITE_203|ILE|any_contact_frequency,Somnolence,C3,10,0,-0.6280604563186774,estimable
+alpha2|BZD_SITE_203|ILE|any_contact_frequency,Sedation,C3,10,0,0.012195348666382085,estimable
+alpha2|BZD_SITE_203|ILE|any_contact_frequency,Dizziness,C4,10,0,-0.7195255713165428,estimable
+alpha2|BZD_SITE_203|ILE|any_contact_frequency,Vertigo,C4,10,0,0.054879068998719374,estimable
+alpha2|BZD_SITE_203|ILE|any_contact_frequency,Muscular weakness,C5,10,0,-0.7256232456497339,estimable
+alpha2|BZD_SITE_203|ILE|any_contact_frequency,Hypotonia,C5,8,2,0.26347777762091695,estimable
+alpha2|BZD_SITE_203|ILE|any_contact_frequency,Amnesia,C6,10,0,-0.6097674333191042,estimable
+alpha2|BZD_SITE_203|ILE|any_contact_frequency,Memory impairment,C6,10,0,-0.8353813836471727,estimable
+alpha2|BZD_SITE_203|ILE|any_contact_frequency,Cognitive disorder,C6,9,1,-0.5882560647712126,estimable
+alpha2|BZD_SITE_204|LYS|any_contact_frequency,Ataxia,C1,9,1,-0.25896619868911863,estimable
+alpha2|BZD_SITE_204|LYS|any_contact_frequency,Balance disorder,C1,10,0,-0.3146266024828463,estimable
+alpha2|BZD_SITE_204|LYS|any_contact_frequency,Coordination abnormal,C1,8,2,-0.37796447300922725,estimable
+alpha2|BZD_SITE_204|LYS|any_contact_frequency,Gait disturbance,C1,10,0,-0.15731330124142315,estimable
+alpha2|BZD_SITE_204|LYS|any_contact_frequency,Fall,C2,10,0,-0.13483997249264842,estimable
+alpha2|BZD_SITE_204|LYS|any_contact_frequency,Somnolence,C3,10,0,-0.4944132324730442,estimable
+alpha2|BZD_SITE_204|LYS|any_contact_frequency,Sedation,C3,10,0,-0.8090398349558905,estimable
+alpha2|BZD_SITE_204|LYS|any_contact_frequency,Dizziness,C4,10,0,-0.022473328748774737,estimable
+alpha2|BZD_SITE_204|LYS|any_contact_frequency,Vertigo,C4,10,0,-0.08989331499509895,estimable
+alpha2|BZD_SITE_204|LYS|any_contact_frequency,Muscular weakness,C5,10,0,-0.20225995873897262,estimable
+alpha2|BZD_SITE_204|LYS|any_contact_frequency,Hypotonia,C5,8,2,-0.7559289460184545,estimable
+alpha2|BZD_SITE_204|LYS|any_contact_frequency,Amnesia,C6,10,0,-0.3595732599803958,estimable
+alpha2|BZD_SITE_204|LYS|any_contact_frequency,Memory impairment,C6,10,0,-0.2472066162365221,estimable
+alpha2|BZD_SITE_204|LYS|any_contact_frequency,Cognitive disorder,C6,9,1,-0.8366600265340756,estimable
+alpha2|BZD_SITE_206|SER|any_contact_frequency,Ataxia,C1,9,1,-0.06846531968814576,estimable
+alpha2|BZD_SITE_206|SER|any_contact_frequency,Balance disorder,C1,10,0,0.39520337841945463,estimable
+alpha2|BZD_SITE_206|SER|any_contact_frequency,Coordination abnormal,C1,8,2,0.4052617961525573,estimable
+alpha2|BZD_SITE_206|SER|any_contact_frequency,Gait disturbance,C1,10,0,0.36537670835006186,estimable
+alpha2|BZD_SITE_206|SER|any_contact_frequency,Fall,C2,10,0,0.6487300740092935,estimable
+alpha2|BZD_SITE_206|SER|any_contact_frequency,Somnolence,C3,10,0,-0.007456667517348202,estimable
+alpha2|BZD_SITE_206|SER|any_contact_frequency,Sedation,C3,10,0,0.0521966726214374,estimable
+alpha2|BZD_SITE_206|SER|any_contact_frequency,Dizziness,C4,10,0,0.21624335800309782,estimable
+alpha2|BZD_SITE_206|SER|any_contact_frequency,Vertigo,C4,10,0,0.23115669303779424,estimable
+alpha2|BZD_SITE_206|SER|any_contact_frequency,Muscular weakness,C5,10,0,0.11185001276022301,estimable
+alpha2|BZD_SITE_206|SER|any_contact_frequency,Hypotonia,C5,8,2,-0.4520227726316985,estimable
+alpha2|BZD_SITE_206|SER|any_contact_frequency,Amnesia,C6,10,0,-0.007456667517348202,estimable
+alpha2|BZD_SITE_206|SER|any_contact_frequency,Memory impairment,C6,10,0,0.21624335800309782,estimable
+alpha2|BZD_SITE_206|SER|any_contact_frequency,Cognitive disorder,C6,9,1,0.15975241260567344,estimable
+alpha2|BZD_SITE_207|THR|any_contact_frequency,Ataxia,C1,9,1,-0.27386127875258304,estimable
+alpha2|BZD_SITE_207|THR|any_contact_frequency,Balance disorder,C1,10,0,0.16434977710076598,estimable
+alpha2|BZD_SITE_207|THR|any_contact_frequency,Coordination abnormal,C1,8,2,0.08247860988423225,estimable
+alpha2|BZD_SITE_207|THR|any_contact_frequency,Gait disturbance,C1,10,0,0.14704980056384323,estimable
+alpha2|BZD_SITE_207|THR|any_contact_frequency,Fall,C2,10,0,0.7006490497453707,estimable
+alpha2|BZD_SITE_207|THR|any_contact_frequency,Somnolence,C3,10,0,-0.4151994368861456,estimable
+alpha2|BZD_SITE_207|THR|any_contact_frequency,Sedation,C3,10,0,0.13839981229538187,estimable
+alpha2|BZD_SITE_207|THR|any_contact_frequency,Dizziness,C4,10,0,0.14704980056384323,estimable
+alpha2|BZD_SITE_207|THR|any_contact_frequency,Vertigo,C4,10,0,0.37194949554383877,estimable
+alpha2|BZD_SITE_207|THR|any_contact_frequency,Muscular weakness,C5,10,0,-0.21624970671153415,estimable
+alpha2|BZD_SITE_207|THR|any_contact_frequency,Hypotonia,C5,8,2,-0.5773502691896258,estimable
+alpha2|BZD_SITE_207|THR|any_contact_frequency,Amnesia,C6,10,0,-0.37194949554383877,estimable
+alpha2|BZD_SITE_207|THR|any_contact_frequency,Memory impairment,C6,10,0,-0.0259499648053841,estimable
+alpha2|BZD_SITE_207|THR|any_contact_frequency,Cognitive disorder,C6,9,1,-0.27386127875258304,estimable
+alpha2|BZD_SITE_210|TYR|any_contact_frequency,Ataxia,C1,9,1,-0.10127393670836665,estimable
+alpha2|BZD_SITE_210|TYR|any_contact_frequency,Balance disorder,C1,10,0,0.006116465361813115,estimable
+alpha2|BZD_SITE_210|TYR|any_contact_frequency,Coordination abnormal,C1,8,2,0.32532481758051895,estimable
+alpha2|BZD_SITE_210|TYR|any_contact_frequency,Gait disturbance,C1,10,0,-0.31805619881428193,estimable
+alpha2|BZD_SITE_210|TYR|any_contact_frequency,Fall,C2,10,0,0.14679516868351475,estimable
+alpha2|BZD_SITE_210|TYR|any_contact_frequency,Somnolence,C3,10,0,0.07339758434175737,estimable
+alpha2|BZD_SITE_210|TYR|any_contact_frequency,Sedation,C3,10,0,0.5198995557541147,estimable
+alpha2|BZD_SITE_210|TYR|any_contact_frequency,Dizziness,C4,10,0,-0.5015501596686753,estimable
+alpha2|BZD_SITE_210|TYR|any_contact_frequency,Vertigo,C4,10,0,0.39145378315603935,estimable
+alpha2|BZD_SITE_210|TYR|any_contact_frequency,Muscular weakness,C5,10,0,-0.40980317924147863,estimable
+alpha2|BZD_SITE_210|TYR|any_contact_frequency,Hypotonia,C5,8,2,0.686796837114429,estimable
+alpha2|BZD_SITE_210|TYR|any_contact_frequency,Amnesia,C6,10,0,-0.06116465361813114,estimable
+alpha2|BZD_SITE_210|TYR|any_contact_frequency,Memory impairment,C6,10,0,-0.3119397334524688,estimable
+alpha2|BZD_SITE_210|TYR|any_contact_frequency,Cognitive disorder,C6,9,1,0.4050957468334666,estimable
+alpha2|BZD_SITE_212|VAL|any_contact_frequency,Ataxia,C1,9,1,NA,constant-feature
+alpha2|BZD_SITE_212|VAL|any_contact_frequency,Balance disorder,C1,10,0,0.058025885318565944,estimable
+alpha2|BZD_SITE_212|VAL|any_contact_frequency,Coordination abnormal,C1,8,2,NA,constant-feature
+alpha2|BZD_SITE_212|VAL|any_contact_frequency,Gait disturbance,C1,10,0,-0.058025885318565944,estimable
+alpha2|BZD_SITE_212|VAL|any_contact_frequency,Fall,C2,10,0,0.5222329678670935,estimable
+alpha2|BZD_SITE_212|VAL|any_contact_frequency,Somnolence,C3,10,0,-0.1740776559556978,estimable
+alpha2|BZD_SITE_212|VAL|any_contact_frequency,Sedation,C3,10,0,0.40618119722996154,estimable
+alpha2|BZD_SITE_212|VAL|any_contact_frequency,Dizziness,C4,10,0,-0.058025885318565944,estimable
+alpha2|BZD_SITE_212|VAL|any_contact_frequency,Vertigo,C4,10,0,0.40618119722996154,estimable
+alpha2|BZD_SITE_212|VAL|any_contact_frequency,Muscular weakness,C5,10,0,-0.40618119722996154,estimable
+alpha2|BZD_SITE_212|VAL|any_contact_frequency,Hypotonia,C5,8,2,NA,constant-feature
+alpha2|BZD_SITE_212|VAL|any_contact_frequency,Amnesia,C6,10,0,-0.40618119722996154,estimable
+alpha2|BZD_SITE_212|VAL|any_contact_frequency,Memory impairment,C6,10,0,-0.1740776559556978,estimable
+alpha2|BZD_SITE_212|VAL|any_contact_frequency,Cognitive disorder,C6,9,1,NA,constant-feature

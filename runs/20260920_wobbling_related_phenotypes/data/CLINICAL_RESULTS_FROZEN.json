@@ -1,0 +1,97 @@
+{
+  "created_utc": "2026-09-20T01:57:09.258740+00:00",
+  "clinical_sha256": "8475dd9e413a97075820b93531550ffa8be49dba591834dab3f4e5ccdcb01ea2",
+  "all_estimable_sha256": "267d097eb0b77c6adf88218c860749a892c86888ce3a6893702e556faa960cec",
+  "config_sha256": "810dee0c385df1d17134b5b66a79b3dbe5d0000a7b44c2192bb67b59f3bc2790",
+  "query_config_sha256": "db0a35de2e3c8daa6d56bf251c1a162657c40290b0b7177c4e0421d932f65ce1",
+  "qc": [
+    {
+      "drug": "diazepam",
+      "nonmissing_features": 14,
+      "missing_features": 0,
+      "total_drug_reports": 118049,
+      "unstable_cells": 0
+    },
+    {
+      "drug": "alprazolam",
+      "nonmissing_features": 14,
+      "missing_features": 0,
+      "total_drug_reports": 200932,
+      "unstable_cells": 0
+    },
+    {
+      "drug": "triazolam",
+      "nonmissing_features": 12,
+      "missing_features": 2,
+      "total_drug_reports": 3893,
+      "unstable_cells": 2
+    },
+    {
+      "drug": "zolpidem",
+      "nonmissing_features": 14,
+      "missing_features": 0,
+      "total_drug_reports": 49105,
+      "unstable_cells": 0
+    },
+    {
+      "drug": "lorazepam",
+      "nonmissing_features": 14,
+      "missing_features": 0,
+      "total_drug_reports": 174733,
+      "unstable_cells": 0
+    },
+    {
+      "drug": "clonazepam",
+      "nonmissing_features": 14,
+      "missing_features": 0,
+      "total_drug_reports": 155429,
+      "unstable_cells": 0
+    },
+    {
+      "drug": "midazolam",
+      "nonmissing_features": 14,
+      "missing_features": 0,
+      "total_drug_reports": 24085,
+      "unstable_cells": 0
+    },
+    {
+      "drug": "temazepam",
+      "nonmissing_features": 14,
+      "missing_features": 0,
+      "total_drug_reports": 36961,
+      "unstable_cells": 0
+    },
+    {
+      "drug": "zopiclone",
+      "nonmissing_features": 14,
+      "missing_features": 0,
+      "total_drug_reports": 42339,
+      "unstable_cells": 0
+    },
+    {
+      "drug": "zaleplon",
+      "nonmissing_features": 10,
+      "missing_features": 4,
+      "total_drug_reports": 1544,
+      "unstable_cells": 4
+    }
+  ],
+  "background_total": 20018532,
+  "term_coverage": {
+    "Ataxia": 11464,
+    "Balance disorder": 83538,
+    "Coordination abnormal": 13648,
+    "Gait disturbance": 185496,
+    "Fall": 319310,
+    "Somnolence": 193065,
+    "Sedation": 24810,
+    "Dizziness": 477766,
+    "Vertigo": 58684,
+    "Muscular weakness": 109349,
+    "Hypotonia": 9684,
+    "Amnesia": 63053,
+    "Memory impairment": 132715,
+    "Cognitive disorder": 44588
+  },
+  "note": "Y-only QC complete before correspondence. No terms reselected."
+}

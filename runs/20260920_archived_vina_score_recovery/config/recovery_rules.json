@@ -1,0 +1,15 @@
+{
+  "expected_seeds": [
+    2026091901,
+    2026091902,
+    2026091903,
+    2026091904,
+    2026091905
+  ],
+  "best_score": "minimum Vina docking score within seed; lowest pose_rank resolves ties; rank1 independently checked",
+  "IQR": "75th percentile minus 25th percentile; linear interpolation (NumPy/pandas type 7)",
+  "malformed": "all recognizable result lines retained with raw text/status; malformed records or integrity problems flag entire file, excluded from seed summary",
+  "missing": "expected missing seed retained as NA; never zero; summaries use available valid seeds",
+  "receptors": "separate alpha1 and alpha2; no combined score",
+  "clinical_data": "only archived drug-order CSV read; no phenotype values or optimization"
+}

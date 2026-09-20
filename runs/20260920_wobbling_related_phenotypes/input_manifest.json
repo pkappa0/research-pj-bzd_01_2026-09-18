@@ -1,0 +1,42 @@
+[
+  {
+    "file": "structural_fingerprint.csv",
+    "source": "runs/20260920_clinical_bridge_hypothesis_poc/raw/lineage/structural_fingerprint.csv",
+    "sha256": "c986ba328a01fd4bc6909ca24e4724d7eea5971e5a5ea6ae0fc2faa3147b2f10"
+  },
+  {
+    "file": "clinical_fingerprint_10drug.csv",
+    "source": "runs/20260920_clinical_bridge_hypothesis_poc/tables/clinical_fingerprint_10drug.csv",
+    "sha256": "8475dd9e413a97075820b93531550ffa8be49dba591834dab3f4e5ccdcb01ea2"
+  },
+  {
+    "file": "structural_feature_clinical_correlations.csv",
+    "source": "runs/20260920_clinical_bridge_hypothesis_poc/tables/structural_feature_clinical_correlations.csv",
+    "sha256": "886b7b990084ba7a860817c1a2540ebc580c4e9dbb2ce087a79e3c4809e13803"
+  },
+  {
+    "file": "invivo_anchor_contexts.csv",
+    "source": "runs/20260920_clinical_bridge_hypothesis_poc/tables/invivo_anchor_contexts.csv",
+    "sha256": "f544750d1205d1fbd0999ec2623e8e293ad0928e0b6abacf254fbfb9c61b9f2e"
+  },
+  {
+    "file": "STRUCTURAL_RESULTS_FROZEN.json",
+    "source": "runs/20260920_clinical_bridge_hypothesis_poc/STRUCTURAL_RESULTS_FROZEN.json",
+    "sha256": "8d30f564745ff34db470b0d9a60e976dfcfffaaae8d2dac798fb87678dd5c2a4"
+  },
+  {
+    "file": "CLINICAL_RESULTS_FROZEN.json",
+    "source": "runs/20260920_clinical_bridge_hypothesis_poc/CLINICAL_RESULTS_FROZEN.json",
+    "sha256": "622f045c7d509dd9ec463402cf8af0069c0f73eec907f0768ad9af5e962ebde5"
+  },
+  {
+    "file": "clinical_phenotype_config.json",
+    "source": "runs/20260920_clinical_bridge_hypothesis_poc/config/clinical_phenotype_config.json",
+    "sha256": "810dee0c385df1d17134b5b66a79b3dbe5d0000a7b44c2192bb67b59f3bc2790"
+  },
+  {
+    "file": "ANALYSIS_CONTRACT_source.md",
+    "source": "runs/20260920_clinical_bridge_hypothesis_poc/config/ANALYSIS_CONTRACT_source.md",
+    "sha256": "5735c6ad2067f4110cf81046429e32fae6f24e8731b7caa4f9313fd0a82520b0"
+  }
+]

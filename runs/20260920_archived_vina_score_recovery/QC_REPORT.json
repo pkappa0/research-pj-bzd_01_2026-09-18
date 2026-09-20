@@ -1,0 +1,43 @@
+{
+  "docking_rerun": false,
+  "PLIF_recomputed": false,
+  "clinical_optimization": false,
+  "drug_order": [
+    "diazepam",
+    "alprazolam",
+    "triazolam",
+    "zolpidem",
+    "lorazepam",
+    "clonazepam",
+    "midazolam",
+    "temazepam",
+    "zopiclone",
+    "zaleplon"
+  ],
+  "receptor_blocks": [
+    "alpha1",
+    "alpha2"
+  ],
+  "expected_seeds": [
+    2026091901,
+    2026091902,
+    2026091903,
+    2026091904,
+    2026091905
+  ],
+  "expected_outputs": 100,
+  "parsed_pdbqt_outputs": 100,
+  "preserved_result_records": 883,
+  "valid_result_records": 883,
+  "seed_rows": 100,
+  "usable_seed_scores": 100,
+  "drug_receptor_summary_rows": 20,
+  "missing_seeds": 0,
+  "parsing_or_provenance_issues": 0,
+  "rank1_best_agreement": 100,
+  "all_archives_hash_match": true,
+  "all_output_files_hash_match": true,
+  "parser_and_full_data_tests_passed": 7,
+  "visual_review": "Both PNG/SVG plot layouts inspected; seed legend placed outside data panels",
+  "historical_tracked_files_unchanged": true
+}
