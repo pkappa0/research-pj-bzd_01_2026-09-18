@@ -103,4 +103,4 @@ Analysis directory: `analysis/nishino2008_xmy_model_case/`. Source hashes/config
 
 Six independent validation tests pass: all archive score/RMSD values and seed summaries; new PLIF frequencies rebuilt from archived XML; existing-drug equality/frozen hashes; clinical counts/ROR mask; independent rank-Pearson check of X–M; and raw M/identity alignment. All four figure sets were visually reviewed. qc/validation_log.txt records the run. No historical file was modified.
 
-Final analysis/results Git commit: `RESULTS_COMMIT_TO_BE_STAMPED`. A subsequent documentation-only commit records this immutable results hash, avoiding a self-referential Git hash inside its own commit. Resolve the documentation tip with `git log -1 --format=%H -- analysis/nishino2008_xmy_model_case/FINAL_REPORT_NISHINO_XMY_MODEL_CASE.md`.
+Final analysis/results Git commit: `e5561f307f01e49c4b17256a8a91cce7e2cd0230`. A subsequent documentation-only commit records this immutable results hash, avoiding a self-referential Git hash inside its own commit. Resolve the documentation tip with `git log -1 --format=%H -- analysis/nishino2008_xmy_model_case/FINAL_REPORT_NISHINO_XMY_MODEL_CASE.md`.

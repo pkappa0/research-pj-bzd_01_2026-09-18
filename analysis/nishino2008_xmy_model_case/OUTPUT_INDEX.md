@@ -13,6 +13,7 @@ Paths are relative to this analysis directory. All generated outputs are listed;
 - [config/correspondence_config.json](config/correspondence_config.json) — Fixed method, software version or provenance record.
 - [config/docking_config.json](config/docking_config.json) — Fixed method, software version or provenance record.
 - [config/faers_query_config.json](config/faers_query_config.json) — Fixed method, software version or provenance record.
+- [config/results_commit.txt](config/results_commit.txt) — Fixed method, software version or provenance record.
 - [config/standardized_complete_environment_lock.txt](config/standardized_complete_environment_lock.txt) — Fixed method, software version or provenance record.
 - [config/standardized_conda_base_lock.json](config/standardized_conda_base_lock.json) — Fixed method, software version or provenance record.
 - [config/standardized_docking_config.json](config/standardized_docking_config.json) — Fixed method, software version or provenance record.
