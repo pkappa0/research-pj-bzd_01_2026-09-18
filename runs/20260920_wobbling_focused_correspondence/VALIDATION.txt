@@ -1,0 +1,1 @@
+PASS: source hashes; frozen X/Y identities; all core rho/n cells; independently reconstructed C1 sign counts/medians/min/max; CSV round-trip; SVG XML and noncausal captions; visual review.

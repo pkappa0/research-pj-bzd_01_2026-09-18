@@ -1,0 +1,289 @@
+feature_id,feature_label,clinical_axis,clinical_term,spearman_rho,n_effective
+F01,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,C1,Ataxia,0.1369306393762915,9
+F01,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,C1,Balance disorder,0.4061811972299615,10
+F01,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,C1,Coordination abnormal,0.4123930494211612,8
+F01,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,C1,Gait disturbance,0.4061811972299615,10
+F01,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,C5,Muscular weakness,0.5222329678670935,10
+F01,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,C5,Hypotonia,-0.0824786098842322,8
+F02,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,C1,Ataxia,-0.4937281711658766,9
+F02,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,C1,Balance disorder,-0.4255338805760452,10
+F02,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,C1,Coordination abnormal,-0.0598813130956629,8
+F02,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,C1,Gait disturbance,-0.601826488243264,10
+F02,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,C5,Muscular weakness,-0.5653521556224601,10
+F02,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,C5,Hypotonia,0.2634777776209169,8
+F03,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,C1,Ataxia,-0.1171558372258012,9
+F03,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,C1,Balance disorder,0.4376919914496465,10
+F03,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,C1,Coordination abnormal,0.1676676766678562,8
+F03,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,C1,Gait disturbance,0.6200636545536659,10
+F03,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,C5,Muscular weakness,0.6261427099904665,10
+F03,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,C5,Hypotonia,-0.7545045450053531,8
+F04,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,C1,Ataxia,-0.0334730963502289,9
+F04,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,C1,Balance disorder,-0.0182930229995731,10
+F04,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,C1,Coordination abnormal,0.1077863635721932,8
+F04,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,C1,Gait disturbance,-0.2804930193267879,10
+F04,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,C5,Muscular weakness,-0.439032551989755,10
+F04,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,C5,Hypotonia,0.1077863635721932,8
+F05,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,C1,Ataxia,-0.0396059017190669,9
+F05,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,C1,Balance disorder,-0.0477952119399243,10
+F05,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,C1,Coordination abnormal,0.5182674893104818,8
+F05,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,C1,Gait disturbance,-0.0887625364598594,10
+F05,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,C5,Muscular weakness,0.2116645100196648,10
+F05,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,C5,Hypotonia,-0.1363861813974952,8
+F06,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,C1,Ataxia,-0.5941474602165634,9
+F06,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,C1,Balance disorder,-0.2492412729088264,10
+F06,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,C1,Coordination abnormal,0.2634777776209169,8
+F06,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,C1,Gait disturbance,-0.2613993837824278,10
+F06,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,C5,Muscular weakness,-0.1094229978624116,10
+F06,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,C5,Hypotonia,-0.6586944440522925,8
+F07,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,C1,Ataxia,-0.2259434003640452,9
+F07,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,C1,Balance disorder,-0.298786042326361,10
+F07,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,C1,Coordination abnormal,-0.8263621207201486,8
+F07,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,C1,Gait disturbance,-0.152441858329776,10
+F07,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,C5,Muscular weakness,-0.1036604636642477,10
+F07,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,C5,Hypotonia,0.0958101009530607,8
+F08,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,C1,Ataxia,-0.1218543591689884,9
+F08,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,C1,Balance disorder,0.2392080280190372,10
+F08,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,C1,Coordination abnormal,-0.0243975018237133,8
+F08,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,C1,Gait disturbance,0.4978113015531316,10
+F08,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,C5,Muscular weakness,0.5883224472900647,10
+F08,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,C5,Hypotonia,-0.3659625273557,8
+F09,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,C1,Ataxia,0.273861278752583,9
+F09,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,C1,Balance disorder,0.5449492609130662,10
+F09,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,C1,Coordination abnormal,0.2649788667151336,8
+F09,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,C1,Gait disturbance,0.6227991553292184,10
+F09,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,C5,Muscular weakness,0.354649519006916,10
+F09,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,C5,Hypotonia,-0.1714569137568511,8
+F10,alpha1|BZD_SITE_100|PHE|any_contact_frequency,C1,Ataxia,0.2166666666666666,9
+F10,alpha1|BZD_SITE_100|PHE|any_contact_frequency,C1,Balance disorder,-0.1515151515151515,10
+F10,alpha1|BZD_SITE_100|PHE|any_contact_frequency,C1,Coordination abnormal,0.0,8
+F10,alpha1|BZD_SITE_100|PHE|any_contact_frequency,C1,Gait disturbance,-0.4666666666666666,10
+F10,alpha1|BZD_SITE_100|PHE|any_contact_frequency,C5,Muscular weakness,-0.6363636363636362,10
+F10,alpha1|BZD_SITE_100|PHE|any_contact_frequency,C5,Hypotonia,0.8333333333333335,8
+F11,alpha1|BZD_SITE_102|HIS|any_contact_frequency,C1,Ataxia,-0.54393781569122,9
+F11,alpha1|BZD_SITE_102|HIS|any_contact_frequency,C1,Balance disorder,-0.3658604599914624,10
+F11,alpha1|BZD_SITE_102|HIS|any_contact_frequency,C1,Coordination abnormal,-0.2874303028591821,8
+F11,alpha1|BZD_SITE_102|HIS|any_contact_frequency,C1,Gait disturbance,-0.2195162759948775,10
+F11,alpha1|BZD_SITE_102|HIS|any_contact_frequency,C5,Muscular weakness,-0.3658604599914624,10
+F11,alpha1|BZD_SITE_102|HIS|any_contact_frequency,C5,Hypotonia,-0.4191691916696406,8
+F12,alpha1|BZD_SITE_103|ASN|any_contact_frequency,C1,Ataxia,0.3423265984407288,9
+F12,alpha1|BZD_SITE_103|ASN|any_contact_frequency,C1,Balance disorder,0.1989497301746114,10
+F12,alpha1|BZD_SITE_103|ASN|any_contact_frequency,C1,Coordination abnormal,-0.2338048823957061,8
+F12,alpha1|BZD_SITE_103|ASN|any_contact_frequency,C1,Gait disturbance,0.1643497771007659,10
+F12,alpha1|BZD_SITE_103|ASN|any_contact_frequency,C5,Muscular weakness,0.2248996949799955,10
+F12,alpha1|BZD_SITE_103|ASN|any_contact_frequency,C5,Hypotonia,0.1870439059165649,8
+F13,alpha1|BZD_SITE_138|GLU|any_contact_frequency,C1,Ataxia,0.0,9
+F13,alpha1|BZD_SITE_138|GLU|any_contact_frequency,C1,Balance disorder,-0.0580258853185659,10
+F13,alpha1|BZD_SITE_138|GLU|any_contact_frequency,C1,Coordination abnormal,-0.2474358296526967,8
+F13,alpha1|BZD_SITE_138|GLU|any_contact_frequency,C1,Gait disturbance,0.1740776559556978,10
+F13,alpha1|BZD_SITE_138|GLU|any_contact_frequency,C5,Muscular weakness,0.4061811972299615,10
+F13,alpha1|BZD_SITE_138|GLU|any_contact_frequency,C5,Hypotonia,-0.2474358296526967,8
+F14,alpha1|BZD_SITE_156|LYS|any_contact_frequency,C1,Ataxia,0.2510482226267169,9
+F14,alpha1|BZD_SITE_156|LYS|any_contact_frequency,C1,Balance disorder,0.1779275045505561,10
+F14,alpha1|BZD_SITE_156|LYS|any_contact_frequency,C1,Coordination abnormal,-0.1428571428571428,8
+F14,alpha1|BZD_SITE_156|LYS|any_contact_frequency,C1,Gait disturbance,0.2883652659957289,10
+F14,alpha1|BZD_SITE_156|LYS|any_contact_frequency,C5,Muscular weakness,0.2883652659957289,10
+F14,alpha1|BZD_SITE_156|LYS|any_contact_frequency,C5,Hypotonia,-0.0952380952380952,8
+F15,alpha1|BZD_SITE_160|TYR|any_contact_frequency,C1,Ataxia,-0.0666666666666666,9
+F15,alpha1|BZD_SITE_160|TYR|any_contact_frequency,C1,Balance disorder,-0.1515151515151515,10
+F15,alpha1|BZD_SITE_160|TYR|any_contact_frequency,C1,Coordination abnormal,0.1904761904761905,8
+F15,alpha1|BZD_SITE_160|TYR|any_contact_frequency,C1,Gait disturbance,-0.3939393939393939,10
+F15,alpha1|BZD_SITE_160|TYR|any_contact_frequency,C5,Muscular weakness,-0.5151515151515151,10
+F15,alpha1|BZD_SITE_160|TYR|any_contact_frequency,C5,Hypotonia,0.3333333333333334,8
+F16,alpha1|BZD_SITE_203|VAL|any_contact_frequency,C1,Ataxia,-0.3833333333333333,9
+F16,alpha1|BZD_SITE_203|VAL|any_contact_frequency,C1,Balance disorder,-0.5151515151515151,10
+F16,alpha1|BZD_SITE_203|VAL|any_contact_frequency,C1,Coordination abnormal,-0.1666666666666667,8
+F16,alpha1|BZD_SITE_203|VAL|any_contact_frequency,C1,Gait disturbance,-0.2606060606060606,10
+F16,alpha1|BZD_SITE_203|VAL|any_contact_frequency,C5,Muscular weakness,-0.0303030303030303,10
+F16,alpha1|BZD_SITE_203|VAL|any_contact_frequency,C5,Hypotonia,-0.5952380952380953,8
+F17,alpha1|BZD_SITE_204|GLN|any_contact_frequency,C1,Ataxia,-0.1743192628116737,9
+F17,alpha1|BZD_SITE_204|GLN|any_contact_frequency,C1,Balance disorder,0.3632779535090936,10
+F17,alpha1|BZD_SITE_204|GLN|any_contact_frequency,C1,Coordination abnormal,-0.3575666109671579,8
+F17,alpha1|BZD_SITE_204|GLN|any_contact_frequency,C1,Gait disturbance,0.3290064484610659,10
+F17,alpha1|BZD_SITE_204|GLN|any_contact_frequency,C5,Muscular weakness,0.0,10
+F17,alpha1|BZD_SITE_204|GLN|any_contact_frequency,C5,Hypotonia,-0.4469582637089473,8
+F18,alpha1|BZD_SITE_205|SER|any_contact_frequency,C1,Ataxia,-0.0999999999999999,9
+F18,alpha1|BZD_SITE_205|SER|any_contact_frequency,C1,Balance disorder,0.0181818181818181,10
+F18,alpha1|BZD_SITE_205|SER|any_contact_frequency,C1,Coordination abnormal,0.5714285714285715,8
+F18,alpha1|BZD_SITE_205|SER|any_contact_frequency,C1,Gait disturbance,-0.006060606060606,10
+F18,alpha1|BZD_SITE_205|SER|any_contact_frequency,C5,Muscular weakness,0.309090909090909,10
+F18,alpha1|BZD_SITE_205|SER|any_contact_frequency,C5,Hypotonia,-0.1666666666666667,8
+F19,alpha1|BZD_SITE_206|SER|any_contact_frequency,C1,Ataxia,-0.1702513061517497,9
+F19,alpha1|BZD_SITE_206|SER|any_contact_frequency,C1,Balance disorder,0.4630423666103975,10
+F19,alpha1|BZD_SITE_206|SER|any_contact_frequency,C1,Coordination abnormal,0.0368271462105177,8
+F19,alpha1|BZD_SITE_206|SER|any_contact_frequency,C1,Gait disturbance,0.5926942292613089,10
+F19,alpha1|BZD_SITE_206|SER|any_contact_frequency,C5,Muscular weakness,0.2963471146306544,10
+F19,alpha1|BZD_SITE_206|SER|any_contact_frequency,C5,Hypotonia,-0.8224729320348959,8
+F20,alpha1|BZD_SITE_207|THR|any_contact_frequency,C1,Ataxia,0.1932841355676841,9
+F20,alpha1|BZD_SITE_207|THR|any_contact_frequency,C1,Balance disorder,0.2621999963272148,10
+F20,alpha1|BZD_SITE_207|THR|any_contact_frequency,C1,Coordination abnormal,0.3952166664313755,8
+F20,alpha1|BZD_SITE_207|THR|any_contact_frequency,C1,Gait disturbance,0.0914651149978656,10
+F20,alpha1|BZD_SITE_207|THR|any_contact_frequency,C5,Muscular weakness,0.1280511609970118,10
+F20,alpha1|BZD_SITE_207|THR|any_contact_frequency,C5,Hypotonia,-0.0359287878573977,8
+F21,alpha1|BZD_SITE_210|TYR|any_contact_frequency,C1,Ataxia,-0.6272087408492496,9
+F21,alpha1|BZD_SITE_210|TYR|any_contact_frequency,C1,Balance disorder,-0.6074076879484503,10
+F21,alpha1|BZD_SITE_210|TYR|any_contact_frequency,C1,Coordination abnormal,-0.3233590907165799,8
+F21,alpha1|BZD_SITE_210|TYR|any_contact_frequency,C1,Gait disturbance,-0.6074076879484503,10
+F21,alpha1|BZD_SITE_210|TYR|any_contact_frequency,C5,Muscular weakness,-0.5951368255656533,10
+F21,alpha1|BZD_SITE_210|TYR|any_contact_frequency,C5,Hypotonia,-0.0359287878573977,8
+F22,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,C1,Ataxia,0.1369306393762915,9
+F22,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,C1,Balance disorder,0.3719494955438387,10
+F22,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,C1,Coordination abnormal,0.4123930494211612,8
+F22,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,C1,Gait disturbance,0.2940996011276864,10
+F22,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,C5,Muscular weakness,0.1556997888323046,10
+F22,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,C5,Hypotonia,-0.0824786098842322,8
+F23,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,C1,Ataxia,-0.2510482226267169,9
+F23,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,C1,Balance disorder,-0.1707348813293491,10
+F23,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,C1,Coordination abnormal,0.119047619047619,8
+F23,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,C1,Gait disturbance,-0.3048837166595521,10
+F23,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,C5,Muscular weakness,-0.3597627856582714,10
+F23,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,C5,Hypotonia,0.4285714285714286,8
+F24,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,C1,Ataxia,0.3984095364447979,9
+F24,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,C1,Balance disorder,-0.1123666437438736,10
+F24,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,C1,Coordination abnormal,-0.2649788667151336,8
+F24,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,C1,Gait disturbance,0.0,10
+F24,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,C5,Muscular weakness,0.1797866299901979,10
+F24,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,C5,Hypotonia,0.0623479686388549,8
+F25,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,C1,Ataxia,0.0585779186129006,9
+F25,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,C1,Balance disorder,-0.1033439424256109,10
+F25,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,C1,Coordination abnormal,0.2515015150017844,8
+F25,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,C1,Gait disturbance,0.1337392196096141,10
+F25,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,C5,Muscular weakness,0.4559291577600484,10
+F25,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,C5,Hypotonia,-0.0598813130956629,8
+F26,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,C1,Ataxia,0.3027650354097491,9
+F26,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,C1,Balance disorder,0.6031784888452876,10
+F26,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,C1,Coordination abnormal,-0.0127702361059699,8
+F26,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,C1,Gait disturbance,0.5346354787492321,10
+F26,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,C5,Muscular weakness,0.1713575252401385,10
+F26,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,C5,Hypotonia,-0.0510809444238797,8
+F27,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,C1,Ataxia,-0.3899064336825272,9
+F27,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,C1,Balance disorder,-0.4449492083146097,10
+F27,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,C1,Coordination abnormal,-0.6508140266182866,8
+F27,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,C1,Gait disturbance,-0.2733259422504031,10
+F27,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,C5,Muscular weakness,-0.292395194035315,10
+F27,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,C5,Hypotonia,-0.2002504697287035,8
+F28,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,C1,Ataxia,-0.1932841355676841,9
+F28,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,C1,Balance disorder,-0.152441858329776,10
+F28,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,C1,Coordination abnormal,0.0,8
+F28,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,C1,Gait disturbance,-0.451227900656137,10
+F28,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,C5,Muscular weakness,-0.6341581306518683,10
+F28,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,C5,Hypotonia,0.4431217169079058,8
+F29,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,C1,Ataxia,NA,9
+F29,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,C1,Balance disorder,0.0580258853185659,10
+F29,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,C1,Coordination abnormal,NA,8
+F29,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,C1,Gait disturbance,-0.0580258853185659,10
+F29,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,C5,Muscular weakness,-0.4061811972299615,10
+F29,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,C5,Hypotonia,NA,8
+F30,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,C1,Ataxia,-0.5477225575051661,9
+F30,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,C1,Balance disorder,-0.0691999061476909,10
+F30,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,C1,Coordination abnormal,-0.5773502691896258,8
+F30,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,C1,Gait disturbance,-0.1643497771007659,10
+F30,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,C5,Muscular weakness,-0.5276492843761433,10
+F30,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,C5,Hypotonia,-0.4123930494211612,8
+F31,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,C1,Ataxia,0.1369306393762915,9
+F31,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,C1,Balance disorder,0.4930493313022979,10
+F31,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,C1,Coordination abnormal,0.2338048823957061,8
+F31,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,C1,Gait disturbance,0.5881992022553729,10
+F31,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,C5,Muscular weakness,0.3373495424699932,10
+F31,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,C5,Hypotonia,-0.3273268353539886,8
+F32,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,C1,Ataxia,0.1757337558387018,9
+F32,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,C1,Balance disorder,0.451227900656137,10
+F32,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,C1,Coordination abnormal,0.5952380952380953,8
+F32,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,C1,Gait disturbance,0.6097674333191042,10
+F32,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,C5,Muscular weakness,0.8963581269790831,10
+F32,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,C5,Hypotonia,-0.6190476190476191,8
+F33,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,C1,Ataxia,-0.1398994833565337,9
+F33,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,C1,Balance disorder,-0.2011122272417267,10
+F33,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,C1,Coordination abnormal,-0.1532428332716391,8
+F33,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,C1,Gait disturbance,0.1232623328255744,10
+F33,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,C5,Muscular weakness,0.3373495424699932,10
+F33,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,C5,Hypotonia,-0.3831070831790977,8
+F34,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,C1,Ataxia,-0.1825741858350553,9
+F34,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,C1,Balance disorder,0.0691999061476909,10
+F34,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,C1,Coordination abnormal,-0.1558699215971374,8
+F34,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,C1,Gait disturbance,0.3373495424699932,10
+F34,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,C5,Muscular weakness,0.4497993899599911,10
+F34,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,C5,Hypotonia,-0.5923057020691221,8
+F35,alpha2|BZD_SITE_100|PHE|any_contact_frequency,C1,Ataxia,-0.2677847708018314,9
+F35,alpha2|BZD_SITE_100|PHE|any_contact_frequency,C1,Balance disorder,-0.3890595479552414,10
+F35,alpha2|BZD_SITE_100|PHE|any_contact_frequency,C1,Coordination abnormal,0.0838338383339281,8
+F35,alpha2|BZD_SITE_100|PHE|any_contact_frequency,C1,Gait disturbance,-0.6930123197952737,10
+F35,alpha2|BZD_SITE_100|PHE|any_contact_frequency,C5,Muscular weakness,-0.6079055436800646,10
+F35,alpha2|BZD_SITE_100|PHE|any_contact_frequency,C5,Hypotonia,0.4191691916696406,8
+F36,alpha2|BZD_SITE_102|HIS|any_contact_frequency,C1,Ataxia,0.6,9
+F36,alpha2|BZD_SITE_102|HIS|any_contact_frequency,C1,Balance disorder,0.1458973304832155,10
+F36,alpha2|BZD_SITE_102|HIS|any_contact_frequency,C1,Coordination abnormal,-0.0476190476190476,8
+F36,alpha2|BZD_SITE_102|HIS|any_contact_frequency,C1,Gait disturbance,0.1458973304832155,10
+F36,alpha2|BZD_SITE_102|HIS|any_contact_frequency,C5,Muscular weakness,0.1155020532992122,10
+F36,alpha2|BZD_SITE_102|HIS|any_contact_frequency,C5,Hypotonia,0.2857142857142857,8
+F37,alpha2|BZD_SITE_103|ASN|any_contact_frequency,C1,Ataxia,-0.235302425908485,9
+F37,alpha2|BZD_SITE_103|ASN|any_contact_frequency,C1,Balance disorder,-0.5487906899871938,10
+F37,alpha2|BZD_SITE_103|ASN|any_contact_frequency,C1,Coordination abnormal,-0.554257096618662,8
+F37,alpha2|BZD_SITE_103|ASN|any_contact_frequency,C1,Gait disturbance,-0.3170790653259341,10
+F37,alpha2|BZD_SITE_103|ASN|any_contact_frequency,C5,Muscular weakness,-0.2561023219940237,10
+F37,alpha2|BZD_SITE_103|ASN|any_contact_frequency,C5,Hypotonia,0.0,8
+F38,alpha2|BZD_SITE_138|GLU|any_contact_frequency,C1,Ataxia,0.4036867138796656,9
+F38,alpha2|BZD_SITE_138|GLU|any_contact_frequency,C1,Balance disorder,0.7197016060085818,10
+F38,alpha2|BZD_SITE_138|GLU|any_contact_frequency,C1,Coordination abnormal,0.4214177914970075,8
+F38,alpha2|BZD_SITE_138|GLU|any_contact_frequency,C1,Gait disturbance,0.8842048302391148,10
+F38,alpha2|BZD_SITE_138|GLU|any_contact_frequency,C5,Muscular weakness,0.836224723171876,10
+F38,alpha2|BZD_SITE_138|GLU|any_contact_frequency,C5,Hypotonia,-0.2298642499074586,8
+F39,alpha2|BZD_SITE_154|PRO|any_contact_frequency,C1,Ataxia,-0.6238794669049377,9
+F39,alpha2|BZD_SITE_154|PRO|any_contact_frequency,C1,Balance disorder,-0.4318209636051491,10
+F39,alpha2|BZD_SITE_154|PRO|any_contact_frequency,C1,Coordination abnormal,-0.5773502691896258,8
+F39,alpha2|BZD_SITE_154|PRO|any_contact_frequency,C1,Gait disturbance,-0.2878806424034327,10
+F39,alpha2|BZD_SITE_154|PRO|any_contact_frequency,C5,Muscular weakness,-0.3906951575475158,10
+F39,alpha2|BZD_SITE_154|PRO|any_contact_frequency,C5,Hypotonia,-0.4536323543632775,8
+F40,alpha2|BZD_SITE_156|LYS|any_contact_frequency,C1,Ataxia,-0.435150252552976,9
+F40,alpha2|BZD_SITE_156|LYS|any_contact_frequency,C1,Balance disorder,-0.6646465023178235,10
+F40,alpha2|BZD_SITE_156|LYS|any_contact_frequency,C1,Coordination abnormal,-0.7380952380952381,8
+F40,alpha2|BZD_SITE_156|LYS|any_contact_frequency,C1,Gait disturbance,-0.4207395289901818,10
+F40,alpha2|BZD_SITE_156|LYS|any_contact_frequency,C5,Muscular weakness,-0.2682976706604058,10
+F40,alpha2|BZD_SITE_156|LYS|any_contact_frequency,C5,Hypotonia,-0.0714285714285714,8
+F41,alpha2|BZD_SITE_160|TYR|any_contact_frequency,C1,Ataxia,-0.3575277429186744,9
+F41,alpha2|BZD_SITE_160|TYR|any_contact_frequency,C1,Balance disorder,-0.1723280873710658,10
+F41,alpha2|BZD_SITE_160|TYR|any_contact_frequency,C1,Coordination abnormal,0.2289322790381429,8
+F41,alpha2|BZD_SITE_160|TYR|any_contact_frequency,C1,Gait disturbance,-0.4492839420745644,10
+F41,alpha2|BZD_SITE_160|TYR|any_contact_frequency,C5,Muscular weakness,-0.473902240270431,10
+F41,alpha2|BZD_SITE_160|TYR|any_contact_frequency,C5,Hypotonia,0.4819626927118798,8
+F42,alpha2|BZD_SITE_201|GLU|any_contact_frequency,C1,Ataxia,0.1369306393762915,9
+F42,alpha2|BZD_SITE_201|GLU|any_contact_frequency,C1,Balance disorder,0.4061811972299615,10
+F42,alpha2|BZD_SITE_201|GLU|any_contact_frequency,C1,Coordination abnormal,0.4123930494211612,8
+F42,alpha2|BZD_SITE_201|GLU|any_contact_frequency,C1,Gait disturbance,0.4061811972299615,10
+F42,alpha2|BZD_SITE_201|GLU|any_contact_frequency,C5,Muscular weakness,0.5222329678670935,10
+F42,alpha2|BZD_SITE_201|GLU|any_contact_frequency,C5,Hypotonia,-0.0824786098842322,8
+F43,alpha2|BZD_SITE_203|ILE|any_contact_frequency,C1,Ataxia,-0.235302425908485,9
+F43,alpha2|BZD_SITE_203|ILE|any_contact_frequency,C1,Balance disorder,-0.6158651076522952,10
+F43,alpha2|BZD_SITE_203|ILE|any_contact_frequency,C1,Coordination abnormal,-0.0598813130956629,8
+F43,alpha2|BZD_SITE_203|ILE|any_contact_frequency,C1,Gait disturbance,-0.7317209199829249,10
+F43,alpha2|BZD_SITE_203|ILE|any_contact_frequency,C5,Muscular weakness,-0.7256232456497339,10
+F43,alpha2|BZD_SITE_203|ILE|any_contact_frequency,C5,Hypotonia,0.2634777776209169,8
+F44,alpha2|BZD_SITE_204|LYS|any_contact_frequency,C1,Ataxia,-0.2589661986891186,9
+F44,alpha2|BZD_SITE_204|LYS|any_contact_frequency,C1,Balance disorder,-0.3146266024828463,10
+F44,alpha2|BZD_SITE_204|LYS|any_contact_frequency,C1,Coordination abnormal,-0.3779644730092272,8
+F44,alpha2|BZD_SITE_204|LYS|any_contact_frequency,C1,Gait disturbance,-0.1573133012414231,10
+F44,alpha2|BZD_SITE_204|LYS|any_contact_frequency,C5,Muscular weakness,-0.2022599587389726,10
+F44,alpha2|BZD_SITE_204|LYS|any_contact_frequency,C5,Hypotonia,-0.7559289460184545,8
+F45,alpha2|BZD_SITE_206|SER|any_contact_frequency,C1,Ataxia,-0.0684653196881457,9
+F45,alpha2|BZD_SITE_206|SER|any_contact_frequency,C1,Balance disorder,0.3952033784194546,10
+F45,alpha2|BZD_SITE_206|SER|any_contact_frequency,C1,Coordination abnormal,0.4052617961525573,8
+F45,alpha2|BZD_SITE_206|SER|any_contact_frequency,C1,Gait disturbance,0.3653767083500618,10
+F45,alpha2|BZD_SITE_206|SER|any_contact_frequency,C5,Muscular weakness,0.111850012760223,10
+F45,alpha2|BZD_SITE_206|SER|any_contact_frequency,C5,Hypotonia,-0.4520227726316985,8
+F46,alpha2|BZD_SITE_207|THR|any_contact_frequency,C1,Ataxia,-0.273861278752583,9
+F46,alpha2|BZD_SITE_207|THR|any_contact_frequency,C1,Balance disorder,0.1643497771007659,10
+F46,alpha2|BZD_SITE_207|THR|any_contact_frequency,C1,Coordination abnormal,0.0824786098842322,8
+F46,alpha2|BZD_SITE_207|THR|any_contact_frequency,C1,Gait disturbance,0.1470498005638432,10
+F46,alpha2|BZD_SITE_207|THR|any_contact_frequency,C5,Muscular weakness,-0.2162497067115341,10
+F46,alpha2|BZD_SITE_207|THR|any_contact_frequency,C5,Hypotonia,-0.5773502691896258,8
+F47,alpha2|BZD_SITE_210|TYR|any_contact_frequency,C1,Ataxia,-0.1012739367083666,9
+F47,alpha2|BZD_SITE_210|TYR|any_contact_frequency,C1,Balance disorder,0.0061164653618131,10
+F47,alpha2|BZD_SITE_210|TYR|any_contact_frequency,C1,Coordination abnormal,0.3253248175805189,8
+F47,alpha2|BZD_SITE_210|TYR|any_contact_frequency,C1,Gait disturbance,-0.3180561988142819,10
+F47,alpha2|BZD_SITE_210|TYR|any_contact_frequency,C5,Muscular weakness,-0.4098031792414786,10
+F47,alpha2|BZD_SITE_210|TYR|any_contact_frequency,C5,Hypotonia,0.686796837114429,8
+F48,alpha2|BZD_SITE_212|VAL|any_contact_frequency,C1,Ataxia,NA,9
+F48,alpha2|BZD_SITE_212|VAL|any_contact_frequency,C1,Balance disorder,0.0580258853185659,10
+F48,alpha2|BZD_SITE_212|VAL|any_contact_frequency,C1,Coordination abnormal,NA,8
+F48,alpha2|BZD_SITE_212|VAL|any_contact_frequency,C1,Gait disturbance,-0.0580258853185659,10
+F48,alpha2|BZD_SITE_212|VAL|any_contact_frequency,C5,Muscular weakness,-0.4061811972299615,10
+F48,alpha2|BZD_SITE_212|VAL|any_contact_frequency,C5,Hypotonia,NA,8
