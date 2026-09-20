@@ -1,0 +1,12 @@
+PREP ligand brotizolam 1 1 1
+PREP ligand lormetazepam 1 2 2
+==============================
+*** Open Babel Warning  in PerceiveBondOrders
+  Failed to kekulize aromatic bonds in OBMol::PerceiveBondOrders (title is /Users/k-atsumi/Documents/Codex/2026-09-20/new-chat/work/repository/analysis/nishino2008_xmy_model_case/raw/receptors/alpha1_selected.pdb)
+
+PREP receptor alpha1 27532
+==============================
+*** Open Babel Warning  in PerceiveBondOrders
+  Failed to kekulize aromatic bonds in OBMol::PerceiveBondOrders (title is /Users/k-atsumi/Documents/Codex/2026-09-20/new-chat/work/repository/analysis/nishino2008_xmy_model_case/raw/receptors/alpha2_selected.pdb)
+
+PREP receptor alpha2 14156

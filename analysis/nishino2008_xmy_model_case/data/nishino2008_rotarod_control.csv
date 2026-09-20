@@ -1,0 +1,5 @@
+study_id,drug,dose_mg_kg,time_min,n_positive,n_total,failure_fraction,source_table,source_reference
+Nishino2008,vehicle_control,NA,15,0,10,0,"Table 1, p353",https://doi.org/10.1254/jphs.08107FP
+Nishino2008,vehicle_control,NA,30,0,10,0,"Table 1, p353",https://doi.org/10.1254/jphs.08107FP
+Nishino2008,vehicle_control,NA,60,0,10,0,"Table 1, p353",https://doi.org/10.1254/jphs.08107FP
+Nishino2008,vehicle_control,NA,90,0,10,0,"Table 1, p353",https://doi.org/10.1254/jphs.08107FP

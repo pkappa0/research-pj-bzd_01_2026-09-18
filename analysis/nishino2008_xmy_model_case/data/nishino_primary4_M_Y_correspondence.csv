@@ -1,0 +1,5 @@
+clinical_term,spearman_rho,n_effective,status,included_drugs,excluded_drugs
+Ataxia,0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+Balance disorder,0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+Coordination abnormal,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+Gait disturbance,0.6000000000000001,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,

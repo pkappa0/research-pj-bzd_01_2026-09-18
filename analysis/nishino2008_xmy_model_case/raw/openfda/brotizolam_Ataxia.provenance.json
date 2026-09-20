@@ -1,0 +1,8 @@
+{
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22BROTIZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22BROTIZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22ATAXIA%22&limit=1",
+  "query": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"BROTIZOLAM\" OR patient.drug.medicinalproduct.exact:\"BROTIZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"ATAXIA\"",
+  "retrieved_utc": "2026-09-20T09:43:39.124970+00:00",
+  "http_status": 200,
+  "sha256": "53649c07af1d8d233e86914cd790a4f08e8fa949956f47bfe6ec297b3480b36b",
+  "results_omitted": "counts-only extraction; individual report not retained"
+}

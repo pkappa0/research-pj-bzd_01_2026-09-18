@@ -1,0 +1,5 @@
+drug,alpha1_PLIF_reference,alpha1_median_Vina_score,alpha1_Vina_favorability,alpha2_PLIF_reference,alpha2_median_Vina_score,alpha2_Vina_favorability
+diazepam,data/nishino_primary4_plif.csv#drug=diazepam;columns=alpha1|*,-10.13,10.13,data/nishino_primary4_plif.csv#drug=diazepam;columns=alpha2|*,-7.774,7.774
+triazolam,data/nishino_primary4_plif.csv#drug=triazolam;columns=alpha1|*,-10.887,10.887,data/nishino_primary4_plif.csv#drug=triazolam;columns=alpha2|*,-6.82,6.82
+brotizolam,data/nishino_primary4_plif.csv#drug=brotizolam;columns=alpha1|*,-10.215,10.215,data/nishino_primary4_plif.csv#drug=brotizolam;columns=alpha2|*,-6.968,6.968
+lormetazepam,data/nishino_primary4_plif.csv#drug=lormetazepam;columns=alpha1|*,-8.857,8.857,data/nishino_primary4_plif.csv#drug=lormetazepam;columns=alpha2|*,-6.876,6.876

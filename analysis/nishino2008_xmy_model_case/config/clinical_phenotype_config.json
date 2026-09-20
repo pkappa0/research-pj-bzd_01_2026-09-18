@@ -1,0 +1,58 @@
+{
+  "axes": {
+    "C1": [
+      "Ataxia",
+      "Balance disorder",
+      "Coordination abnormal",
+      "Gait disturbance"
+    ],
+    "C2": [
+      "Fall"
+    ],
+    "C3": [
+      "Somnolence",
+      "Sedation"
+    ],
+    "C4": [
+      "Dizziness",
+      "Vertigo"
+    ],
+    "C5": [
+      "Muscular weakness",
+      "Hypotonia"
+    ],
+    "C6": [
+      "Amnesia",
+      "Memory impairment",
+      "Cognitive disorder"
+    ]
+  },
+  "feature_order": [
+    "Ataxia",
+    "Balance disorder",
+    "Coordination abnormal",
+    "Gait disturbance",
+    "Fall",
+    "Somnolence",
+    "Sedation",
+    "Dizziness",
+    "Vertigo",
+    "Muscular weakness",
+    "Hypotonia",
+    "Amnesia",
+    "Memory impairment",
+    "Cognitive disorder"
+  ],
+  "zero_cells": "if any cell=0 add 0.5 to all four cells; no correction otherwise",
+  "minimum_event_reports": 5,
+  "unstable_primary_policy": "a<5 remains in raw ROR table but Y primary is NA; all-estimable sensitivity retained",
+  "missing": "NA, never impute zero",
+  "clinical_similarity": "cosine logROR, pairwise complete fixed terms; require >=7/14 shared terms; report common count",
+  "structural_similarity": "cosine all unchanged 48 frequency features; pairwise complete if missing",
+  "feature_correlations": "drug-level Spearman, pairwise complete; n<5 insufficient; constant feature rho=NA; no p-value ranking",
+  "axis_summary": "none; preserve term-level features",
+  "time_window": "receivedate 20040101 through 20251231 inclusive",
+  "in_vivo": "archived context-specific values only; no cross-study pooling",
+  "pair_statistic": "Spearman over pairs descriptive; 9999 drug-label permutations with fixed seed 20260920 for contextual sensitivity, not n=45 independent p-value",
+  "selection": "no clinical-outcome-based feature or term reselection"
+}

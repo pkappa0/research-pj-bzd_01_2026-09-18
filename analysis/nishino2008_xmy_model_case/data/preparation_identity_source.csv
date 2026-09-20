@@ -1,0 +1,5 @@
+drug_id,molecule_chembl_id,canonical_smiles,standard_inchikey,source_file,source_sha256
+diazepam,CHEMBL12,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,AAOVKJBEBIDNHE-UHFFFAOYSA-N,raw/responses/request_00009.json.gz,ee0b3e7e09eae193e3bf636a5cb5c4a51da08b78ecea76d2054664ee2f7a218e
+triazolam,CHEMBL646,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,JOFWLTCLBGQGBO-UHFFFAOYSA-N,raw/responses/request_00047.json.gz,41763168eb4ad3626548b65f25dae1d5987988d490ad2b2b5a690589b35a23a0
+brotizolam,CHEMBL32479,Cc1nnc2n1-c1sc(Br)cc1C(c1ccccc1Cl)=NC2,UMSGKTJDUHERQW-UHFFFAOYSA-N,analysis/nishino2008_xmy_model_case/raw/chembl_brotizolam.json,aa50f00a6781654df87801fac708577a9b7caf519d23aa0826a9aa0acc34500b
+lormetazepam,CHEMBL22097,CN1C(=O)C(O)N=C(c2ccccc2Cl)c2cc(Cl)ccc21,FJIKWRGCXUCUIG-UHFFFAOYSA-N,analysis/nishino2008_xmy_model_case/raw/chembl_lormetazepam.json,d9bc8239f319588a7b1056d14ae2ab83f2899234abd80e55828081a7631ff039

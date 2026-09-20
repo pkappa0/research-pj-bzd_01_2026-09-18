@@ -1,0 +1,3 @@
+# Lormetazepam torsion-definition review
+
+RDKit reports one heavy-atom rotatable bond; Meeko writes two PDBQT branches and TORSDOF=2. Direct Meeko bond inspection identifies atom-index pairs 4–5 (C–O hydroxyl) and 7–8 (C–C aryl linkage), zero-based indices of the prepared explicit-H RDKit molecule. The extra terminal hydroxyl rotation is a definition difference, not a broken torsion tree. Branch count equals TORSDOF, MMFF converges and the original Meeko settings are retained. No torsion is manually removed. Lormetazepam's unassigned source stereocentre remains a one-configuration sampling limitation.

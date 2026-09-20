@@ -1,0 +1,201 @@
+structural_feature,clinical_term,secondary,spearman_rho,n_effective,status,included_drugs,excluded_drugs
+F01,Ataxia,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F01,Balance disorder,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F01,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F01,Gait disturbance,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F02,Ataxia,True,0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F02,Balance disorder,True,1.0,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F02,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F02,Gait disturbance,True,0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F03,Ataxia,True,-0.9486832980505139,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F03,Balance disorder,True,-0.632455532033676,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F03,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F03,Gait disturbance,True,-0.9486832980505139,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F04,Ataxia,True,0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F04,Balance disorder,True,1.0,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F04,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F04,Gait disturbance,True,0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F05,Ataxia,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F05,Balance disorder,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F05,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F05,Gait disturbance,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F06,Ataxia,True,-0.19999999999999998,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F06,Balance disorder,True,-0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F06,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F06,Gait disturbance,True,-0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F07,Ataxia,True,0.9486832980505139,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F07,Balance disorder,True,0.632455532033676,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F07,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F07,Gait disturbance,True,0.9486832980505139,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F08,Ataxia,True,-0.7378647873726218,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F08,Balance disorder,True,-0.21081851067789195,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F08,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F08,Gait disturbance,True,-0.9486832980505139,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F09,Ataxia,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F09,Balance disorder,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F09,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F09,Gait disturbance,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F10,Ataxia,True,0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F10,Balance disorder,True,0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F10,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F10,Gait disturbance,True,1.0,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F11,Ataxia,True,-0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F11,Balance disorder,True,-1.0,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F11,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F11,Gait disturbance,True,-0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F12,Ataxia,True,0.7745966692414834,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F12,Balance disorder,True,0.7745966692414834,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F12,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F12,Gait disturbance,True,0.7745966692414834,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F13,Ataxia,True,-0.2581988897471611,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F13,Balance disorder,True,0.2581988897471611,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F13,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F13,Gait disturbance,True,-0.7745966692414834,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F14,Ataxia,True,-0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F14,Balance disorder,True,-1.0,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F14,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F14,Gait disturbance,True,-0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F15,Ataxia,True,0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F15,Balance disorder,True,0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F15,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F15,Gait disturbance,True,1.0,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F16,Ataxia,True,-0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F16,Balance disorder,True,-0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F16,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F16,Gait disturbance,True,-0.19999999999999998,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F17,Ataxia,True,-0.316227766016838,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F17,Balance disorder,True,0.316227766016838,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F17,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F17,Gait disturbance,True,-0.632455532033676,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F18,Ataxia,True,-0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F18,Balance disorder,True,-0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F18,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F18,Gait disturbance,True,0.19999999999999998,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F19,Ataxia,True,-0.9486832980505139,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F19,Balance disorder,True,-0.632455532033676,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F19,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F19,Gait disturbance,True,-0.9486832980505139,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F20,Ataxia,True,0.632455532033676,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F20,Balance disorder,True,0.9486832980505139,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F20,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F20,Gait disturbance,True,0.316227766016838,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F21,Ataxia,True,-0.21081851067789195,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F21,Balance disorder,True,-0.7378647873726218,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F21,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F21,Gait disturbance,True,0.10540925533894598,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F22,Ataxia,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F22,Balance disorder,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F22,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F22,Gait disturbance,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F23,Ataxia,True,0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F23,Balance disorder,True,1.0,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F23,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F23,Gait disturbance,True,0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F24,Ataxia,True,0.316227766016838,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F24,Balance disorder,True,0.632455532033676,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F24,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F24,Gait disturbance,True,-0.316227766016838,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F25,Ataxia,True,-0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F25,Balance disorder,True,-0.19999999999999998,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F25,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F25,Gait disturbance,True,-0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F26,Ataxia,True,0.0,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F26,Balance disorder,True,0.6000000000000001,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F26,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F26,Gait disturbance,True,-0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F27,Ataxia,True,-0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F27,Balance disorder,True,-0.19999999999999998,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F27,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F27,Gait disturbance,True,-0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F28,Ataxia,True,0.9486832980505139,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F28,Balance disorder,True,0.9486832980505139,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F28,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F28,Gait disturbance,True,0.632455532033676,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F29,Ataxia,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F29,Balance disorder,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F29,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F29,Gait disturbance,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F30,Ataxia,True,-0.7745966692414834,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F30,Balance disorder,True,-0.7745966692414834,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F30,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F30,Gait disturbance,True,-0.2581988897471611,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F31,Ataxia,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F31,Balance disorder,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F31,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F31,Gait disturbance,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F32,Ataxia,True,-0.7378647873726218,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F32,Balance disorder,True,-0.21081851067789195,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F32,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F32,Gait disturbance,True,-0.9486832980505139,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F33,Ataxia,True,-0.10540925533894598,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F33,Balance disorder,True,0.10540925533894598,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F33,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F33,Gait disturbance,True,-0.632455532033676,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F34,Ataxia,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F34,Balance disorder,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F34,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F34,Gait disturbance,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F35,Ataxia,True,0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F35,Balance disorder,True,0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F35,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F35,Gait disturbance,True,1.0,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F36,Ataxia,True,0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F36,Balance disorder,True,0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F36,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F36,Gait disturbance,True,1.0,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F37,Ataxia,True,-0.19999999999999998,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F37,Balance disorder,True,-0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F37,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F37,Gait disturbance,True,-0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F38,Ataxia,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F38,Balance disorder,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F38,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F38,Gait disturbance,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F39,Ataxia,True,-0.316227766016838,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F39,Balance disorder,True,-0.316227766016838,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F39,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F39,Gait disturbance,True,-0.632455532033676,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F40,Ataxia,True,-0.19999999999999998,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F40,Balance disorder,True,-0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F40,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F40,Gait disturbance,True,-0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F41,Ataxia,True,0.316227766016838,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F41,Balance disorder,True,0.316227766016838,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F41,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F41,Gait disturbance,True,0.632455532033676,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F42,Ataxia,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F42,Balance disorder,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F42,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F42,Gait disturbance,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F43,Ataxia,True,-0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F43,Balance disorder,True,-0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F43,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F43,Gait disturbance,True,0.19999999999999998,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F44,Ataxia,True,-1.0,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F44,Balance disorder,True,-0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F44,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F44,Gait disturbance,True,-0.7999999999999999,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F45,Ataxia,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F45,Balance disorder,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F45,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F45,Gait disturbance,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F46,Ataxia,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F46,Balance disorder,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F46,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F46,Gait disturbance,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F47,Ataxia,True,0.316227766016838,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F47,Balance disorder,True,0.316227766016838,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F47,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F47,Gait disturbance,True,0.632455532033676,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+F48,Ataxia,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F48,Balance disorder,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+F48,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+F48,Gait disturbance,True,NA,4,constant_input,diazepam;triazolam;brotizolam;lormetazepam,
+alpha1_Vina_favorability,Ataxia,True,0.0,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+alpha1_Vina_favorability,Balance disorder,True,-0.6000000000000001,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+alpha1_Vina_favorability,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+alpha1_Vina_favorability,Gait disturbance,True,0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+alpha2_Vina_favorability,Ataxia,True,0.19999999999999998,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+alpha2_Vina_favorability,Balance disorder,True,0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,
+alpha2_Vina_favorability,Coordination abnormal,True,NA,2,insufficient_clinical_coverage_n_lt_3,diazepam;lormetazepam,triazolam;brotizolam
+alpha2_Vina_favorability,Gait disturbance,True,0.39999999999999997,4,complete_four_drug,diazepam;triazolam;brotizolam;lormetazepam,

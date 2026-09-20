@@ -1,0 +1,19 @@
+{
+  "files": {
+    "raw/receptors/alpha1_selected.pdb": "c4afc89674d120cec091409c00b8e0d05afd514ced062edd42d2f1129e945c4f",
+    "raw/receptors/alpha2_prepared_H.pdb": "98f514c879aa2c201dca96a3feddb60dcc1062459842b9c9a7aa6a8c6db2bc3a",
+    "raw/receptors/alpha2_selected.pdb": "2659bf8f894864c87265fb9810dbee7ab27e67ac840d347f6bb4a09d400e367b",
+    "raw/receptors/alpha1.pdbqt": "1089f81e8bbc900a2522d34c5ed65a11c35f3c8046954386dafde623056a806a",
+    "raw/receptors/alpha1_prepared_H.pdb": "7c66f54a02541b8e03935120e711b20af5bbba6d4f82730cda6c09e323a01717",
+    "raw/receptors/alpha2.pdbqt": "c3bcd380238909d2b6c7cabc56ab6cb69e4f80613e7640cf760aa1f4a737ab87",
+    "raw/ligands/brotizolam.pdbqt": "06a126fbfa4b872d36fb41d9c2a896d6628b55658fb3ee360773a60c1575aae2",
+    "raw/ligands/brotizolam.sdf": "6c5ef5c094da2382d22fede6fb3a1162167af4988521bb8fa08f10ddaa6e80cd",
+    "raw/ligands/diazepam.pdbqt": "7fc847e735c8de8c9520058b03d47a7dbe413812aacbebc1966073252cc4d13f",
+    "raw/ligands/lormetazepam.sdf": "35fe832bf1368169d057a88db28b4135fa66d883b742f60334690e68ce60ae10",
+    "raw/ligands/triazolam.sdf": "5ae3504caa179a06208f03529530ff823b4714f8426b677f2b1eed8611dcb807",
+    "raw/ligands/triazolam.pdbqt": "f001f1fea9752a76e54e18a190013380fa7100fdaabbc0a867866d1ea8fa12bc",
+    "raw/ligands/lormetazepam.pdbqt": "058d6446faace19ae9815dcd4620f33705d9e6014da6c780a788ff5a90e81ee2",
+    "raw/ligands/diazepam.sdf": "1294056d6c7367eab1866d153c08b0c3f7886f58adba0f979e771145afff68e2"
+  },
+  "source_receptors_byte_identical": true
+}

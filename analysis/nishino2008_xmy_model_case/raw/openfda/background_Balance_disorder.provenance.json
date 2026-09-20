@@ -1,0 +1,8 @@
+{
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22BALANCE+DISORDER%22&limit=1",
+  "query": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"BALANCE DISORDER\"",
+  "retrieved_utc": "2026-09-20T09:43:11.150220+00:00",
+  "http_status": 200,
+  "sha256": "92776e5a806f6738471426675e2a4600b4193abb802ce711277dddc4a5e338b8",
+  "results_omitted": "counts-only extraction; individual report not retained"
+}

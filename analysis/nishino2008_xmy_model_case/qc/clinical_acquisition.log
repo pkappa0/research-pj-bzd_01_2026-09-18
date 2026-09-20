@@ -1,0 +1,4 @@
+diazepam 118049 [('Ataxia', 375, True), ('Balance disorder', 1355, True), ('Coordination abnormal', 335, True), ('Gait disturbance', 2287, True)]
+triazolam 3893 [('Ataxia', 12, True), ('Balance disorder', 29, True), ('Coordination abnormal', 4, False), ('Gait disturbance', 62, True)]
+brotizolam 4473 [('Ataxia', 7, True), ('Balance disorder', 6, True), ('Coordination abnormal', 0, False), ('Gait disturbance', 38, True)]
+lormetazepam 5825 [('Ataxia', 13, True), ('Balance disorder', 65, True), ('Coordination abnormal', 8, True), ('Gait disturbance', 48, True)]

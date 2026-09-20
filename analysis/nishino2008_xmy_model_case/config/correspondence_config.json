@@ -1,0 +1,23 @@
+{
+  "observational_unit": "drug",
+  "n_primary_drugs": 4,
+  "order": [
+    "diazepam",
+    "triazolam",
+    "brotizolam",
+    "lormetazepam"
+  ],
+  "minimum_pairs": 3,
+  "primary_complete_set": 4,
+  "partial_set_policy": "n=3 descriptive only, explicitly labeled; n<3 NA",
+  "constant_input": "NA",
+  "p_values": "not calculated/reported",
+  "feature_order": "frozen F01-F48, no ranking",
+  "C1_terms": [
+    "Ataxia",
+    "Balance disorder",
+    "Coordination abnormal",
+    "Gait disturbance"
+  ],
+  "note": "User-authorized n=4 model case uses n>=3 descriptive floor; historical 10-drug n>=5 results unchanged. No inferential claims."
+}

@@ -1,0 +1,100 @@
+PREP ligand diazepam 1 1 1
+PREP ligand triazolam 1 1 1
+==============================
+*** Open Babel Warning  in PerceiveBondOrders
+  Failed to kekulize aromatic bonds in OBMol::PerceiveBondOrders (title is /Users/k-atsumi/Documents/Codex/2026-09-20/new-chat/work/nishino_environment_replay/raw/receptors/alpha1_selected.pdb)
+
+PREP receptor alpha1 27532
+==============================
+*** Open Babel Warning  in PerceiveBondOrders
+  Failed to kekulize aromatic bonds in OBMol::PerceiveBondOrders (title is /Users/k-atsumi/Documents/Codex/2026-09-20/new-chat/work/nishino_environment_replay/raw/receptors/alpha2_selected.pdb)
+
+PREP receptor alpha2 14156
+{
+  "decision": "reuse frozen diazepam/triazolam; add only brotizolam/lormetazepam",
+  "package_differences": {
+    "pip": [
+      "26.1.1",
+      "25.0.1"
+    ]
+  },
+  "pip_difference_material": false,
+  "conda_differences": [],
+  "vina_binary_identical": true,
+  "replay_checks": [
+    {
+      "scientific_records_identical": true,
+      "file": "raw/receptors/alpha1_selected.pdb",
+      "source_sha256": "c4afc89674d120cec091409c00b8e0d05afd514ced062edd42d2f1129e945c4f",
+      "replay_sha256": "c4afc89674d120cec091409c00b8e0d05afd514ced062edd42d2f1129e945c4f",
+      "exact_match": true
+    },
+    {
+      "scientific_records_identical": true,
+      "file": "raw/receptors/alpha2_prepared_H.pdb",
+      "source_sha256": "98f514c879aa2c201dca96a3feddb60dcc1062459842b9c9a7aa6a8c6db2bc3a",
+      "replay_sha256": "37b9a1e098d52cba95ee56d5c4fdc36b76a1894ced822bacbc0aa450027f1975",
+      "exact_match": false
+    },
+    {
+      "scientific_records_identical": true,
+      "file": "raw/receptors/alpha2_selected.pdb",
+      "source_sha256": "2659bf8f894864c87265fb9810dbee7ab27e67ac840d347f6bb4a09d400e367b",
+      "replay_sha256": "2659bf8f894864c87265fb9810dbee7ab27e67ac840d347f6bb4a09d400e367b",
+      "exact_match": true
+    },
+    {
+      "scientific_records_identical": true,
+      "file": "raw/receptors/alpha1.pdbqt",
+      "source_sha256": "1089f81e8bbc900a2522d34c5ed65a11c35f3c8046954386dafde623056a806a",
+      "replay_sha256": "984970fa74cda9ff30e09ef60f9f08def43f0dfb9dfcfe73994011f289e2de18",
+      "exact_match": false
+    },
+    {
+      "scientific_records_identical": true,
+      "file": "raw/receptors/alpha1_prepared_H.pdb",
+      "source_sha256": "7c66f54a02541b8e03935120e711b20af5bbba6d4f82730cda6c09e323a01717",
+      "replay_sha256": "a35f7f0bfbb7d5892d8062923c122e671128bf8160a8ed8c75032655951d0f33",
+      "exact_match": false
+    },
+    {
+      "scientific_records_identical": true,
+      "file": "raw/receptors/alpha2.pdbqt",
+      "source_sha256": "c3bcd380238909d2b6c7cabc56ab6cb69e4f80613e7640cf760aa1f4a737ab87",
+      "replay_sha256": "b1e6a27213f75ea4f5c03e0bd97bf69cae2707f91a01e7a3d8b09250185013c3",
+      "exact_match": false
+    },
+    {
+      "scientific_records_identical": true,
+      "file": "raw/ligands/diazepam.pdbqt",
+      "source_sha256": "7fc847e735c8de8c9520058b03d47a7dbe413812aacbebc1966073252cc4d13f",
+      "replay_sha256": "7fc847e735c8de8c9520058b03d47a7dbe413812aacbebc1966073252cc4d13f",
+      "exact_match": true
+    },
+    {
+      "scientific_records_identical": true,
+      "file": "raw/ligands/diazepam.sdf",
+      "source_sha256": "1294056d6c7367eab1866d153c08b0c3f7886f58adba0f979e771145afff68e2",
+      "replay_sha256": "1294056d6c7367eab1866d153c08b0c3f7886f58adba0f979e771145afff68e2",
+      "exact_match": true
+    },
+    {
+      "scientific_records_identical": true,
+      "file": "raw/ligands/triazolam.sdf",
+      "source_sha256": "5ae3504caa179a06208f03529530ff823b4714f8426b677f2b1eed8611dcb807",
+      "replay_sha256": "5ae3504caa179a06208f03529530ff823b4714f8426b677f2b1eed8611dcb807",
+      "exact_match": true
+    },
+    {
+      "scientific_records_identical": true,
+      "file": "raw/ligands/triazolam.pdbqt",
+      "source_sha256": "f001f1fea9752a76e54e18a190013380fa7100fdaabbc0a867866d1ea8fa12bc",
+      "replay_sha256": "f001f1fea9752a76e54e18a190013380fa7100fdaabbc0a867866d1ea8fa12bc",
+      "exact_match": true
+    }
+  ],
+  "source_code_identical": true,
+  "plip_effective_config_identical": true,
+  "python": "3.12.13 | packaged by conda-forge | (main, Mar  5 2026, 17:06:14) [Clang 19.1.7 ]",
+  "executable": "/Users/k-atsumi/Documents/Codex/2026-09-18/github-readme-final-report-csv-git/work/standardized_env/venv/bin/python"
+}

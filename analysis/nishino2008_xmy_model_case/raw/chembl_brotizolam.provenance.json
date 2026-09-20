@@ -1,0 +1,5 @@
+{
+  "url": "https://www.ebi.ac.uk/chembl/api/data/molecule.json?pref_name__iexact=brotizolam&limit=10",
+  "retrieved_utc": "2026-09-20T09:39:59.548655+00:00",
+  "sha256": "aa50f00a6781654df87801fac708577a9b7caf519d23aa0826a9aa0acc34500b"
+}

@@ -1,0 +1,83 @@
+{
+  "drugs": [
+    "diazepam",
+    "triazolam",
+    "brotizolam",
+    "lormetazepam"
+  ],
+  "blocks": {
+    "alpha1": [
+      "6HUP",
+      "ABCDE"
+    ],
+    "alpha2": [
+      "9CTJ",
+      "CDE"
+    ]
+  },
+  "seeds": [
+    2026091901,
+    2026091902,
+    2026091903,
+    2026091904,
+    2026091905
+  ],
+  "exhaustiveness": 8,
+  "num_modes": 9,
+  "energy_range": 4,
+  "cpu": 1,
+  "concurrent_jobs": 4,
+  "min_rmsd": 1.0,
+  "scoring": "vina",
+  "boxes": [
+    {
+      "receptor_id": "alpha1_beta3_gamma2",
+      "pdb_id": "6HUP",
+      "box_reference_ligand": "DZP",
+      "alpha_or_site_chain": "D",
+      "gamma_chain": "C",
+      "center_x": "117.44499969482422",
+      "center_y": "157.46474990844726",
+      "center_z": "110.48740043640137",
+      "size_x": "20.0",
+      "size_y": "20.0",
+      "size_z": "20.0",
+      "definition": "native DZP centroid + 6 A margin; minimum 20 A per axis",
+      "box_status": "direct"
+    },
+    {
+      "receptor_id": "alpha2_beta3_gamma2_local_9CTJ",
+      "pdb_id": "9CTJ",
+      "box_reference_ligand": "DZP transferred",
+      "alpha_or_site_chain": "D",
+      "gamma_chain": "E",
+      "center_x": "143.42579952820148",
+      "center_y": "96.86254491988079",
+      "center_z": "139.9939981778101",
+      "size_x": "20.0",
+      "size_y": "20.0",
+      "size_z": "20.0",
+      "definition": "6HUP DZP box transferred by gamma2 C->E CA alignment (N=207, RMSD=0.491 A)",
+      "box_status": "provisional_transfer"
+    }
+  ],
+  "ligand": {
+    "source": "analysis/nishino2008_xmy_model_case/data/preparation_identity_source.csv",
+    "protonation": "as-recorded ChEMBL formal charge/tautomer; no pH microstate or tautomer enumeration",
+    "stereochemistry": "preserve specified; unspecified remains source-unspecified; one deterministic sampled 3D configuration, not a known stereoisomer or racemate ensemble",
+    "AddHs": true,
+    "embedding": "ETKDGv3, randomSeed20260919, numThreads1, enforceChiralityTrue, useRandomCoordsFalse",
+    "minimization": "MMFF94s maxIters2000; no fallback; convergence audited",
+    "pdbqt": "Meeko 0.7.1 gasteiger, rigid_macrocycles=True, flexible_amides=False; standard acyclic torsions",
+    "seed": 20260919
+  },
+  "receptor": {
+    "source": "archived PDB ATOM selected chains; model1, altloc blank/A, no waters or heteroatoms",
+    "preparation": "OpenBabel add hydrogens once, no pH titration, Gasteiger; rigid PDBQT preserved names, default nonpolar-H merging; all-H PDB for PLIP"
+  },
+  "pose_policy": "all returned <=9 per seed, no padding/rerun based on score; denominator actual successfully extracted poses",
+  "plip": "NOHYDRO=True; NOFIX=True; prepared H retained; raw XML/TXT per pose",
+  "unstable_feature_rule": "seed frequency range > 0.40 (descriptive preregistered threshold)",
+  "policy_revision": "All ten drugs newly redocked in common environment; legacy runs historical only, no value matching",
+  "external_annotation_allowed": false
+}

@@ -1,0 +1,171 @@
+# Output index
+
+Paths are relative to this analysis directory. All generated outputs are listed; no individual animal/patient inference is made.
+
+- [FINAL_REPORT_NISHINO_XMY_MODEL_CASE.md](FINAL_REPORT_NISHINO_XMY_MODEL_CASE.md) — Entry-point report or reproduction guide.
+- [README.md](README.md) — Entry-point report or reproduction guide.
+- [config/ANALYSIS_CONTRACT_source.md](config/ANALYSIS_CONTRACT_source.md) — Fixed method, software version or provenance record.
+- [config/CONTRACT_ADDENDUM.md](config/CONTRACT_ADDENDUM.md) — Fixed method, software version or provenance record.
+- [config/PREPARED_INPUTS_FROZEN.json](config/PREPARED_INPUTS_FROZEN.json) — Fixed method, software version or provenance record.
+- [config/STRUCTURAL_RESULTS_FROZEN.json](config/STRUCTURAL_RESULTS_FROZEN.json) — Fixed method, software version or provenance record.
+- [config/analysis_software_versions.json](config/analysis_software_versions.json) — Fixed method, software version or provenance record.
+- [config/clinical_phenotype_config.json](config/clinical_phenotype_config.json) — Fixed method, software version or provenance record.
+- [config/correspondence_config.json](config/correspondence_config.json) — Fixed method, software version or provenance record.
+- [config/docking_config.json](config/docking_config.json) — Fixed method, software version or provenance record.
+- [config/faers_query_config.json](config/faers_query_config.json) — Fixed method, software version or provenance record.
+- [config/standardized_complete_environment_lock.txt](config/standardized_complete_environment_lock.txt) — Fixed method, software version or provenance record.
+- [config/standardized_conda_base_lock.json](config/standardized_conda_base_lock.json) — Fixed method, software version or provenance record.
+- [config/standardized_docking_config.json](config/standardized_docking_config.json) — Fixed method, software version or provenance record.
+- [config/standardized_plip_effective_config.json](config/standardized_plip_effective_config.json) — Fixed method, software version or provenance record.
+- [config/standardized_software_versions.json](config/standardized_software_versions.json) — Fixed method, software version or provenance record.
+- [config/upstream_source_manifest.json](config/upstream_source_manifest.json) — Fixed method, software version or provenance record.
+- [data/feature_display_key.csv](data/feature_display_key.csv) — Reproducible source, derived or matched data table.
+- [data/frozen_10drug_plif_source.csv](data/frozen_10drug_plif_source.csv) — Reproducible source, derived or matched data table.
+- [data/nishino2008_primary4_in_vivo_M.csv](data/nishino2008_primary4_in_vivo_M.csv) — Reproducible source, derived or matched data table.
+- [data/nishino2008_protocol.json](data/nishino2008_protocol.json) — Reproducible source, derived or matched data table.
+- [data/nishino2008_rotarod_control.csv](data/nishino2008_rotarod_control.csv) — Reproducible source, derived or matched data table.
+- [data/nishino2008_rotarod_dose_time_matrix.csv](data/nishino2008_rotarod_dose_time_matrix.csv) — Reproducible source, derived or matched data table.
+- [data/nishino2008_rotarod_ed50.csv](data/nishino2008_rotarod_ed50.csv) — Reproducible source, derived or matched data table.
+- [data/nishino2008_rotarod_raw.csv](data/nishino2008_rotarod_raw.csv) — Reproducible source, derived or matched data table.
+- [data/nishino_primary4_M_Y_correspondence.csv](data/nishino_primary4_M_Y_correspondence.csv) — Reproducible source, derived or matched data table.
+- [data/nishino_primary4_XMY_master.csv](data/nishino_primary4_XMY_master.csv) — Reproducible source, derived or matched data table.
+- [data/nishino_primary4_X_M_correspondence.csv](data/nishino_primary4_X_M_correspondence.csv) — Reproducible source, derived or matched data table.
+- [data/nishino_primary4_X_Y_correspondence.csv](data/nishino_primary4_X_Y_correspondence.csv) — Reproducible source, derived or matched data table.
+- [data/nishino_primary4_clinical_Y.csv](data/nishino_primary4_clinical_Y.csv) — Reproducible source, derived or matched data table.
+- [data/nishino_primary4_ligand_manifest.csv](data/nishino_primary4_ligand_manifest.csv) — Reproducible source, derived or matched data table.
+- [data/nishino_primary4_plif.csv](data/nishino_primary4_plif.csv) — Reproducible source, derived or matched data table.
+- [data/nishino_primary4_structural_multiview.csv](data/nishino_primary4_structural_multiview.csv) — Reproducible source, derived or matched data table.
+- [data/nishino_primary4_vina_all_poses.csv](data/nishino_primary4_vina_all_poses.csv) — Reproducible source, derived or matched data table.
+- [data/nishino_primary4_vina_seed_best.csv](data/nishino_primary4_vina_seed_best.csv) — Reproducible source, derived or matched data table.
+- [data/nishino_primary4_vina_summary.csv](data/nishino_primary4_vina_summary.csv) — Reproducible source, derived or matched data table.
+- [data/preparation_identity_source.csv](data/preparation_identity_source.csv) — Reproducible source, derived or matched data table.
+- [docs/USER_REQUEST.md](docs/USER_REQUEST.md) — Scientific interpretation, source limitations or future plan.
+- [docs/future_in_vivo_expansion_plan.md](docs/future_in_vivo_expansion_plan.md) — Scientific interpretation, source limitations or future plan.
+- [docs/future_ml_roadmap.md](docs/future_ml_roadmap.md) — Scientific interpretation, source limitations or future plan.
+- [docs/nishino_model_case_go_nogo.md](docs/nishino_model_case_go_nogo.md) — Scientific interpretation, source limitations or future plan.
+- [docs/nishino_source_and_protocol_notes.md](docs/nishino_source_and_protocol_notes.md) — Scientific interpretation, source limitations or future plan.
+- [docs/rilmazafone_exclusion_note.md](docs/rilmazafone_exclusion_note.md) — Scientific interpretation, source limitations or future plan.
+- [figures/nishino_primary4_XMY_model_case.png](figures/nishino_primary4_XMY_model_case.png) — Identity-aligned PLIF, Vina, reported M and masked Y.
+- [figures/nishino_primary4_XMY_model_case.svg](figures/nishino_primary4_XMY_model_case.svg) — Identity-aligned PLIF, Vina, reported M and masked Y.
+- [figures/nishino_primary4_X_M_correspondence.png](figures/nishino_primary4_X_M_correspondence.png) — Frozen-order descriptive structural correspondence with M, n=4.
+- [figures/nishino_primary4_X_M_correspondence.svg](figures/nishino_primary4_X_M_correspondence.svg) — Frozen-order descriptive structural correspondence with M, n=4.
+- [figures/nishino_primary4_rotarod_profiles.png](figures/nishino_primary4_rotarod_profiles.png) — Raw dose/time profiles and separate reported ED50 intervals.
+- [figures/nishino_primary4_rotarod_profiles.svg](figures/nishino_primary4_rotarod_profiles.svg) — Raw dose/time profiles and separate reported ED50 intervals.
+- [figures/nishino_three_layer_summary.png](figures/nishino_three_layer_summary.png) — Noncausal concept and empirical layer completeness.
+- [figures/nishino_three_layer_summary.svg](figures/nishino_three_layer_summary.svg) — Noncausal concept and empirical layer completeness.
+- [qc/clinical_acquisition.log](qc/clinical_acquisition.log) — Quality-control evidence or verification log.
+- [qc/clinical_snapshot_check.json](qc/clinical_snapshot_check.json) — Quality-control evidence or verification log.
+- [qc/docking_file_manifest.csv](qc/docking_file_manifest.csv) — Quality-control evidence or verification log.
+- [qc/environment_check.json](qc/environment_check.json) — Quality-control evidence or verification log.
+- [qc/environment_replay.log](qc/environment_replay.log) — Quality-control evidence or verification log.
+- [qc/ligand_receptor_prepare.log](qc/ligand_receptor_prepare.log) — Quality-control evidence or verification log.
+- [qc/ligand_torsion_review.md](qc/ligand_torsion_review.md) — Quality-control evidence or verification log.
+- [qc/mapped_contacts_outside_frozen48.csv](qc/mapped_contacts_outside_frozen48.csv) — Quality-control evidence or verification log.
+- [qc/model_case_summary.json](qc/model_case_summary.json) — Quality-control evidence or verification log.
+- [qc/new_docking.log](qc/new_docking.log) — Quality-control evidence or verification log.
+- [qc/new_plif_denominators.csv](qc/new_plif_denominators.csv) — Quality-control evidence or verification log.
+- [qc/new_plip.log](qc/new_plip.log) — Quality-control evidence or verification log.
+- [qc/nishino_primary4_clinical_coverage.csv](qc/nishino_primary4_clinical_coverage.csv) — Quality-control evidence or verification log.
+- [qc/nishino_source_verification.json](qc/nishino_source_verification.json) — Quality-control evidence or verification log.
+- [qc/nishino_structural_environment_check.md](qc/nishino_structural_environment_check.md) — Quality-control evidence or verification log.
+- [qc/unmapped_contacts.csv](qc/unmapped_contacts.csv) — Quality-control evidence or verification log.
+- [qc/validation_log.txt](qc/validation_log.txt) — Quality-control evidence or verification log.
+- [raw/archives/brotizolam.tar.gz](raw/archives/brotizolam.tar.gz) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/archives/diazepam.tar.gz](raw/archives/diazepam.tar.gz) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/archives/lormetazepam.tar.gz](raw/archives/lormetazepam.tar.gz) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/archives/triazolam.tar.gz](raw/archives/triazolam.tar.gz) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/chembl_brotizolam.json](raw/chembl_brotizolam.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/chembl_brotizolam.provenance.json](raw/chembl_brotizolam.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/chembl_lormetazepam.json](raw/chembl_lormetazepam.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/chembl_lormetazepam.provenance.json](raw/chembl_lormetazepam.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/chembl_rilmazafone.json](raw/chembl_rilmazafone.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/chembl_rilmazafone.provenance.json](raw/chembl_rilmazafone.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/ligands/brotizolam.pdbqt](raw/ligands/brotizolam.pdbqt) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/ligands/brotizolam.sdf](raw/ligands/brotizolam.sdf) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/ligands/diazepam.pdbqt](raw/ligands/diazepam.pdbqt) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/ligands/diazepam.sdf](raw/ligands/diazepam.sdf) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/ligands/lormetazepam.pdbqt](raw/ligands/lormetazepam.pdbqt) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/ligands/lormetazepam.sdf](raw/ligands/lormetazepam.sdf) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/ligands/triazolam.pdbqt](raw/ligands/triazolam.pdbqt) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/ligands/triazolam.sdf](raw/ligands/triazolam.sdf) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/new_contacts.json](raw/new_contacts.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/new_poses.json](raw/new_poses.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/background_Ataxia.json](raw/openfda/background_Ataxia.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/background_Ataxia.provenance.json](raw/openfda/background_Ataxia.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/background_Balance_disorder.json](raw/openfda/background_Balance_disorder.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/background_Balance_disorder.provenance.json](raw/openfda/background_Balance_disorder.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/background_Coordination_abnormal.json](raw/openfda/background_Coordination_abnormal.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/background_Coordination_abnormal.provenance.json](raw/openfda/background_Coordination_abnormal.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/background_Gait_disturbance.json](raw/openfda/background_Gait_disturbance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/background_Gait_disturbance.provenance.json](raw/openfda/background_Gait_disturbance.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/background_total.json](raw/openfda/background_total.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/background_total.provenance.json](raw/openfda/background_total.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/brotizolam_Ataxia.json](raw/openfda/brotizolam_Ataxia.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/brotizolam_Ataxia.provenance.json](raw/openfda/brotizolam_Ataxia.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/brotizolam_Balance_disorder.json](raw/openfda/brotizolam_Balance_disorder.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/brotizolam_Balance_disorder.provenance.json](raw/openfda/brotizolam_Balance_disorder.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/brotizolam_Coordination_abnormal.json](raw/openfda/brotizolam_Coordination_abnormal.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/brotizolam_Coordination_abnormal.provenance.json](raw/openfda/brotizolam_Coordination_abnormal.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/brotizolam_Gait_disturbance.json](raw/openfda/brotizolam_Gait_disturbance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/brotizolam_Gait_disturbance.provenance.json](raw/openfda/brotizolam_Gait_disturbance.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/brotizolam_total.json](raw/openfda/brotizolam_total.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/brotizolam_total.provenance.json](raw/openfda/brotizolam_total.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/diazepam_Ataxia.json](raw/openfda/diazepam_Ataxia.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/diazepam_Ataxia.provenance.json](raw/openfda/diazepam_Ataxia.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/diazepam_Balance_disorder.json](raw/openfda/diazepam_Balance_disorder.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/diazepam_Balance_disorder.provenance.json](raw/openfda/diazepam_Balance_disorder.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/diazepam_Coordination_abnormal.json](raw/openfda/diazepam_Coordination_abnormal.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/diazepam_Coordination_abnormal.provenance.json](raw/openfda/diazepam_Coordination_abnormal.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/diazepam_Gait_disturbance.json](raw/openfda/diazepam_Gait_disturbance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/diazepam_Gait_disturbance.provenance.json](raw/openfda/diazepam_Gait_disturbance.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/diazepam_total.json](raw/openfda/diazepam_total.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/diazepam_total.provenance.json](raw/openfda/diazepam_total.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/lormetazepam_Ataxia.json](raw/openfda/lormetazepam_Ataxia.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/lormetazepam_Ataxia.provenance.json](raw/openfda/lormetazepam_Ataxia.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/lormetazepam_Balance_disorder.json](raw/openfda/lormetazepam_Balance_disorder.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/lormetazepam_Balance_disorder.provenance.json](raw/openfda/lormetazepam_Balance_disorder.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/lormetazepam_Coordination_abnormal.json](raw/openfda/lormetazepam_Coordination_abnormal.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/lormetazepam_Coordination_abnormal.provenance.json](raw/openfda/lormetazepam_Coordination_abnormal.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/lormetazepam_Gait_disturbance.json](raw/openfda/lormetazepam_Gait_disturbance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/lormetazepam_Gait_disturbance.provenance.json](raw/openfda/lormetazepam_Gait_disturbance.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/lormetazepam_total.json](raw/openfda/lormetazepam_total.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/lormetazepam_total.provenance.json](raw/openfda/lormetazepam_total.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/triazolam_Ataxia.json](raw/openfda/triazolam_Ataxia.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/triazolam_Ataxia.provenance.json](raw/openfda/triazolam_Ataxia.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/triazolam_Balance_disorder.json](raw/openfda/triazolam_Balance_disorder.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/triazolam_Balance_disorder.provenance.json](raw/openfda/triazolam_Balance_disorder.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/triazolam_Coordination_abnormal.json](raw/openfda/triazolam_Coordination_abnormal.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/triazolam_Coordination_abnormal.provenance.json](raw/openfda/triazolam_Coordination_abnormal.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/triazolam_Gait_disturbance.json](raw/openfda/triazolam_Gait_disturbance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/triazolam_Gait_disturbance.provenance.json](raw/openfda/triazolam_Gait_disturbance.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/triazolam_total.json](raw/openfda/triazolam_total.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/openfda/triazolam_total.provenance.json](raw/openfda/triazolam_total.provenance.json) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/receptors/alpha1.pdbqt](raw/receptors/alpha1.pdbqt) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/receptors/alpha1_prepared_H.pdb](raw/receptors/alpha1_prepared_H.pdb) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/receptors/alpha1_selected.pdb](raw/receptors/alpha1_selected.pdb) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/receptors/alpha2.pdbqt](raw/receptors/alpha2.pdbqt) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/receptors/alpha2_prepared_H.pdb](raw/receptors/alpha2_prepared_H.pdb) — Raw chemical response, prepared structural input or archived computational evidence.
+- [raw/receptors/alpha2_selected.pdb](raw/receptors/alpha2_selected.pdb) — Raw chemical response, prepared structural input or archived computational evidence.
+- [scripts/acquire_clinical.py](scripts/acquire_clinical.py) — Reproduction or verification code.
+- [scripts/acquire_identity.py](scripts/acquire_identity.py) — Reproduction or verification code.
+- [scripts/analyze_model_case.py](scripts/analyze_model_case.py) — Reproduction or verification code.
+- [scripts/assemble_structural.py](scripts/assemble_structural.py) — Reproduction or verification code.
+- [scripts/check_environment.py](scripts/check_environment.py) — Reproduction or verification code.
+- [scripts/extract_in_vivo.py](scripts/extract_in_vivo.py) — Reproduction or verification code.
+- [scripts/finalize_report.py](scripts/finalize_report.py) — Reproduction or verification code.
+- [scripts/plot_model_case.py](scripts/plot_model_case.py) — Reproduction or verification code.
+- [scripts/source_standardized_plip.py](scripts/source_standardized_plip.py) — Reproduction or verification code.
+- [scripts/source_standardized_redocking.py](scripts/source_standardized_redocking.py) — Reproduction or verification code.
+- [scripts/source_standardized_structure_analysis.py](scripts/source_standardized_structure_analysis.py) — Reproduction or verification code.
+- [scripts/source_vina_parser.py](scripts/source_vina_parser.py) — Reproduction or verification code.
+- [scripts/structural_pipeline.py](scripts/structural_pipeline.py) — Reproduction or verification code.
+- [scripts/validate_model_case.py](scripts/validate_model_case.py) — Reproduction or verification code.
+- [scripts/write_documentation.py](scripts/write_documentation.py) — Reproduction or verification code.
+- [tables/docking_run_manifest.csv](tables/docking_run_manifest.csv) — Structural preparation, mapping or extraction audit.
+- [tables/ligand_preparation_qc.csv](tables/ligand_preparation_qc.csv) — Structural preparation, mapping or extraction audit.
+- [tables/plip_interactions_new.csv](tables/plip_interactions_new.csv) — Structural preparation, mapping or extraction audit.
+- [tables/pose_manifest_new.csv](tables/pose_manifest_new.csv) — Structural preparation, mapping or extraction audit.
+- [tables/receptor_preparation_qc.csv](tables/receptor_preparation_qc.csv) — Structural preparation, mapping or extraction audit.
+- [tables/receptor_preparation_replay_qc.csv](tables/receptor_preparation_replay_qc.csv) — Structural preparation, mapping or extraction audit.
+- [tables/residue_mapping_qc.csv](tables/residue_mapping_qc.csv) — Structural preparation, mapping or extraction audit.
+- [OUTPUT_INDEX.md](OUTPUT_INDEX.md) — Complete generated-output inventory.

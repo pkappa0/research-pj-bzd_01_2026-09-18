@@ -1,0 +1,11 @@
+{
+  "endpoint": "https://api.fda.gov/drug/event.json",
+  "base_query": "receivedate:[20040101 TO 20251231]",
+  "drug_query": "patient.drug.openfda.generic_name.exact:UPPERCASE OR patient.drug.medicinalproduct.exact:UPPERCASE",
+  "role": "all roles primary fallback; primary suspect not available as PS/SS in openFDA; no invalid cross-drug nested role filtering",
+  "deduplication": "API report-document counts; OR union avoids alias double-addition; API revisions/duplicate cases not independently deduplicated",
+  "background": "all API report documents in same date range, including reports without harmonized names",
+  "demographics": "separate drug-level marginal distributions; not joint drug-event adjusted or report-level microdata",
+  "exclusions": "unmapped brands and combinations lacking exact generic identity are not forcibly assigned; eszopiclone is not zopiclone",
+  "sensitivity": "harmonized generic-only counts; all-count Y; no suspect-specific ROR claimed"
+}

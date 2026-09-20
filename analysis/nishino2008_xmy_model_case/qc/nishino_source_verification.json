@@ -1,0 +1,16 @@
+{
+  "doi": "10.1254/jphs.08107FP",
+  "url": "https://www.jstage.jst.go.jp/article/jphs/107/3/107_08107FP/_pdf",
+  "local_pdf_reviewed": "/Users/k-atsumi/Documents/Codex/2026-09-18/github-readme-final-report-csv-git/work/phenotype_poc/Nishino2008.pdf",
+  "pdf_sha256": "59b33291a6f19d9f0246df50fae2c72f27171844dc98bd611ef0ae435eec054d",
+  "table1_page353_visual_review": true,
+  "all_80_drug_dose_time_cells_retained": true,
+  "control_cells_separate": 4,
+  "reported_ED50_not_refitted": true,
+  "flags": [
+    "triazolam 0.5mg/kg 90min 9/10 retained",
+    "reported ED50 time aggregation unspecified",
+    "parenthetical interval confidence level unspecified",
+    "reported diazepam ED50 3.11 is not corrected to match 60min 5/10 at 5mg/kg"
+  ]
+}

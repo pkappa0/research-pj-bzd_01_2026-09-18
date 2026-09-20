@@ -1,0 +1,30 @@
+{
+  "species": "Mus musculus",
+  "strain": "ICR",
+  "sex": "male",
+  "body_weight_g": "23–28",
+  "supplier": "Japan SLC, Shizuoka",
+  "route": "oral",
+  "vehicle": "0.5% carboxymethylcellulose sodium",
+  "administration_volume_ml_kg": 10,
+  "rotation_rpm": 15,
+  "rod_diameter_cm": 3,
+  "compartments": 5,
+  "trial_duration_sec": 180,
+  "selection": "Animals remaining on the rod in two successive trials 24 hours before the experiment were selected",
+  "observation_minutes": [
+    15,
+    30,
+    60,
+    90
+  ],
+  "positive_event": "fall within 180 seconds",
+  "n_tested_per_dose_time_cell": 10,
+  "independent_animal_total": "not explicitly reported; repeated times must not be counted as independent animals",
+  "age": "5 weeks stated for plus-maze; not separately specified for rotarod",
+  "ed50_method": "probit",
+  "ed50_confidence_level": "not explicitly stated",
+  "ed50_time_aggregation": "not explicitly stated",
+  "source_reference": "https://doi.org/10.1254/jphs.08107FP",
+  "source_pages": "349 animals; 350 rotarod/drugs/statistics; 350–351 ED50; 353 Table1"
+}

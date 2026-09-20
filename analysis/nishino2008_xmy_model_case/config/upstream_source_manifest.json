@@ -1,0 +1,34 @@
+[
+  {
+    "path": "ANALYSIS_CONTRACT.md",
+    "sha256": "5735c6ad2067f4110cf81046429e32fae6f24e8731b7caa4f9313fd0a82520b0"
+  },
+  {
+    "path": "runs/20260919_0724_10drug_standardized_redocking/config/docking_config.json",
+    "sha256": "d3c6a7fd0b773c2a2d0811451bd8de7c9e952f8e0e19992686fa5060b76aa35b"
+  },
+  {
+    "path": "runs/20260919_0724_10drug_standardized_redocking/tables/docking_run_manifest.csv",
+    "sha256": "270a9fc583715392ee7ceecdde37a8478e25cdb2e717721723ddd13168a9a613"
+  },
+  {
+    "path": "runs/20260919_0724_10drug_standardized_redocking/tables/fingerprint_10drug_multireceptor.csv",
+    "sha256": "c986ba328a01fd4bc6909ca24e4724d7eea5971e5a5ea6ae0fc2faa3147b2f10"
+  },
+  {
+    "path": "runs/20260917_1706_structure_mouse_bridge/results/tables/corrected_residue_mapping.csv",
+    "sha256": "49cf7fa337afffed5474e3754288c7bcd1ca65eeae5ff34b740d08505f7d8e6e"
+  },
+  {
+    "path": "runs/20260920_clinical_bridge_hypothesis_poc/tables/clinical_fingerprint_10drug.csv",
+    "sha256": "8475dd9e413a97075820b93531550ffa8be49dba591834dab3f4e5ccdcb01ea2"
+  },
+  {
+    "path": "runs/20260920_clinical_bridge_hypothesis_poc/tables/clinical_disproportionality.csv",
+    "sha256": "2edf8859fe6fb86ee87cfe166571774691636a243b07339d716a44bf23de1b41"
+  },
+  {
+    "path": "runs/20260920_clinical_bridge_hypothesis_poc/CLINICAL_RESULTS_FROZEN.json",
+    "sha256": "622f045c7d509dd9ec463402cf8af0069c0f73eec907f0768ad9af5e962ebde5"
+  }
+]

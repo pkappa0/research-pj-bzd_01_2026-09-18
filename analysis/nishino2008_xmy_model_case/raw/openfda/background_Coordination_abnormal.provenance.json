@@ -1,0 +1,8 @@
+{
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22COORDINATION+ABNORMAL%22&limit=1",
+  "query": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"COORDINATION ABNORMAL\"",
+  "retrieved_utc": "2026-09-20T09:43:12.077481+00:00",
+  "http_status": 200,
+  "sha256": "5065f30550a1181646de5b893416a5b48843ebc1b833045e6b34e130a0b4940e",
+  "results_omitted": "counts-only extraction; individual report not retained"
+}

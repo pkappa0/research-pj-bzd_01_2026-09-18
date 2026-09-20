@@ -1,0 +1,5 @@
+{
+  "url": "https://www.ebi.ac.uk/chembl/api/data/molecule.json?pref_name__iexact=rilmazafone&limit=10",
+  "retrieved_utc": "2026-09-20T09:40:07.093891+00:00",
+  "sha256": "6787d28585048f582a401c60a841450984f516e0dae2695fd9c2f23ef16fab43"
+}

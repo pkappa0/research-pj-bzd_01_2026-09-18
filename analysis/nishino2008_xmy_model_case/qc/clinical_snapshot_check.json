@@ -1,0 +1,12 @@
+{
+  "background_matches_frozen": true,
+  "existing_two_drug_counts_match": true,
+  "background_total": 20018532,
+  "nonmissing_C1_cells_by_drug": {
+    "diazepam": 4,
+    "triazolam": 3,
+    "brotizolam": 3,
+    "lormetazepam": 4
+  },
+  "no_database_switch": true
+}

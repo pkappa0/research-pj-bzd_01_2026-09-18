@@ -1,0 +1,18 @@
+{
+  "X_complete_drugs": 4,
+  "M_reported_ED50_complete_drugs": 4,
+  "Y_available_cells": 14,
+  "Y_total_cells": 16,
+  "Y_complete_drugs": 2,
+  "X_variable_features": 36,
+  "X_constant_features": 12,
+  "ED50_range": [
+    1.25,
+    5.76
+  ],
+  "M_dynamic_range_fold": 4.608,
+  "no_ML": true,
+  "no_composite": true,
+  "no_inference": true,
+  "decision": "CASE1 qualified: 3/4 PTs complete across four drugs; targeted CASE2 coverage gap for Coordination abnormal. M summary-method uncertainty remains."
+}

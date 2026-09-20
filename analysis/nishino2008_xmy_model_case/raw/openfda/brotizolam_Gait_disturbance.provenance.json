@@ -1,0 +1,8 @@
+{
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22BROTIZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22BROTIZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22GAIT+DISTURBANCE%22&limit=1",
+  "query": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"BROTIZOLAM\" OR patient.drug.medicinalproduct.exact:\"BROTIZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"GAIT DISTURBANCE\"",
+  "retrieved_utc": "2026-09-20T09:43:45.128842+00:00",
+  "http_status": 200,
+  "sha256": "2b5207c174aab549bc3d7be6e1eea3cb55b27da765c908de567501b33ba30e8c",
+  "results_omitted": "counts-only extraction; individual report not retained"
+}
