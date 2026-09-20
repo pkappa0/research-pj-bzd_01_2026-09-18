@@ -1,0 +1,11 @@
+drug,alpha1_within_receptor_favorability_rank,alpha2_within_receptor_favorability_rank
+diazepam,6.0,8.0
+alprazolam,8.0,7.0
+triazolam,10.0,1.0
+zolpidem,7.0,5.0
+lorazepam,1.0,2.0
+clonazepam,3.0,3.0
+midazolam,9.0,6.0
+temazepam,5.0,4.0
+zopiclone,4.0,9.0
+zaleplon,2.0,10.0

@@ -1,0 +1,24 @@
+{
+  "drug_order_verified": true,
+  "frozen_feature_order_verified": true,
+  "plif_shape": [
+    10,
+    48
+  ],
+  "clinical_shape": [
+    10,
+    4
+  ],
+  "plif_correspondence_shape": [
+    48,
+    4
+  ],
+  "vina_correspondence_shape": [
+    2,
+    4
+  ],
+  "source_hashes_unchanged": true,
+  "correlations_recomputed": false,
+  "display_transform": "within-receptor average rank of negative median score; 1 least, 10 most favorable",
+  "clinical_NA_cells": 3
+}

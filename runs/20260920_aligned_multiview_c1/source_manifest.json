@@ -1,0 +1,42 @@
+[
+  {
+    "source": "runs/20260920_vina_score_layer/data/frozen_plif_fingerprint.csv",
+    "snapshot": "data/plif.csv",
+    "sha256": "c986ba328a01fd4bc6909ca24e4724d7eea5971e5a5ea6ae0fc2faa3147b2f10"
+  },
+  {
+    "source": "runs/20260920_vina_score_layer/data/frozen_clinical_fingerprint.csv",
+    "snapshot": "data/clinical.csv",
+    "sha256": "8475dd9e413a97075820b93531550ffa8be49dba591834dab3f4e5ccdcb01ea2"
+  },
+  {
+    "source": "runs/20260920_vina_score_layer/data/vina_scores_drug_receptor_summary.csv",
+    "snapshot": "data/vina_summary.csv",
+    "sha256": "5df035098369358f3ccb2dd29b6237caae2a2bf841faa92d3b895ccf91419a5d"
+  },
+  {
+    "source": "runs/20260920_wobbling_focused_correspondence/tables/wobbling_plif_clinical_correspondence.csv",
+    "snapshot": "data/plif_c1_correspondence.csv",
+    "sha256": "f680671ec6d6d5cf28b0133108db8bd64897a686520ebf82f3a9a30a73affdab"
+  },
+  {
+    "source": "runs/20260920_vina_score_layer/data/vina_clinical_c1_correspondence.csv",
+    "snapshot": "data/vina_c1_correspondence.csv",
+    "sha256": "ed9c17ac72b58fd9197364025dd838b4cc0f12912f2360f56bc28169d5b43ba7"
+  },
+  {
+    "source": "runs/20260920_wobbling_focused_correspondence/tables/feature_display_key.csv",
+    "snapshot": "data/feature_display_key.csv",
+    "sha256": "ea7a4458b98654e3eb7045aebdc9a483ae6d29897962078ff0492dd2687ea48e"
+  },
+  {
+    "source": "runs/20260920_vina_score_layer/config/drug_display_order.csv",
+    "snapshot": "data/drug_display_order.csv",
+    "sha256": "749c1fbe652574c2ed0f78488557d916979b29df8e93216418f79dc1cff73347"
+  },
+  {
+    "source": "ANALYSIS_CONTRACT.md",
+    "snapshot": "ANALYSIS_CONTRACT_source.md",
+    "sha256": "5735c6ad2067f4110cf81046429e32fae6f24e8731b7caa4f9313fd0a82520b0"
+  }
+]
