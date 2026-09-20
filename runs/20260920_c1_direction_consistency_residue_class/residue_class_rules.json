@@ -1,0 +1,41 @@
+{
+  "display_groups": {
+    "Aromatic": [
+      "PHE",
+      "TYR",
+      "TRP"
+    ],
+    "Hydrophobic / non-aromatic": [
+      "ALA",
+      "VAL",
+      "ILE",
+      "LEU",
+      "MET",
+      "PRO",
+      "GLY"
+    ],
+    "Hydrophilic / polar uncharged": [
+      "SER",
+      "THR",
+      "ASN",
+      "GLN",
+      "CYS"
+    ],
+    "Acidic / ionizable": [
+      "ASP",
+      "GLU"
+    ],
+    "Basic / ionizable": [
+      "LYS",
+      "ARG",
+      "HIS"
+    ]
+  },
+  "priority_notes": [
+    "PHE/TYR/TRP in aromatic group despite overlapping polarity",
+    "HIS in basic/ionizable group; aromatic flag retained",
+    "Ionization labels do not infer actual protonation in receptor",
+    "No hydropathy score calculated"
+  ],
+  "within_group_order": "median rho descending, stable frozen-order ties"
+}

@@ -1,0 +1,49 @@
+feature_id,feature_label,residue,residue_class,aromatic_sidechain_flag,polar_sidechain_note
+F04,alpha1|BZD_GAMMA2_077|PHE|any_contact_frequency,PHE,Aromatic,True,
+F34,alpha2|BZD_GAMMA2_196|TRP|any_contact_frequency,TRP,Aromatic,True,indole nitrogen; aromatic
+F47,alpha2|BZD_SITE_210|TYR|any_contact_frequency,TYR,Aromatic,True,phenolic hydroxyl; aromatic and polar
+F10,alpha1|BZD_SITE_100|PHE|any_contact_frequency,PHE,Aromatic,True,
+F15,alpha1|BZD_SITE_160|TYR|any_contact_frequency,TYR,Aromatic,True,phenolic hydroxyl; aromatic and polar
+F28,alpha2|BZD_GAMMA2_077|PHE|any_contact_frequency,PHE,Aromatic,True,
+F23,alpha2|BZD_GAMMA2_058|TYR|any_contact_frequency,TYR,Aromatic,True,phenolic hydroxyl; aromatic and polar
+F41,alpha2|BZD_SITE_160|TYR|any_contact_frequency,TYR,Aromatic,True,phenolic hydroxyl; aromatic and polar
+F35,alpha2|BZD_SITE_100|PHE|any_contact_frequency,PHE,Aromatic,True,
+F02,alpha1|BZD_GAMMA2_058|TYR|any_contact_frequency,TYR,Aromatic,True,phenolic hydroxyl; aromatic and polar
+F21,alpha1|BZD_SITE_210|TYR|any_contact_frequency,TYR,Aromatic,True,phenolic hydroxyl; aromatic and polar
+F29,alpha2|BZD_GAMMA2_079|ALA|any_contact_frequency,ALA,Hydrophobic / non-aromatic,False,
+F48,alpha2|BZD_SITE_212|VAL|any_contact_frequency,VAL,Hydrophobic / non-aromatic,False,
+F05,alpha1|BZD_GAMMA2_079|ALA|any_contact_frequency,ALA,Hydrophobic / non-aromatic,False,
+F24,alpha2|BZD_GAMMA2_059|VAL|any_contact_frequency,VAL,Hydrophobic / non-aromatic,False,
+F16,alpha1|BZD_SITE_203|VAL|any_contact_frequency,VAL,Hydrophobic / non-aromatic,False,
+F43,alpha2|BZD_SITE_203|ILE|any_contact_frequency,ILE,Hydrophobic / non-aromatic,False,
+F39,alpha2|BZD_SITE_154|PRO|any_contact_frequency,PRO,Hydrophobic / non-aromatic,False,
+F26,alpha2|BZD_GAMMA2_061|SER|any_contact_frequency,SER,Hydrophilic / polar uncharged,False,
+F09,alpha1|BZD_GAMMA2_195|SER|any_contact_frequency,SER,Hydrophilic / polar uncharged,False,
+F45,alpha2|BZD_SITE_206|SER|any_contact_frequency,SER,Hydrophilic / polar uncharged,False,
+F03,alpha1|BZD_GAMMA2_060|ASN|any_contact_frequency,ASN,Hydrophilic / polar uncharged,False,
+F19,alpha1|BZD_SITE_206|SER|any_contact_frequency,SER,Hydrophilic / polar uncharged,False,
+F20,alpha1|BZD_SITE_207|THR|any_contact_frequency,THR,Hydrophilic / polar uncharged,False,
+F12,alpha1|BZD_SITE_103|ASN|any_contact_frequency,ASN,Hydrophilic / polar uncharged,False,
+F46,alpha2|BZD_SITE_207|THR|any_contact_frequency,THR,Hydrophilic / polar uncharged,False,
+F25,alpha2|BZD_GAMMA2_060|ASN|any_contact_frequency,ASN,Hydrophilic / polar uncharged,False,
+F17,alpha1|BZD_SITE_204|GLN|any_contact_frequency,GLN,Hydrophilic / polar uncharged,False,
+F18,alpha1|BZD_SITE_205|SER|any_contact_frequency,SER,Hydrophilic / polar uncharged,False,
+F33,alpha2|BZD_GAMMA2_195|SER|any_contact_frequency,SER,Hydrophilic / polar uncharged,False,
+F06,alpha1|BZD_GAMMA2_142|THR|any_contact_frequency,THR,Hydrophilic / polar uncharged,False,
+F30,alpha2|BZD_GAMMA2_142|THR|any_contact_frequency,THR,Hydrophilic / polar uncharged,False,
+F37,alpha2|BZD_SITE_103|ASN|any_contact_frequency,ASN,Hydrophilic / polar uncharged,False,
+F38,alpha2|BZD_SITE_138|GLU|any_contact_frequency,GLU,Acidic / ionizable,False,
+F32,alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency,ASP,Acidic / ionizable,False,
+F01,alpha1|BZD_GAMMA2_056|ASP|any_contact_frequency,ASP,Acidic / ionizable,False,
+F42,alpha2|BZD_SITE_201|GLU|any_contact_frequency,GLU,Acidic / ionizable,False,
+F22,alpha2|BZD_GAMMA2_056|ASP|any_contact_frequency,ASP,Acidic / ionizable,False,
+F08,alpha1|BZD_GAMMA2_192|ASP|any_contact_frequency,ASP,Acidic / ionizable,False,
+F13,alpha1|BZD_SITE_138|GLU|any_contact_frequency,GLU,Acidic / ionizable,False,
+F07,alpha1|BZD_GAMMA2_189|GLU|any_contact_frequency,GLU,Acidic / ionizable,False,
+F27,alpha2|BZD_GAMMA2_075|ASP|any_contact_frequency,ASP,Acidic / ionizable,False,
+F31,alpha2|BZD_GAMMA2_144|ARG|any_contact_frequency,ARG,Basic / ionizable,False,
+F14,alpha1|BZD_SITE_156|LYS|any_contact_frequency,LYS,Basic / ionizable,False,
+F36,alpha2|BZD_SITE_102|HIS|any_contact_frequency,HIS,Basic / ionizable,True,aromatic imidazole; placed in basic/ionizable display group
+F44,alpha2|BZD_SITE_204|LYS|any_contact_frequency,LYS,Basic / ionizable,False,
+F11,alpha1|BZD_SITE_102|HIS|any_contact_frequency,HIS,Basic / ionizable,True,aromatic imidazole; placed in basic/ionizable display group
+F40,alpha2|BZD_SITE_156|LYS|any_contact_frequency,LYS,Basic / ionizable,False,
