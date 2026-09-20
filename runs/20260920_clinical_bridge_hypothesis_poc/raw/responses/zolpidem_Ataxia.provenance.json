@@ -1,0 +1,11 @@
+{
+  "key": "zolpidem_Ataxia",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22ATAXIA%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"ATAXIA\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:53:35.270146+00:00",
+  "http_status": 200,
+  "sha256": "83caccc3ebddda55edbb4d72fcab533149344882c339e6c1f96c7c22b235e72c"
+}

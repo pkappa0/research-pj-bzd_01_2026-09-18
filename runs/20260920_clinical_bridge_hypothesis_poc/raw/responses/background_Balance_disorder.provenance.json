@@ -1,0 +1,11 @@
+{
+  "key": "background_Balance_disorder",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22BALANCE+DISORDER%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"BALANCE DISORDER\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:49:40.520185+00:00",
+  "http_status": 200,
+  "sha256": "092618b1a531dba205ee850f352f51c9f18aa9895c48eeabf01d768b26b2e399"
+}

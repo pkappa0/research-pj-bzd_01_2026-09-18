@@ -1,0 +1,11 @@
+{
+  "key": "background_Coordination_abnormal",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22COORDINATION+ABNORMAL%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"COORDINATION ABNORMAL\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:49:43.790062+00:00",
+  "http_status": 200,
+  "sha256": "60b8b139bfc7146d5f6d449f37a67d1d31a4b09a1e342c02a55c7fbba1a4a47f"
+}

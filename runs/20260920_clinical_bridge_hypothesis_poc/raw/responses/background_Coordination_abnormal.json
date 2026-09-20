@@ -1,0 +1,362 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 13648
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "1",
+      "safetyreportid": "10005586",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141002",
+      "reporttype": "1",
+      "serious": "2",
+      "receivedateformat": "102",
+      "receivedate": "20140313",
+      "receiptdateformat": "102",
+      "receiptdate": "20140313",
+      "fulfillexpeditecriteria": "2",
+      "companynumb": "US-BIOGENIDEC-2014BI020270",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "BIOGEN",
+        "duplicatenumb": "US-BIOGENIDEC-2014BI020270"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "5"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientsex": "2",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Muscular weakness",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Herpes zoster",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Musculoskeletal disorder",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Memory impairment",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Drug ineffective",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Alopecia",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Coordination abnormal",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Hypoaesthesia",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Central nervous system lesion",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Multiple sclerosis relapse",
+            "reactionoutcome": "6"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "TECFIDERA",
+            "drugauthorizationnumb": "204063",
+            "drugindication": "MULTIPLE SCLEROSIS",
+            "actiondrug": "1",
+            "openfda": {
+              "application_number": [
+                "NDA204063"
+              ],
+              "brand_name": [
+                "TECFIDERA"
+              ],
+              "generic_name": [
+                "DIMETHYL FUMARATE"
+              ],
+              "manufacturer_name": [
+                "Biogen Inc."
+              ],
+              "product_ndc": [
+                "64406-005",
+                "64406-007",
+                "64406-006"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "DIMETHYL FUMARATE"
+              ],
+              "rxcui": [
+                "1373483",
+                "1373489",
+                "1373491",
+                "1373493",
+                "1373497",
+                "1373498"
+              ],
+              "spl_id": [
+                "521e4305-9450-42a4-881b-05946acaa8fa"
+              ],
+              "spl_set_id": [
+                "665d7e74-036c-5f68-5b67-ab84b9b49151"
+              ],
+              "package_ndc": [
+                "64406-007-03",
+                "64406-005-01",
+                "64406-006-02"
+              ],
+              "unii": [
+                "FO2303MNI2"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TYSABRI",
+            "drugstructuredosagenumb": "300",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "802",
+            "drugdosageform": "INTRAVENOUS INFUSION",
+            "drugadministrationroute": "042",
+            "drugindication": "MULTIPLE SCLEROSIS",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20100708",
+            "drugenddateformat": "102",
+            "drugenddate": "20130610",
+            "openfda": {
+              "application_number": [
+                "BLA125104"
+              ],
+              "brand_name": [
+                "TYSABRI"
+              ],
+              "generic_name": [
+                "NATALIZUMAB"
+              ],
+              "manufacturer_name": [
+                "Biogen Inc."
+              ],
+              "product_ndc": [
+                "64406-008"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "INTRAVENOUS"
+              ],
+              "substance_name": [
+                "NATALIZUMAB"
+              ],
+              "rxcui": [
+                "477484",
+                "603541"
+              ],
+              "spl_id": [
+                "119c87a9-d153-4796-9525-694afdcdc1d6"
+              ],
+              "spl_set_id": [
+                "c5fdde91-1989-4dd2-9129-4f3323ea2962"
+              ],
+              "package_ndc": [
+                "64406-008-01"
+              ],
+              "nui": [
+                "N0000175775",
+                "N0000175774"
+              ],
+              "pharm_class_epc": [
+                "Integrin Receptor Antagonist [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Integrin Receptor Antagonists [MoA]"
+              ],
+              "unii": [
+                "3JB47N2Q2P"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TYSABRI",
+            "drugstructuredosagenumb": "300",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "802",
+            "drugdosageform": "INTRAVENOUS INFUSION",
+            "drugadministrationroute": "042",
+            "drugindication": "MULTIPLE SCLEROSIS",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20070703",
+            "drugenddateformat": "102",
+            "drugenddate": "20091015",
+            "openfda": {
+              "application_number": [
+                "BLA125104"
+              ],
+              "brand_name": [
+                "TYSABRI"
+              ],
+              "generic_name": [
+                "NATALIZUMAB"
+              ],
+              "manufacturer_name": [
+                "Biogen Inc."
+              ],
+              "product_ndc": [
+                "64406-008"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "INTRAVENOUS"
+              ],
+              "substance_name": [
+                "NATALIZUMAB"
+              ],
+              "rxcui": [
+                "477484",
+                "603541"
+              ],
+              "spl_id": [
+                "119c87a9-d153-4796-9525-694afdcdc1d6"
+              ],
+              "spl_set_id": [
+                "c5fdde91-1989-4dd2-9129-4f3323ea2962"
+              ],
+              "package_ndc": [
+                "64406-008-01"
+              ],
+              "nui": [
+                "N0000175775",
+                "N0000175774"
+              ],
+              "pharm_class_epc": [
+                "Integrin Receptor Antagonist [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Integrin Receptor Antagonists [MoA]"
+              ],
+              "unii": [
+                "3JB47N2Q2P"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TYSABRI",
+            "drugstructuredosagenumb": "300",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "802",
+            "drugdosageform": "INTRAVENOUS INFUSION",
+            "drugadministrationroute": "042",
+            "drugindication": "MULTIPLE SCLEROSIS",
+            "openfda": {
+              "application_number": [
+                "BLA125104"
+              ],
+              "brand_name": [
+                "TYSABRI"
+              ],
+              "generic_name": [
+                "NATALIZUMAB"
+              ],
+              "manufacturer_name": [
+                "Biogen Inc."
+              ],
+              "product_ndc": [
+                "64406-008"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "INTRAVENOUS"
+              ],
+              "substance_name": [
+                "NATALIZUMAB"
+              ],
+              "rxcui": [
+                "477484",
+                "603541"
+              ],
+              "spl_id": [
+                "119c87a9-d153-4796-9525-694afdcdc1d6"
+              ],
+              "spl_set_id": [
+                "c5fdde91-1989-4dd2-9129-4f3323ea2962"
+              ],
+              "package_ndc": [
+                "64406-008-01"
+              ],
+              "nui": [
+                "N0000175775",
+                "N0000175774"
+              ],
+              "pharm_class_epc": [
+                "Integrin Receptor Antagonist [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Integrin Receptor Antagonists [MoA]"
+              ],
+              "unii": [
+                "3JB47N2Q2P"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

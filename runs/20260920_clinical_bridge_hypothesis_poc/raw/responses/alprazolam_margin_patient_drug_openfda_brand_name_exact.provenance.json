@@ -1,0 +1,12 @@
+{
+  "key": "alprazolam_margin_patient_drug_openfda_brand_name_exact",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29&count=patient.drug.openfda.brand_name.exact&limit=100",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\")",
+    "count": "patient.drug.openfda.brand_name.exact",
+    "limit": 100
+  },
+  "retrieved_utc": "2026-09-20T01:51:52.329409+00:00",
+  "http_status": 200,
+  "sha256": "4dbb608bff0b3ae7e4f0c195f596e15d3660bcacafb0a6da82c71959d794447d"
+}

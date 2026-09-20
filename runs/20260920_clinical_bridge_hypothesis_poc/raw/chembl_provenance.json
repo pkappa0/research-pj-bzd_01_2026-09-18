@@ -1,0 +1,62 @@
+[
+  {
+    "drug": "diazepam",
+    "source": "https://www.ebi.ac.uk/chembl/api/data/molecule/CHEMBL12.json",
+    "saved_at_utc": "2026-09-20T01:56:25.660867+00:00",
+    "sha256": "ee0b3e7e09eae193e3bf636a5cb5c4a51da08b78ecea76d2054664ee2f7a218e"
+  },
+  {
+    "drug": "alprazolam",
+    "source": "https://www.ebi.ac.uk/chembl/api/data/molecule/CHEMBL661.json",
+    "saved_at_utc": "2026-09-20T01:58:36.436883+00:00",
+    "sha256": "496a5884b1c6627526ffad3abdf3433d03f5874732e53a5928170a818b4ff1ce"
+  },
+  {
+    "drug": "triazolam",
+    "source": "https://www.ebi.ac.uk/chembl/api/data/molecule/CHEMBL646.json",
+    "saved_at_utc": "2026-09-20T01:56:42.961623+00:00",
+    "sha256": "41763168eb4ad3626548b65f25dae1d5987988d490ad2b2b5a690589b35a23a0"
+  },
+  {
+    "drug": "zolpidem",
+    "source": "https://www.ebi.ac.uk/chembl/api/data/molecule/CHEMBL911.json",
+    "saved_at_utc": "2026-09-20T01:56:45.327613+00:00",
+    "sha256": "3d72ebd13c5ecbff566aba18b7f501ac5b6e08fd8f2e710e8a09f705527d383f"
+  },
+  {
+    "drug": "lorazepam",
+    "source": "https://www.ebi.ac.uk/chembl/api/data/molecule/CHEMBL580.json",
+    "saved_at_utc": "2026-09-20T01:56:48.733926+00:00",
+    "sha256": "3995c81a73d6df7f3e10b2f4966d8b29f943f1c60eb7c05caca92ac04f2526b9"
+  },
+  {
+    "drug": "clonazepam",
+    "source": "https://www.ebi.ac.uk/chembl/api/data/molecule/CHEMBL452.json",
+    "saved_at_utc": "2026-09-20T01:56:52.253990+00:00",
+    "sha256": "b381bcd6cd203344449360921e57f282f253d9d2bf6bd665224e423947b8eb35"
+  },
+  {
+    "drug": "midazolam",
+    "source": "https://www.ebi.ac.uk/chembl/api/data/molecule/CHEMBL655.json",
+    "saved_at_utc": "2026-09-20T01:56:56.976465+00:00",
+    "sha256": "c8cff39a9b12b00c8d170a79bf8410bd16a32048b9d181d2e197bdbb90efcd10"
+  },
+  {
+    "drug": "temazepam",
+    "source": "https://www.ebi.ac.uk/chembl/api/data/molecule/CHEMBL967.json",
+    "saved_at_utc": "2026-09-20T01:57:03.073824+00:00",
+    "sha256": "3564a3ed74a3729191fd2d1881b08bd20c81003abf44146e796413d8e2be730d"
+  },
+  {
+    "drug": "zopiclone",
+    "source": "https://www.ebi.ac.uk/chembl/api/data/molecule/CHEMBL135400.json",
+    "saved_at_utc": "2026-09-20T01:57:04.662405+00:00",
+    "sha256": "474c30146739f50e1c683713aa040bf8301ec9ea32b90d12f4a8a5fc1a499081"
+  },
+  {
+    "drug": "zaleplon",
+    "source": "https://www.ebi.ac.uk/chembl/api/data/molecule/CHEMBL1521.json",
+    "saved_at_utc": "2026-09-20T01:57:09.217308+00:00",
+    "sha256": "0e1f215f955873b855e86357cb76430a737bc1f86fb8c3b336c3b2d0d27fc467"
+  }
+]

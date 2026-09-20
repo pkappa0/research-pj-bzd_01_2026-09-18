@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 58684
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "1",
+      "safetyreportid": "10003896",
+      "primarysourcecountry": "IT",
+      "occurcountry": "IT",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141002",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnessother": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140312",
+      "receiptdateformat": "102",
+      "receiptdate": "20140312",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "IT-BAYER-2014-035003",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "BAYER",
+        "duplicatenumb": "IT-BAYER-2014-035003"
+      },
+      "primarysource": {
+        "reportercountry": "IT",
+        "qualification": "3"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "70",
+        "patientonsetageunit": "801",
+        "patientsex": "1",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Melaena",
+            "reactionoutcome": "2"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Asthenia",
+            "reactionoutcome": "2"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Vertigo",
+            "reactionoutcome": "2"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Duodenal ulcer",
+            "reactionoutcome": "2"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Gastritis erosive",
+            "reactionoutcome": "2"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Gastrointestinal haemorrhage",
+            "reactionoutcome": "2"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "CARDIOASPIRIN",
+            "drugauthorizationnumb": "021317",
+            "drugstructuredosagenumb": "100",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "DAILY DOSE 100 MG",
+            "drugdosageform": "COATED TABLET",
+            "drugadministrationroute": "048",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20130101",
+            "drugenddateformat": "102",
+            "drugenddate": "20130710",
+            "actiondrug": "1"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TRIATEC",
+            "drugdosagetext": "UNK",
+            "drugdosageform": "TABLET"
+          }
+        ]
+      }
+    }
+  ]
+}

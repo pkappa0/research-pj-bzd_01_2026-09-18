@@ -1,0 +1,11 @@
+{
+  "key": "lorazepam_Sedation",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SEDATION%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"SEDATION\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:53:49.073442+00:00",
+  "http_status": 200,
+  "sha256": "fe428ef66f83d05dcacd025854e21e6f59264d8aa65c67abebe8a038ffd1b706"
+}

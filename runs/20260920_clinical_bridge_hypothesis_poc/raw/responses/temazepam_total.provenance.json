@@ -1,0 +1,11 @@
+{
+  "key": "temazepam_total",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\")",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:54:33.536685+00:00",
+  "http_status": 200,
+  "sha256": "151bc5d386cb2467c192323eb00496f6f350bcbadd1c9d105f3320e8db6d1605"
+}

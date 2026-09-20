@@ -1,0 +1,11 @@
+{
+  "key": "background_total",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231]",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:49:31.844165+00:00",
+  "http_status": 200,
+  "sha256": "c6b6b04d00ae0ee21ea3f02d287494e924b79e439e10002ffafcf3b7a9e2537f"
+}

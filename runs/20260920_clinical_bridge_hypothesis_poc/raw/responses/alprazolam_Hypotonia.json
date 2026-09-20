@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 201
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "4",
+      "safetyreportid": "10248778",
+      "primarysourcecountry": "FR",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20150528",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnesscongenitalanomali": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140618",
+      "receiptdateformat": "102",
+      "receiptdate": "20141121",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "B1000607A",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "GLAXOSMITHKLINE",
+        "duplicatenumb": "B1000607A"
+      },
+      "primarysource": {
+        "reportercountry": "FR"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientsex": "1",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Maternal drugs affecting foetus"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Hypotonia"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Cyanosis"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Ventricular septal defect"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Foetal exposure during pregnancy"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Eating disorder"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Trisomy 21"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Rhinitis"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Sleep disorder"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Pulmonary arterial hypertension"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Sleep apnoea syndrome"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "DEROXAT (PAROXETINE HYDROCHLORIDE) UNKNOWN (LOT # UNKNOWN)",
+            "drugadministrationroute": "064",
+            "drugindication": "PANIC ATTACK",
+            "drugstartdateformat": "602",
+            "drugstartdate": "2006",
+            "drugenddateformat": "102",
+            "drugenddate": "20061010",
+            "activesubstance": {
+              "activesubstancename": "PAROXETINE HYDROCHLORIDE"
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "XANAX",
+            "drugadministrationroute": "064",
+            "activesubstance": {
+              "activesubstancename": "ALPRAZOLAM"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA018276",
+                "NDA021434"
+              ],
+              "brand_name": [
+                "XANAX",
+                "XANAX XR"
+              ],
+              "generic_name": [
+                "ALPRAZOLAM"
+              ],
+              "manufacturer_name": [
+                "PHARMACIA & UPJOHN COMPANY LLC",
+                "Viatris Specialty LLC"
+              ],
+              "product_ndc": [
+                "0009-0029",
+                "0009-0055",
+                "0009-0090",
+                "0009-0094",
+                "58151-505",
+                "58151-503",
+                "58151-504",
+                "58151-506",
+                "58151-452",
+                "58151-453",
+                "58151-454",
+                "58151-455"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ALPRAZOLAM"
+              ],
+              "rxcui": [
+                "141927",
+                "141928",
+                "197321",
+                "197322",
+                "214003",
+                "214004",
+                "308047",
+                "308048",
+                "433798",
+                "433799",
+                "433800",
+                "433801",
+                "687022",
+                "687023",
+                "687024",
+                "687025"
+              ],
+              "spl_id": [
+                "f5323eac-81d0-4096-ac15-2f25220c5c28",
+                "7ceb0a8d-f766-4806-a289-652080edf4a3",
+                "27062ff4-9ce3-4d8a-aeae-f4468efb623a"
+              ],
+              "spl_set_id": [
+                "388e249d-b9b6-44c3-9f8f-880eced0239f",
+                "c8990714-c2f5-4b0c-9f1c-91d77156d962",
+                "bb5cf72e-3a41-41a8-9a38-80f974eca33f"
+              ],
+              "package_ndc": [
+                "0009-0029-01",
+                "0009-0029-46",
+                "0009-0029-02",
+                "0009-0029-14",
+                "0009-0055-01",
+                "0009-0055-46",
+                "0009-0055-03",
+                "0009-0055-15",
+                "0009-0090-01",
+                "0009-0090-04",
+                "0009-0090-13",
+                "0009-0094-01",
+                "0009-0094-03",
+                "58151-503-91",
+                "58151-504-91",
+                "58151-505-91",
+                "58151-506-91",
+                "58151-452-01",
+                "58151-452-05",
+                "58151-453-01",
+                "58151-453-05",
+                "58151-454-01",
+                "58151-454-05",
+                "58151-455-01"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "YU55MQ3IZY"
+              ]
+            }
+          }
+        ],
+        "summary": {
+          "narrativeincludeclinical": "CASE EVENT DATE: 2006"
+        }
+      }
+    }
+  ]
+}

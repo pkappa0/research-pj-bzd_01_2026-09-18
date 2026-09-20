@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 193065
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "1",
+      "safetyreportid": "10003398",
+      "primarysourcecountry": "GB",
+      "occurcountry": "GB",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141002",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnesslifethreatening": "1",
+      "seriousnessdisabling": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140312",
+      "receiptdateformat": "102",
+      "receiptdate": "20140312",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "GB-ACTAVIS-2014-04174",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "ACTAVIS",
+        "duplicatenumb": "GB-ACTAVIS-2014-04174"
+      },
+      "primarysource": {
+        "reportercountry": "GB",
+        "qualification": "5"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "77",
+        "patientonsetageunit": "801",
+        "patientsex": "1",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Hallucination, visual",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Headache",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Insomnia",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Somnolence",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Confusional state",
+            "reactionoutcome": "6"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "DONEPEZIL",
+            "drugbatchnumb": "UNCONFIRMED",
+            "drugauthorizationnumb": "090551",
+            "drugstructuredosagenumb": "5",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosagetext": "5 MG, DAILY; 5MG ONCE A DAY INCREASED TO 10MG AT NIGHT AFTER 2 WEEKS",
+            "drugdosageform": "Unk",
+            "drugadministrationroute": "048",
+            "drugindication": "DEMENTIA",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20140127",
+            "actiondrug": "1",
+            "openfda": {
+              "application_number": [
+                "ANDA203034"
+              ],
+              "brand_name": [
+                "DONEPEZIL"
+              ],
+              "generic_name": [
+                "DONEPEZIL HYDROCHLORIDE"
+              ],
+              "manufacturer_name": [
+                "Quallent Pharmaceuticals Health LLC",
+                "Camber Pharmaceuticals, Inc."
+              ],
+              "product_ndc": [
+                "82009-119",
+                "82009-120",
+                "31722-737",
+                "31722-738"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "DONEPEZIL HYDROCHLORIDE"
+              ],
+              "rxcui": [
+                "997223",
+                "997229"
+              ],
+              "spl_id": [
+                "4533e92e-9af5-cce3-e063-6294a90ac926",
+                "2b1d0795-adc8-39e4-e063-6294a90a91cb"
+              ],
+              "spl_set_id": [
+                "c7e1f642-1bdc-4ed6-9b9e-c1af40b926cd",
+                "11ac01f4-d26e-47b2-9660-d514ab097fdb"
+              ],
+              "package_ndc": [
+                "82009-119-05",
+                "82009-119-10",
+                "82009-120-05",
+                "82009-120-10",
+                "31722-737-30",
+                "31722-737-90",
+                "31722-737-01",
+                "31722-737-05",
+                "31722-737-31",
+                "31722-738-30",
+                "31722-738-90",
+                "31722-738-01",
+                "31722-738-05",
+                "31722-738-31"
+              ],
+              "unii": [
+                "3O2T2PJ89D"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "DONEPEZIL (UNKNOWN)",
+            "drugbatchnumb": "UNCONFIRMED",
+            "drugauthorizationnumb": "090551",
+            "drugstructuredosagenumb": "10",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosagetext": "10 MG, DAILY; 5MG ONCE A DAY INCREASED TO 10MG AT NIGHT AFTER 2 WEEKS",
+            "drugdosageform": "Unk",
+            "drugadministrationroute": "048",
+            "drugenddateformat": "102",
+            "drugenddate": "20140217",
+            "actiondrug": "1"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TRAMADOL",
+            "drugdosagetext": "UNK",
+            "drugadministrationroute": "065",
+            "drugindication": "PRODUCT USED FOR UNKNOWN INDICATION",
+            "actiondrug": "5",
+            "drugrecurreadministration": "3"
+          }
+        ]
+      }
+    }
+  ]
+}

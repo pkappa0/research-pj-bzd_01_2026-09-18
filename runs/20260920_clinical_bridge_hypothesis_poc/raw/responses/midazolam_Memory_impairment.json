@@ -1,0 +1,415 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 160
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "1",
+      "safetyreportid": "10541094",
+      "primarysourcecountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20150529",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnesshospitalization": "1",
+      "seriousnessdisabling": "1",
+      "receivedateformat": "102",
+      "receivedate": "20141023",
+      "receiptdateformat": "102",
+      "receiptdate": "20141023",
+      "fulfillexpeditecriteria": "2",
+      "primarysource": {
+        "reportercountry": "US"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "65",
+        "patientonsetageunit": "801",
+        "patientweight": "66",
+        "patientsex": "2",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Drug ineffective"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Dysarthria"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Nightmare"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Coordination abnormal"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Hypotension"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Flashback"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Respiratory failure"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Cardiac arrest"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Balance disorder"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Depression"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Memory impairment"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Movement disorder"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Amnesia"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Shock"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Post-traumatic stress disorder"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "MIDAZOLAM",
+            "drugstructuredosagenumb": "1/100",
+            "drugdosagetext": "1MG/100ML; 1MG INJ; 6/22: TWICE; 6/24:ONCE",
+            "drugadministrationroute": "042",
+            "drugindication": "AMNESIA",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20140622",
+            "drugenddateformat": "102",
+            "drugenddate": "20140625",
+            "drugadditional": "2",
+            "activesubstance": {
+              "activesubstancename": "MIDAZOLAM\\MIDAZOLAM HYDROCHLORIDE"
+            },
+            "openfda": {
+              "application_number": [
+                "ANDA075243",
+                "NDA211844",
+                "NDA211321",
+                "ANDA075154",
+                "ANDA090316",
+                "ANDA090850",
+                "ANDA203460",
+                "ANDA217504",
+                "ANDA075293",
+                "ANDA212847",
+                "ANDA075857",
+                "ANDA090315",
+                "ANDA090696"
+              ],
+              "brand_name": [
+                "MIDAZOLAM",
+                "MIDAZOLAM IN SODIUM CHLORIDE",
+                "NAYZILAM"
+              ],
+              "generic_name": [
+                "MIDAZOLAM",
+                "MIDAZOLAM HYDROCHLORIDE"
+              ],
+              "manufacturer_name": [
+                "Hikma Pharmaceuticals USA Inc.",
+                "WG Critical Care, LLC.",
+                "UCB, Inc.",
+                "Fresenius Kabi USA, LLC",
+                "SOMERSET THERAPEUTICS, LLC",
+                "Sagent Pharmaceuticals",
+                "Civica, Inc.",
+                "Micro Labs Limited",
+                "Hospira, Inc.",
+                "Steriscience Specialties Private Limited",
+                "Onesource Specialty Pharma Limited"
+              ],
+              "product_ndc": [
+                "0641-6190",
+                "0641-6281",
+                "44567-610",
+                "44567-611",
+                "50474-500",
+                "63323-411",
+                "63323-412",
+                "0641-6209",
+                "0641-6210",
+                "0641-6211",
+                "70069-818",
+                "25021-661",
+                "76045-001",
+                "76045-211",
+                "76045-002",
+                "76045-003",
+                "72572-430",
+                "72572-432",
+                "42571-414",
+                "42571-415",
+                "0409-2587",
+                "0409-2596",
+                "82449-207",
+                "82449-208",
+                "82449-209",
+                "0641-6218",
+                "0641-6219",
+                "0641-6220",
+                "0641-6056",
+                "0641-6057",
+                "0641-6059",
+                "0641-6061",
+                "0641-6063",
+                "0641-6060",
+                "0409-2305",
+                "0409-2308",
+                "0409-0001",
+                "70069-816",
+                "70069-817",
+                "83270-170",
+                "83270-171",
+                "83270-172",
+                "83270-173",
+                "83270-174",
+                "83270-175",
+                "83270-176",
+                "25021-655"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "INTRAMUSCULAR",
+                "INTRAVENOUS",
+                "NASAL"
+              ],
+              "substance_name": [
+                "MIDAZOLAM HYDROCHLORIDE",
+                "MIDAZOLAM"
+              ],
+              "rxcui": [
+                "311702",
+                "1666798",
+                "2541170",
+                "2541171",
+                "2173494",
+                "2173500",
+                "311700",
+                "998211",
+                "1551393",
+                "1551395",
+                "1666800",
+                "1666814",
+                "1666823"
+              ],
+              "spl_id": [
+                "9ed8a0bb-bfd0-4f63-aa40-9813dd4a8f4e",
+                "0be7fbc9-e0b5-4cc5-8e82-11f81f1d672f",
+                "5776d86f-c632-429f-ac0b-88ade1a3930c",
+                "9814447b-a93e-42ad-b57e-5db0a5b7f552",
+                "6a9280fb-c775-443b-9f8e-1ed3a0c85d13",
+                "0bbe7c1c-5228-e584-e063-6294a90ad750",
+                "002ea282-09ba-4d79-8bd1-94c9859f442b",
+                "ec9c9aee-b95f-4645-bf17-df7f1e3967d3",
+                "4f89faf4-7006-4214-bb61-9b812ad31b9e",
+                "03a665f9-f328-83d4-e063-6294a90a756a",
+                "6c075a2d-b68b-41a7-aa0c-bcf9894e3f76",
+                "0c638f3c-bdd6-8385-e063-6394a90a53ef",
+                "c7078d4a-0f37-4305-b20c-0a8f17382963",
+                "559c03fb-24ea-4b7b-8afd-e33cb3a2340a",
+                "2f69c5b1-6505-42dc-8bb3-edbd9b6c0781",
+                "8954486a-8512-4831-8178-0b49f1efb73e",
+                "0bbe4e90-4c26-cbbb-e063-6294a90aad1b",
+                "54ed4790-896e-2fe5-e063-6394a90a2383",
+                "58da75f1-55f4-4722-e063-6394a90aed9a",
+                "943346c0-d98e-4ac2-a1a2-75427decf2fc"
+              ],
+              "spl_set_id": [
+                "f8bb3427-c887-47b6-8042-8a21dc161c79",
+                "f051776f-94c5-4e34-80ed-f45b9c36881e",
+                "2b29422e-54d5-4a49-8522-e9cf752368c3",
+                "a91ce254-14a3-4cbf-8ab8-5da252aa3fdc",
+                "8675cdb1-c7f5-40cf-b1e0-0960b7ab117b",
+                "06e4f754-72df-4eb4-aaed-b538524f5277",
+                "880cac48-5c0f-49a9-8aef-3c9770bf5d84",
+                "1cc9ba6e-fa1b-405e-9de8-720c567b2a73",
+                "f0c8b6cd-9efc-4344-9212-fbdd3b8e2f9b",
+                "9221894f-d840-46f2-a11c-6b71358d3b5b",
+                "affecd4d-1f78-4bbe-5a8d-86849bbdc520",
+                "473fba4b-8754-4b1d-bba9-d9c8f6d818e0",
+                "51c8bfa4-5c78-4b7a-9ffb-8f00828acadc",
+                "575d8bf0-7af7-427c-a231-966e2a5e070d",
+                "b95415fa-17c2-42ab-a6b0-e628d01c94ed",
+                "1abda8b8-48a8-4995-af86-39220d1aa240",
+                "74666098-1ca8-4c06-8fc4-5de870b1b514",
+                "54ed43b2-bad1-4b45-e063-6294a90a793a",
+                "a0e9a149-7a4c-4f66-91af-91695ee2e40c",
+                "e22611dd-1830-40af-9139-7cdb07f5a426"
+              ],
+              "package_ndc": [
+                "0641-6190-01",
+                "0641-6190-10",
+                "0641-6281-01",
+                "0641-6281-25",
+                "44567-610-01",
+                "44567-610-10",
+                "44567-611-01",
+                "44567-611-10",
+                "50474-500-14",
+                "50474-500-15",
+                "63323-411-22",
+                "63323-411-27",
+                "63323-411-15",
+                "63323-411-12",
+                "63323-411-18",
+                "63323-411-25",
+                "63323-411-13",
+                "63323-411-10",
+                "63323-412-18",
+                "63323-412-25",
+                "63323-412-03",
+                "63323-412-02",
+                "63323-412-06",
+                "63323-412-05",
+                "63323-412-13",
+                "63323-412-10",
+                "0641-6209-01",
+                "0641-6209-25",
+                "0641-6210-01",
+                "0641-6210-10",
+                "0641-6211-01",
+                "0641-6211-10",
+                "70069-818-10",
+                "25021-661-10",
+                "76045-211-00",
+                "76045-211-20",
+                "76045-001-00",
+                "76045-001-20",
+                "76045-002-00",
+                "76045-002-10",
+                "76045-003-00",
+                "76045-003-20",
+                "72572-430-01",
+                "72572-430-25",
+                "72572-432-01",
+                "72572-432-10",
+                "42571-414-75",
+                "42571-414-87",
+                "42571-415-54",
+                "42571-415-72",
+                "42571-415-75",
+                "42571-415-91",
+                "0409-2587-04",
+                "0409-2587-05",
+                "0409-2596-13",
+                "0409-2596-03",
+                "0409-2596-15",
+                "0409-2596-05",
+                "82449-207-02",
+                "82449-208-02",
+                "82449-209-02",
+                "0641-6218-01",
+                "0641-6218-10",
+                "0641-6219-01",
+                "0641-6219-10",
+                "0641-6220-01",
+                "0641-6220-10",
+                "0641-6057-01",
+                "0641-6057-10",
+                "0641-6057-25",
+                "0641-6059-01",
+                "0641-6059-10",
+                "0641-6056-01",
+                "0641-6056-10",
+                "0641-6061-01",
+                "0641-6061-10",
+                "0641-6061-25",
+                "0641-6063-01",
+                "0641-6063-10",
+                "0641-6063-25",
+                "0641-6060-01",
+                "0641-6060-10",
+                "0409-2305-55",
+                "0409-2305-50",
+                "0409-2308-69",
+                "0409-2308-49",
+                "0409-2308-70",
+                "0409-2308-50",
+                "0409-2305-16",
+                "0409-2305-17",
+                "0409-2305-04",
+                "0409-2305-05",
+                "0409-2308-21",
+                "0409-2308-01",
+                "0409-2308-22",
+                "0409-2308-02",
+                "0409-0001-01",
+                "0409-0001-25",
+                "70069-816-10",
+                "70069-816-25",
+                "70069-817-10",
+                "83270-170-10",
+                "83270-171-10",
+                "83270-172-10",
+                "83270-173-10",
+                "83270-174-10",
+                "83270-175-10",
+                "83270-176-10",
+                "25021-655-02"
+              ],
+              "unii": [
+                "W7TTW573JJ",
+                "R60L0SM5BC"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ]
+            }
+          }
+        ],
+        "summary": {
+          "narrativeincludeclinical": "CASE EVENT DATE: 20140622"
+        }
+      }
+    }
+  ]
+}

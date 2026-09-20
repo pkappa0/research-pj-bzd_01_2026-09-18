@@ -1,0 +1,12 @@
+{
+  "key": "zolpidem_margin_serious",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29&count=serious&limit=100",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\")",
+    "count": "serious",
+    "limit": 100
+  },
+  "retrieved_utc": "2026-09-20T01:53:19.813509+00:00",
+  "http_status": 200,
+  "sha256": "3eda3a320099e3912fe73226c1f3616cc657e61854f20b94d7316fbb1423a5cc"
+}

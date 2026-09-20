@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1776
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "2",
+      "safetyreportid": "10023869",
+      "primarysourcecountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141002",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnessother": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140318",
+      "receiptdateformat": "102",
+      "receiptdate": "20140325",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "2014-US-002949",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "JAZZ",
+        "duplicatenumb": "2014-US-002949"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "5"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "76",
+        "patientonsetageunit": "801",
+        "patientweight": "87.1",
+        "patientsex": "1",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Lymphoma"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Radiotherapy"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Amnesia"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Off label use"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "XYREM",
+            "drugbatchnumb": "OL2029A",
+            "drugauthorizationnumb": "021196",
+            "drugstructuredosagenumb": "2.25",
+            "drugstructuredosageunit": "002",
+            "drugseparatedosagenumb": "2",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugadministrationroute": "048",
+            "drugindication": "SLEEP DISORDER",
+            "drugstartdateformat": "610",
+            "drugstartdate": "200307",
+            "openfda": {
+              "application_number": [
+                "NDA021196"
+              ],
+              "brand_name": [
+                "XYREM"
+              ],
+              "generic_name": [
+                "SODIUM OXYBATE"
+              ],
+              "manufacturer_name": [
+                "Jazz Pharmaceuticals, Inc."
+              ],
+              "product_ndc": [
+                "68727-100"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "SODIUM OXYBATE"
+              ],
+              "rxcui": [
+                "349482",
+                "352257"
+              ],
+              "spl_id": [
+                "3839d447-e97d-496d-8e9d-aaef53f1484f"
+              ],
+              "spl_set_id": [
+                "926eb076-a4a8-45e4-91ef-411f0aa4f3ca"
+              ],
+              "package_ndc": [
+                "68727-100-01"
+              ],
+              "unii": [
+                "7G33012534"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "LUNESTA",
+            "drugindication": "PRODUCT USED FOR UNKNOWN INDICATION",
+            "drugadditional": "1",
+            "openfda": {
+              "application_number": [
+                "NDA021476"
+              ],
+              "brand_name": [
+                "LUNESTA"
+              ],
+              "generic_name": [
+                "ESZOPICLONE"
+              ],
+              "manufacturer_name": [
+                "Waylis Therapeutics LLC"
+              ],
+              "product_ndc": [
+                "80725-010",
+                "80725-011",
+                "80725-012"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ESZOPICLONE"
+              ],
+              "rxcui": [
+                "485440",
+                "485442",
+                "485465",
+                "540407",
+                "540409",
+                "540411"
+              ],
+              "spl_id": [
+                "4a1b20fc-a41d-41dd-a557-fa9333bb5c3b"
+              ],
+              "spl_set_id": [
+                "3821f4b7-a3c8-4920-ba80-18aa96532c09"
+              ],
+              "package_ndc": [
+                "80725-010-30",
+                "80725-011-30",
+                "80725-012-30"
+              ],
+              "unii": [
+                "UZX80K71OE"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "AMBIEN",
+            "drugadministrationroute": "048",
+            "drugindication": "SLEEP DISORDER",
+            "openfda": {
+              "application_number": [
+                "NDA019908",
+                "NDA021774"
+              ],
+              "brand_name": [
+                "AMBIEN",
+                "AMBIEN CR"
+              ],
+              "generic_name": [
+                "ZOLPIDEM TARTRATE"
+              ],
+              "manufacturer_name": [
+                "Cosette Pharmaceuticals, Inc.",
+                "Sanofi-Aventis U.S. LLC"
+              ],
+              "product_ndc": [
+                "0713-5401",
+                "0713-5421",
+                "0713-5501",
+                "0713-5521",
+                "0024-5401",
+                "0024-5421"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ZOLPIDEM TARTRATE"
+              ],
+              "rxcui": [
+                "854873",
+                "854875",
+                "854876",
+                "854878",
+                "854880",
+                "854882",
+                "854894",
+                "854896"
+              ],
+              "spl_id": [
+                "2d934208-e709-2948-e063-6294a90aa9b6",
+                "2d9350bd-56ea-7273-e063-6394a90a0e61",
+                "3d6feaca-4f30-4ca9-a9c8-d9038744fa2f"
+              ],
+              "spl_set_id": [
+                "747949c5-2c91-4909-8a07-71b6826f8e97",
+                "2d934da3-bd77-4470-e063-6294a90a64f5",
+                "c36cadf4-65a4-4466-b409-c82020b42452"
+              ],
+              "package_ndc": [
+                "0713-5401-01",
+                "0713-5421-01",
+                "0713-5521-01",
+                "0713-5501-01",
+                "0024-5401-31",
+                "0024-5421-31",
+                "0024-5421-50"
+              ],
+              "unii": [
+                "WY6W63843K"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "KLONOPIN",
+            "drugadministrationroute": "048",
+            "drugindication": "SLEEP DISORDER",
+            "openfda": {
+              "application_number": [
+                "NDA017533"
+              ],
+              "brand_name": [
+                "KLONOPIN"
+              ],
+              "generic_name": [
+                "CLONAZEPAM"
+              ],
+              "manufacturer_name": [
+                "H2-Pharma, LLC"
+              ],
+              "product_ndc": [
+                "61269-605",
+                "61269-610",
+                "61269-620"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "CLONAZEPAM"
+              ],
+              "rxcui": [
+                "197527",
+                "197528",
+                "197529",
+                "206157",
+                "206159",
+                "206160"
+              ],
+              "spl_id": [
+                "63cfdab9-fb3d-4c2b-bf88-8ba841dba839"
+              ],
+              "spl_set_id": [
+                "cfa0d79a-843c-4b88-95a1-e9511d649ca1"
+              ],
+              "package_ndc": [
+                "61269-605-10",
+                "61269-610-10",
+                "61269-620-10"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "5PE9FDE8GB"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "CRESTOR ( ROSUVASTATIN CALCIUM)"
+          }
+        ]
+      }
+    }
+  ]
+}

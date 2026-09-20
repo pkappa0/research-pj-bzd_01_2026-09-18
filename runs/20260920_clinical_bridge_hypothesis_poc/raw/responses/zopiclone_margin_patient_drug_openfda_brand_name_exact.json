@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30"
+  },
+  "results": [
+    {
+      "term": "MEDLINE",
+      "count": 10144
+    },
+    {
+      "term": "PAIN RELIEF",
+      "count": 9155
+    },
+    {
+      "term": "TYLENOL EXTRA STRENGTH",
+      "count": 8935
+    },
+    {
+      "term": "TYLENOL REGULAR STRENGTH",
+      "count": 8899
+    },
+    {
+      "term": "GOODNOW PAIN RELIEF",
+      "count": 8836
+    },
+    {
+      "term": "RAPIDOL",
+      "count": 8304
+    },
+    {
+      "term": "ARTHRITIS PAIN RELIEF",
+      "count": 8076
+    },
+    {
+      "term": "ARTHRITIS PAIN RELIEVER",
+      "count": 8076
+    },
+    {
+      "term": "PANADOL",
+      "count": 7728
+    },
+    {
+      "term": "PANADOL EXTRA STRENGTH",
+      "count": 7728
+    },
+    {
+      "term": "TYLENOL EXTRA STRENGTH CAPLET",
+      "count": 7713
+    },
+    {
+      "term": "PANTOPRAZOLE SODIUM",
+      "count": 7696
+    },
+    {
+      "term": "TYLENOL 8 HR ARTHRITIS PAIN",
+      "count": 7684
+    },
+    {
+      "term": "FEVERALL",
+      "count": 7678
+    },
+    {
+      "term": "FEVERALL CHILDRENS",
+      "count": 7678
+    },
+    {
+      "term": "FEVERALL INFANTS",
+      "count": 7678
+    },
+    {
+      "term": "FEVERALL JR. STRENGTH",
+      "count": 7678
+    },
+    {
+      "term": "TYLENOL 8HR",
+      "count": 7674
+    },
+    {
+      "term": "ACETAMINOPHEN EXTRA STRENGTH",
+      "count": 7673
+    },
+    {
+      "term": "APAP",
+      "count": 7673
+    },
+    {
+      "term": "EXTRA STRENGTH PAIN RELIEVER",
+      "count": 7673
+    },
+    {
+      "term": "PAIN RELIEVER EXTRA STRENGTH",
+      "count": 7673
+    },
+    {
+      "term": "365 WHOLE FOODS MARKET ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "8 HOUR ARTHRITIS PAIN",
+      "count": 7672
+    },
+    {
+      "term": "8 HOUR PAIN RELIEF",
+      "count": 7672
+    },
+    {
+      "term": "8 HR ARTHRITIS PAIN",
+      "count": 7672
+    },
+    {
+      "term": "8 HR ARTHRITIS PAIN RELIEF",
+      "count": 7672
+    },
+    {
+      "term": "8 HR MUSCLE ACHES AND PAIN",
+      "count": 7672
+    },
+    {
+      "term": "8 HR PAIN RELIEF",
+      "count": 7672
+    },
+    {
+      "term": "8HR ARTHRITIS PAIN",
+      "count": 7672
+    },
+    {
+      "term": "8HR ARTHRITIS PAIN RELIEF",
+      "count": 7672
+    },
+    {
+      "term": "8HR MUSCLE ACHES AND PAIN",
+      "count": 7672
+    },
+    {
+      "term": "8HR MUSCLE ACHES AND PAIN RELIEF",
+      "count": 7672
+    },
+    {
+      "term": "8HR PAIN RELIEF",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN (RED)",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN 325 MG",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN 325MG",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN 500 MG",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN 650MG",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN CAPLETS",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN EASY TABS EXTRA STRENGTH",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN EXTENDED-RELEASE",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN EXTENDED-RELEASE TABLETS, 650 MG",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN FOR CHILDREN",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN GELCAPS",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN GELCAPS EXTRA STRENGTH",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN PAIN RELIEVER FEVER REDUCER",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN REGULAR STRENGTH",
+      "count": 7672
+    },
+    {
+      "term": "ACETAMINOPHEN SOLUTION",
+      "count": 7672
+    },
+    {
+      "term": "ADWE CHILDRENS PAIN FEVER",
+      "count": 7672
+    },
+    {
+      "term": "ADWE FEVERX ACETAMINOPHEN CAPLETS, 500 MG EXTRA STRENGTH",
+      "count": 7672
+    },
+    {
+      "term": "AMAZON BASIC CARE ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "AMAZON BASICS ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "APHEN",
+      "count": 7672
+    },
+    {
+      "term": "ARTHRITIS PAIN",
+      "count": 7672
+    },
+    {
+      "term": "ARTHRITIS PAIN ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "ATAMEL FORTE",
+      "count": 7672
+    },
+    {
+      "term": "AUROPHEN EXTRA STRENGTH FOR ADULTS",
+      "count": 7672
+    },
+    {
+      "term": "AUROPHEN REGULAR STRENGTH",
+      "count": 7672
+    },
+    {
+      "term": "BACTIMICINA CHILDRENS PAIN AND FEVER",
+      "count": 7672
+    },
+    {
+      "term": "BASIC CARE ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "BASIC CARE CHILDRENS PAIN AND FEVER",
+      "count": 7672
+    },
+    {
+      "term": "BASIC CARE INFANTS PAIN AND FEVER",
+      "count": 7672
+    },
+    {
+      "term": "BERKLEY AND JENSEN ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "BERKLEY AND JENSEN PAIN RELIEF",
+      "count": 7672
+    },
+    {
+      "term": "BERKLEY AND JENSEN RAPID RELEASE ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "BETTER LIVING BRANDS CHILDRENS FEVER AND PAIN RELIVER",
+      "count": 7672
+    },
+    {
+      "term": "CABINET PAIN RELIEVER AND FEVER REDUCER REFILL ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "CARE ONE ARTHRITIS PAIN RELIEF",
+      "count": 7672
+    },
+    {
+      "term": "CAREALL ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "CAREALL ACETAMINOPHEN EXTRA STRENGTH",
+      "count": 7672
+    },
+    {
+      "term": "CAREALL NON ASPIRIN EXTRA STRENGTH",
+      "count": 7672
+    },
+    {
+      "term": "CAREONE 8 HOUR PAIN RELIEF",
+      "count": 7672
+    },
+    {
+      "term": "CAREONE ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "CAREONE CHILDRENS ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "CAREONE INFANTS ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "CETAFEN",
+      "count": 7672
+    },
+    {
+      "term": "CETAFEN EXTRA",
+      "count": 7672
+    },
+    {
+      "term": "CHEWABLE ACETAMINOPHEN CHILDRENS",
+      "count": 7672
+    },
+    {
+      "term": "CHILDREN ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "CHILDREN ACETAMINOPHEN ORAL SOLUTION",
+      "count": 7672
+    },
+    {
+      "term": "CHILDREN PAIN AND FEVER RELIEVER",
+      "count": 7672
+    },
+    {
+      "term": "CHILDREN PAIN AND FEVER RELIVER",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS ACETAMINOPHEN DYE FREE GRAPE",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS ACETAMINOPHEN ORAL LIQUID GRAPE FLAVOR",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS ACETAMINOPHEN ORAL SUSPENSION",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS CHEWABLE ACETAMINOPHEN",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS CHEWABLES",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS FEVER REDUCER AND PAIN RELIEVER",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS MAPAP",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS PAIN AND FEVER",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS PAIN AND FEVER CHERRY FLAVOR",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS PAIN AND FEVER DISSOLVE PACKS",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS PAIN AND FEVER DYE FREE",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS PAIN AND FEVER RELIEF",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS PAIN AND FEVER, GRAPE FLAVOR",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS PAIN PLUS FEVER RELIEF",
+      "count": 7672
+    },
+    {
+      "term": "CHILDRENS PAIN RELIEF",
+      "count": 7672
+    }
+  ]
+}

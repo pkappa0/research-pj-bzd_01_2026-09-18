@@ -1,0 +1,1464 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 943
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "1",
+      "safetyreportid": "10052656",
+      "primarysourcecountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141002",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnesshospitalization": "1",
+      "seriousnessother": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140331",
+      "receiptdateformat": "102",
+      "receiptdate": "20140331",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "ADR-2014-00207",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "MEDTRONIC",
+        "duplicatenumb": "ADR-2014-00207"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "1"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "58",
+        "patientonsetageunit": "801",
+        "patientsex": "1",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Device connection issue"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Device damage"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Overdose"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Somnolence"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Respiratory disorder"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Dyspnoea"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Complication of device removal"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Drug tolerance"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Muscle spasticity"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Logorrhoea"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Aggression"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Staring"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Hypertension"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Nystagmus"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Device breakage"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "BACLOFEN",
+            "drugauthorizationnumb": "20075",
+            "drugstructuredosagenumb": "475.1",
+            "drugstructuredosageunit": "004",
+            "drugindication": "MUSCLE SPASTICITY",
+            "openfda": {
+              "application_number": [
+                "ANDA078401",
+                "NDA208193",
+                "ANDA214099",
+                "ANDA212378",
+                "ANDA215885",
+                "NDA215422",
+                "NDA020075",
+                "ANDA209102",
+                "ANDA217324",
+                "ANDA217252",
+                "ANDA214445",
+                "NDA215602",
+                "ANDA074584",
+                "ANDA210048",
+                "ANDA072234",
+                "ANDA072235",
+                "ANDA214374",
+                "ANDA210315",
+                "ANDA077241",
+                "ANDA211555",
+                "ANDA078220",
+                "ANDA210777",
+                "ANDA077068",
+                "ANDA211659",
+                "ANDA212067"
+              ],
+              "brand_name": [
+                "BACLOFEN",
+                "LYVISPAH",
+                "LIORESAL (BACLOFEN)",
+                "BACLOFEN (INTRATHECAL)",
+                "OZOBAX DS",
+                "FLEQSUVY"
+              ],
+              "generic_name": [
+                "BACLOFEN"
+              ],
+              "manufacturer_name": [
+                "Northstar RxLLC",
+                "Palmetto Pharmaceuticals Inc.",
+                "Medcore LLC",
+                "Method Pharmaceuticals LLC",
+                "Major Pharmaceuticals",
+                "Amneal Pharmaceuticals LLC",
+                "TruPharma LLC",
+                "Nexus Pharmaceuticals LLC",
+                "Slayback Pharma LLC",
+                "Advagen Pharma Ltd",
+                "Wilshire Pharmaceuticals, Inc.",
+                "Lifestar Pharma LLC",
+                "Advagen Pharma Ltd.,",
+                "Upsher-Smith Laboratories, LLC",
+                "Advagen Pharma Limited",
+                "MAIA Pharmaceuticals, Inc.",
+                "Aurobindo Pharma Limited",
+                "Teva Pharmaceuticals USA, Inc.",
+                "TRUPHARMA, LLC",
+                "Rosemont Pharmaceuticals LLC",
+                "Rising Pharma Holdings, Inc.",
+                "Sagent Pharmaceuticals",
+                "Chartwell RX, LLC",
+                "Eywa Pharma Inc",
+                "Lannett Company, Inc.",
+                "MAlA Pharmaceuticals, Inc.",
+                "Trifluent Pharma, LLC",
+                "Par Health USA, LLC",
+                "Zydus Pharmaceuticals (USA) Inc.",
+                "Marlex Pharmaceuticals Inc",
+                "XLCare Pharmaceuticals Inc.",
+                "Azurity Pharmaceuticals, Inc.",
+                "Zydus Lifesciences Limited",
+                "SOLA Pharmaceuticals, LLC",
+                "Unichem Pharmaceuticals (USA), Inc.",
+                "ANI Pharmaceuticals, Inc."
+              ],
+              "product_ndc": [
+                "16714-071",
+                "16714-072",
+                "68134-403",
+                "82461-717",
+                "82461-718",
+                "58657-730",
+                "58657-932",
+                "58657-731",
+                "58657-732",
+                "58657-931",
+                "58657-930",
+                "0904-7552",
+                "0904-7553",
+                "64896-076",
+                "64896-077",
+                "64896-078",
+                "70121-2496",
+                "70121-2501",
+                "70121-2502",
+                "70121-2504",
+                "70121-2503",
+                "70121-2505",
+                "52817-318",
+                "52817-319",
+                "52817-320",
+                "52817-321",
+                "14789-161",
+                "71225-140",
+                "72888-103",
+                "52536-600",
+                "70756-085",
+                "70756-288",
+                "70756-289",
+                "72888-466",
+                "0832-1054",
+                "0832-1055",
+                "72888-009",
+                "72888-010",
+                "72888-202",
+                "72888-011",
+                "70511-122",
+                "70511-124",
+                "59651-394",
+                "59651-395",
+                "0172-4096",
+                "0172-4097",
+                "52817-620",
+                "69528-302",
+                "16571-169",
+                "16571-171",
+                "16571-172",
+                "25021-680",
+                "25021-678",
+                "25021-679",
+                "62135-472",
+                "62135-473",
+                "62135-474",
+                "71930-006",
+                "71930-066",
+                "71930-007",
+                "0527-1330",
+                "0527-1337",
+                "0527-1333",
+                "70511-121",
+                "73352-103",
+                "0603-2406",
+                "0603-2407",
+                "70511-123",
+                "70710-1285",
+                "70710-1286",
+                "70710-1609",
+                "70710-1666",
+                "10135-532",
+                "10135-533",
+                "72865-296",
+                "72865-297",
+                "72865-298",
+                "52652-6001",
+                "70771-1448",
+                "70771-1449",
+                "70771-1586",
+                "70771-1868",
+                "25021-681",
+                "70512-782",
+                "29300-343",
+                "29300-474",
+                "29300-344",
+                "72888-145",
+                "72888-146",
+                "72888-147",
+                "62559-204",
+                "84386-035"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL",
+                "INTRATHECAL"
+              ],
+              "substance_name": [
+                "BACLOFEN"
+              ],
+              "rxcui": [
+                "197391",
+                "197392",
+                "2667941",
+                "430902",
+                "2586589",
+                "2586595",
+                "2586596",
+                "2586598",
+                "2586599",
+                "2586601",
+                "308516",
+                "308517",
+                "805678",
+                "805679",
+                "1666613",
+                "1666620",
+                "1666622",
+                "1666623",
+                "2679605",
+                "2593376",
+                "250976",
+                "2667943",
+                "1300890",
+                "1047437",
+                "2593382"
+              ],
+              "spl_id": [
+                "a3881489-a033-4a93-ba24-590e316103f3",
+                "47426f2f-4630-5a83-e063-6294a90a88d1",
+                "152e2f4d-157b-4dad-8d18-ab3f63792051",
+                "3aa113f3-27d5-328b-e063-6394a90af9e5",
+                "5c3857ec-f6de-489c-909d-79cad21f784e",
+                "d042d45f-7097-47e0-921f-0442e00d47e0",
+                "d68a08e0-d0d9-4144-be01-47b636dfa7e1",
+                "1645f54e-2eed-bd9b-e063-6294a90a848b",
+                "2ac0f53e-48b5-5d84-e063-6294a90a8ac8",
+                "f948e217-c9bb-4ec1-b5fb-864cc14afe4e",
+                "3760a935-7c14-5771-e063-6394a90a1fb0",
+                "461e14b2-890c-011c-e063-6294a90a0d4c",
+                "97901dd3-f1e0-4fc8-86a1-5114e2095073",
+                "374c7fbe-ca7e-09b4-e063-6394a90ab5fa",
+                "45af8926-ad18-a93a-e063-6294a90a1dca",
+                "490e18d8-694e-da7b-e063-6294a90ab450",
+                "c15b60c7-4e21-4e28-898c-31e23052737a",
+                "493c1b1f-7ee0-4a54-8e44-b2b015eb3850",
+                "ba227be6-e946-423c-a9a6-e0626d889ea7",
+                "0806a6f9-b626-f98e-e063-6294a90a84bb",
+                "4ce95252-8c9b-2246-e063-6294a90a8b25",
+                "ff66a259-5803-47a3-9558-87acf43f43a7",
+                "81266703-bafa-4e31-a400-32fbfe1a849e",
+                "9ae563da-240a-468d-bc42-ed4667df2392",
+                "24246dff-9253-1075-e063-6394a90a75c0",
+                "ff342eff-68ae-4190-96bb-f887fff1dd56",
+                "153f6bd7-9462-4d92-b738-48e7807c5919",
+                "58150ebf-c2d6-49be-a519-06d839637462",
+                "3a73197c-59cf-621b-e063-6394a90a955b",
+                "c98e071e-1ca3-4f26-b056-250f5549c0fe",
+                "c25028b0-ac87-4b40-b8e4-fef625b32ccb",
+                "f96d29a2-071a-4a33-a57e-bb55eba0d660",
+                "3f668f68-659e-2740-e063-6394a90a6264",
+                "2d6876fe-19e5-fd4f-e063-6294a90a7960",
+                "461e773b-ccc2-532d-e063-6294a90abad9",
+                "2c2eb58e-8920-43f4-aaa9-6f5add3b35ae",
+                "570e9773-fda9-492f-bdef-7dd6814fd3b2",
+                "45723949-ac04-69ef-e063-6294a90a29a3",
+                "513de439-4155-4a5d-a25c-bced499e293a",
+                "45801dc3-fb9b-c31e-e063-6294a90aff35",
+                "1c95cf7d-6db8-437d-9e33-f8ecb151eca6",
+                "f4e8cbc5-b1f2-4331-a267-d5bd90bcde8a"
+              ],
+              "spl_set_id": [
+                "0aac77fa-30c2-46c8-a04d-e6b8333ddd81",
+                "2422746c-afec-ad30-e063-6394a90a0403",
+                "13eca70c-3cc8-4317-83cf-ade3327e48c0",
+                "1a9db542-d2b0-141a-e063-6394a90acc11",
+                "f328296e-0713-4acb-bcb5-c10d7838d380",
+                "f8992a56-9010-4c4b-84d5-ddcc3e2c3317",
+                "6f3bdcc0-ffc8-4911-8c35-958c8103a2c5",
+                "68aa591e-ea98-4438-9a4a-4f7e9ea2b285",
+                "68c9ade0-d783-43e9-8a3f-a16ec1501ec1",
+                "9fad5ffc-afae-4c92-a672-ee636df45bc5",
+                "2a43830f-a28b-ca15-e063-6294a90a6b1a",
+                "4585aafe-0af8-4786-a419-6a7e76671ca2",
+                "f9dd1b55-2984-446a-8146-2ab0f5211e15",
+                "75ab298b-b2a7-458f-accc-5bfc89b89a16",
+                "b2747a9d-5fca-4657-9e4b-4112607f30d8",
+                "04dac0f6-cc6c-4959-9bca-a6e4a99690f3",
+                "11ba5575-a856-414a-89f8-17f3a01de55b",
+                "4679a275-9307-4b0f-a2eb-2d83227ea84d",
+                "5648c772-50cb-4961-996e-e68a8eb699ea",
+                "f8ec79c6-da65-4fb6-b6bd-45df0d2a52c7",
+                "d8ddcec5-debe-42b4-a803-e65917cc6a54",
+                "6eb46715-d72b-473f-b984-90024033d4a0",
+                "d4bfba33-9f4d-4c43-ae6c-bcf67ef8fe51",
+                "077aaf3b-1ca3-4599-a51a-6bbe39810ca8",
+                "2a75db96-590a-43cf-aefb-3bbcb287dbf0",
+                "7ec59f6b-7c4f-432d-ba27-442861806b6c",
+                "f84f3f4c-17e6-43f1-9600-63b0b175837b",
+                "e05080ef-53d9-4060-aaa4-86a6935467de",
+                "890df151-f4eb-4244-97c4-f1f10912e753",
+                "c17527be-661d-42f5-b6f6-56a681ba7870",
+                "dfa6148c-693c-45f1-89be-0e77d39f313e",
+                "cfc49176-8d01-4c39-9319-604dd087065c",
+                "1b0f50c8-62e3-414d-96d3-5fd16e8043ab",
+                "2b4908fb-47b5-4675-be9e-ca1ad48a7252",
+                "9076d6ce-bbc2-4a9f-9cb9-2de1b675b9aa",
+                "bb5c6faa-2933-44d1-8706-8302150be734",
+                "ea32c39c-0ee3-4b5e-8da7-4c31db334bd8",
+                "7b308b35-8c08-458d-860e-c78d057e8260",
+                "b9199878-3fb4-46dc-adbb-b3d9dc3852d4",
+                "d63af5f0-c275-480b-89b5-6cf1ad55ab63",
+                "c73ed3af-8e8a-4a18-90fc-a0f2dcc641d0",
+                "f4e8cbc5-b1f2-4331-a267-d5bd90bcde8a"
+              ],
+              "package_ndc": [
+                "16714-071-04",
+                "16714-071-06",
+                "16714-072-04",
+                "16714-072-05",
+                "68134-403-16",
+                "82461-717-10",
+                "82461-718-10",
+                "58657-932-10",
+                "58657-932-05",
+                "58657-932-01",
+                "58657-730-01",
+                "58657-730-10",
+                "58657-731-01",
+                "58657-731-10",
+                "58657-731-50",
+                "58657-732-01",
+                "58657-732-50",
+                "58657-732-10",
+                "58657-931-10",
+                "58657-931-05",
+                "58657-931-01",
+                "58657-930-10",
+                "58657-930-05",
+                "58657-930-01",
+                "0904-7552-61",
+                "0904-7553-61",
+                "64896-076-09",
+                "64896-077-09",
+                "64896-078-09",
+                "70121-2501-1",
+                "70121-2502-2",
+                "70121-2504-2",
+                "70121-2503-1",
+                "70121-2505-2",
+                "70121-2496-5",
+                "52817-319-10",
+                "52817-320-10",
+                "52817-320-50",
+                "52817-320-00",
+                "52817-318-10",
+                "52817-321-10",
+                "52817-321-50",
+                "52817-321-00",
+                "14789-161-05",
+                "71225-140-01",
+                "72888-103-24",
+                "52536-600-11",
+                "52536-600-12",
+                "70756-085-11",
+                "70756-288-11",
+                "70756-288-12",
+                "70756-288-01",
+                "70756-288-99",
+                "70756-289-11",
+                "70756-289-51",
+                "70756-289-12",
+                "70756-289-01",
+                "70756-289-99",
+                "72888-466-02",
+                "72888-466-01",
+                "0832-1054-90",
+                "0832-1054-11",
+                "0832-1054-15",
+                "0832-1054-10",
+                "0832-1055-90",
+                "0832-1055-11",
+                "0832-1055-15",
+                "0832-1055-10",
+                "72888-009-01",
+                "72888-009-05",
+                "72888-010-01",
+                "72888-010-05",
+                "72888-010-00",
+                "72888-202-30",
+                "72888-202-01",
+                "72888-202-05",
+                "72888-202-00",
+                "72888-011-01",
+                "72888-011-05",
+                "72888-011-00",
+                "70511-122-10",
+                "70511-124-10",
+                "59651-394-01",
+                "59651-394-05",
+                "59651-394-99",
+                "59651-395-01",
+                "59651-395-05",
+                "59651-395-99",
+                "0172-4096-60",
+                "0172-4096-80",
+                "0172-4097-60",
+                "0172-4097-80",
+                "52817-620-08",
+                "69528-302-08",
+                "69528-302-16",
+                "16571-169-01",
+                "16571-171-01",
+                "16571-171-50",
+                "16571-171-10",
+                "16571-172-01",
+                "16571-172-50",
+                "16571-172-10",
+                "25021-680-20",
+                "25021-678-20",
+                "25021-679-20",
+                "62135-472-90",
+                "62135-473-90",
+                "62135-473-05",
+                "62135-474-90",
+                "62135-474-05",
+                "71930-066-12",
+                "71930-066-52",
+                "71930-066-13",
+                "71930-006-12",
+                "71930-006-52",
+                "71930-006-13",
+                "71930-007-12",
+                "71930-007-52",
+                "71930-007-13",
+                "0527-1330-01",
+                "0527-1330-05",
+                "0527-1330-10",
+                "0527-1337-01",
+                "0527-1337-05",
+                "0527-1337-10",
+                "0527-1333-01",
+                "70511-121-06",
+                "70511-121-83",
+                "70511-121-80",
+                "73352-103-16",
+                "0603-2406-02",
+                "0603-2406-21",
+                "0603-2406-28",
+                "0603-2406-32",
+                "0603-2406-30",
+                "0603-2407-21",
+                "0603-2407-28",
+                "0603-2407-32",
+                "70511-123-20",
+                "70710-1285-1",
+                "70710-1285-5",
+                "70710-1285-0",
+                "70710-1286-1",
+                "70710-1286-5",
+                "70710-1286-0",
+                "70710-1609-1",
+                "70710-1666-1",
+                "10135-532-01",
+                "10135-532-05",
+                "10135-532-10",
+                "10135-533-01",
+                "10135-533-05",
+                "10135-533-10",
+                "72865-296-01",
+                "72865-297-01",
+                "72865-297-05",
+                "72865-297-10",
+                "72865-298-01",
+                "72865-298-05",
+                "72865-298-10",
+                "52652-6001-1",
+                "52652-6001-2",
+                "70771-1448-1",
+                "70771-1448-5",
+                "70771-1448-0",
+                "70771-1449-1",
+                "70771-1449-5",
+                "70771-1449-0",
+                "70771-1586-1",
+                "70771-1868-1",
+                "25021-681-71",
+                "70512-782-10",
+                "29300-474-01",
+                "29300-343-19",
+                "29300-343-01",
+                "29300-343-05",
+                "29300-343-10",
+                "29300-344-19",
+                "29300-344-01",
+                "29300-344-05",
+                "29300-344-10",
+                "72888-145-36",
+                "72888-146-36",
+                "72888-147-36",
+                "62559-204-12",
+                "62559-204-03",
+                "84386-035-01"
+              ],
+              "nui": [
+                "N0000000196",
+                "N0000000116",
+                "N0000175759"
+              ],
+              "pharm_class_moa": [
+                "GABA A Agonists [MoA]",
+                "GABA B Agonists [MoA]"
+              ],
+              "pharm_class_epc": [
+                "gamma-Aminobutyric Acid-ergic Agonist [EPC]"
+              ],
+              "unii": [
+                "H789N3FKE8"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "MORPHINE",
+            "drugstructuredosagenumb": ".5226",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "DAY",
+            "drugindication": "MUSCLE SPASTICITY",
+            "openfda": {
+              "brand_name": [
+                "OPIUM TINCTURE DEODORIZED",
+                "OPIUM"
+              ],
+              "generic_name": [
+                "MORPHINE"
+              ],
+              "manufacturer_name": [
+                "Edenbridge Pharmaceuticals, LLC",
+                "Genus Lifesciences Inc."
+              ],
+              "product_ndc": [
+                "42799-217",
+                "64950-258"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "MORPHINE"
+              ],
+              "rxcui": [
+                "830196"
+              ],
+              "spl_id": [
+                "46e15fdb-940a-7018-e063-6294a90a9cc1",
+                "b937d1d0-9ed8-4aa3-9e4a-cce02870e7e9"
+              ],
+              "spl_set_id": [
+                "e2a5697a-cc41-4cf1-b3a8-59b0268740d7",
+                "8a77894b-2137-4f46-8dff-5c7b773d4d16"
+              ],
+              "package_ndc": [
+                "42799-217-01",
+                "42799-217-02",
+                "64950-258-11"
+              ],
+              "nui": [
+                "N0000175684",
+                "N0000175690"
+              ],
+              "pharm_class_moa": [
+                "Full Opioid Agonists [MoA]"
+              ],
+              "pharm_class_epc": [
+                "Opioid Agonist [EPC]"
+              ],
+              "unii": [
+                "76I7G6D29C"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "CLONIDINE",
+            "drugstructuredosagenumb": "106.9",
+            "drugstructuredosageunit": "004",
+            "drugdosagetext": "DAY",
+            "openfda": {
+              "application_number": [
+                "ANDA076166",
+                "ANDA209675",
+                "NDA022500",
+                "ANDA079090",
+                "ANDA203167",
+                "ANDA090873"
+              ],
+              "brand_name": [
+                "CLONIDINE",
+                "NEXICLON XR",
+                "CLONIDINE TRANSDERMAL SYSTEM"
+              ],
+              "generic_name": [
+                "CLONIDINE"
+              ],
+              "manufacturer_name": [
+                "Mylan Pharmaceuticals Inc.",
+                "Ingenus Pharmaceuticals, LLC",
+                "TruPharma, LLC",
+                "Dr. Reddy's Labratories Inc.",
+                "XGen Pharmaceuticals DJB, Inc.",
+                "Rosemont Pharmaceuticals LLC",
+                "PALMETTO PHARMACEUTICALS INC.",
+                "Actavis Pharma, Inc.",
+                "Mayne Pharma Inc."
+              ],
+              "product_ndc": [
+                "0378-0871",
+                "0378-0872",
+                "0378-0873",
+                "50742-247",
+                "52817-375",
+                "75907-023",
+                "75907-024",
+                "75907-025",
+                "39822-2000",
+                "39822-2010",
+                "71511-503",
+                "68134-603",
+                "0591-3508",
+                "0591-3509",
+                "0591-3510",
+                "51862-455",
+                "51862-453",
+                "51862-454"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "TRANSDERMAL",
+                "ORAL",
+                "EPIDURAL"
+              ],
+              "substance_name": [
+                "CLONIDINE",
+                "CLONIDINE HYDROCHLORIDE"
+              ],
+              "rxcui": [
+                "998671",
+                "998675",
+                "998679",
+                "1013930",
+                "885880",
+                "884221",
+                "884225",
+                "1050338"
+              ],
+              "spl_id": [
+                "40bd0d20-4e93-4e54-b43b-5ba52eb416fa",
+                "4f2ad773-518b-4532-bb69-8ff28c4f24c4",
+                "0eb6d1fe-949a-312a-e063-6294a90ae10c",
+                "07b162a5-9473-c1d7-9cba-aef238255dee",
+                "103027a7-2f0d-8d8c-e063-6294a90aedc7",
+                "4f83c93a-721f-ca2f-e063-6394a90aa789",
+                "0eb6eb87-c779-3b79-e063-6294a90a5944",
+                "996f475b-4f8b-4487-b5c1-6e5c4f284045",
+                "3dfdaa58-ccab-5f9a-e063-6394a90a3cbb"
+              ],
+              "spl_set_id": [
+                "7adfc439-e6d0-4593-87dd-0eef36d33c6d",
+                "99485427-a120-4fc7-bb61-25857d1900ec",
+                "2311836b-de63-4e8c-a021-600c40110024",
+                "a179570b-eef1-176a-820c-5f603d222a60",
+                "ada02f1f-ae78-4435-879e-492ae862d504",
+                "dad35a6f-d57e-f302-e053-2995a90a9efb",
+                "e93324f1-ad83-7bbe-e053-2995a90a8c9e",
+                "99a59495-2a48-4276-bbe3-cdd55a45aba4",
+                "c41eb913-5e47-46c4-9d96-9a67f8380919"
+              ],
+              "package_ndc": [
+                "0378-0871-16",
+                "0378-0871-99",
+                "0378-0872-16",
+                "0378-0872-99",
+                "0378-0873-16",
+                "0378-0873-99",
+                "50742-247-30",
+                "50742-247-60",
+                "50742-247-05",
+                "52817-375-30",
+                "75907-023-11",
+                "75907-023-48",
+                "75907-024-11",
+                "75907-024-48",
+                "75907-025-11",
+                "75907-025-48",
+                "39822-2000-1",
+                "39822-2010-1",
+                "71511-503-30",
+                "68134-603-30",
+                "0591-3508-54",
+                "0591-3508-04",
+                "0591-3509-54",
+                "0591-3509-04",
+                "0591-3510-54",
+                "0591-3510-04",
+                "51862-453-01",
+                "51862-453-04",
+                "51862-454-01",
+                "51862-454-04",
+                "51862-455-01",
+                "51862-455-04"
+              ],
+              "nui": [
+                "N0000009918",
+                "N0000175554"
+              ],
+              "pharm_class_moa": [
+                "Adrenergic alpha2-Agonists [MoA]"
+              ],
+              "pharm_class_epc": [
+                "Central alpha-2 Adrenergic Agonist [EPC]"
+              ],
+              "unii": [
+                "MN3L5RMN02",
+                "W76I6XXF06"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "CYMBALTA",
+            "openfda": {
+              "application_number": [
+                "NDA021427"
+              ],
+              "brand_name": [
+                "CYMBALTA"
+              ],
+              "generic_name": [
+                "DULOXETINE HYDROCHLORIDE"
+              ],
+              "manufacturer_name": [
+                "Eli Lilly and Company"
+              ],
+              "product_ndc": [
+                "0002-3235",
+                "0002-3240",
+                "0002-3270"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "DULOXETINE HYDROCHLORIDE"
+              ],
+              "rxcui": [
+                "596926",
+                "596928",
+                "596930",
+                "596932",
+                "596934",
+                "615186"
+              ],
+              "spl_id": [
+                "aa5061b1-f237-425a-9d05-575c333dfd37"
+              ],
+              "spl_set_id": [
+                "2f7d4d67-10c1-4bf4-a7f2-c185fbad64ba"
+              ],
+              "package_ndc": [
+                "0002-3235-60",
+                "0002-3240-30",
+                "0002-3240-90",
+                "0002-3270-30"
+              ],
+              "unii": [
+                "9044SC542W"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "ZOCOR",
+            "openfda": {
+              "application_number": [
+                "NDA019766"
+              ],
+              "brand_name": [
+                "ZOCOR"
+              ],
+              "generic_name": [
+                "SIMVASTATIN"
+              ],
+              "manufacturer_name": [
+                "Organon LLC"
+              ],
+              "product_ndc": [
+                "78206-180",
+                "78206-182",
+                "78206-181"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "SIMVASTATIN"
+              ],
+              "rxcui": [
+                "104490",
+                "104491",
+                "152923",
+                "198211",
+                "312961",
+                "314231"
+              ],
+              "spl_id": [
+                "11256523-425c-48e8-afe1-e3a4e28c892e"
+              ],
+              "spl_set_id": [
+                "8f55d5de-5a4f-4a39-8c84-c53976dd6af9"
+              ],
+              "package_ndc": [
+                "78206-182-01",
+                "78206-182-02",
+                "78206-181-02",
+                "78206-181-01",
+                "78206-180-01",
+                "78206-180-02"
+              ],
+              "nui": [
+                "N0000175589",
+                "N0000000121"
+              ],
+              "pharm_class_epc": [
+                "HMG-CoA Reductase Inhibitor [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Hydroxymethylglutaryl-CoA Reductase Inhibitors [MoA]"
+              ],
+              "unii": [
+                "AGG2FN16EV"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "DIAZEPAM",
+            "openfda": {
+              "application_number": [
+                "ANDA072079",
+                "ANDA210363",
+                "NDA020124",
+                "ANDA218422",
+                "NDA020648",
+                "NDA211635",
+                "ANDA070464",
+                "ANDA217468",
+                "ANDA070313",
+                "ANDA206477",
+                "NDA013263",
+                "ANDA071583",
+                "ANDA070325",
+                "ANDA217843",
+                "ANDA071307",
+                "ANDA071321",
+                "ANDA071322",
+                "ANDA218450",
+                "ANDA070311",
+                "ANDA219882",
+                "ANDA070302",
+                "ANDA070303",
+                "ANDA070304",
+                "ANDA214745",
+                "ANDA070928",
+                "ANDA211998",
+                "ANDA204433",
+                "ANDA091076"
+              ],
+              "brand_name": [
+                "DIAZEPAM",
+                "VALTOCO",
+                "VALIUM"
+              ],
+              "generic_name": [
+                "DIAZEPAM",
+                "DIAZEPAM ORAL",
+                "DIAZEPAM ORAL SOLUTION (CONCENTRATE)"
+              ],
+              "manufacturer_name": [
+                "Hospira, Inc.",
+                "Natco Pharma USA LLC",
+                "Meridian Medical Technologies LLC",
+                "Dr. Reddy's Laboratories Inc",
+                "Oceanside Pharmaceuticals",
+                "Neurelis, Inc",
+                "Sunrise Pharmaceutical, Inc.",
+                "Navinta LLC",
+                "Zydus Pharmaceuticals USA Inc.",
+                "Civica, Inc.",
+                "Chartwell Governmental & Specialty RX, LLC.",
+                "Roche Laboratories Inc.",
+                "Mylan Pharmaceuticals Inc.",
+                "Hikma Pharmaceuticals USA Inc.",
+                "Aurobindo Pharma Limited",
+                "Teva Pharmaceuticals USA, Inc.",
+                "Alembic Pharmaceuticals Limited",
+                "Alembic Pharmaceuticals Inc.",
+                "Baxter Healthcare Corporation",
+                "Chartwell RX, LLC",
+                "Fresenius Kabi USA, LLC",
+                "Waylis Therapuetics LLC",
+                "Sagent Pharmaceuticals",
+                "Lupin Pharmaceuticals,Inc."
+              ],
+              "product_ndc": [
+                "0409-1273",
+                "69339-136",
+                "11704-600",
+                "43598-106",
+                "68682-650",
+                "68682-652",
+                "68682-655",
+                "72252-505",
+                "72252-515",
+                "72252-510",
+                "72252-520",
+                "11534-199",
+                "11534-202",
+                "11534-203",
+                "68475-802",
+                "68475-803",
+                "68475-804",
+                "70710-2078",
+                "70710-2079",
+                "70710-2080",
+                "72572-175",
+                "68999-767",
+                "0140-0004",
+                "0140-0005",
+                "0409-3213",
+                "72572-140",
+                "0378-0271",
+                "0378-0345",
+                "0378-0477",
+                "0641-6244",
+                "59651-652",
+                "59651-653",
+                "59651-654",
+                "0172-3925",
+                "0172-3926",
+                "0172-3927",
+                "46708-811",
+                "0641-6243",
+                "0641-6283",
+                "62332-811",
+                "43066-121",
+                "43066-123",
+                "62135-786",
+                "62135-787",
+                "62135-788",
+                "76045-204",
+                "80725-004",
+                "80725-005",
+                "80725-006",
+                "0054-3188",
+                "69339-137",
+                "25021-618",
+                "62135-767",
+                "62135-768",
+                "43386-280",
+                "43386-281"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "INTRAMUSCULAR",
+                "INTRAVENOUS",
+                "RECTAL",
+                "NASAL",
+                "ORAL"
+              ],
+              "substance_name": [
+                "DIAZEPAM"
+              ],
+              "rxcui": [
+                "1807459",
+                "2120550",
+                "1807452",
+                "801957",
+                "801961",
+                "801966",
+                "2272613",
+                "2272619",
+                "2272621",
+                "2272622",
+                "2272623",
+                "2272624",
+                "2272626",
+                "2272627",
+                "2272629",
+                "2272630",
+                "2272632",
+                "2272633",
+                "2272635",
+                "2272636",
+                "197589",
+                "197590",
+                "197591",
+                "309843",
+                "104699",
+                "104700",
+                "309845",
+                "2749119",
+                "104701",
+                "309844"
+              ],
+              "spl_id": [
+                "88590f46-0e4c-4a4b-97de-05a1344514b7",
+                "2188da13-b1b1-4190-98f6-dedf2489aeb9",
+                "9e08d47f-b706-44b2-9e2f-9ca972592050",
+                "169f5115-24f1-4e7e-8981-5df941ce087d",
+                "5fd42d35-ec9c-8237-9edd-dfd883869b84",
+                "0e23d654-d8b9-af1c-e063-6294a90a6f14",
+                "6642d0cb-3186-4b4c-8a67-c3f92081fbd0",
+                "e95b8ea6-9d51-4621-bb87-a365121b08bb",
+                "84740b28-54e6-43df-8f50-063191eb1281",
+                "ef34ecf3-de17-4493-82ef-857565ac4340",
+                "ba3b152b-865c-450e-8ac2-8eb346d0e82b",
+                "433f5cb2-eae0-c144-e063-6294a90a9cd9",
+                "ea505cdb-6d89-4b8c-8007-ec5a5fe920ce",
+                "54805cd5-8b81-402d-bb07-ffb5293222b9",
+                "7c8644aa-0bb2-4573-b238-681b82933f0b",
+                "983a3fdc-04ca-4621-a57c-56ad36015d36",
+                "273ae796-6561-4aaf-a38b-ea61be408347",
+                "2f799120-0d08-47cd-8183-a98f0267c845",
+                "db225e5f-9265-4460-ab58-3305246c6258",
+                "5d20d4f6-965c-49b5-b1d1-1a778d565bef",
+                "3324176f-d150-41ad-b21f-a2f75a06c85f",
+                "3779694b-e1cc-44ec-92c3-3299d3734bee",
+                "a0813073-d0b0-4fd7-b307-56f69c910c82",
+                "178ca1de-fc5d-991b-e063-6294a90a2570",
+                "429d0ffe-9774-b285-8534-bb76611da385",
+                "c6b235b0-6b36-4e9b-a214-2b924f0d4126",
+                "162faa32-b6de-4c5d-a971-c908c9a951d2",
+                "d1ff8e50-faf9-4475-9fa0-314a620f8869",
+                "2a224626-a982-4a57-9ff6-8b4f69e0c4c0",
+                "ab45bb85-7915-4e85-8090-1efae274ba18",
+                "4517b811-0a91-89f5-e063-6294a90a9a30",
+                "91b10d2a-111a-4f2b-8b9a-d9c5d4a783f5"
+              ],
+              "spl_set_id": [
+                "41044928-dd1f-40bf-1fa6-709dff559124",
+                "a14f5930-a3ac-4996-9778-df5baa3d0bab",
+                "fa352464-14c8-49e9-b8b7-5a968b1cfa93",
+                "6b8dc373-fa01-42c9-89af-4e00bf00180a",
+                "2a633cef-6dfc-4186-b595-174db2d8330e",
+                "b1b2848b-b265-4f6f-9141-bf106dec0726",
+                "1a8bcc90-68fa-474d-832c-0df01e825f39",
+                "34ac0b9d-d4ad-4aaa-8bee-902365f4e9a8",
+                "b5b17a28-2cab-4c0d-8f9d-7b224e4d0989",
+                "652714c7-25c4-4d05-979d-8eee3b6f2f4d",
+                "cf7bd9ba-5030-479a-8448-3a99395b0d0c",
+                "167ee280-be68-4a28-a7d8-de41df14bc48",
+                "554baee5-b171-4452-a50a-41a0946f956c",
+                "7e7dd743-a87b-4ab3-b6ae-f116cd0c8b0f",
+                "83646a0f-eb43-4871-b95e-683c2533d2be",
+                "c397a9da-862f-4f3f-8109-7d21691de53a",
+                "2719720b-4918-4f08-b1de-b267f404505f",
+                "2f799120-0d08-47cd-8183-a98f0267c845",
+                "48aa32cb-047a-414a-822e-82a5f26d8817",
+                "1632f040-3b2c-43da-a42f-f2baf5ec778a",
+                "f466f8a3-f31c-44f4-b0e8-444464f20f66",
+                "6b6ca65b-4ede-47b9-bbf3-05bb67c0c71d",
+                "a0813073-d0b0-4fd7-b307-56f69c910c82",
+                "6cb19468-be02-4219-9e80-94a28e2317b9",
+                "9a860a4e-d670-d050-499d-eb1fd6b16176",
+                "ae52866a-0b9a-4baf-af1b-f9d5e00c0e56",
+                "260e2041-2bb3-482f-850e-b5d47a7bdbe6",
+                "9e85abed-1a8b-4762-a31f-f2c7f196b8af",
+                "19d0e3e5-f081-4574-9f0a-e7e97a88c7a9",
+                "7a912f1a-deee-46df-a8df-22a0afb06529",
+                "cdb839fb-27e5-4a11-aed6-da0a7ab6e996",
+                "d99b68aa-b3dc-49c8-8894-3da255cd26b0"
+              ],
+              "package_ndc": [
+                "0409-1273-03",
+                "0409-1273-32",
+                "69339-136-93",
+                "69339-136-97",
+                "11704-600-01",
+                "69339-136-02",
+                "69339-136-32",
+                "69339-136-03",
+                "69339-136-34",
+                "43598-106-11",
+                "43598-106-10",
+                "68682-652-20",
+                "68682-655-20",
+                "68682-650-20",
+                "72252-505-02",
+                "72252-505-05",
+                "72252-515-04",
+                "72252-515-10",
+                "72252-510-02",
+                "72252-510-05",
+                "72252-520-04",
+                "72252-520-10",
+                "11534-199-01",
+                "11534-199-04",
+                "11534-199-03",
+                "11534-202-01",
+                "11534-202-04",
+                "11534-202-03",
+                "11534-203-01",
+                "11534-203-04",
+                "11534-203-03",
+                "68475-802-02",
+                "68475-803-02",
+                "68475-804-02",
+                "70710-2078-2",
+                "70710-2079-2",
+                "70710-2080-2",
+                "72572-175-01",
+                "72572-175-10",
+                "68999-767-45",
+                "68999-767-24",
+                "0140-0004-01",
+                "0140-0005-01",
+                "0140-0005-14",
+                "0409-3213-11",
+                "0409-3213-12",
+                "72572-140-01",
+                "72572-140-02",
+                "0378-0271-01",
+                "0378-0271-05",
+                "0378-0345-01",
+                "0378-0345-05",
+                "0378-0477-01",
+                "0378-0477-05",
+                "0641-6244-10",
+                "59651-652-01",
+                "59651-652-05",
+                "59651-653-01",
+                "59651-653-05",
+                "59651-653-99",
+                "59651-654-01",
+                "59651-654-05",
+                "59651-654-99",
+                "0172-3925-60",
+                "0172-3925-70",
+                "0172-3926-60",
+                "0172-3926-70",
+                "0172-3926-80",
+                "0172-3927-60",
+                "0172-3927-70",
+                "0172-3927-80",
+                "46708-811-02",
+                "46708-811-20",
+                "0641-6243-10",
+                "0641-6283-01",
+                "0641-6283-25",
+                "62332-811-02",
+                "62332-811-20",
+                "43066-121-01",
+                "43066-121-10",
+                "43066-123-01",
+                "43066-123-10",
+                "62135-786-90",
+                "62135-787-90",
+                "62135-788-90",
+                "43598-106-58",
+                "76045-204-00",
+                "76045-204-20",
+                "80725-004-01",
+                "80725-005-01",
+                "80725-006-01",
+                "0054-3188-63",
+                "69339-137-01",
+                "69339-137-05",
+                "25021-618-72",
+                "62135-767-45",
+                "62135-767-24",
+                "62135-767-47",
+                "62135-768-43",
+                "43386-280-03",
+                "43386-280-01",
+                "43386-280-02",
+                "43386-281-03",
+                "43386-281-01",
+                "43386-281-02"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "Q3JTX2Q7TU"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "RESTORIL",
+            "openfda": {
+              "application_number": [
+                "NDA018163"
+              ],
+              "brand_name": [
+                "RESTORIL"
+              ],
+              "generic_name": [
+                "TEMAZEPAM"
+              ],
+              "manufacturer_name": [
+                "SpecGx LLC"
+              ],
+              "product_ndc": [
+                "0406-9914",
+                "0406-9915",
+                "0406-9916",
+                "0406-9917"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "TEMAZEPAM"
+              ],
+              "rxcui": [
+                "198241",
+                "198242",
+                "198243",
+                "208463",
+                "208464",
+                "208465",
+                "485489",
+                "539384"
+              ],
+              "spl_id": [
+                "f0ee4fa9-cdff-4111-83a5-0885c81de4e4"
+              ],
+              "spl_set_id": [
+                "bc56f7fd-1aaf-48ff-8aa7-d467e59e1015"
+              ],
+              "package_ndc": [
+                "0406-9915-03",
+                "0406-9915-01",
+                "0406-9916-01",
+                "0406-9914-03",
+                "0406-9917-01"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "CHB1QD2QSS"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "LASIX",
+            "openfda": {
+              "application_number": [
+                "NDA016273"
+              ],
+              "brand_name": [
+                "LASIX"
+              ],
+              "generic_name": [
+                "FUROSEMIDE"
+              ],
+              "manufacturer_name": [
+                "Validus Pharmaceuticals LLC"
+              ],
+              "product_ndc": [
+                "30698-060",
+                "30698-067",
+                "30698-066"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "FUROSEMIDE"
+              ],
+              "rxcui": [
+                "197732",
+                "200801",
+                "200809",
+                "205732",
+                "310429",
+                "313988"
+              ],
+              "spl_id": [
+                "4002943d-0b4b-4ff0-e063-6394a90ae63b"
+              ],
+              "spl_set_id": [
+                "2c9b4d8f-0770-482d-a9e6-9c616a440b1a"
+              ],
+              "package_ndc": [
+                "30698-067-01",
+                "30698-067-10",
+                "30698-060-01",
+                "30698-060-10",
+                "30698-060-50",
+                "30698-066-05",
+                "30698-066-50"
+              ],
+              "nui": [
+                "N0000175366",
+                "N0000175590"
+              ],
+              "pharm_class_pe": [
+                "Increased Diuresis at Loop of Henle [PE]"
+              ],
+              "pharm_class_epc": [
+                "Loop Diuretic [EPC]"
+              ],
+              "unii": [
+                "7LXU5N7ZO5"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "DOCUSATE"
+          }
+        ]
+      }
+    }
+  ]
+}

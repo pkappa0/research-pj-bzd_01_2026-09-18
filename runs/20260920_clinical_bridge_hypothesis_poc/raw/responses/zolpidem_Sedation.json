@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 278
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "1",
+      "safetyreportid": "10067660",
+      "primarysourcecountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141212",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnesshospitalization": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140408",
+      "receiptdateformat": "102",
+      "receiptdate": "20140408",
+      "fulfillexpeditecriteria": "2",
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "2"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "57",
+        "patientonsetageunit": "801",
+        "patientweight": "67",
+        "patientsex": "1",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Dyskinesia"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Muscular weakness"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Fall"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Decreased appetite"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Somnolence"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Vision blurred"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Confusional state"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Sedation"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "MORPHINE",
+            "drugstructuredosagenumb": "15",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "2",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugadministrationroute": "048",
+            "drugindication": "PAIN",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20140102",
+            "drugenddateformat": "102",
+            "drugenddate": "20140303",
+            "drugadditional": "1",
+            "openfda": {
+              "brand_name": [
+                "OPIUM TINCTURE DEODORIZED",
+                "OPIUM"
+              ],
+              "generic_name": [
+                "MORPHINE"
+              ],
+              "manufacturer_name": [
+                "Edenbridge Pharmaceuticals, LLC",
+                "Genus Lifesciences Inc."
+              ],
+              "product_ndc": [
+                "42799-217",
+                "64950-258"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "MORPHINE"
+              ],
+              "rxcui": [
+                "830196"
+              ],
+              "spl_id": [
+                "46e15fdb-940a-7018-e063-6294a90a9cc1",
+                "b937d1d0-9ed8-4aa3-9e4a-cce02870e7e9"
+              ],
+              "spl_set_id": [
+                "e2a5697a-cc41-4cf1-b3a8-59b0268740d7",
+                "8a77894b-2137-4f46-8dff-5c7b773d4d16"
+              ],
+              "package_ndc": [
+                "42799-217-01",
+                "42799-217-02",
+                "64950-258-11"
+              ],
+              "nui": [
+                "N0000175684",
+                "N0000175690"
+              ],
+              "pharm_class_moa": [
+                "Full Opioid Agonists [MoA]"
+              ],
+              "pharm_class_epc": [
+                "Opioid Agonist [EPC]"
+              ],
+              "unii": [
+                "76I7G6D29C"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "ZOLPIDEM",
+            "drugauthorizationnumb": "077903",
+            "drugstructuredosagenumb": "10",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "AT BEDTIME",
+            "drugadministrationroute": "048",
+            "drugindication": "PAIN",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20121016",
+            "drugenddateformat": "102",
+            "drugenddate": "20140303",
+            "drugadditional": "1",
+            "openfda": {
+              "application_number": [
+                "ANDA077214"
+              ],
+              "brand_name": [
+                "ZOLPIDEM"
+              ],
+              "generic_name": [
+                "ZOLPIDEM TARTRATE"
+              ],
+              "manufacturer_name": [
+                "ACI Healthcare USA, Inc"
+              ],
+              "product_ndc": [
+                "71093-155",
+                "71093-156"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ZOLPIDEM TARTRATE"
+              ],
+              "rxcui": [
+                "854873",
+                "854876"
+              ],
+              "spl_id": [
+                "69a3d187-578f-4e49-b8b3-109219a7bdf6"
+              ],
+              "spl_set_id": [
+                "021153ce-fe27-4ed1-8d88-b4157b0ed734"
+              ],
+              "package_ndc": [
+                "71093-155-06",
+                "71093-155-04",
+                "71093-156-04",
+                "71093-156-06"
+              ],
+              "unii": [
+                "WY6W63843K"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

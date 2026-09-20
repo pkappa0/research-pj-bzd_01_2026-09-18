@@ -1,0 +1,1 @@
+User-authorized 2026-09-20 extension: primary axis is fixed multi-receptor X versus independently frozen clinical Y. Same-receptor drug contrasts retained; alpha1/alpha2 not replicates. No docking, reselection, ML, mediation or causal inference. Original analysis contract is snapshotted and unchanged. Clinical terms and all analysis rules are fixed before clinical retrieval.

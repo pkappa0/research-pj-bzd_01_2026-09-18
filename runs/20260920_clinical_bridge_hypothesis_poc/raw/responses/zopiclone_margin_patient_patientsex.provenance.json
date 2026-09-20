@@ -1,0 +1,12 @@
+{
+  "key": "zopiclone_margin_patient_patientsex",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29&count=patient.patientsex&limit=100",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\")",
+    "count": "patient.patientsex",
+    "limit": 100
+  },
+  "retrieved_utc": "2026-09-20T01:54:55.377284+00:00",
+  "http_status": 200,
+  "sha256": "a87206b27f67c8682bc0c8bf64f57dab8f0f1f538a10795428340e906c19d7eb"
+}

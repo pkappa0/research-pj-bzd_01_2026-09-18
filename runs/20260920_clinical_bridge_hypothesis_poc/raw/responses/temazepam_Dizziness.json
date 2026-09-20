@@ -1,0 +1,384 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1658
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "1",
+      "safetyreportid": "10022023",
+      "primarysourcecountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20140711",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnessother": "1",
+      "receivedateformat": "102",
+      "receivedate": "20131205",
+      "receiptdateformat": "102",
+      "receiptdate": "20131205",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "M-13-055",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "JEROME STEVENS",
+        "duplicatenumb": "M-13-055"
+      },
+      "primarysource": {
+        "reportercountry": "US"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "65",
+        "patientonsetageunit": "801",
+        "patientsex": "2",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Drug ineffective"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Dizziness"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Chills"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Skin burning sensation"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Lethargy"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Paraesthesia"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Discomfort"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Thyroid function test abnormal"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Feeling abnormal"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Malaise"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Activities of daily living impaired"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "LEVOTHYROXINE",
+            "drugauthorizationnumb": "21210",
+            "drugstructuredosagenumb": "75",
+            "drugstructuredosageunit": "004",
+            "drugdosagetext": "75 MCG - MORNING",
+            "drugindication": "HYPOTHYROIDISM",
+            "drugrecurreadministration": "1",
+            "drugadditional": "1"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "OMPRAZOLE"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TEMAZEPAM",
+            "openfda": {
+              "application_number": [
+                "ANDA203482",
+                "ANDA071620",
+                "ANDA211542",
+                "ANDA071456",
+                "ANDA071457",
+                "ANDA201781",
+                "NDA018163"
+              ],
+              "brand_name": [
+                "TEMAZEPAM",
+                "RESTORIL"
+              ],
+              "generic_name": [
+                "TEMAZEPAM"
+              ],
+              "manufacturer_name": [
+                "Amneal Pharmaceuticals LLC",
+                "Actavis Pharma, Inc.",
+                "Alembic Pharmaceuticals Limited",
+                "Ascend Laboratories, LLC",
+                "Alembic Pharmaceuticals Inc.",
+                "Solco Healthcare U.S., LLC",
+                "SpecGx LLC",
+                "Amneal Pharmaceuticals of New York LLC"
+              ],
+              "product_ndc": [
+                "65162-556",
+                "65162-583",
+                "65162-584",
+                "65162-557",
+                "0228-2076",
+                "0228-2077",
+                "46708-379",
+                "46708-380",
+                "46708-381",
+                "46708-382",
+                "67877-146",
+                "67877-148",
+                "67877-149",
+                "67877-147",
+                "62332-379",
+                "62332-380",
+                "62332-381",
+                "62332-382",
+                "43547-611",
+                "43547-612",
+                "43547-613",
+                "43547-614",
+                "0406-9914",
+                "0406-9915",
+                "0406-9916",
+                "0406-9917",
+                "0406-9959",
+                "0406-9960",
+                "0406-9961",
+                "0406-9962",
+                "53746-556",
+                "53746-557"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "TEMAZEPAM"
+              ],
+              "rxcui": [
+                "198241",
+                "198242",
+                "198243",
+                "485489",
+                "208463",
+                "208464",
+                "208465",
+                "539384"
+              ],
+              "spl_id": [
+                "20d2675f-af6d-480c-9152-6f722fb1ea22",
+                "3050ee1e-c494-48ce-be40-6424e9661d87",
+                "387adad5-eb5e-429f-bc8a-b9ace387bc3f",
+                "23e08cbc-80d4-4938-8d56-10e7682b5336",
+                "f6347a33-09dd-4938-92eb-4bcc48a31cfa",
+                "5f04458d-b81c-47f8-ab06-3c47dffc5e4d",
+                "f0ee4fa9-cdff-4111-83a5-0885c81de4e4",
+                "973fc0b9-31b8-4958-9cb6-bd1ae12538e9",
+                "18d70b19-ff94-443e-8169-cb7e87895146"
+              ],
+              "spl_set_id": [
+                "be68c6e0-17ad-40fe-9bc1-58abe24b53f6",
+                "a4370eb4-b00d-4247-af8d-980e59fbbec6",
+                "db839409-8e95-41d3-804e-dcd5d11f4934",
+                "8f54731f-c5b7-492c-acb0-444c5fbb7029",
+                "93b1be7f-ec41-46bb-a258-56cb459e2c92",
+                "3ce42f0e-821e-4c9a-8f6b-60621628fd4b",
+                "bc56f7fd-1aaf-48ff-8aa7-d467e59e1015",
+                "c9bc61b4-a579-4003-98da-b6f6e381c150",
+                "6248295e-8176-48f8-8e9d-bba6deacaf0d"
+              ],
+              "package_ndc": [
+                "65162-583-03",
+                "65162-583-10",
+                "65162-583-50",
+                "65162-583-11",
+                "65162-556-03",
+                "65162-556-10",
+                "65162-556-50",
+                "65162-556-11",
+                "65162-584-03",
+                "65162-584-10",
+                "65162-584-50",
+                "65162-584-11",
+                "65162-557-03",
+                "65162-557-10",
+                "65162-557-50",
+                "65162-557-11",
+                "0228-2076-10",
+                "0228-2076-50",
+                "0228-2077-10",
+                "0228-2077-50",
+                "46708-379-30",
+                "46708-379-31",
+                "46708-380-30",
+                "46708-380-90",
+                "46708-380-31",
+                "46708-380-71",
+                "46708-381-30",
+                "46708-382-30",
+                "46708-382-90",
+                "46708-382-31",
+                "46708-382-71",
+                "67877-148-30",
+                "67877-148-01",
+                "67877-148-05",
+                "67877-146-01",
+                "67877-146-05",
+                "67877-149-01",
+                "67877-149-05",
+                "67877-149-30",
+                "67877-147-01",
+                "67877-147-05",
+                "62332-379-30",
+                "62332-379-31",
+                "62332-380-30",
+                "62332-380-90",
+                "62332-380-31",
+                "62332-380-71",
+                "62332-381-30",
+                "62332-382-30",
+                "62332-382-90",
+                "62332-382-31",
+                "62332-382-71",
+                "43547-611-10",
+                "43547-612-10",
+                "43547-612-50",
+                "43547-613-03",
+                "43547-614-10",
+                "43547-614-50",
+                "0406-9915-03",
+                "0406-9915-01",
+                "0406-9916-01",
+                "0406-9914-03",
+                "0406-9917-01",
+                "0406-9960-01",
+                "0406-9959-03",
+                "0406-9961-01",
+                "0406-9962-01",
+                "53746-556-01",
+                "53746-556-05",
+                "53746-557-01",
+                "53746-557-05"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "CHB1QD2QSS"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "MULTIVITAMINS"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "CRANBERRY SUPPLEMENT"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "POTASSIUM"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "CALCIUM",
+            "openfda": {
+              "brand_name": [
+                "7030 CALCIUM PREMIUM",
+                "AG-X",
+                "7030 CALCIUM GOLD"
+              ],
+              "generic_name": [
+                "CALCIUM"
+              ],
+              "manufacturer_name": [
+                "Apexel Co., Ltd",
+                "APEXEL CO., LTD."
+              ],
+              "product_ndc": [
+                "55259-1112",
+                "55259-0007",
+                "55259-0001"
+              ],
+              "product_type": [
+                "HUMAN OTC DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "CALCIUM"
+              ],
+              "spl_id": [
+                "0fa8135f-89c9-41a2-e063-6294a90a403d",
+                "11cc283a-fe2c-f101-e063-6294a90ad2d4",
+                "11cc310a-d82e-be44-e063-6394a90a227c"
+              ],
+              "spl_set_id": [
+                "bdc7c833-daf7-48f9-e053-2995a90ad88e",
+                "bdee5e24-645b-7fa0-e053-2995a90a7d25",
+                "bdc7c088-83e3-20ce-e053-2995a90abd2f"
+              ],
+              "package_ndc": [
+                "55259-1112-1",
+                "55259-0007-1",
+                "55259-0001-1"
+              ],
+              "nui": [
+                "M0003153",
+                "N0000175901"
+              ],
+              "pharm_class_cs": [
+                "Calcium [CS]"
+              ],
+              "pharm_class_epc": [
+                "Calcium [EPC]"
+              ],
+              "unii": [
+                "SY7Q814VUP"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "ISOFLAVONES SOY"
+          }
+        ]
+      }
+    }
+  ]
+}

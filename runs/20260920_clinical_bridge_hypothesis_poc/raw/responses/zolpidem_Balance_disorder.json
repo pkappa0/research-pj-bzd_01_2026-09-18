@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 392
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "1",
+      "safetyreportid": "10036207",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141002",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnessother": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140325",
+      "receiptdateformat": "102",
+      "receiptdate": "20140325",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "US-PFIZER INC-2014080977",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "PFIZER",
+        "duplicatenumb": "US-PFIZER INC-2014080977"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "5"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "47",
+        "patientonsetageunit": "801",
+        "patientweight": "124.35",
+        "patientsex": "2",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Dysarthria",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Aphasia",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Balance disorder",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Dizziness",
+            "reactionoutcome": "6"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "LYRICA",
+            "drugauthorizationnumb": "021446",
+            "drugstructuredosagenumb": "75",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "2",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosagetext": "75 MG, 2X/DAY",
+            "drugdosageform": "CAPSULE, HARD",
+            "drugadministrationroute": "048",
+            "drugindication": "FIBROMYALGIA",
+            "actiondrug": "1",
+            "openfda": {
+              "application_number": [
+                "NDA021446",
+                "NDA022488"
+              ],
+              "brand_name": [
+                "LYRICA"
+              ],
+              "generic_name": [
+                "PREGABALIN"
+              ],
+              "manufacturer_name": [
+                "Parke-Davis Div of Pfizer Inc",
+                "Viatris Specialty LLC"
+              ],
+              "product_ndc": [
+                "0071-1018",
+                "0071-1012",
+                "0071-1013",
+                "0071-1014",
+                "0071-1015",
+                "0071-1016",
+                "0071-1017",
+                "0071-1019",
+                "0071-1020",
+                "58151-236",
+                "58151-237",
+                "58151-238",
+                "58151-239",
+                "58151-240",
+                "58151-241",
+                "58151-243",
+                "58151-242",
+                "58151-244"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "PREGABALIN"
+              ],
+              "rxcui": [
+                "483438",
+                "483440",
+                "483442",
+                "483444",
+                "483446",
+                "483448",
+                "483450",
+                "577127",
+                "607018",
+                "607020",
+                "607022",
+                "607024",
+                "607026",
+                "607028",
+                "607033",
+                "607038",
+                "898715",
+                "898718"
+              ],
+              "spl_id": [
+                "e7c79058-03ba-4e7f-9a31-9ec5ce245161",
+                "1c2af07d-faf4-4fc7-b724-c5166746956d"
+              ],
+              "spl_set_id": [
+                "60185c88-ecfd-46f9-adb9-b97c6b00a553",
+                "d4734e7d-5079-455e-8ff5-8f4539c998a9"
+              ],
+              "package_ndc": [
+                "0071-1012-68",
+                "0071-1013-41",
+                "0071-1013-68",
+                "0071-1014-41",
+                "0071-1014-68",
+                "0071-1015-41",
+                "0071-1015-68",
+                "0071-1016-41",
+                "0071-1016-68",
+                "0071-1017-68",
+                "0071-1019-68",
+                "0071-1018-68",
+                "0071-1020-01",
+                "58151-236-77",
+                "58151-237-32",
+                "58151-237-88",
+                "58151-237-77",
+                "58151-238-32",
+                "58151-238-88",
+                "58151-238-77",
+                "58151-239-32",
+                "58151-239-88",
+                "58151-239-77",
+                "58151-240-32",
+                "58151-240-88",
+                "58151-240-77",
+                "58151-241-77",
+                "58151-243-77",
+                "58151-242-77",
+                "58151-244-35"
+              ],
+              "unii": [
+                "55JG375S6M"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "LYRICA",
+            "drugauthorizationnumb": "021446",
+            "drugdosageform": "CAPSULE, HARD",
+            "drugindication": "SJOGREN^S SYNDROME",
+            "actiondrug": "1",
+            "openfda": {
+              "application_number": [
+                "NDA021446",
+                "NDA022488"
+              ],
+              "brand_name": [
+                "LYRICA"
+              ],
+              "generic_name": [
+                "PREGABALIN"
+              ],
+              "manufacturer_name": [
+                "Parke-Davis Div of Pfizer Inc",
+                "Viatris Specialty LLC"
+              ],
+              "product_ndc": [
+                "0071-1018",
+                "0071-1012",
+                "0071-1013",
+                "0071-1014",
+                "0071-1015",
+                "0071-1016",
+                "0071-1017",
+                "0071-1019",
+                "0071-1020",
+                "58151-236",
+                "58151-237",
+                "58151-238",
+                "58151-239",
+                "58151-240",
+                "58151-241",
+                "58151-243",
+                "58151-242",
+                "58151-244"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "PREGABALIN"
+              ],
+              "rxcui": [
+                "483438",
+                "483440",
+                "483442",
+                "483444",
+                "483446",
+                "483448",
+                "483450",
+                "577127",
+                "607018",
+                "607020",
+                "607022",
+                "607024",
+                "607026",
+                "607028",
+                "607033",
+                "607038",
+                "898715",
+                "898718"
+              ],
+              "spl_id": [
+                "e7c79058-03ba-4e7f-9a31-9ec5ce245161",
+                "1c2af07d-faf4-4fc7-b724-c5166746956d"
+              ],
+              "spl_set_id": [
+                "60185c88-ecfd-46f9-adb9-b97c6b00a553",
+                "d4734e7d-5079-455e-8ff5-8f4539c998a9"
+              ],
+              "package_ndc": [
+                "0071-1012-68",
+                "0071-1013-41",
+                "0071-1013-68",
+                "0071-1014-41",
+                "0071-1014-68",
+                "0071-1015-41",
+                "0071-1015-68",
+                "0071-1016-41",
+                "0071-1016-68",
+                "0071-1017-68",
+                "0071-1019-68",
+                "0071-1018-68",
+                "0071-1020-01",
+                "58151-236-77",
+                "58151-237-32",
+                "58151-237-88",
+                "58151-237-77",
+                "58151-238-32",
+                "58151-238-88",
+                "58151-238-77",
+                "58151-239-32",
+                "58151-239-88",
+                "58151-239-77",
+                "58151-240-32",
+                "58151-240-88",
+                "58151-240-77",
+                "58151-241-77",
+                "58151-243-77",
+                "58151-242-77",
+                "58151-244-35"
+              ],
+              "unii": [
+                "55JG375S6M"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "PLAQUENIL",
+            "drugstructuredosagenumb": "200",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "2",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosagetext": "200 MG, 2X/DAY",
+            "openfda": {
+              "application_number": [
+                "NDA009768"
+              ],
+              "brand_name": [
+                "PLAQUENIL"
+              ],
+              "generic_name": [
+                "HYDROXYCHLOROQUINE SULFATE"
+              ],
+              "manufacturer_name": [
+                "Advanz Pharma (US) Corp."
+              ],
+              "product_ndc": [
+                "59212-562"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "HYDROXYCHLOROQUINE SULFATE"
+              ],
+              "rxcui": [
+                "979092",
+                "979094"
+              ],
+              "spl_id": [
+                "1138fd4e-dfba-4c96-a5ec-60f8bc1ba746"
+              ],
+              "spl_set_id": [
+                "34496b43-05a2-45fb-a769-52b12e099341"
+              ],
+              "package_ndc": [
+                "59212-562-10",
+                "59212-562-60",
+                "59212-562-11"
+              ],
+              "unii": [
+                "8Q2869CNVH"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "CELLCEPT",
+            "drugdosagetext": "UNK",
+            "openfda": {
+              "application_number": [
+                "NDA050722",
+                "NDA050723",
+                "NDA050759",
+                "NDA050758"
+              ],
+              "brand_name": [
+                "CELLCEPT"
+              ],
+              "generic_name": [
+                "MYCOPHENOLATE MOFETIL",
+                "MYCOPHENOLATE MOFETIL HYDROCHLORIDE"
+              ],
+              "manufacturer_name": [
+                "Genentech, Inc."
+              ],
+              "product_ndc": [
+                "0004-0259",
+                "0004-0260",
+                "0004-0298",
+                "0004-0261"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL",
+                "INTRAVENOUS"
+              ],
+              "substance_name": [
+                "MYCOPHENOLATE MOFETIL",
+                "MYCOPHENOLATE MOFETIL HYDROCHLORIDE"
+              ],
+              "rxcui": [
+                "199058",
+                "200060",
+                "213394",
+                "311880",
+                "311881",
+                "616435",
+                "616444",
+                "616447"
+              ],
+              "spl_id": [
+                "1e79ff42-b246-420f-96af-a7b8cbf6e76e"
+              ],
+              "spl_set_id": [
+                "37241e87-4af4-4dc3-a1aa-ea6f20d8dc40"
+              ],
+              "package_ndc": [
+                "0004-0260-01",
+                "0004-0260-43",
+                "0004-0259-01",
+                "0004-0259-43",
+                "0004-0298-09",
+                "0004-0261-29"
+              ],
+              "unii": [
+                "UXH81S8ZVB",
+                "9242ECW6R0"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "EFFEXOR",
+            "drugdosagetext": "UNK",
+            "openfda": {
+              "application_number": [
+                "NDA020699"
+              ],
+              "brand_name": [
+                "EFFEXOR XR"
+              ],
+              "generic_name": [
+                "VENLAFAXINE HYDROCHLORIDE"
+              ],
+              "manufacturer_name": [
+                "Viatris Specialty LLC"
+              ],
+              "product_ndc": [
+                "58151-125",
+                "58151-126",
+                "58151-127"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "VENLAFAXINE HYDROCHLORIDE"
+              ],
+              "rxcui": [
+                "313581",
+                "313583",
+                "313585",
+                "729929",
+                "729931",
+                "729932"
+              ],
+              "spl_id": [
+                "2319042f-5d24-42d3-9b0a-8893bed66813"
+              ],
+              "spl_set_id": [
+                "c848a5d8-ba94-4c84-80e3-0bf35fb8e32e"
+              ],
+              "package_ndc": [
+                "58151-125-93",
+                "58151-125-77",
+                "58151-126-93",
+                "58151-126-77",
+                "58151-127-93",
+                "58151-127-77"
+              ],
+              "unii": [
+                "7D7RX5A8MO"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "ZOLPIDEM",
+            "drugdosagetext": "UNK",
+            "openfda": {
+              "application_number": [
+                "ANDA077214"
+              ],
+              "brand_name": [
+                "ZOLPIDEM"
+              ],
+              "generic_name": [
+                "ZOLPIDEM TARTRATE"
+              ],
+              "manufacturer_name": [
+                "ACI Healthcare USA, Inc"
+              ],
+              "product_ndc": [
+                "71093-155",
+                "71093-156"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ZOLPIDEM TARTRATE"
+              ],
+              "rxcui": [
+                "854873",
+                "854876"
+              ],
+              "spl_id": [
+                "69a3d187-578f-4e49-b8b3-109219a7bdf6"
+              ],
+              "spl_set_id": [
+                "021153ce-fe27-4ed1-8d88-b4157b0ed734"
+              ],
+              "package_ndc": [
+                "71093-155-06",
+                "71093-155-04",
+                "71093-156-04",
+                "71093-156-06"
+              ],
+              "unii": [
+                "WY6W63843K"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

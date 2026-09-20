@@ -1,0 +1,11 @@
+{
+  "key": "triazolam_Coordination_abnormal",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COORDINATION+ABNORMAL%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"COORDINATION ABNORMAL\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:52:55.148155+00:00",
+  "http_status": 200,
+  "sha256": "d07a2422b3ed5cf079a7f63e00391359e95ae9f885beb0b7b69fa9e164c95816"
+}

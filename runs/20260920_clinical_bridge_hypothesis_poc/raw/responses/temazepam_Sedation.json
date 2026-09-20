@@ -1,0 +1,499 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 202
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "4",
+      "safetyreportid": "10203667",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20150821",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnessother": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140529",
+      "receiptdateformat": "102",
+      "receiptdate": "20150524",
+      "fulfillexpeditecriteria": "2",
+      "companynumb": "US-JNJFOC-20140510887",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "JANSSEN",
+        "duplicatenumb": "US-JNJFOC-20140510887"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "5"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "74",
+        "patientonsetageunit": "801",
+        "patientagegroup": "6",
+        "patientweight": "81.65",
+        "patientsex": "2",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Feeling abnormal",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Treatment noncompliance",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Urinary tract infection",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Drug effect increased",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Sedation",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Hypertension",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Lethargy",
+            "reactionoutcome": "1"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "RESTORIL",
+            "drugstructuredosagenumb": "15",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "AT NIGHT",
+            "drugdosageform": "UNKNOWN",
+            "drugadministrationroute": "048",
+            "drugindication": "SLEEP DISORDER",
+            "activesubstance": {
+              "activesubstancename": "TEMAZEPAM"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA018163"
+              ],
+              "brand_name": [
+                "RESTORIL"
+              ],
+              "generic_name": [
+                "TEMAZEPAM"
+              ],
+              "manufacturer_name": [
+                "SpecGx LLC"
+              ],
+              "product_ndc": [
+                "0406-9914",
+                "0406-9915",
+                "0406-9916",
+                "0406-9917"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "TEMAZEPAM"
+              ],
+              "rxcui": [
+                "198241",
+                "198242",
+                "198243",
+                "208463",
+                "208464",
+                "208465",
+                "485489",
+                "539384"
+              ],
+              "spl_id": [
+                "f0ee4fa9-cdff-4111-83a5-0885c81de4e4"
+              ],
+              "spl_set_id": [
+                "bc56f7fd-1aaf-48ff-8aa7-d467e59e1015"
+              ],
+              "package_ndc": [
+                "0406-9915-03",
+                "0406-9915-01",
+                "0406-9916-01",
+                "0406-9914-03",
+                "0406-9917-01"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "CHB1QD2QSS"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "DIOVAN",
+            "drugstructuredosagenumb": "30",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosageform": "UNKNOWN",
+            "drugadministrationroute": "048",
+            "drugindication": "HYPERTENSION",
+            "activesubstance": {
+              "activesubstancename": "VALSARTAN"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA021283"
+              ],
+              "brand_name": [
+                "DIOVAN"
+              ],
+              "generic_name": [
+                "VALSARTAN"
+              ],
+              "manufacturer_name": [
+                "Novartis Pharmaceuticals Corporation"
+              ],
+              "product_ndc": [
+                "0078-0358",
+                "0078-0423",
+                "0078-1245",
+                "0078-0359",
+                "0078-1252",
+                "0078-0360",
+                "0078-1259"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "VALSARTAN"
+              ],
+              "rxcui": [
+                "349199",
+                "349200",
+                "349201",
+                "349483",
+                "351761",
+                "351762",
+                "352001",
+                "352274"
+              ],
+              "spl_id": [
+                "8b57e357-5cfb-49a6-a600-59ce118fd1e9"
+              ],
+              "spl_set_id": [
+                "5ddba454-f3e6-43c2-a7a6-58365d297213"
+              ],
+              "package_ndc": [
+                "0078-0423-15",
+                "0078-0358-34",
+                "0078-1245-34",
+                "0078-0359-34",
+                "0078-1252-34",
+                "0078-0360-34",
+                "0078-1259-34"
+              ],
+              "nui": [
+                "N0000000070",
+                "N0000175561"
+              ],
+              "pharm_class_moa": [
+                "Angiotensin 2 Receptor Antagonists [MoA]"
+              ],
+              "pharm_class_epc": [
+                "Angiotensin 2 Receptor Blocker [EPC]"
+              ],
+              "unii": [
+                "80M03YXJ7I"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "FENTANYL TRANSDERMAL SYSTEM",
+            "drugbatchnumb": "1400137P1",
+            "drugauthorizationnumb": "019813",
+            "drugdosageform": "UNSPECIFIED",
+            "drugadministrationroute": "062",
+            "drugindication": "BACK PAIN",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20140507",
+            "drugenddateformat": "102",
+            "drugenddate": "20140511",
+            "actiondrug": "1",
+            "drugrecurreadministration": "3",
+            "activesubstance": {
+              "activesubstancename": "FENTANYL"
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TENORMIN",
+            "drugdosageform": "UNKNOWN",
+            "drugadministrationroute": "048",
+            "drugindication": "HYPERTENSION",
+            "activesubstance": {
+              "activesubstancename": "ATENOLOL"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA018240"
+              ],
+              "brand_name": [
+                "TENORMIN"
+              ],
+              "generic_name": [
+                "ATENOLOL"
+              ],
+              "manufacturer_name": [
+                "Almatica Pharma LLC",
+                "Upsher-Smith Laboratories, LLC"
+              ],
+              "product_ndc": [
+                "52427-430",
+                "52427-429",
+                "52427-431",
+                "24979-244",
+                "24979-245",
+                "24979-246"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ATENOLOL"
+              ],
+              "rxcui": [
+                "150750",
+                "152414",
+                "197379",
+                "197380",
+                "197381",
+                "201322"
+              ],
+              "spl_id": [
+                "ecd0de7b-801e-a5d6-01b7-01b89a8f3a78",
+                "c804fa73-5b5a-4e20-a1f5-6a13155df21f"
+              ],
+              "spl_set_id": [
+                "746db603-a6e1-4dc3-c2d8-92314419098c",
+                "6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a"
+              ],
+              "package_ndc": [
+                "52427-429-90",
+                "52427-430-90",
+                "52427-431-90",
+                "24979-244-07",
+                "24979-245-07",
+                "24979-246-07"
+              ],
+              "nui": [
+                "N0000000161",
+                "N0000175556"
+              ],
+              "pharm_class_moa": [
+                "Adrenergic beta-Antagonists [MoA]"
+              ],
+              "pharm_class_epc": [
+                "beta-Adrenergic Blocker [EPC]"
+              ],
+              "unii": [
+                "50VV3VW0TI"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "LOVASTATIN.",
+            "drugstructuredosagenumb": "40",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosageform": "UNKNOWN",
+            "drugadministrationroute": "048",
+            "drugindication": "BLOOD CHOLESTEROL INCREASED",
+            "activesubstance": {
+              "activesubstancename": "LOVASTATIN"
+            },
+            "openfda": {
+              "application_number": [
+                "ANDA078296",
+                "ANDA075991",
+                "ANDA075551"
+              ],
+              "brand_name": [
+                "LOVASTATIN"
+              ],
+              "generic_name": [
+                "LOVASTATIN"
+              ],
+              "manufacturer_name": [
+                "Lupin Pharmaceuticals, Inc.",
+                "Carlsbad Technology, Inc.",
+                "Teva Pharmaceuticals USA, Inc.",
+                "BluePoint Laboratories"
+              ],
+              "product_ndc": [
+                "68180-467",
+                "68180-468",
+                "68180-469",
+                "61442-141",
+                "61442-142",
+                "61442-143",
+                "0093-0576",
+                "0093-0926",
+                "0093-0928",
+                "68001-314",
+                "68001-315",
+                "68001-316"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "LOVASTATIN"
+              ],
+              "rxcui": [
+                "197903",
+                "197904",
+                "197905"
+              ],
+              "spl_id": [
+                "ebd1b7a8-bc2e-4f09-99b0-1e46a971d4f7",
+                "2b25a4a4-f5e2-df71-e063-6294a90abfda",
+                "caf8172a-311b-447a-8c8b-e9d70c23c8e8",
+                "52cf32e6-c51f-6fa2-e063-6394a90adb97"
+              ],
+              "spl_set_id": [
+                "df7ddf4f-d569-431e-81f1-9129d7043150",
+                "0a680e13-0356-4e08-a7fe-78b96ba51b9d",
+                "0e15feec-d27e-4861-8152-c5a8b8ccacd4",
+                "7b86160d-74a9-4774-b5b3-5641e686991f"
+              ],
+              "package_ndc": [
+                "68180-467-09",
+                "68180-467-07",
+                "68180-467-01",
+                "68180-467-03",
+                "68180-467-05",
+                "68180-468-07",
+                "68180-468-01",
+                "68180-468-03",
+                "68180-468-05",
+                "68180-468-09",
+                "68180-469-07",
+                "68180-469-01",
+                "68180-469-03",
+                "68180-469-05",
+                "68180-469-09",
+                "61442-142-60",
+                "61442-142-01",
+                "61442-142-05",
+                "61442-142-10",
+                "61442-143-60",
+                "61442-143-01",
+                "61442-143-05",
+                "61442-143-10",
+                "61442-141-60",
+                "61442-141-01",
+                "61442-141-05",
+                "61442-141-10",
+                "0093-0926-06",
+                "0093-0926-10",
+                "0093-0576-06",
+                "0093-0576-10",
+                "0093-0928-06",
+                "0093-0928-10",
+                "68001-314-00",
+                "68001-314-08",
+                "68001-315-00",
+                "68001-315-08",
+                "68001-316-00",
+                "68001-316-08"
+              ],
+              "nui": [
+                "N0000175589",
+                "N0000000121"
+              ],
+              "pharm_class_epc": [
+                "HMG-CoA Reductase Inhibitor [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Hydroxymethylglutaryl-CoA Reductase Inhibitors [MoA]"
+              ],
+              "unii": [
+                "9LHU78OQFD"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "LORTAB",
+            "drugstructuredosagenumb": "10",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "AS NEEDED",
+            "drugdosageform": "UNKNOWN",
+            "drugadministrationroute": "048",
+            "drugindication": "PAIN",
+            "activesubstance": {
+              "activesubstancename": "ACETAMINOPHEN\\HYDROCODONE BITARTRATE"
+            }
+          }
+        ],
+        "summary": {
+          "narrativeincludeclinical": "CASE EVENT DATE: 20140511"
+        }
+      }
+    }
+  ]
+}

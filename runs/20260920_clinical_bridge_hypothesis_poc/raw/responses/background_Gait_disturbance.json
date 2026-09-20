@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 185496
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "2",
+      "safetyreportid": "10003530",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141212",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnessother": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140312",
+      "receiptdateformat": "102",
+      "receiptdate": "20140603",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "PHEH2014US004864",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "NOVARTIS",
+        "duplicatenumb": "PHEH2014US004864"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "1"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "24",
+        "patientonsetageunit": "801",
+        "patientweight": "116.1",
+        "patientsex": "1",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Oedema peripheral",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Gait disturbance",
+            "reactionoutcome": "3"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "FANAPT",
+            "drugauthorizationnumb": "022192",
+            "drugstructuredosagenumb": "6",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "2",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosagetext": "6 MG, BID",
+            "drugadministrationroute": "048",
+            "drugindication": "SCHIZOPHRENIA",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20140205",
+            "actiondrug": "1",
+            "drugrecurreadministration": "3",
+            "openfda": {
+              "application_number": [
+                "NDA022192"
+              ],
+              "brand_name": [
+                "FANAPT"
+              ],
+              "generic_name": [
+                "ILOPERIDONE"
+              ],
+              "manufacturer_name": [
+                "Vanda Pharmaceuticals Inc."
+              ],
+              "product_ndc": [
+                "43068-101",
+                "43068-102",
+                "43068-104",
+                "43068-106",
+                "43068-108",
+                "43068-110",
+                "43068-112",
+                "43068-113",
+                "43068-114",
+                "43068-115",
+                "43068-901",
+                "43068-902",
+                "43068-903",
+                "43068-904",
+                "43068-905",
+                "43068-906",
+                "43068-907"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ILOPERIDONE"
+              ],
+              "rxcui": [
+                "848722",
+                "848726",
+                "848728",
+                "848730",
+                "848732",
+                "848734",
+                "848736",
+                "848738",
+                "848740",
+                "848742",
+                "848744",
+                "848746",
+                "848748",
+                "848750",
+                "848751",
+                "848752",
+                "2714234",
+                "2714235",
+                "2720356",
+                "2720357"
+              ],
+              "spl_id": [
+                "2609a5b3-d7ec-48a9-a32b-54a9b207f9aa"
+              ],
+              "spl_set_id": [
+                "33f60b40-3fca-11de-8f56-0002a5d5c51b"
+              ],
+              "package_ndc": [
+                "43068-101-02",
+                "43068-102-02",
+                "43068-104-02",
+                "43068-106-02",
+                "43068-108-02",
+                "43068-110-02",
+                "43068-112-02",
+                "43068-113-04",
+                "43068-114-03",
+                "43068-115-04",
+                "43068-901-14",
+                "43068-902-14",
+                "43068-903-08",
+                "43068-904-14",
+                "43068-905-14",
+                "43068-906-08",
+                "43068-907-12"
+              ],
+              "nui": [
+                "N0000175430"
+              ],
+              "pharm_class_epc": [
+                "Atypical Antipsychotic [EPC]"
+              ],
+              "unii": [
+                "VPO7KJ050N"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "COGENTIN",
+            "drugstructuredosagenumb": "2",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "2 MG, UNK",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20140205",
+            "actiondrug": "5",
+            "drugrecurreadministration": "3"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "COGENTIN",
+            "drugstructuredosagenumb": "1",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosagetext": "1 MG, QD",
+            "actiondrug": "5",
+            "drugrecurreadministration": "3"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "BUSPIRONE",
+            "drugstructuredosagenumb": "20",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "20 MG, UNK",
+            "actiondrug": "5",
+            "drugrecurreadministration": "3",
+            "openfda": {}
+          }
+        ]
+      }
+    }
+  ]
+}

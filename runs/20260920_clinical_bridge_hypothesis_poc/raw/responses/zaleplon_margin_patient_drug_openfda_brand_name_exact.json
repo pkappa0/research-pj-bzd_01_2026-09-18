@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30"
+  },
+  "results": [
+    {
+      "term": "ZALEPLON",
+      "count": 1544
+    },
+    {
+      "term": "NEURONTIN",
+      "count": 306
+    },
+    {
+      "term": "XYREM",
+      "count": 302
+    },
+    {
+      "term": "GRALISE",
+      "count": 286
+    },
+    {
+      "term": "GABA 300-EZS",
+      "count": 283
+    },
+    {
+      "term": "GABAPENTIN",
+      "count": 283
+    },
+    {
+      "term": "GABARONE",
+      "count": 283
+    },
+    {
+      "term": "RELGAABI",
+      "count": 283
+    },
+    {
+      "term": "VITAMIN D",
+      "count": 269
+    },
+    {
+      "term": "MEDLINE",
+      "count": 250
+    },
+    {
+      "term": "KLONOPIN",
+      "count": 219
+    },
+    {
+      "term": "ACID REDUCER",
+      "count": 217
+    },
+    {
+      "term": "PAIN RELIEF",
+      "count": 214
+    },
+    {
+      "term": "XANAX",
+      "count": 198
+    },
+    {
+      "term": "XANAX XR",
+      "count": 198
+    },
+    {
+      "term": "GOODNOW PAIN RELIEF",
+      "count": 190
+    },
+    {
+      "term": "CLONAZEPAM",
+      "count": 186
+    },
+    {
+      "term": "ALLERGY RELIEF",
+      "count": 176
+    },
+    {
+      "term": "ATIVAN",
+      "count": 173
+    },
+    {
+      "term": "BASIC CARE OMEPRAZOLE",
+      "count": 166
+    },
+    {
+      "term": "EQUATE OMEPRAZOLE",
+      "count": 166
+    },
+    {
+      "term": "OMEPRAZOLE",
+      "count": 166
+    },
+    {
+      "term": "24 HR OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "AMAZON BASIC CARE OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "BERKLEY AND JENSEN OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "CARE ONE OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "CAREONE OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "DG HEALTH OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "DG HEALTH OMPERAZOLE",
+      "count": 164
+    },
+    {
+      "term": "EQUALINE OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "EQUATE OMEPRAZOLE DELAYED RELEASE ACID REDUCER",
+      "count": 164
+    },
+    {
+      "term": "EXCHANGE SELECT OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "FOSTER AND THRIVE OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "GOOD NEIGHBOR PHARMACY OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "GOOD NOW OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "GOOD SENSE OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "GOOD SENSE OMEPRAZOLE DELAYED RELEASE",
+      "count": 164
+    },
+    {
+      "term": "KIRKLAND SIGNATURE OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "LEADER OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "MEMBERS MARK OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "OMEPRAZOLE DELAYED RELEASE",
+      "count": 164
+    },
+    {
+      "term": "OMEPRAZOLE DELAYED-RELEASE",
+      "count": 164
+    },
+    {
+      "term": "OMEPRAZOLE/SODIUM BICARBONATE",
+      "count": 164
+    },
+    {
+      "term": "RUGBY OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "SIGNATURE CARE OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "TOPCARE OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "TOPCARE OMEPRAZOLE DELAYED RELEASE",
+      "count": 164
+    },
+    {
+      "term": "UP AND UP OMEPRAZOLE",
+      "count": 164
+    },
+    {
+      "term": "AMBIEN CR",
+      "count": 162
+    },
+    {
+      "term": "ASPIRIN 325",
+      "count": 162
+    },
+    {
+      "term": "ASPIRIN 81",
+      "count": 162
+    },
+    {
+      "term": "TYLENOL EXTRA STRENGTH",
+      "count": 156
+    },
+    {
+      "term": "AMBIEN",
+      "count": 155
+    },
+    {
+      "term": "PREDNISONE",
+      "count": 148
+    },
+    {
+      "term": "PREDNISONE DELAYED RELEASE",
+      "count": 148
+    },
+    {
+      "term": "PREDNISONE TABLETS, USP, 10 MG",
+      "count": 148
+    },
+    {
+      "term": "PREDNISONE TABLETS, USP, 20 MG",
+      "count": 148
+    },
+    {
+      "term": "PREDNISONE TABLETS, USP, 5 MG",
+      "count": 148
+    },
+    {
+      "term": "ZESTRIL",
+      "count": 148
+    },
+    {
+      "term": "CHILDRENS ALLERGY RELIEF",
+      "count": 146
+    },
+    {
+      "term": "LISINOPRIL",
+      "count": 146
+    },
+    {
+      "term": "QBRELIS",
+      "count": 146
+    },
+    {
+      "term": "ECOTRIN",
+      "count": 145
+    },
+    {
+      "term": "LORAZEPAM",
+      "count": 144
+    },
+    {
+      "term": "LOREEV XR",
+      "count": 144
+    },
+    {
+      "term": "LOW DOSE ASPIRIN",
+      "count": 144
+    },
+    {
+      "term": "LOW DOSE ASPIRIN ENTERIC SAFETY COATED",
+      "count": 144
+    },
+    {
+      "term": "ADULT CHEWABLE ASPIRIN",
+      "count": 142
+    },
+    {
+      "term": "ADULT LOW DOSE ASPIRIN",
+      "count": 142
+    },
+    {
+      "term": "ADULT LOW DOSE CHEWABLE ASPIRIN",
+      "count": 142
+    },
+    {
+      "term": "ADULT LOW DOSE ENTERIC COATED ASPIRIN",
+      "count": 142
+    },
+    {
+      "term": "ADULT LOW DOSE PAIN RELIEVER",
+      "count": 142
+    },
+    {
+      "term": "ADULT LOW STRENGTH ASPIRIN",
+      "count": 142
+    },
+    {
+      "term": "ASPI-COR",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN 325 MG",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN 325 MG EC",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN 50 CT",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN 81 MG",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN 81 MG LOW DOSE",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN 81MG",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN 81MG ADULT LOW DOSE",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN 81MG ENTERIC COATED",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN 81MG ENTERIC COATED DELAYED RELEASE",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN 81MG ENTERIC COATED LOW STRENGTH ASPIRIN REGIMEN",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN CHEWABLE",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN CHEWABLE, LOW DOSE",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN DELAYED RELEASE",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN ENTERIC COATED",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN ENTERIC COATED LOW DOSE",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN ENTERIC COATED, REGULAR STRENGTH",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN ENTERIC SAFETY COATED",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN EXTRA STRENGTH",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN LOW DOSE",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN LOW DOSE CHEWABLE",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN LOW DOSE CHEWABLE ORANGE",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN LOW DOSE ENTERIC COATED",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN LOW DOSE SAFETY COATED",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN LOW STRENGTH",
+      "count": 142
+    },
+    {
+      "term": "ASPIRIN NSAID",
+      "count": 142
+    }
+  ]
+}

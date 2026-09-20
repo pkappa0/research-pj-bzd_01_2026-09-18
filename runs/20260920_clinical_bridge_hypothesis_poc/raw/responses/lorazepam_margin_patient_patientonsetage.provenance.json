@@ -1,0 +1,12 @@
+{
+  "key": "lorazepam_margin_patient_patientonsetage",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29&count=patient.patientonsetage&limit=100",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\")",
+    "count": "patient.patientonsetage",
+    "limit": 100
+  },
+  "retrieved_utc": "2026-09-20T01:52:22.396926+00:00",
+  "http_status": 200,
+  "sha256": "6dc4d726d90c17f191abcdbf5565b797347ca9b54f53eaa08a40e0f4076e33e6"
+}

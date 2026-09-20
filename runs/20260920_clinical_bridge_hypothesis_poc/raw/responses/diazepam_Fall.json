@@ -1,0 +1,1012 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 4226
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "2",
+      "safetyreportid": "10009613",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141002",
+      "reporttype": "1",
+      "serious": "2",
+      "receivedateformat": "102",
+      "receivedate": "20140312",
+      "receiptdateformat": "102",
+      "receiptdate": "20140312",
+      "fulfillexpeditecriteria": "2",
+      "companynumb": "US-INCYTE CORPORATION-2012IN002087",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "INCYTE",
+        "duplicatenumb": "US-INCYTE CORPORATION-2012IN002087"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "5"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "68",
+        "patientonsetageunit": "801",
+        "patientweight": "64.4",
+        "patientsex": "2",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Fatigue",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Cough",
+            "reactionoutcome": "2"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Upper respiratory tract congestion",
+            "reactionoutcome": "2"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Malaise",
+            "reactionoutcome": "2"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Insomnia",
+            "reactionoutcome": "2"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Dyspnoea exertional",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Constipation",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Anxiety",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Depression",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Oedema peripheral",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Pyrexia",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Splenomegaly",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Pain",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Drug dose omission",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Decreased appetite",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Fall",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Asthenia",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Dizziness",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Contusion",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Anaemia",
+            "reactionoutcome": "6"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "JAKAFI",
+            "drugstructuredosagenumb": "20",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "20 MG, BID",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "drugindication": "MYELOFIBROSIS",
+            "drugstartdateformat": "602",
+            "drugstartdate": "2011",
+            "actiondrug": "1",
+            "openfda": {
+              "application_number": [
+                "NDA202192"
+              ],
+              "brand_name": [
+                "JAKAFI"
+              ],
+              "generic_name": [
+                "RUXOLITINIB"
+              ],
+              "manufacturer_name": [
+                "Incyte Corporation"
+              ],
+              "product_ndc": [
+                "50881-005",
+                "50881-010",
+                "50881-015",
+                "50881-020",
+                "50881-025",
+                "50881-011",
+                "50881-022",
+                "50881-033",
+                "50881-044",
+                "50881-055"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "RUXOLITINIB"
+              ],
+              "rxcui": [
+                "1193331",
+                "1193337",
+                "1193339",
+                "1193341",
+                "1193343",
+                "1193345",
+                "1193347",
+                "1193349",
+                "1193351",
+                "1193353",
+                "2743012",
+                "2743016",
+                "2743019",
+                "2743022",
+                "2743025",
+                "2743028",
+                "2743032",
+                "2743035",
+                "2743041",
+                "2743044"
+              ],
+              "spl_id": [
+                "1c261eb0-f426-47a1-8281-62282d207644"
+              ],
+              "spl_set_id": [
+                "f1c82580-87ae-11e0-bc84-0002a5d5c51b"
+              ],
+              "package_ndc": [
+                "50881-005-60",
+                "50881-010-01",
+                "50881-010-60",
+                "50881-015-60",
+                "50881-020-60",
+                "50881-025-60",
+                "50881-011-08",
+                "50881-022-08",
+                "50881-033-08",
+                "50881-044-08",
+                "50881-055-08"
+              ],
+              "nui": [
+                "N0000175605",
+                "N0000190858",
+                "N0000190857"
+              ],
+              "pharm_class_epc": [
+                "Kinase Inhibitor [EPC]",
+                "Janus Kinase Inhibitor [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Janus Kinase Inhibitors [MoA]"
+              ],
+              "unii": [
+                "82S8X8XX8H"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "JAKAFI",
+            "drugstructuredosagenumb": "20",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "20 MG, BID",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "actiondrug": "1",
+            "openfda": {
+              "application_number": [
+                "NDA202192"
+              ],
+              "brand_name": [
+                "JAKAFI"
+              ],
+              "generic_name": [
+                "RUXOLITINIB"
+              ],
+              "manufacturer_name": [
+                "Incyte Corporation"
+              ],
+              "product_ndc": [
+                "50881-005",
+                "50881-010",
+                "50881-015",
+                "50881-020",
+                "50881-025",
+                "50881-011",
+                "50881-022",
+                "50881-033",
+                "50881-044",
+                "50881-055"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "RUXOLITINIB"
+              ],
+              "rxcui": [
+                "1193331",
+                "1193337",
+                "1193339",
+                "1193341",
+                "1193343",
+                "1193345",
+                "1193347",
+                "1193349",
+                "1193351",
+                "1193353",
+                "2743012",
+                "2743016",
+                "2743019",
+                "2743022",
+                "2743025",
+                "2743028",
+                "2743032",
+                "2743035",
+                "2743041",
+                "2743044"
+              ],
+              "spl_id": [
+                "1c261eb0-f426-47a1-8281-62282d207644"
+              ],
+              "spl_set_id": [
+                "f1c82580-87ae-11e0-bc84-0002a5d5c51b"
+              ],
+              "package_ndc": [
+                "50881-005-60",
+                "50881-010-01",
+                "50881-010-60",
+                "50881-015-60",
+                "50881-020-60",
+                "50881-025-60",
+                "50881-011-08",
+                "50881-022-08",
+                "50881-033-08",
+                "50881-044-08",
+                "50881-055-08"
+              ],
+              "nui": [
+                "N0000175605",
+                "N0000190858",
+                "N0000190857"
+              ],
+              "pharm_class_epc": [
+                "Kinase Inhibitor [EPC]",
+                "Janus Kinase Inhibitor [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Janus Kinase Inhibitors [MoA]"
+              ],
+              "unii": [
+                "82S8X8XX8H"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "BABY ASPIRIN",
+            "drugstructuredosagenumb": "81",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "81 MG, QD",
+            "drugadministrationroute": "048",
+            "actiondrug": "5",
+            "drugrecurreadministration": "3"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "VITAMIN C",
+            "drugstructuredosagenumb": "500",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "500 MG, QD",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "openfda": {
+              "application_number": [
+                "M001"
+              ],
+              "brand_name": [
+                "VITAMIN C SERUM"
+              ],
+              "generic_name": [
+                "VITAMIN C"
+              ],
+              "manufacturer_name": [
+                "FlexiGo Inc"
+              ],
+              "product_ndc": [
+                "85524-2627"
+              ],
+              "product_type": [
+                "HUMAN OTC DRUG"
+              ],
+              "route": [
+                "TOPICAL"
+              ],
+              "substance_name": [
+                "HYALURONIC ACID",
+                "NIACINAMIDE",
+                "ASCORBIC ACID"
+              ],
+              "spl_id": [
+                "496e7d41-2177-7b0c-e063-6394a90a98f1"
+              ],
+              "spl_set_id": [
+                "496e7d41-2176-7b0c-e063-6394a90a98f1"
+              ],
+              "package_ndc": [
+                "85524-2627-1",
+                "85524-2627-2",
+                "85524-2627-3",
+                "85524-2627-4",
+                "85524-2627-5",
+                "85524-2627-6"
+              ],
+              "nui": [
+                "N0000193618",
+                "M0001797"
+              ],
+              "pharm_class_epc": [
+                "Vitamin C [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Ascorbic Acid [CS]"
+              ],
+              "unii": [
+                "S270N0TRQY",
+                "25X51I8RD4",
+                "PQ6CK8PD0R"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "ATENOLOL",
+            "drugstructuredosagenumb": "25",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "25 MG, QD",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "openfda": {
+              "application_number": [
+                "NDA018240",
+                "ANDA078512",
+                "ANDA213136",
+                "ANDA077443",
+                "ANDA076900",
+                "ANDA077877",
+                "ANDA073457",
+                "ANDA074056"
+              ],
+              "brand_name": [
+                "TENORMIN",
+                "ATENOLOL"
+              ],
+              "generic_name": [
+                "ATENOLOL"
+              ],
+              "manufacturer_name": [
+                "Almatica Pharma LLC",
+                "Aurobindo Pharma Limited",
+                "Unichem Pharmaceuticals (USA), Inc.",
+                "Rising Pharma Holdings, Inc.",
+                "Zydus Lifesciences Limited",
+                "Upsher-Smith Laboratories, LLC",
+                "Ipca Laboratories Limited",
+                "Mylan Pharmaceuticals Inc.",
+                "Zydus Pharmaceuticals USA Inc.",
+                "Teva Pharmaceuticals USA, Inc."
+              ],
+              "product_ndc": [
+                "52427-430",
+                "52427-429",
+                "52427-431",
+                "65862-168",
+                "65862-169",
+                "65862-170",
+                "29300-410",
+                "29300-411",
+                "29300-412",
+                "64980-437",
+                "64980-438",
+                "64980-439",
+                "65841-022",
+                "65841-023",
+                "65841-024",
+                "24979-244",
+                "24979-245",
+                "24979-246",
+                "83980-022",
+                "83980-023",
+                "83980-024",
+                "0378-0218",
+                "0378-0231",
+                "0378-0757",
+                "68382-022",
+                "68382-023",
+                "68382-024",
+                "0093-0752",
+                "0093-0787",
+                "0093-0753"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ATENOLOL"
+              ],
+              "rxcui": [
+                "150750",
+                "152414",
+                "197379",
+                "197380",
+                "197381",
+                "201322"
+              ],
+              "spl_id": [
+                "ecd0de7b-801e-a5d6-01b7-01b89a8f3a78",
+                "c5b37783-b0a1-4d21-b0cc-69a13cc4d2db",
+                "b84110b2-cefb-49d0-8b08-1057dbdc258b",
+                "7bf7d854-7736-4159-81e0-2f9f0c12d73c",
+                "f4fb6b85-6379-4e8a-9ee3-402819d128a0",
+                "c804fa73-5b5a-4e20-a1f5-6a13155df21f",
+                "d32b777e-6c64-4899-934b-4fb73d9eba85",
+                "9df3aeb2-2d70-4d49-9b45-a25e3a371cf9",
+                "860eb406-b330-4b72-b768-122d57c74293",
+                "19103c06-1fed-45a4-a110-66465b4f2233"
+              ],
+              "spl_set_id": [
+                "746db603-a6e1-4dc3-c2d8-92314419098c",
+                "1b8a4689-3916-4f4b-b54a-bbb4e322d79b",
+                "35d99c43-7305-4a4a-886e-a9bf3ee88fa8",
+                "96dd038f-b363-4e24-9c67-82b7c85c3bc4",
+                "2492d5f6-00b0-42c9-a793-2be83ea81ad1",
+                "6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a",
+                "98d29958-b026-4888-a516-7bb85bb7d479",
+                "a7048c81-6769-436b-8397-fbaa7489fcdf",
+                "db801706-1362-44c7-92ab-f584f96c7e1c",
+                "25a72ec9-de0f-44e5-90b8-da1aab0d3588"
+              ],
+              "package_ndc": [
+                "52427-429-90",
+                "52427-430-90",
+                "52427-431-90",
+                "65862-168-01",
+                "65862-168-99",
+                "65862-169-01",
+                "65862-169-99",
+                "65862-170-01",
+                "65862-170-99",
+                "29300-410-01",
+                "29300-410-05",
+                "29300-410-10",
+                "29300-411-05",
+                "29300-411-01",
+                "29300-411-10",
+                "29300-412-01",
+                "29300-412-05",
+                "29300-412-10",
+                "64980-437-01",
+                "64980-437-10",
+                "64980-438-01",
+                "64980-438-10",
+                "64980-439-01",
+                "64980-439-10",
+                "65841-022-16",
+                "65841-022-01",
+                "65841-022-10",
+                "65841-022-40",
+                "65841-022-24",
+                "65841-023-16",
+                "65841-023-01",
+                "65841-023-10",
+                "65841-023-02",
+                "65841-023-40",
+                "65841-023-24",
+                "65841-024-01",
+                "65841-024-10",
+                "65841-024-40",
+                "65841-024-16",
+                "24979-244-07",
+                "24979-245-07",
+                "24979-246-07",
+                "83980-022-97",
+                "83980-022-01",
+                "83980-022-10",
+                "83980-023-97",
+                "83980-023-01",
+                "83980-023-10",
+                "83980-024-97",
+                "83980-024-01",
+                "83980-024-10",
+                "0378-0218-01",
+                "0378-0218-10",
+                "0378-0231-01",
+                "0378-0231-10",
+                "0378-0757-01",
+                "0378-0757-10",
+                "68382-022-16",
+                "68382-022-01",
+                "68382-022-10",
+                "68382-022-40",
+                "68382-022-24",
+                "68382-023-16",
+                "68382-023-01",
+                "68382-023-10",
+                "68382-023-02",
+                "68382-023-40",
+                "68382-023-24",
+                "68382-024-16",
+                "68382-024-01",
+                "68382-024-10",
+                "68382-024-40",
+                "0093-0787-01",
+                "0093-0787-10",
+                "0093-0752-01",
+                "0093-0752-10",
+                "0093-0753-01",
+                "0093-0753-05"
+              ],
+              "nui": [
+                "N0000000161",
+                "N0000175556"
+              ],
+              "pharm_class_moa": [
+                "Adrenergic beta-Antagonists [MoA]"
+              ],
+              "pharm_class_epc": [
+                "beta-Adrenergic Blocker [EPC]"
+              ],
+              "unii": [
+                "50VV3VW0TI"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "ZYRTEC",
+            "drugstructuredosagenumb": "10",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "10 MG, QD",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "openfda": {
+              "application_number": [
+                "NDA021621"
+              ],
+              "brand_name": [
+                "ZYRTEC"
+              ],
+              "generic_name": [
+                "CETIRIZINE HYDROCHLORIDE"
+              ],
+              "manufacturer_name": [
+                "Kenvue Brands LLC"
+              ],
+              "product_ndc": [
+                "50580-753"
+              ],
+              "product_type": [
+                "HUMAN OTC DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "CETIRIZINE HYDROCHLORIDE"
+              ],
+              "rxcui": [
+                "1014674",
+                "1020022"
+              ],
+              "spl_id": [
+                "506ace58-15cc-77b4-e063-6394a90a0813"
+              ],
+              "spl_set_id": [
+                "dc613bd5-70fd-1d9b-e053-2995a90a41cd"
+              ],
+              "package_ndc": [
+                "50580-753-24"
+              ],
+              "unii": [
+                "64O047KTOA"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "ULORIC",
+            "drugstructuredosagenumb": "40",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "40 MG, QD",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "openfda": {
+              "application_number": [
+                "NDA021856"
+              ],
+              "brand_name": [
+                "ULORIC"
+              ],
+              "generic_name": [
+                "FEBUXOSTAT"
+              ],
+              "manufacturer_name": [
+                "Takeda Pharmaceuticals America, Inc."
+              ],
+              "product_ndc": [
+                "64764-677",
+                "64764-918"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "FEBUXOSTAT"
+              ],
+              "rxcui": [
+                "834235",
+                "834239",
+                "834241",
+                "834243"
+              ],
+              "spl_id": [
+                "16c36a5a-2f72-4df7-aa6f-1ca27a39404f"
+              ],
+              "spl_set_id": [
+                "54de10ef-fe5f-4930-b91d-6bbb04c664bd"
+              ],
+              "package_ndc": [
+                "64764-918-30",
+                "64764-918-90",
+                "64764-918-18",
+                "64764-918-11",
+                "64764-677-30",
+                "64764-677-13",
+                "64764-677-19",
+                "64764-677-11"
+              ],
+              "nui": [
+                "N0000175698",
+                "N0000000206"
+              ],
+              "pharm_class_epc": [
+                "Xanthine Oxidase Inhibitor [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Xanthine Oxidase Inhibitors [MoA]"
+              ],
+              "unii": [
+                "101V0R1N2E"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "VALIUM",
+            "drugstructuredosagenumb": "1",
+            "drugstructuredosageunit": "032",
+            "drugdosagetext": "1 DF, QHS, PRN",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "drugindication": "ANXIETY",
+            "openfda": {
+              "application_number": [
+                "NDA013263"
+              ],
+              "brand_name": [
+                "VALIUM"
+              ],
+              "generic_name": [
+                "DIAZEPAM"
+              ],
+              "manufacturer_name": [
+                "Roche Laboratories Inc.",
+                "Waylis Therapuetics LLC"
+              ],
+              "product_ndc": [
+                "0140-0004",
+                "0140-0005",
+                "80725-004",
+                "80725-005",
+                "80725-006"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "DIAZEPAM"
+              ],
+              "rxcui": [
+                "104699",
+                "104700",
+                "197590",
+                "197591",
+                "104701",
+                "197589"
+              ],
+              "spl_id": [
+                "ea505cdb-6d89-4b8c-8007-ec5a5fe920ce",
+                "162faa32-b6de-4c5d-a971-c908c9a951d2"
+              ],
+              "spl_set_id": [
+                "554baee5-b171-4452-a50a-41a0946f956c",
+                "260e2041-2bb3-482f-850e-b5d47a7bdbe6"
+              ],
+              "package_ndc": [
+                "0140-0004-01",
+                "0140-0005-01",
+                "0140-0005-14",
+                "80725-004-01",
+                "80725-005-01",
+                "80725-006-01"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "Q3JTX2Q7TU"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "GRAPE SEED EXTRACT",
+            "drugstructuredosagenumb": "100",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "100 MG, QD",
+            "drugdosageform": "CAPSULE",
+            "drugadministrationroute": "048"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "VICOPROFEN",
+            "drugstructuredosagenumb": "1",
+            "drugstructuredosageunit": "032",
+            "drugdosagetext": "1 DF, Q4H, PRN",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "PROBIOTIC",
+            "drugadministrationroute": "048"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "COMPAZINE",
+            "drugstructuredosagenumb": "1",
+            "drugstructuredosageunit": "032",
+            "drugdosagetext": "1 DF, Q6H, PRN",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "VEGETABLE LAXATIVE",
+            "drugdosagetext": ", QD",
+            "drugadministrationroute": "048",
+            "openfda": {
+              "application_number": [
+                "M007",
+                "505G(a)(3)"
+              ],
+              "brand_name": [
+                "VEGETABLE LAXATIVE"
+              ],
+              "generic_name": [
+                "SENNOSIDES",
+                "SENNOSIDES, 8.6 MG"
+              ],
+              "manufacturer_name": [
+                "Walmart Inc.",
+                "Wal-Mart Stores Inc",
+                "CHAIN DRUG MARKETING ASSOCIATION INC",
+                "Granulation Technology, Inc.",
+                "BETTER LIVING BRANDS LLC."
+              ],
+              "product_ndc": [
+                "79903-322",
+                "79903-064",
+                "63868-579",
+                "63561-0188",
+                "21130-998"
+              ],
+              "product_type": [
+                "HUMAN OTC DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "SENNOSIDES A AND B",
+                "SENNOSIDES"
+              ],
+              "rxcui": [
+                "312935"
+              ],
+              "spl_id": [
+                "32b78ea8-fece-06aa-e063-6294a90a2fcb",
+                "495fd103-3cf9-6fd1-e063-6394a90a3c1d",
+                "ee98cbea-8190-4f89-93ec-0432e9fb7b8a",
+                "3b297015-438b-9914-e063-6294a90adc3a",
+                "2df17e9f-67c8-5006-e063-6294a90ad690"
+              ],
+              "spl_set_id": [
+                "26dc60e7-5a05-64c3-e063-6394a90a55ce",
+                "97695092-1ded-4723-a015-fdadd7c28c81",
+                "8184a555-4ee1-45b0-8751-f34662997837",
+                "63dfe908-7cc0-41ca-9739-4b24ee14648e",
+                "f2c529e4-6738-377c-e053-2995a90aaf38"
+              ],
+              "package_ndc": [
+                "79903-322-10",
+                "79903-064-10",
+                "63868-579-01",
+                "63561-0188-1",
+                "63561-0188-2",
+                "21130-998-01"
+              ],
+              "unii": [
+                "1B5FPI42EN",
+                "3FYP5M0IJX"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "VITAMIN E",
+            "drugdosagetext": "400 UT, QD",
+            "drugdosageform": "CAPSULE",
+            "drugadministrationroute": "048",
+            "openfda": {
+              "application_number": [
+                "505G(a)(3)"
+              ],
+              "brand_name": [
+                "STYE EYE RELIEF SERUM"
+              ],
+              "generic_name": [
+                "VITAMIN E"
+              ],
+              "manufacturer_name": [
+                "Guangzhou Mizi Biotechnology Co., LTD."
+              ],
+              "product_ndc": [
+                "84896-001"
+              ],
+              "product_type": [
+                "HUMAN OTC DRUG"
+              ],
+              "route": [
+                "TOPICAL"
+              ],
+              "substance_name": [
+                "ACETYL HEXAPEPTIDE-8 AMIDE",
+                "ASCORBIC ACID",
+                "PREZATIDE COPPER",
+                "ASPARTIC ACID",
+                "LYSINE"
+              ],
+              "spl_id": [
+                "46218208-8a0f-d622-e063-6394a90ab43c"
+              ],
+              "spl_set_id": [
+                "3f60193e-4b95-6759-e063-6394a90a991c"
+              ],
+              "package_ndc": [
+                "84896-001-01"
+              ],
+              "nui": [
+                "N0000193618",
+                "M0001797"
+              ],
+              "pharm_class_epc": [
+                "Vitamin C [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Ascorbic Acid [CS]"
+              ],
+              "unii": [
+                "L4EL31FWIL",
+                "PQ6CK8PD0R",
+                "6BJQ43T1I9",
+                "30KYC7MIAI",
+                "K3Z4F929H6"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

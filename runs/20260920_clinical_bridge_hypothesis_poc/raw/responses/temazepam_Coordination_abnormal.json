@@ -1,0 +1,695 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 118
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "3",
+      "safetyreportid": "10200943",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20150821",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnesshospitalization": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140528",
+      "receiptdateformat": "102",
+      "receiptdate": "20150413",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "US-BAYER-2014-077211",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "BAYER",
+        "duplicatenumb": "US-BAYER-2014-077211"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "5"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "46",
+        "patientonsetageunit": "801",
+        "patientagegroup": "5",
+        "patientweight": "63.49",
+        "patientsex": "2",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Cerebrovascular accident",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Cerebral infarction"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Ataxia",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Visual acuity reduced",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "General physical health deterioration",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Cerebral artery thrombosis"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Atrial septal defect"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Coordination abnormal",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Dizziness",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Adjustment disorder",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Injury",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Paradoxical embolism"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Pain",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Hemiparesis",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Hemianopia",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Activities of daily living impaired",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Visual impairment",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Loss of proprioception",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Hypoaesthesia",
+            "reactionoutcome": "3"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "YASMIN",
+            "drugauthorizationnumb": "021098",
+            "drugdosagetext": "UNK",
+            "drugdosageform": "FILM-COATED TABLET",
+            "drugadministrationroute": "048",
+            "drugindication": "CONTRACEPTION",
+            "drugstartdateformat": "602",
+            "drugstartdate": "2004",
+            "drugenddateformat": "102",
+            "drugenddate": "20080810",
+            "activesubstance": {
+              "activesubstancename": "DROSPIRENONE\\ETHINYL ESTRADIOL"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA021098"
+              ],
+              "brand_name": [
+                "YASMIN"
+              ],
+              "generic_name": [
+                "DROSPIRENONE AND ETHINYL ESTRADIOL"
+              ],
+              "manufacturer_name": [
+                "Bayer HealthCare Pharmaceuticals Inc."
+              ],
+              "product_ndc": [
+                "50419-402"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "rxcui": [
+                "284207",
+                "748797",
+                "748800",
+                "748857"
+              ],
+              "spl_id": [
+                "84c4a6e5-8157-4f6d-a51f-3665e8568a3c"
+              ],
+              "spl_set_id": [
+                "d7ea6a60-5a56-4f81-b206-9b27b7e58875"
+              ],
+              "package_ndc": [
+                "50419-402-03"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "PEPCID [FAMOTIDINE]"
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "OCELLA",
+            "drugauthorizationnumb": "021098",
+            "drugdosagetext": "UNK",
+            "drugdosageform": "FILM-COATED TABLET",
+            "drugadministrationroute": "048",
+            "drugindication": "CONTRACEPTION",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20080811",
+            "drugenddateformat": "102",
+            "drugenddate": "20090703",
+            "actiondrug": "1",
+            "activesubstance": {
+              "activesubstancename": "DROSPIRENONE\\ETHINYL ESTRADIOL"
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TEMAZEPAM.",
+            "drugindication": "SLEEP DISORDER",
+            "activesubstance": {
+              "activesubstancename": "TEMAZEPAM"
+            },
+            "openfda": {
+              "application_number": [
+                "ANDA203482",
+                "ANDA071620",
+                "ANDA211542",
+                "ANDA071456",
+                "ANDA071457",
+                "ANDA201781",
+                "NDA018163"
+              ],
+              "brand_name": [
+                "TEMAZEPAM",
+                "RESTORIL"
+              ],
+              "generic_name": [
+                "TEMAZEPAM"
+              ],
+              "manufacturer_name": [
+                "Amneal Pharmaceuticals LLC",
+                "Actavis Pharma, Inc.",
+                "Alembic Pharmaceuticals Limited",
+                "Ascend Laboratories, LLC",
+                "Alembic Pharmaceuticals Inc.",
+                "Solco Healthcare U.S., LLC",
+                "SpecGx LLC",
+                "Amneal Pharmaceuticals of New York LLC"
+              ],
+              "product_ndc": [
+                "65162-556",
+                "65162-583",
+                "65162-584",
+                "65162-557",
+                "0228-2076",
+                "0228-2077",
+                "46708-379",
+                "46708-380",
+                "46708-381",
+                "46708-382",
+                "67877-146",
+                "67877-148",
+                "67877-149",
+                "67877-147",
+                "62332-379",
+                "62332-380",
+                "62332-381",
+                "62332-382",
+                "43547-611",
+                "43547-612",
+                "43547-613",
+                "43547-614",
+                "0406-9914",
+                "0406-9915",
+                "0406-9916",
+                "0406-9917",
+                "0406-9959",
+                "0406-9960",
+                "0406-9961",
+                "0406-9962",
+                "53746-556",
+                "53746-557"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "TEMAZEPAM"
+              ],
+              "rxcui": [
+                "198241",
+                "198242",
+                "198243",
+                "485489",
+                "208463",
+                "208464",
+                "208465",
+                "539384"
+              ],
+              "spl_id": [
+                "20d2675f-af6d-480c-9152-6f722fb1ea22",
+                "3050ee1e-c494-48ce-be40-6424e9661d87",
+                "387adad5-eb5e-429f-bc8a-b9ace387bc3f",
+                "23e08cbc-80d4-4938-8d56-10e7682b5336",
+                "f6347a33-09dd-4938-92eb-4bcc48a31cfa",
+                "5f04458d-b81c-47f8-ab06-3c47dffc5e4d",
+                "f0ee4fa9-cdff-4111-83a5-0885c81de4e4",
+                "973fc0b9-31b8-4958-9cb6-bd1ae12538e9",
+                "18d70b19-ff94-443e-8169-cb7e87895146"
+              ],
+              "spl_set_id": [
+                "be68c6e0-17ad-40fe-9bc1-58abe24b53f6",
+                "a4370eb4-b00d-4247-af8d-980e59fbbec6",
+                "db839409-8e95-41d3-804e-dcd5d11f4934",
+                "8f54731f-c5b7-492c-acb0-444c5fbb7029",
+                "93b1be7f-ec41-46bb-a258-56cb459e2c92",
+                "3ce42f0e-821e-4c9a-8f6b-60621628fd4b",
+                "bc56f7fd-1aaf-48ff-8aa7-d467e59e1015",
+                "c9bc61b4-a579-4003-98da-b6f6e381c150",
+                "6248295e-8176-48f8-8e9d-bba6deacaf0d"
+              ],
+              "package_ndc": [
+                "65162-583-03",
+                "65162-583-10",
+                "65162-583-50",
+                "65162-583-11",
+                "65162-556-03",
+                "65162-556-10",
+                "65162-556-50",
+                "65162-556-11",
+                "65162-584-03",
+                "65162-584-10",
+                "65162-584-50",
+                "65162-584-11",
+                "65162-557-03",
+                "65162-557-10",
+                "65162-557-50",
+                "65162-557-11",
+                "0228-2076-10",
+                "0228-2076-50",
+                "0228-2077-10",
+                "0228-2077-50",
+                "46708-379-30",
+                "46708-379-31",
+                "46708-380-30",
+                "46708-380-90",
+                "46708-380-31",
+                "46708-380-71",
+                "46708-381-30",
+                "46708-382-30",
+                "46708-382-90",
+                "46708-382-31",
+                "46708-382-71",
+                "67877-148-30",
+                "67877-148-01",
+                "67877-148-05",
+                "67877-146-01",
+                "67877-146-05",
+                "67877-149-01",
+                "67877-149-05",
+                "67877-149-30",
+                "67877-147-01",
+                "67877-147-05",
+                "62332-379-30",
+                "62332-379-31",
+                "62332-380-30",
+                "62332-380-90",
+                "62332-380-31",
+                "62332-380-71",
+                "62332-381-30",
+                "62332-382-30",
+                "62332-382-90",
+                "62332-382-31",
+                "62332-382-71",
+                "43547-611-10",
+                "43547-612-10",
+                "43547-612-50",
+                "43547-613-03",
+                "43547-614-10",
+                "43547-614-50",
+                "0406-9915-03",
+                "0406-9915-01",
+                "0406-9916-01",
+                "0406-9914-03",
+                "0406-9917-01",
+                "0406-9960-01",
+                "0406-9959-03",
+                "0406-9961-01",
+                "0406-9962-01",
+                "53746-556-01",
+                "53746-556-05",
+                "53746-557-01",
+                "53746-557-05"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "CHB1QD2QSS"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "MECLIZINE",
+            "drugdosagetext": "UNK",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20090703",
+            "activesubstance": {
+              "activesubstancename": "MECLIZINE\\MECLIZINE HYDROCHLORIDE"
+            },
+            "openfda": {
+              "application_number": [
+                "M009",
+                "ANDA202640",
+                "ANDA201451",
+                "ANDA205136"
+              ],
+              "brand_name": [
+                "MECLIZINE",
+                "MECLIZINE HYDROCHLORIDE"
+              ],
+              "generic_name": [
+                "MECLIZINE HCL 12.5 MG",
+                "MECLIZINE HCL 25 MG",
+                "MECLIZINE HYDROCHLORIDE",
+                "MECLIZINE",
+                "MECLIZINE HCL 25MG",
+                "MECLIZINE HCL 12.5MG"
+              ],
+              "manufacturer_name": [
+                "Advanced Rx LLC",
+                "Bi-Mart",
+                "Pharbest Pharmaceuticals, Inc.",
+                "Aurobindo Pharma Limited",
+                "RUGBY LABORATORIES",
+                "Amneal Pharmaceuticals LLC",
+                "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+                "Ulai Health LLC"
+              ],
+              "product_ndc": [
+                "80513-427",
+                "37835-202",
+                "16103-386",
+                "80513-421",
+                "59651-807",
+                "59651-808",
+                "59651-809",
+                "0536-1297",
+                "16103-387",
+                "65162-441",
+                "65162-442",
+                "65162-444",
+                "23155-943",
+                "73057-386"
+              ],
+              "product_type": [
+                "HUMAN OTC DRUG",
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "MECLIZINE HYDROCHLORIDE"
+              ],
+              "rxcui": [
+                "995624",
+                "995632",
+                "995666",
+                "995686"
+              ],
+              "spl_id": [
+                "3e5a4128-ff9c-6f2b-e063-6394a90a42e6",
+                "48513500-7464-3c2f-e063-6294a90a8b3d",
+                "d7d81436-c338-4988-bf9e-a721e0cb8f91",
+                "27e17bc9-1e66-cc1f-e063-6394a90a4dcb",
+                "beb3c7f2-c0f4-41d9-a903-63a6847e0997",
+                "e35b2d6b-c702-4a55-a4bb-929b8a40012f",
+                "f25eaba1-2538-4b14-bc67-aa45e07b3014",
+                "50a794d1-8c02-4419-a037-de9d3825d342",
+                "eb857fbb-87f5-41dc-941a-21f6fb8df1e9",
+                "2c27a466-defa-b729-e063-6394a90a61d3"
+              ],
+              "spl_set_id": [
+                "032a89f2-17e7-45d2-94a1-cc7a601ebdee",
+                "2e2c8189-c026-48f8-bbc6-371498ccf444",
+                "8b3c9283-b618-4d57-9f15-7cf73e8737f5",
+                "b0a2a1f7-354e-48bd-9e98-9207bf9f53fd",
+                "beb3c7f2-c0f4-41d9-a903-63a6847e0997",
+                "8a234ce3-eb6b-49dd-9d78-7fc7bdd49d35",
+                "4bac2765-045c-405e-8006-8c5cfdfa89bc",
+                "666dc4d8-7b16-4c3c-84e4-645548dbee68",
+                "b11c10b9-f40e-4ea7-9c5d-118517049f9d",
+                "d304e205-85fa-494a-9a68-ae6855b139b1"
+              ],
+              "package_ndc": [
+                "80513-427-02",
+                "37835-202-01",
+                "16103-386-08",
+                "16103-386-11",
+                "80513-421-02",
+                "59651-807-01",
+                "59651-807-99",
+                "59651-808-01",
+                "59651-808-99",
+                "59651-809-90",
+                "59651-809-05",
+                "0536-1297-01",
+                "0536-1297-10",
+                "16103-387-08",
+                "16103-387-11",
+                "65162-441-03",
+                "65162-441-10",
+                "65162-441-50",
+                "65162-441-11",
+                "65162-441-60",
+                "65162-442-03",
+                "65162-442-10",
+                "65162-442-50",
+                "65162-442-11",
+                "65162-442-60",
+                "65162-444-03",
+                "65162-444-10",
+                "65162-444-50",
+                "65162-444-11",
+                "65162-444-60",
+                "23155-943-01",
+                "23155-943-10",
+                "73057-386-11",
+                "73057-386-08"
+              ],
+              "unii": [
+                "HDP7W44CIO"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TYLENOL",
+            "activesubstance": {
+              "activesubstancename": "ACETAMINOPHEN"
+            },
+            "openfda": {
+              "application_number": [
+                "M012",
+                "M013"
+              ],
+              "brand_name": [
+                "TYLENOL COLD PLUS HEAD CONGESTION SEVERE",
+                "TYLENOL REGULAR STRENGTH",
+                "TYLENOL EXTRA STRENGTH"
+              ],
+              "generic_name": [
+                "ACETAMINOPHEN, GUAIFENESIN, AND PHENYLEPHRINE HYDROCHLORIDE",
+                "ACETAMINOPHEN"
+              ],
+              "manufacturer_name": [
+                "Kenvue Brands LLC"
+              ],
+              "product_ndc": [
+                "50580-566",
+                "50580-495",
+                "50580-458",
+                "50580-496",
+                "50580-475",
+                "50580-451",
+                "50580-590",
+                "50580-692",
+                "50580-488"
+              ],
+              "product_type": [
+                "HUMAN OTC DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ACETAMINOPHEN",
+                "GUAIFENESIN",
+                "PHENYLEPHRINE HYDROCHLORIDE"
+              ],
+              "rxcui": [
+                "1243679",
+                "209387",
+                "313782",
+                "198440",
+                "209459"
+              ],
+              "spl_id": [
+                "21aceda5-2c34-23df-e063-6394a90acb09",
+                "25b09044-067e-eb90-e063-6394a90a6d21",
+                "49576408-6940-93c6-e063-6394a90a6fa8",
+                "52cd19e4-a4b4-ecee-e063-6394a90ac33b",
+                "398d8996-b523-a3cd-e063-6394a90ac2c8",
+                "2d87c8e1-e743-56cc-e063-6394a90aac79",
+                "22d94fd9-9488-a812-e063-6394a90a7ffc",
+                "21c193b9-6b79-f35c-e063-6394a90adbfe",
+                "4eda2608-4d48-1af0-e063-6294a90a2c72"
+              ],
+              "spl_set_id": [
+                "ce43e5c2-fe96-4462-882c-d7479318b33d",
+                "de5c6654-56c5-40d3-a286-f04ed47ac7c8",
+                "01f41fae-4abb-4b96-ab09-a7d3dfc286cd",
+                "1622f694-4d63-4c56-8737-fae31f0ecfb7",
+                "398d8996-b522-a3cd-e063-6394a90ac2c8",
+                "bb6533e5-e6a9-488c-b8ab-a6a06e87ede9",
+                "015a6179-bacb-452d-b594-4de628ddc11d",
+                "dd87e342-b0cb-4111-9f15-415dbcda4b77",
+                "1b164780-ec84-4187-8afa-6f8a0da550fc"
+              ],
+              "package_ndc": [
+                "50580-566-25",
+                "50580-495-01",
+                "50580-458-11",
+                "50580-458-50",
+                "50580-458-10",
+                "50580-496-60",
+                "50580-496-98",
+                "50580-475-11",
+                "50580-475-50",
+                "50580-475-10",
+                "50580-451-03",
+                "50580-451-10",
+                "50580-451-50",
+                "50580-451-70",
+                "50580-590-01",
+                "50580-590-02",
+                "50580-590-03",
+                "50580-590-04",
+                "50580-590-05",
+                "50580-590-06",
+                "50580-692-01",
+                "50580-692-02",
+                "50580-692-03",
+                "50580-488-10",
+                "50580-488-24",
+                "50580-488-25",
+                "50580-488-28",
+                "50580-488-01",
+                "50580-488-52",
+                "50580-488-02",
+                "50580-488-50",
+                "50580-488-22"
+              ],
+              "nui": [
+                "N0000193956",
+                "N0000008867",
+                "N0000009560"
+              ],
+              "pharm_class_epc": [
+                "Expectorant [EPC]"
+              ],
+              "pharm_class_pe": [
+                "Decreased Respiratory Secretion Viscosity [PE]",
+                "Increased Respiratory Secretions [PE]"
+              ],
+              "unii": [
+                "362O9ITL9D",
+                "495W7451VQ",
+                "04JA59TNSJ"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "IBUPROFEN [IBUPROFEN]",
+            "drugdosagetext": "UNK",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20090703",
+            "activesubstance": {
+              "activesubstancename": "IBUPROFEN"
+            }
+          }
+        ],
+        "summary": {
+          "narrativeincludeclinical": "CASE EVENT DATE: 200907"
+        }
+      }
+    }
+  ]
+}

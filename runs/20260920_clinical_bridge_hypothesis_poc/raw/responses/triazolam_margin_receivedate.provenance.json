@@ -1,0 +1,12 @@
+{
+  "key": "triazolam_margin_receivedate",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29&count=receivedate&limit=100",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\")",
+    "count": "receivedate",
+    "limit": 100
+  },
+  "retrieved_utc": "2026-09-20T01:52:10.063967+00:00",
+  "http_status": 200,
+  "sha256": "1bfd6e6dc18b73bd5beb1d78c3a40e1a8cefed2b910a9aea40c530efcb716c89"
+}

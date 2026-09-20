@@ -1,0 +1,11 @@
+{
+  "key": "alprazolam_Gait_disturbance",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22GAIT+DISTURBANCE%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"GAIT DISTURBANCE\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:52:49.698351+00:00",
+  "http_status": 200,
+  "sha256": "47af3e5d85a0a5c7ce2bc400149ba78eb134c293f8d99d23ff341c1b26ee2631"
+}

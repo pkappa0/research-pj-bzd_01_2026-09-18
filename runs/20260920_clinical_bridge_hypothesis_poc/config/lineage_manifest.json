@@ -1,0 +1,18 @@
+[
+  {
+    "path": "raw/lineage/compound_identity_linkage.csv",
+    "sha256": "7726134c20a285b168ab5cf4b9d4b361bc04d227eef2f109cdb3cf1b376790f0"
+  },
+  {
+    "path": "raw/lineage/phenotype_normalized_within_study.csv",
+    "sha256": "1eea9d38fdca800809f6b04984158a32d02ded4bdd90744b73fc250bda026179"
+  },
+  {
+    "path": "raw/lineage/phenotype_profile_10drug.csv",
+    "sha256": "4d30fbac4c551ceb5bb32cdea06e16d5e79dad4ed3c8576d8f051d707ccd8baf"
+  },
+  {
+    "path": "raw/lineage/structural_fingerprint.csv",
+    "sha256": "c986ba328a01fd4bc6909ca24e4724d7eea5971e5a5ea6ae0fc2faa3147b2f10"
+  }
+]

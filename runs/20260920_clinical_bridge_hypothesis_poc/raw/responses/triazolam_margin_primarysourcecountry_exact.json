@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30"
+  },
+  "results": [
+    {
+      "term": "US",
+      "count": 1368
+    },
+    {
+      "term": "JP",
+      "count": 752
+    },
+    {
+      "term": "IT",
+      "count": 611
+    },
+    {
+      "term": "CA",
+      "count": 187
+    },
+    {
+      "term": "KR",
+      "count": 38
+    },
+    {
+      "term": "EU",
+      "count": 24
+    },
+    {
+      "term": "NZ",
+      "count": 19
+    },
+    {
+      "term": "AT",
+      "count": 14
+    },
+    {
+      "term": "DK",
+      "count": 12
+    },
+    {
+      "term": "PT",
+      "count": 12
+    },
+    {
+      "term": "DE",
+      "count": 9
+    },
+    {
+      "term": "TW",
+      "count": 9
+    },
+    {
+      "term": "FI",
+      "count": 8
+    },
+    {
+      "term": "SE",
+      "count": 6
+    },
+    {
+      "term": "AU",
+      "count": 5
+    },
+    {
+      "term": "BE",
+      "count": 4
+    },
+    {
+      "term": "IE",
+      "count": 4
+    },
+    {
+      "term": "CH",
+      "count": 2
+    },
+    {
+      "term": "GB",
+      "count": 2
+    },
+    {
+      "term": "CN",
+      "count": 1
+    },
+    {
+      "term": "CO",
+      "count": 1
+    },
+    {
+      "term": "ES",
+      "count": 1
+    },
+    {
+      "term": "KP",
+      "count": 1
+    },
+    {
+      "term": "MX",
+      "count": 1
+    },
+    {
+      "term": "NL",
+      "count": 1
+    },
+    {
+      "term": "PR",
+      "count": 1
+    },
+    {
+      "term": "ZA",
+      "count": 1
+    }
+  ]
+}

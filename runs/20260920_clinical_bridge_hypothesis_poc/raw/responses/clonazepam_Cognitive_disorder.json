@@ -1,0 +1,712 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1186
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "3",
+      "safetyreportid": "10036216",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141212",
+      "reporttype": "2",
+      "serious": "1",
+      "seriousnessother": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140325",
+      "receiptdateformat": "102",
+      "receiptdate": "20140408",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "PHEH2013US025392",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "NOVARTIS",
+        "duplicatenumb": "PHEH2013US025392"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "1"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "59",
+        "patientonsetageunit": "801",
+        "patientweight": "150",
+        "patientsex": "1",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Obsessive-compulsive disorder",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Cognitive disorder",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Anger",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Feeling abnormal",
+            "reactionoutcome": "6"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "MYFORTIC",
+            "drugauthorizationnumb": "050791",
+            "drugstructuredosagenumb": "360",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "2",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosagetext": "360 MG, BID",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "drugindication": "IMMUNOSUPPRESSION",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20131127",
+            "actiondrug": "1",
+            "drugrecurreadministration": "3",
+            "openfda": {
+              "application_number": [
+                "NDA050791"
+              ],
+              "brand_name": [
+                "MYFORTIC"
+              ],
+              "generic_name": [
+                "MYCOPHENOLIC ACID"
+              ],
+              "manufacturer_name": [
+                "Novartis Pharmaceuticals Corporation"
+              ],
+              "product_ndc": [
+                "0078-0385",
+                "0078-0386"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "MYCOPHENOLATE SODIUM"
+              ],
+              "rxcui": [
+                "485020",
+                "485023",
+                "616449",
+                "616450"
+              ],
+              "spl_id": [
+                "dd888996-35e0-4e02-af87-7557820412bc"
+              ],
+              "spl_set_id": [
+                "eed26501-890d-4ff6-88e7-6dbea4726e53"
+              ],
+              "package_ndc": [
+                "0078-0386-66",
+                "0078-0385-66"
+              ],
+              "unii": [
+                "WX877SQI1G"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "MYFORTIC",
+            "drugbatchnumb": "F0394",
+            "drugauthorizationnumb": "050791",
+            "drugstructuredosagenumb": "720",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "2",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosagetext": "720 MG, BID",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "drugenddateformat": "102",
+            "drugenddate": "20140220",
+            "actiondrug": "1",
+            "drugrecurreadministration": "3",
+            "openfda": {
+              "application_number": [
+                "NDA050791"
+              ],
+              "brand_name": [
+                "MYFORTIC"
+              ],
+              "generic_name": [
+                "MYCOPHENOLIC ACID"
+              ],
+              "manufacturer_name": [
+                "Novartis Pharmaceuticals Corporation"
+              ],
+              "product_ndc": [
+                "0078-0385",
+                "0078-0386"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "MYCOPHENOLATE SODIUM"
+              ],
+              "rxcui": [
+                "485020",
+                "485023",
+                "616449",
+                "616450"
+              ],
+              "spl_id": [
+                "dd888996-35e0-4e02-af87-7557820412bc"
+              ],
+              "spl_set_id": [
+                "eed26501-890d-4ff6-88e7-6dbea4726e53"
+              ],
+              "package_ndc": [
+                "0078-0386-66",
+                "0078-0385-66"
+              ],
+              "unii": [
+                "WX877SQI1G"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "PROGRAF",
+            "drugseparatedosagenumb": "2",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosagetext": "UNK UKN, BID",
+            "drugadministrationroute": "048",
+            "drugindication": "IMMUNOSUPPRESSION",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20041004",
+            "actiondrug": "4",
+            "openfda": {
+              "application_number": [
+                "NDA050708",
+                "NDA210115",
+                "NDA050709"
+              ],
+              "brand_name": [
+                "PROGRAF"
+              ],
+              "generic_name": [
+                "TACROLIMUS"
+              ],
+              "manufacturer_name": [
+                "Astellas Pharma US, Inc."
+              ],
+              "product_ndc": [
+                "0469-0607",
+                "0469-0617",
+                "0469-0657",
+                "0469-3016",
+                "0469-1230",
+                "0469-1330"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL",
+                "INTRAVENOUS"
+              ],
+              "substance_name": [
+                "TACROLIMUS"
+              ],
+              "rxcui": [
+                "108513",
+                "108514",
+                "108515",
+                "198377",
+                "198378",
+                "198379",
+                "261134",
+                "313190",
+                "2052605",
+                "2052609",
+                "2052703",
+                "2052704"
+              ],
+              "spl_id": [
+                "e9157663-1515-4ba3-83b5-1622cf6f0f99"
+              ],
+              "spl_set_id": [
+                "7f667de1-9dfa-4bd6-8ba0-15ee2d78873b"
+              ],
+              "package_ndc": [
+                "0469-0607-73",
+                "0469-0617-73",
+                "0469-0617-11",
+                "0469-0657-73",
+                "0469-0657-11",
+                "0469-3016-01",
+                "0469-1230-50",
+                "0469-1330-50"
+              ],
+              "unii": [
+                "WM0HAQ4WNM"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "PREDNISONE",
+            "drugdosagetext": "UNK UKN, DAILY",
+            "drugindication": "IMMUNOSUPPRESSION",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20040916",
+            "actiondrug": "4",
+            "openfda": {
+              "application_number": [
+                "ANDA215246",
+                "ANDA080292",
+                "ANDA088832",
+                "ANDA083677",
+                "ANDA040584",
+                "ANDA040581",
+                "ANDA040256",
+                "ANDA040392",
+                "ANDA210785",
+                "ANDA218035",
+                "ANDA080352",
+                "ANDA211495",
+                "ANDA215671",
+                "ANDA219477",
+                "ANDA088703",
+                "ANDA084275",
+                "ANDA208412",
+                "ANDA211496",
+                "ANDA213385",
+                "ANDA215672",
+                "ANDA212629",
+                "ANDA213386",
+                "ANDA211575",
+                "ANDA080356",
+                "ANDA085162",
+                "ANDA085161"
+              ],
+              "brand_name": [
+                "PREDNISONE",
+                "PREDNISONE DELAYED RELEASE",
+                "PREDNISONE TABLETS, USP, 5 MG",
+                "PREDNISONE TABLETS, USP, 10 MG",
+                "PREDNISONE TABLETS, USP, 20 MG"
+              ],
+              "generic_name": [
+                "PREDNISONE"
+              ],
+              "manufacturer_name": [
+                "ANI Pharmaceuticals, Inc.",
+                "Mylan Pharmaceuticals Inc.",
+                "Par Health USA, LLC",
+                "Strides Pharma Science Limited",
+                "Dr. Reddys Laboratories Inc.",
+                "Hikma Pharmaceuticals USA Inc.",
+                "Chartwell RX, LLC",
+                "Aurobindo Pharma Limited",
+                "INA Pharmaceutics Inc",
+                "Amneal Pharmaceuticals NY LLC",
+                "Granulation Technology, Inc.",
+                "Actavis Pharma, Inc."
+              ],
+              "product_ndc": [
+                "70954-056",
+                "0378-0640",
+                "0378-0641",
+                "0378-0642",
+                "0603-5335",
+                "0603-5336",
+                "0603-5337",
+                "0603-5338",
+                "0603-5339",
+                "64380-782",
+                "43598-888",
+                "0054-9817",
+                "0054-9828",
+                "0054-9818",
+                "62135-471",
+                "59651-484",
+                "74157-010",
+                "74157-019",
+                "0054-0017",
+                "0054-4741",
+                "0054-4742",
+                "0054-4728",
+                "0054-0018",
+                "0054-0019",
+                "0054-3722",
+                "0054-3721",
+                "0054-8739",
+                "0054-8740",
+                "0054-8724",
+                "62135-553",
+                "64380-783",
+                "64380-835",
+                "62135-470",
+                "60219-1705",
+                "60219-1706",
+                "59651-485",
+                "59651-486",
+                "59651-487",
+                "59651-488",
+                "59651-489",
+                "43598-886",
+                "43598-887",
+                "64380-784",
+                "64380-785",
+                "64380-949",
+                "63561-0120",
+                "63561-0121",
+                "63561-0122",
+                "60219-1707",
+                "60219-1708",
+                "70954-057",
+                "70954-058",
+                "70954-059",
+                "70954-060",
+                "70954-061",
+                "0591-5052",
+                "0591-5442",
+                "0591-5443"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "PREDNISONE"
+              ],
+              "rxcui": [
+                "198144",
+                "198145",
+                "312615",
+                "312617",
+                "198146",
+                "763179",
+                "763181",
+                "763183",
+                "763185",
+                "1303135",
+                "1303125",
+                "1303132",
+                "198148",
+                "205301",
+                "315187"
+              ],
+              "spl_id": [
+                "08d9d724-eebf-4785-a0ac-95c049bc9488",
+                "f7cba7fb-7b9f-4464-a702-5c4f818aeb5f",
+                "68bdeba1-553d-4d18-ae66-5eb8a0a880b8",
+                "675efef2-fa13-42d1-9460-d1e334f78a48",
+                "1da2eb36-ff47-3cf6-e845-67460ced05fb",
+                "249c4c6d-a058-489a-8f84-928c14bfd3f9",
+                "45ae68aa-b969-3d1b-e063-6394a90a0a02",
+                "6f9a9020-efd5-4f7d-90c7-11af33e93793",
+                "463c5b39-7eb2-d396-e063-6394a90aa451",
+                "523ad364-8d95-4679-9290-446d61f36eb5",
+                "04b754a5-5740-f71c-e063-6294a90aef67",
+                "c389b525-c68a-43dc-bacc-c75707b391b5",
+                "45ae6dea-506e-55d8-e063-6394a90a0a4c",
+                "abdf7308-9460-4e7f-a68a-2fe647e82602",
+                "d957f055-4838-49e6-ae32-604fb3056bc4",
+                "a9e0d98c-c1bf-62b0-67b3-3b8f8313b408",
+                "bdf0b63b-7d6e-4799-be31-cdbf94e02145",
+                "3c696af0-7946-dd78-e063-6394a90a71cc",
+                "34381f6f-1b15-42c8-a8e6-af8302eb6c1e",
+                "f662b658-7133-468c-b35a-ed6083cbff91",
+                "6e6cf2e7-c839-4c9f-a58a-fea5023fb432"
+              ],
+              "spl_set_id": [
+                "7335a293-992b-490c-ab8a-66a7ca1eea30",
+                "fec09050-5ac2-451b-a2b9-5a21b2def212",
+                "10fe5a3b-84dc-4600-87c2-b80c97ce18cf",
+                "a2c2e8ee-d222-47c5-93c2-8b44160a7e48",
+                "474974ac-9811-c9f5-4050-58e535351d00",
+                "263ed4fa-3c29-4abb-9cb1-bc016bd34a05",
+                "36631112-3abb-4003-886b-9fe6d9cbe2cc",
+                "7b33767f-a520-4470-8f3f-4e86b38d615a",
+                "463c7cd2-c973-5c6c-e063-6394a90a09a0",
+                "3115aef0-fd50-4ec8-a064-3effb695f3f2",
+                "92483276-d55c-42c6-8bbc-27137ff25296",
+                "52010a34-aadb-4561-ac4a-3ee53f5e3566",
+                "f532c919-765d-407a-9e01-db2dc0c006f5",
+                "0740ef68-7641-432e-bd46-4710687fc9d7",
+                "b1ac4c92-e1fd-4015-b172-0932790ae019",
+                "01bdc479-1f1f-af94-837c-12e7e861321a",
+                "2ef05381-faad-4e0f-b58d-9f2236a04a2c",
+                "a173fcbb-99be-4b3e-a3a4-4e9ae04ad83f",
+                "03228706-92b9-43c9-8d73-c73aa124c58d",
+                "f05eb734-07e7-491c-b2e9-aae340e03750",
+                "aa0b1582-6ef3-4697-9ea6-5391e6e57853"
+              ],
+              "package_ndc": [
+                "70954-056-10",
+                "70954-056-20",
+                "0378-0640-01",
+                "0378-0640-10",
+                "0378-0641-01",
+                "0378-0641-10",
+                "0378-0642-01",
+                "0378-0642-05",
+                "0378-0642-10",
+                "0603-5335-21",
+                "0603-5335-32",
+                "0603-5336-21",
+                "0603-5337-21",
+                "0603-5337-32",
+                "0603-5337-15",
+                "0603-5337-31",
+                "0603-5338-21",
+                "0603-5338-28",
+                "0603-5338-32",
+                "0603-5338-15",
+                "0603-5338-31",
+                "0603-5339-21",
+                "0603-5339-28",
+                "0603-5339-32",
+                "64380-782-06",
+                "43598-888-01",
+                "43598-888-30",
+                "0054-9828-25",
+                "0054-9828-31",
+                "0054-9817-25",
+                "0054-9817-29",
+                "0054-9818-25",
+                "0054-9818-29",
+                "62135-471-90",
+                "62135-471-18",
+                "59651-484-01",
+                "59651-484-99",
+                "59651-484-78",
+                "74157-010-30",
+                "74157-019-30",
+                "0054-4741-25",
+                "0054-4741-31",
+                "0054-4742-25",
+                "0054-4728-25",
+                "0054-4728-31",
+                "0054-0017-25",
+                "0054-0017-29",
+                "0054-0017-20",
+                "0054-0018-25",
+                "0054-0018-29",
+                "0054-0018-20",
+                "0054-0019-20",
+                "0054-0019-25",
+                "0054-3722-63",
+                "0054-3722-50",
+                "0054-3721-44",
+                "0054-8739-25",
+                "0054-8740-25",
+                "0054-8724-25",
+                "62135-553-30",
+                "62135-553-90",
+                "64380-835-01",
+                "64380-835-06",
+                "64380-783-06",
+                "64380-783-08",
+                "64380-783-01",
+                "62135-470-90",
+                "62135-470-18",
+                "60219-1705-1",
+                "60219-1706-1",
+                "60219-1706-7",
+                "60219-1706-2",
+                "60219-1706-3",
+                "59651-485-01",
+                "59651-485-78",
+                "59651-486-01",
+                "59651-486-99",
+                "59651-486-78",
+                "59651-487-01",
+                "59651-487-05",
+                "59651-487-78",
+                "59651-488-01",
+                "59651-488-05",
+                "59651-488-78",
+                "59651-489-01",
+                "59651-489-78",
+                "43598-886-01",
+                "43598-886-30",
+                "43598-887-01",
+                "43598-887-30",
+                "64380-784-01",
+                "64380-784-07",
+                "64380-784-08",
+                "64380-784-06",
+                "64380-785-06",
+                "64380-785-07",
+                "64380-785-08",
+                "64380-785-01",
+                "64380-949-06",
+                "64380-949-01",
+                "63561-0120-1",
+                "63561-0120-2",
+                "63561-0120-5",
+                "63561-0121-1",
+                "63561-0121-2",
+                "63561-0121-5",
+                "63561-0122-1",
+                "63561-0122-2",
+                "63561-0122-5",
+                "60219-1707-1",
+                "60219-1707-5",
+                "60219-1707-2",
+                "60219-1707-3",
+                "60219-1708-1",
+                "60219-1708-5",
+                "70954-057-10",
+                "70954-058-10",
+                "70954-058-20",
+                "70954-058-30",
+                "70954-058-40",
+                "70954-059-10",
+                "70954-059-20",
+                "70954-059-30",
+                "70954-059-40",
+                "70954-060-10",
+                "70954-060-20",
+                "70954-060-30",
+                "70954-061-10",
+                "0591-5052-01",
+                "0591-5052-10",
+                "0591-5052-21",
+                "0591-5052-43",
+                "0591-5442-01",
+                "0591-5442-05",
+                "0591-5442-10",
+                "0591-5442-21",
+                "0591-5442-43",
+                "0591-5443-01",
+                "0591-5443-05",
+                "0591-5443-10"
+              ],
+              "nui": [
+                "N0000175576",
+                "N0000175450"
+              ],
+              "pharm_class_epc": [
+                "Corticosteroid [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Corticosteroid Hormone Receptor Agonists [MoA]"
+              ],
+              "unii": [
+                "VB0R961HZT"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "RESITONE",
+            "drugdosagetext": "UNK UKN, HS",
+            "drugadministrationroute": "048",
+            "actiondrug": "4"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "KLONOPIN",
+            "drugdosagetext": "UNK UKN, PRN",
+            "drugadministrationroute": "048",
+            "drugindication": "HYPERTENSION",
+            "actiondrug": "4",
+            "openfda": {
+              "application_number": [
+                "NDA017533"
+              ],
+              "brand_name": [
+                "KLONOPIN"
+              ],
+              "generic_name": [
+                "CLONAZEPAM"
+              ],
+              "manufacturer_name": [
+                "H2-Pharma, LLC"
+              ],
+              "product_ndc": [
+                "61269-605",
+                "61269-610",
+                "61269-620"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "CLONAZEPAM"
+              ],
+              "rxcui": [
+                "197527",
+                "197528",
+                "197529",
+                "206157",
+                "206159",
+                "206160"
+              ],
+              "spl_id": [
+                "63cfdab9-fb3d-4c2b-bf88-8ba841dba839"
+              ],
+              "spl_set_id": [
+                "cfa0d79a-843c-4b88-95a1-e9511d649ca1"
+              ],
+              "package_ndc": [
+                "61269-605-10",
+                "61269-610-10",
+                "61269-620-10"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "5PE9FDE8GB"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

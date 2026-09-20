@@ -1,0 +1,681 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 238
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "3",
+      "safetyreportid": "10020252",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141212",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnesshospitalization": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140319",
+      "receiptdateformat": "102",
+      "receiptdate": "20140428",
+      "fulfillexpeditecriteria": "2",
+      "companynumb": "US-BIOGENIDEC-2014BI025050",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "BIOGEN",
+        "duplicatenumb": "US-BIOGENIDEC-2014BI025050"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "5"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "56",
+        "patientonsetageunit": "801",
+        "patientsex": "2",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Vomiting",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Fall",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Feeling abnormal",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Neck pain",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Diarrhoea",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Dysuria",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Abdominal pain",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Gait disturbance",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Joint injury",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Pain in extremity",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Dysstasia",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "General physical health deterioration",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Hypoaesthesia",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Hypotonia",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Mobility decreased",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Face injury",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Abasia",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Depression",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Suicidal ideation",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Urinary incontinence",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Faecal incontinence",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Visual impairment",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Hangover",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Injury",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Thermal burn",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Gastrooesophageal reflux disease",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Retching",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Weight decreased",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "General symptom",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Decreased appetite",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Aphagia",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Aphasia",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Libido decreased",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Anhedonia",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Adverse drug reaction",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Balance disorder",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Gastric disorder",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Fatigue",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Dizziness",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Drug ineffective",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Headache",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Nausea",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Constipation",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Asthenia",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Malaise",
+            "reactionoutcome": "3"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "TYSABRI",
+            "drugauthorizationnumb": "125104",
+            "drugstructuredosagenumb": "300",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "802",
+            "drugdosageform": "INTRAVENOUS INFUSION",
+            "drugadministrationroute": "042",
+            "drugindication": "MULTIPLE SCLEROSIS",
+            "actiondrug": "4",
+            "openfda": {
+              "application_number": [
+                "BLA125104"
+              ],
+              "brand_name": [
+                "TYSABRI"
+              ],
+              "generic_name": [
+                "NATALIZUMAB"
+              ],
+              "manufacturer_name": [
+                "Biogen Inc."
+              ],
+              "product_ndc": [
+                "64406-008"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "INTRAVENOUS"
+              ],
+              "substance_name": [
+                "NATALIZUMAB"
+              ],
+              "rxcui": [
+                "477484",
+                "603541"
+              ],
+              "spl_id": [
+                "119c87a9-d153-4796-9525-694afdcdc1d6"
+              ],
+              "spl_set_id": [
+                "c5fdde91-1989-4dd2-9129-4f3323ea2962"
+              ],
+              "package_ndc": [
+                "64406-008-01"
+              ],
+              "nui": [
+                "N0000175775",
+                "N0000175774"
+              ],
+              "pharm_class_epc": [
+                "Integrin Receptor Antagonist [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Integrin Receptor Antagonists [MoA]"
+              ],
+              "unii": [
+                "3JB47N2Q2P"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "TYSABRI",
+            "drugauthorizationnumb": "125104",
+            "drugstructuredosagenumb": "300",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "802",
+            "drugdosageform": "INTRAVENOUS INFUSION",
+            "drugadministrationroute": "042",
+            "drugindication": "MULTIPLE SCLEROSIS",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20140115",
+            "actiondrug": "4",
+            "openfda": {
+              "application_number": [
+                "BLA125104"
+              ],
+              "brand_name": [
+                "TYSABRI"
+              ],
+              "generic_name": [
+                "NATALIZUMAB"
+              ],
+              "manufacturer_name": [
+                "Biogen Inc."
+              ],
+              "product_ndc": [
+                "64406-008"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "INTRAVENOUS"
+              ],
+              "substance_name": [
+                "NATALIZUMAB"
+              ],
+              "rxcui": [
+                "477484",
+                "603541"
+              ],
+              "spl_id": [
+                "119c87a9-d153-4796-9525-694afdcdc1d6"
+              ],
+              "spl_set_id": [
+                "c5fdde91-1989-4dd2-9129-4f3323ea2962"
+              ],
+              "package_ndc": [
+                "64406-008-01"
+              ],
+              "nui": [
+                "N0000175775",
+                "N0000175774"
+              ],
+              "pharm_class_epc": [
+                "Integrin Receptor Antagonist [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Integrin Receptor Antagonists [MoA]"
+              ],
+              "unii": [
+                "3JB47N2Q2P"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "AVONEX",
+            "drugstructuredosagenumb": "30",
+            "drugstructuredosageunit": "004",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "803",
+            "drugadministrationroute": "030",
+            "openfda": {
+              "application_number": [
+                "BLA103628"
+              ],
+              "brand_name": [
+                "AVONEX"
+              ],
+              "generic_name": [
+                "INTERFERON BETA-1A"
+              ],
+              "manufacturer_name": [
+                "Biogen Inc."
+              ],
+              "product_ndc": [
+                "59627-002",
+                "59627-333",
+                "59627-222",
+                "59627-003"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "INTRAMUSCULAR"
+              ],
+              "substance_name": [
+                "INTERFERON BETA-1A"
+              ],
+              "rxcui": [
+                "727813",
+                "727816",
+                "797544",
+                "1650899",
+                "1650901"
+              ],
+              "spl_id": [
+                "8c84155d-4436-404a-bb05-aee683889f0b"
+              ],
+              "spl_set_id": [
+                "d70a39cc-de15-4c12-a1ec-8063b69ea0e1"
+              ],
+              "package_ndc": [
+                "59627-333-04",
+                "59627-222-05",
+                "59627-003-01",
+                "59627-002-07",
+                "59627-002-06"
+              ],
+              "nui": [
+                "M0025715",
+                "N0000191625"
+              ],
+              "pharm_class_cs": [
+                "Interferon-beta [CS]"
+              ],
+              "pharm_class_epc": [
+                "Interferon beta [EPC]"
+              ],
+              "unii": [
+                "XRO4566Q4R"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "CELEXA",
+            "openfda": {
+              "application_number": [
+                "NDA020822"
+              ],
+              "brand_name": [
+                "CELEXA"
+              ],
+              "generic_name": [
+                "CITALOPRAM"
+              ],
+              "manufacturer_name": [
+                "Allergan, Inc."
+              ],
+              "product_ndc": [
+                "0456-4010",
+                "0456-4020",
+                "0456-4040"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "CITALOPRAM HYDROBROMIDE"
+              ],
+              "rxcui": [
+                "200371",
+                "213344",
+                "213345",
+                "283672",
+                "284591",
+                "309314"
+              ],
+              "spl_id": [
+                "7a584cdb-dfe3-4360-a36d-7e8b93d7d7db"
+              ],
+              "spl_set_id": [
+                "4259d9b1-de34-43a4-85a8-41dd214e9177"
+              ],
+              "package_ndc": [
+                "0456-4010-01",
+                "0456-4020-01",
+                "0456-4020-11",
+                "0456-4020-63",
+                "0456-4040-01",
+                "0456-4040-11",
+                "0456-4040-63"
+              ],
+              "unii": [
+                "I1E9D14F36"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "WELLBUTRIN",
+            "openfda": {
+              "application_number": [
+                "NDA021515",
+                "NDA020358"
+              ],
+              "brand_name": [
+                "WELLBUTRIN XL",
+                "WELLBUTRIN SR"
+              ],
+              "generic_name": [
+                "BUPROPION HYDROCHLORIDE"
+              ],
+              "manufacturer_name": [
+                "Bausch Health US LLC",
+                "GlaxoSmithKline LLC"
+              ],
+              "product_ndc": [
+                "0187-0730",
+                "0187-0731",
+                "0173-0135",
+                "0173-0947",
+                "0173-0722"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "BUPROPION HYDROCHLORIDE"
+              ],
+              "rxcui": [
+                "993541",
+                "993545",
+                "993557",
+                "993564",
+                "993503",
+                "993511",
+                "993518",
+                "993528",
+                "993536",
+                "993537"
+              ],
+              "spl_id": [
+                "22308f71-fc56-430d-b559-bed47e17a46c",
+                "5ffc8b63-7d69-4f3a-bf05-a9c138724a91"
+              ],
+              "spl_set_id": [
+                "a435da9d-f6e8-4ddc-897d-8cd2bf777b21",
+                "cbc8c074-f080-4489-a5ae-207b5fadeba3"
+              ],
+              "package_ndc": [
+                "0187-0730-30",
+                "0187-0730-90",
+                "0187-0730-07",
+                "0187-0731-30",
+                "0187-0731-07",
+                "0173-0947-55",
+                "0173-0135-55",
+                "0173-0722-00"
+              ],
+              "unii": [
+                "ZG7E5POY8O"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "KLONOPIN",
+            "openfda": {
+              "application_number": [
+                "NDA017533"
+              ],
+              "brand_name": [
+                "KLONOPIN"
+              ],
+              "generic_name": [
+                "CLONAZEPAM"
+              ],
+              "manufacturer_name": [
+                "H2-Pharma, LLC"
+              ],
+              "product_ndc": [
+                "61269-605",
+                "61269-610",
+                "61269-620"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "CLONAZEPAM"
+              ],
+              "rxcui": [
+                "197527",
+                "197528",
+                "197529",
+                "206157",
+                "206159",
+                "206160"
+              ],
+              "spl_id": [
+                "63cfdab9-fb3d-4c2b-bf88-8ba841dba839"
+              ],
+              "spl_set_id": [
+                "cfa0d79a-843c-4b88-95a1-e9511d649ca1"
+              ],
+              "package_ndc": [
+                "61269-605-10",
+                "61269-610-10",
+                "61269-620-10"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "5PE9FDE8GB"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

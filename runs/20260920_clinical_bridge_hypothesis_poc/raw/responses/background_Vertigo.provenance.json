@@ -1,0 +1,11 @@
+{
+  "key": "background_Vertigo",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22VERTIGO%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"VERTIGO\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:49:54.305823+00:00",
+  "http_status": 200,
+  "sha256": "dc04ede7c02c072d415434358fd77cda0624416f0b3663672842b0dafca05ef5"
+}

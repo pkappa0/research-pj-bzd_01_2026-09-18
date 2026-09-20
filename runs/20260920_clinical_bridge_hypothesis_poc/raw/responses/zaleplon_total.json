@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1544
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "2",
+      "safetyreportid": "10024386",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141212",
+      "reporttype": "1",
+      "serious": "2",
+      "receivedateformat": "102",
+      "receivedate": "20140320",
+      "receiptdateformat": "102",
+      "receiptdate": "20140422",
+      "fulfillexpeditecriteria": "2",
+      "companynumb": "US-ROXANE LABORATORIES, INC.-2014-RO-00447RO",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "ROXANE",
+        "duplicatenumb": "US-ROXANE LABORATORIES, INC.-2014-RO-00447RO"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "5"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "51",
+        "patientonsetageunit": "801",
+        "patientsex": "1",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Drug ineffective",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Malaise",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Product quality issue",
+            "reactionoutcome": "3"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "ZALEPLON",
+            "drugbatchnumb": "NR",
+            "drugauthorizationnumb": "077237",
+            "drugstructuredosagenumb": "10",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosagetext": "10 MG",
+            "drugdosageform": "CAPSULE",
+            "drugadministrationroute": "048",
+            "drugindication": "INSOMNIA",
+            "drugstartdateformat": "610",
+            "drugstartdate": "201211",
+            "actiondrug": "4",
+            "openfda": {
+              "application_number": [
+                "ANDA090374",
+                "ANDA077237",
+                "ANDA078989",
+                "ANDA078829"
+              ],
+              "brand_name": [
+                "ZALEPLON"
+              ],
+              "generic_name": [
+                "ZALEPLON"
+              ],
+              "manufacturer_name": [
+                "Bionpharma Inc.",
+                "Hikma Pharmaceuticals USA Inc.",
+                "Unichem Pharmaceuticals (USA), Inc.",
+                "Rising Pharma Holdings, Inc.",
+                "Aurobindo Pharma Limited"
+              ],
+              "product_ndc": [
+                "69452-364",
+                "69452-365",
+                "0054-0084",
+                "0054-0085",
+                "29300-131",
+                "29300-132",
+                "57237-239",
+                "57237-240",
+                "65862-214",
+                "65862-215"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ZALEPLON"
+              ],
+              "rxcui": [
+                "313761",
+                "313762"
+              ],
+              "spl_id": [
+                "d0929d4c-0f84-40a4-94dc-6f80934e0edf",
+                "d97e7e61-defc-47f5-aeca-11cecae47e79",
+                "24b4fbb6-3d16-48f7-864c-71e85813a9a2",
+                "344d16be-8384-4299-995d-97b48d5d62c0",
+                "36ab371f-c2fe-4c1d-ad60-801b8f118f4e"
+              ],
+              "spl_set_id": [
+                "53103d2f-4453-49a8-9e36-888d919879f6",
+                "cadd9d75-2139-4fab-94ce-2992e6a55780",
+                "57a1a11d-7767-4caf-b98a-75d7561d9165",
+                "cff46def-c452-49bb-abea-480de8f432bd",
+                "e092f3ca-bf44-4568-a72c-3fb2cf5b192b"
+              ],
+              "package_ndc": [
+                "69452-364-20",
+                "69452-365-20",
+                "0054-0084-25",
+                "0054-0085-25",
+                "29300-131-13",
+                "29300-131-01",
+                "29300-131-05",
+                "29300-132-01",
+                "29300-132-05",
+                "29300-132-10",
+                "57237-239-01",
+                "57237-240-01",
+                "65862-214-01",
+                "65862-214-05",
+                "65862-215-01",
+                "65862-215-05"
+              ],
+              "nui": [
+                "N0000183360",
+                "N0000000196",
+                "N0000175728"
+              ],
+              "pharm_class_epc": [
+                "gamma-Aminobutyric Acid A Receptor Agonist [EPC]"
+              ],
+              "pharm_class_moa": [
+                "GABA A Agonists [MoA]"
+              ],
+              "pharm_class_pe": [
+                "Central Nervous System Depression [PE]"
+              ],
+              "unii": [
+                "S62U433RMH"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

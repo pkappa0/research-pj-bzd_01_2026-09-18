@@ -1,0 +1,11 @@
+{
+  "key": "background_Somnolence",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22SOMNOLENCE%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"SOMNOLENCE\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:49:49.035619+00:00",
+  "http_status": 200,
+  "sha256": "b82cf8f6cccd290d94e22203811e05a3837279d38812c3b5745161bb6c643955"
+}

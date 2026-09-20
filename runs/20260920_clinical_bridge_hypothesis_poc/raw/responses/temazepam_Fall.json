@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1636
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "4",
+      "safetyreportid": "10032559",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141212",
+      "reporttype": "2",
+      "serious": "1",
+      "seriousnessdeath": "1",
+      "seriousnesshospitalization": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140324",
+      "receiptdateformat": "102",
+      "receiptdate": "20140417",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "US-SANOFI-AVENTIS-2013SA072525",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "AVENTIS",
+        "duplicatenumb": "US-SANOFI-AVENTIS-2013SA072525"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "5"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "53",
+        "patientonsetageunit": "801",
+        "patientsex": "1",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Death",
+            "reactionoutcome": "5"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Depression",
+            "reactionoutcome": "5"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Multiple sclerosis relapse",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Drug dose omission",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Asthenia",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Disorientation",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Confusional state",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Constipation",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Gait disturbance",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Aphasia",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Fall",
+            "reactionoutcome": "6"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "AUBAGIO",
+            "drugbatchnumb": "2G96ESA",
+            "drugauthorizationnumb": "202992",
+            "drugstructuredosagenumb": "7",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosageform": "COATED TABLET",
+            "drugadministrationroute": "048",
+            "drugindication": "RELAPSING-REMITTING MULTIPLE SCLEROSIS",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20130701",
+            "drugenddateformat": "102",
+            "drugenddate": "20140303",
+            "openfda": {
+              "application_number": [
+                "NDA202992"
+              ],
+              "brand_name": [
+                "AUBAGIO"
+              ],
+              "generic_name": [
+                "TERIFLUNOMIDE"
+              ],
+              "manufacturer_name": [
+                "Genzyme Corporation"
+              ],
+              "product_ndc": [
+                "58468-0210",
+                "58468-0211"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "TERIFLUNOMIDE"
+              ],
+              "rxcui": [
+                "1310525",
+                "1310531",
+                "1310533",
+                "1310535"
+              ],
+              "spl_id": [
+                "fafc0928-a014-4dfc-8f46-e0d8aa6690bc"
+              ],
+              "spl_set_id": [
+                "4650d12c-b9c8-4525-b07f-a2d773eca155"
+              ],
+              "package_ndc": [
+                "58468-0211-1",
+                "58468-0211-2",
+                "58468-0211-4",
+                "58468-0211-3",
+                "58468-0210-2",
+                "58468-0210-1",
+                "58468-0210-4",
+                "58468-0210-3"
+              ],
+              "nui": [
+                "N0000185502",
+                "N0000185501"
+              ],
+              "pharm_class_epc": [
+                "Pyrimidine Synthesis Inhibitor [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Dihydroorotate Dehydrogenase Inhibitors [MoA]"
+              ],
+              "unii": [
+                "1C058IKG3B"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "HYDROCODONE",
+            "drugadministrationroute": "048",
+            "drugenddateformat": "102",
+            "drugenddate": "20140308"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "ATIVAN",
+            "drugadministrationroute": "048",
+            "drugenddateformat": "102",
+            "drugenddate": "20140308",
+            "openfda": {
+              "application_number": [
+                "NDA017794",
+                "NDA018140"
+              ],
+              "brand_name": [
+                "ATIVAN"
+              ],
+              "generic_name": [
+                "LORAZEPAM"
+              ],
+              "manufacturer_name": [
+                "Bausch Health US LLC",
+                "Hikma Pharmaceuticals USA Inc."
+              ],
+              "product_ndc": [
+                "0187-0063",
+                "0187-0064",
+                "0187-0065",
+                "0641-6000",
+                "0641-6003",
+                "0641-6002",
+                "0641-6001"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL",
+                "INTRAMUSCULAR",
+                "INTRAVENOUS"
+              ],
+              "substance_name": [
+                "LORAZEPAM"
+              ],
+              "rxcui": [
+                "104719",
+                "197900",
+                "197901",
+                "197902",
+                "206821",
+                "206828",
+                "206819",
+                "206820",
+                "238100",
+                "238101",
+                "1665188",
+                "1665190",
+                "1665326",
+                "1665327"
+              ],
+              "spl_id": [
+                "93bdf2de-1222-44a4-b4d5-2280f9ce58d8",
+                "209b0091-c890-4f69-a693-d0594c2606fe"
+              ],
+              "spl_set_id": [
+                "89057c93-8155-4040-acec-64e877bd2b4c",
+                "5fc0e987-61c9-40c4-b0d5-fcea07c8733e"
+              ],
+              "package_ndc": [
+                "0187-0063-01",
+                "0187-0063-50",
+                "0187-0063-10",
+                "0187-0064-01",
+                "0187-0064-50",
+                "0187-0064-10",
+                "0187-0065-01",
+                "0187-0065-50",
+                "0187-0065-10",
+                "0641-6003-01",
+                "0641-6003-25",
+                "0641-6002-01",
+                "0641-6002-10",
+                "0641-6001-01",
+                "0641-6001-25",
+                "0641-6000-01",
+                "0641-6000-10"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "O26FZP769L"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "RESTORIL",
+            "drugadministrationroute": "048",
+            "drugenddateformat": "102",
+            "drugenddate": "20140308",
+            "openfda": {
+              "application_number": [
+                "NDA018163"
+              ],
+              "brand_name": [
+                "RESTORIL"
+              ],
+              "generic_name": [
+                "TEMAZEPAM"
+              ],
+              "manufacturer_name": [
+                "SpecGx LLC"
+              ],
+              "product_ndc": [
+                "0406-9914",
+                "0406-9915",
+                "0406-9916",
+                "0406-9917"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "TEMAZEPAM"
+              ],
+              "rxcui": [
+                "198241",
+                "198242",
+                "198243",
+                "208463",
+                "208464",
+                "208465",
+                "485489",
+                "539384"
+              ],
+              "spl_id": [
+                "f0ee4fa9-cdff-4111-83a5-0885c81de4e4"
+              ],
+              "spl_set_id": [
+                "bc56f7fd-1aaf-48ff-8aa7-d467e59e1015"
+              ],
+              "package_ndc": [
+                "0406-9915-03",
+                "0406-9915-01",
+                "0406-9916-01",
+                "0406-9914-03",
+                "0406-9917-01"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "CHB1QD2QSS"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "SOLUMEDROL",
+            "drugadministrationroute": "048",
+            "drugenddateformat": "102",
+            "drugenddate": "20140308"
+          }
+        ]
+      }
+    }
+  ]
+}

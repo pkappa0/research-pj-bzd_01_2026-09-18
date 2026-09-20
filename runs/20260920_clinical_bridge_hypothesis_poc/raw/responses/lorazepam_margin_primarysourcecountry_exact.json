@@ -1,0 +1,370 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30"
+  },
+  "results": [
+    {
+      "term": "US",
+      "count": 88286
+    },
+    {
+      "term": "CA",
+      "count": 19252
+    },
+    {
+      "term": "IT",
+      "count": 4958
+    },
+    {
+      "term": "GB",
+      "count": 4089
+    },
+    {
+      "term": "ES",
+      "count": 3548
+    },
+    {
+      "term": "DE",
+      "count": 3388
+    },
+    {
+      "term": "FR",
+      "count": 2725
+    },
+    {
+      "term": "JP",
+      "count": 1151
+    },
+    {
+      "term": "EU",
+      "count": 1050
+    },
+    {
+      "term": "NL",
+      "count": 940
+    },
+    {
+      "term": "PT",
+      "count": 792
+    },
+    {
+      "term": "AU",
+      "count": 754
+    },
+    {
+      "term": "CH",
+      "count": 710
+    },
+    {
+      "term": "KR",
+      "count": 578
+    },
+    {
+      "term": "IN",
+      "count": 456
+    },
+    {
+      "term": "CN",
+      "count": 408
+    },
+    {
+      "term": "BE",
+      "count": 406
+    },
+    {
+      "term": "AT",
+      "count": 289
+    },
+    {
+      "term": "TW",
+      "count": 280
+    },
+    {
+      "term": "TR",
+      "count": 210
+    },
+    {
+      "term": "BR",
+      "count": 203
+    },
+    {
+      "term": "PL",
+      "count": 164
+    },
+    {
+      "term": "PR",
+      "count": 164
+    },
+    {
+      "term": "FI",
+      "count": 162
+    },
+    {
+      "term": "AR",
+      "count": 132
+    },
+    {
+      "term": "ZA",
+      "count": 129
+    },
+    {
+      "term": "CO",
+      "count": 126
+    },
+    {
+      "term": "DK",
+      "count": 125
+    },
+    {
+      "term": "IE",
+      "count": 125
+    },
+    {
+      "term": "NZ",
+      "count": 120
+    },
+    {
+      "term": "TH",
+      "count": 117
+    },
+    {
+      "term": "RO",
+      "count": 108
+    },
+    {
+      "term": "SE",
+      "count": 104
+    },
+    {
+      "term": "SI",
+      "count": 96
+    },
+    {
+      "term": "GR",
+      "count": 78
+    },
+    {
+      "term": "RS",
+      "count": 72
+    },
+    {
+      "term": "LT",
+      "count": 71
+    },
+    {
+      "term": "MX",
+      "count": 61
+    },
+    {
+      "term": "HR",
+      "count": 52
+    },
+    {
+      "term": "IL",
+      "count": 51
+    },
+    {
+      "term": "SG",
+      "count": 38
+    },
+    {
+      "term": "CL",
+      "count": 31
+    },
+    {
+      "term": "QA",
+      "count": 28
+    },
+    {
+      "term": "MY",
+      "count": 24
+    },
+    {
+      "term": "SA",
+      "count": 22
+    },
+    {
+      "term": "ID",
+      "count": 21
+    },
+    {
+      "term": "TN",
+      "count": 18
+    },
+    {
+      "term": "AE",
+      "count": 17
+    },
+    {
+      "term": "NO",
+      "count": 15
+    },
+    {
+      "term": "HK",
+      "count": 14
+    },
+    {
+      "term": "LU",
+      "count": 13
+    },
+    {
+      "term": "MT",
+      "count": 11
+    },
+    {
+      "term": "JM",
+      "count": 9
+    },
+    {
+      "term": "GT",
+      "count": 8
+    },
+    {
+      "term": "IR",
+      "count": 8
+    },
+    {
+      "term": "NP",
+      "count": 8
+    },
+    {
+      "term": "AM",
+      "count": 7
+    },
+    {
+      "term": "AF",
+      "count": 6
+    },
+    {
+      "term": "CR",
+      "count": 6
+    },
+    {
+      "term": "HU",
+      "count": 6
+    },
+    {
+      "term": "CY",
+      "count": 5
+    },
+    {
+      "term": "LB",
+      "count": 5
+    },
+    {
+      "term": "RU",
+      "count": 5
+    },
+    {
+      "term": "ET",
+      "count": 4
+    },
+    {
+      "term": "ME",
+      "count": 4
+    },
+    {
+      "term": "MM",
+      "count": 4
+    },
+    {
+      "term": "UM",
+      "count": 4
+    },
+    {
+      "term": "EE",
+      "count": 3
+    },
+    {
+      "term": "GE",
+      "count": 3
+    },
+    {
+      "term": "LK",
+      "count": 3
+    },
+    {
+      "term": "MA",
+      "count": 3
+    },
+    {
+      "term": "AL",
+      "count": 2
+    },
+    {
+      "term": "BD",
+      "count": 2
+    },
+    {
+      "term": "CZ",
+      "count": 2
+    },
+    {
+      "term": "KP",
+      "count": 2
+    },
+    {
+      "term": "PK",
+      "count": 2
+    },
+    {
+      "term": "UA",
+      "count": 2
+    },
+    {
+      "term": "UY",
+      "count": 2
+    },
+    {
+      "term": "AN",
+      "count": 1
+    },
+    {
+      "term": "BA",
+      "count": 1
+    },
+    {
+      "term": "BB",
+      "count": 1
+    },
+    {
+      "term": "BH",
+      "count": 1
+    },
+    {
+      "term": "BS",
+      "count": 1
+    },
+    {
+      "term": "EC",
+      "count": 1
+    },
+    {
+      "term": "JO",
+      "count": 1
+    },
+    {
+      "term": "OM",
+      "count": 1
+    },
+    {
+      "term": "SV",
+      "count": 1
+    },
+    {
+      "term": "SY",
+      "count": 1
+    },
+    {
+      "term": "SZ",
+      "count": 1
+    },
+    {
+      "term": "VE",
+      "count": 1
+    }
+  ]
+}

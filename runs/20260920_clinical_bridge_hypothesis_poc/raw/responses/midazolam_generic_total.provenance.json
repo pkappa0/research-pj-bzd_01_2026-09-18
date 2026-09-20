@@ -1,0 +1,11 @@
+{
+  "key": "midazolam_generic_total",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:54:15.457137+00:00",
+  "http_status": 200,
+  "sha256": "2b8d1b1dece7ff5d3d234637826a433f3d0080e2dad9ecb2c276e02d997355d4"
+}

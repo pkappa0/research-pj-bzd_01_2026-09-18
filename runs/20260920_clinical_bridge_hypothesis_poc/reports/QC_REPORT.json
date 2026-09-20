@@ -1,0 +1,71 @@
+{
+  "passed": true,
+  "X_hash_unchanged": true,
+  "Y_freeze_hash_verified": true,
+  "X_features": 48,
+  "drug_count": 10,
+  "pairs": 45,
+  "correlation_rows": 672,
+  "all_X_features_retained": true,
+  "minimum_n_for_feature_rho": 5,
+  "missingness_preserved": true,
+  "background_total": 20018532,
+  "nonnegative_contingency_cells": true,
+  "unique_drug_term_rows": true,
+  "limitations": [
+    "all-role fallback; no primary-suspect inference",
+    "report-document counts; independent case deduplication unavailable",
+    "demographics marginal only, no confounding adjustment",
+    "exact identity strategy misses nonharmonized brand and salt variants",
+    "US-centric FAERS availability and indication/polypharmacy confounding",
+    "n=10 drugs; correlated terms/features; exploratory maximum selection",
+    "alpha2 provisional construct; beta3 structural context",
+    "M comparable only for 2 drugs"
+  ],
+  "summary": {
+    "pair_rho": -0.19999999999999996,
+    "pair_count": 45,
+    "drug_label_permutation_tail_fraction": 0.4548,
+    "all_estimable_sensitivity_rho": -0.15928853754940708,
+    "leave_one_drug_out_rho_range": [
+      -0.35778635778635787,
+      -0.07696267696267697
+    ],
+    "top_absolute_feature_correlation": {
+      "structural_feature": "alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency",
+      "phenotype_term": "Muscular weakness",
+      "phenotype_axis": "C5",
+      "n_effective": 10,
+      "missingness": 0,
+      "rho": 0.8963581269790831,
+      "status": "estimable"
+    },
+    "axis_drug_coverage": {
+      "C1": 10,
+      "C2": 10,
+      "C3": 10,
+      "C4": 10,
+      "C5": 10,
+      "C6": 10
+    },
+    "clinical_drug_count": 10,
+    "rotarod_triazolam_higher_contexts": 7,
+    "rotarod_tied_contexts": 1,
+    "clinical_triazolam_minus_diazepam": {
+      "Ataxia": -0.05669991453556045,
+      "Balance disorder": -0.44673756026054434,
+      "Coordination abnormal": null,
+      "Gait disturbance": -0.20586201468385568,
+      "Fall": 0.004827118588861978,
+      "Somnolence": -0.38483483847661604,
+      "Sedation": -1.0588181895577637
+    }
+  },
+  "pdf_visual_review": {
+    "passed": true,
+    "method": "All five PDFs rendered via PyMuPDF and visually inspected; clinical heatmap footer adjusted and rechecked",
+    "date_utc": "2026-09-20T02:03:09.092915+00:00"
+  },
+  "chembl_identity_inchikey_match": "10/10",
+  "archived_tracked_files_unchanged": true
+}

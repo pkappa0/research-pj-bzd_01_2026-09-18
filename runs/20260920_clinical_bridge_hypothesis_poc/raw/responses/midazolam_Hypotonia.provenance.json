@@ -1,0 +1,11 @@
+{
+  "key": "midazolam_Hypotonia",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22HYPOTONIA%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"HYPOTONIA\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:55:06.278932+00:00",
+  "http_status": 200,
+  "sha256": "e931978715d9bd644caf241ffe241d2473b1aead9ac304b8f6ab262e10588020"
+}

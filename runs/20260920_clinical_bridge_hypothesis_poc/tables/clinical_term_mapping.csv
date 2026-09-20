@@ -1,0 +1,20 @@
+phenotype_axis,requested_term,source_term,mapping_rule,included
+C1,ataxia,Ataxia,exact openFDA reactionmeddrapt; availability audited from background; not a licensed MedDRA hierarchy assertion,True
+C1,balance disorder,Balance disorder,exact openFDA reactionmeddrapt; availability audited from background; not a licensed MedDRA hierarchy assertion,True
+C1,coordination abnormal,Coordination abnormal,exact openFDA reactionmeddrapt; availability audited from background; not a licensed MedDRA hierarchy assertion,True
+C1,gait disturbance,Gait disturbance,exact openFDA reactionmeddrapt; availability audited from background; not a licensed MedDRA hierarchy assertion,True
+C2,fall,Fall,exact openFDA reactionmeddrapt; availability audited from background; not a licensed MedDRA hierarchy assertion,True
+C3,somnolence,Somnolence,exact openFDA reactionmeddrapt; availability audited from background; not a licensed MedDRA hierarchy assertion,True
+C3,sedation,Sedation,exact openFDA reactionmeddrapt; availability audited from background; not a licensed MedDRA hierarchy assertion,True
+C4,dizziness,Dizziness,exact openFDA reactionmeddrapt; availability audited from background; not a licensed MedDRA hierarchy assertion,True
+C4,vertigo,Vertigo,exact openFDA reactionmeddrapt; availability audited from background; not a licensed MedDRA hierarchy assertion,True
+C5,muscular weakness,Muscular weakness,exact openFDA reactionmeddrapt; availability audited from background; not a licensed MedDRA hierarchy assertion,True
+C5,hypotonia,Hypotonia,exact openFDA reactionmeddrapt; availability audited from background; not a licensed MedDRA hierarchy assertion,True
+C6,amnesia,Amnesia,exact openFDA reactionmeddrapt; availability audited from background; not a licensed MedDRA hierarchy assertion,True
+C6,memory impairment,Memory impairment,exact openFDA reactionmeddrapt; availability audited from background; not a licensed MedDRA hierarchy assertion,True
+C6,cognitive disorder,Cognitive disorder,exact openFDA reactionmeddrapt; availability audited from background; not a licensed MedDRA hierarchy assertion,True
+C1,abnormal gait,NA,not independently mapped; no inferred synonym or causal proxy,False
+C2,tendency to fall,NA,not independently mapped; no inferred synonym or causal proxy,False
+C2,injury secondary to fall,NA,not independently mapped; no inferred synonym or causal proxy,False
+C3,drowsiness,NA,not independently mapped; no inferred synonym or causal proxy,False
+C5,muscle relaxation,NA,not independently mapped; no inferred synonym or causal proxy,False

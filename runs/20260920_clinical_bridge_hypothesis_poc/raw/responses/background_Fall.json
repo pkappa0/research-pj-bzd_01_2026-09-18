@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 319310
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "1",
+      "safetyreportid": "10003323",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141002",
+      "reporttype": "1",
+      "serious": "2",
+      "receivedateformat": "102",
+      "receivedate": "20140312",
+      "receiptdateformat": "102",
+      "receiptdate": "20140312",
+      "fulfillexpeditecriteria": "2",
+      "companynumb": "US-B.I. PHARMACEUTICALS,INC./RIDGEFIELD-2014-BI-09517BP",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "BOEHRINGER INGELHEIM",
+        "duplicatenumb": "US-B.I. PHARMACEUTICALS,INC./RIDGEFIELD-2014-BI-09517BP"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "5"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "73",
+        "patientonsetageunit": "801",
+        "patientweight": "57",
+        "patientsex": "2",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Fall",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Pain in extremity",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Hiccups",
+            "reactionoutcome": "3"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "PRADAXA",
+            "drugbatchnumb": "306731",
+            "drugauthorizationnumb": "022512",
+            "drugstructuredosagenumb": "75",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "2",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosagetext": "150 MG",
+            "drugdosageform": "CAPSULE",
+            "drugadministrationroute": "048",
+            "drugindication": "ATRIAL FIBRILLATION",
+            "drugstartdateformat": "610",
+            "drugstartdate": "201309",
+            "actiondrug": "4",
+            "openfda": {
+              "application_number": [
+                "NDA022512",
+                "NDA214358"
+              ],
+              "brand_name": [
+                "PRADAXA"
+              ],
+              "generic_name": [
+                "DABIGATRAN ETEXILATE MESYLATE",
+                "DABIGATRAN ETEXILATE"
+              ],
+              "manufacturer_name": [
+                "Boehringer Ingelheim Pharmaceuticals Inc.",
+                "Boehringer Ingelheim Pharmaceuticals, Inc."
+              ],
+              "product_ndc": [
+                "0597-0108",
+                "0597-0355",
+                "0597-0360",
+                "0597-0425",
+                "0597-0430",
+                "0597-0435",
+                "0597-0440",
+                "0597-0445",
+                "0597-0450"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "DABIGATRAN ETEXILATE MESYLATE"
+              ],
+              "rxcui": [
+                "1037045",
+                "1037049",
+                "1037179",
+                "1037181",
+                "1723476",
+                "1723478",
+                "2590616",
+                "2590619",
+                "2590620",
+                "2590621",
+                "2590623",
+                "2590625",
+                "2590627",
+                "2590629",
+                "2590631",
+                "2590633",
+                "2590635",
+                "2590637"
+              ],
+              "spl_id": [
+                "ecf1aa06-c610-4fdb-a380-2e716d7e63c2",
+                "56b1a7c2-0afd-40c6-bda5-563e234a9f28"
+              ],
+              "spl_set_id": [
+                "ba74e3cd-b06f-4145-b284-5fd6b84ff3c9",
+                "9ac0a64a-8666-45f7-9d4f-40fd894f7e6d"
+              ],
+              "package_ndc": [
+                "0597-0108-54",
+                "0597-0108-60",
+                "0597-0355-09",
+                "0597-0355-56",
+                "0597-0355-53",
+                "0597-0360-55",
+                "0597-0360-42",
+                "0597-0360-82",
+                "0597-0425-78",
+                "0597-0430-18",
+                "0597-0435-96",
+                "0597-0440-53",
+                "0597-0445-87",
+                "0597-0450-16"
+              ],
+              "unii": [
+                "SC7NUW5IIT"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

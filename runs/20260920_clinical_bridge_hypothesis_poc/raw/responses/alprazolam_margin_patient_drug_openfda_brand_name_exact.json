@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30"
+  },
+  "results": [
+    {
+      "term": "XANAX XR",
+      "count": 200893
+    },
+    {
+      "term": "XANAX",
+      "count": 200113
+    },
+    {
+      "term": "ALPRAZOLAM XR",
+      "count": 110209
+    },
+    {
+      "term": "ALPRAZOLAM",
+      "count": 110170
+    },
+    {
+      "term": "MEDLINE",
+      "count": 28073
+    },
+    {
+      "term": "NEURONTIN",
+      "count": 20736
+    },
+    {
+      "term": "VITAMIN D",
+      "count": 18466
+    },
+    {
+      "term": "ACID REDUCER",
+      "count": 18233
+    },
+    {
+      "term": "LASIX",
+      "count": 18001
+    },
+    {
+      "term": "ASPIRIN 325",
+      "count": 17929
+    },
+    {
+      "term": "ASPIRIN 81",
+      "count": 17929
+    },
+    {
+      "term": "ECOTRIN",
+      "count": 17862
+    },
+    {
+      "term": "PAIN RELIEF",
+      "count": 17814
+    },
+    {
+      "term": "BAYER LOW DOSE",
+      "count": 17570
+    },
+    {
+      "term": "LOW DOSE ASPIRIN",
+      "count": 17546
+    },
+    {
+      "term": "LOW DOSE ASPIRIN ENTERIC SAFETY COATED",
+      "count": 17546
+    },
+    {
+      "term": "ASPIRIN LOW DOSE",
+      "count": 17540
+    },
+    {
+      "term": "BAYER GENUINE ASPIRIN",
+      "count": 17507
+    },
+    {
+      "term": "ASPIRINA CAPLETS",
+      "count": 17502
+    },
+    {
+      "term": "ASPIRIN ENTERIC COATED",
+      "count": 17501
+    },
+    {
+      "term": "ASPIRIN REGULAR STRENGTH",
+      "count": 17499
+    },
+    {
+      "term": "BAYER",
+      "count": 17499
+    },
+    {
+      "term": "ASPIRIN 81MG",
+      "count": 17498
+    },
+    {
+      "term": "ASPIRIN 81MG ADULT LOW DOSE",
+      "count": 17498
+    },
+    {
+      "term": "ASPIRIN CHEWABLE",
+      "count": 17497
+    },
+    {
+      "term": "ASPIRIN",
+      "count": 17495
+    },
+    {
+      "term": "ASPIRIN 325 MG",
+      "count": 17495
+    },
+    {
+      "term": "ASPIRIN 81 MG",
+      "count": 17495
+    },
+    {
+      "term": "ASPIRIN 81 MG LOW DOSE",
+      "count": 17495
+    },
+    {
+      "term": "ENTERIC ASPIRIN",
+      "count": 17494
+    },
+    {
+      "term": "CHILDRENS ASPIRIN",
+      "count": 17491
+    },
+    {
+      "term": "COATED ASPIRIN",
+      "count": 17491
+    },
+    {
+      "term": "BAYER ASPIRIN REGIMEN CHEWABLE LOW DOSE ASPIRIN ORANGE",
+      "count": 17489
+    },
+    {
+      "term": "CHEWABLE ASPIRIN",
+      "count": 17489
+    },
+    {
+      "term": "BUFFERED ASPIRIN",
+      "count": 17487
+    },
+    {
+      "term": "EQUATE ASPIRIN",
+      "count": 17487
+    },
+    {
+      "term": "EQUATE ASPIRIN CHEWABLE",
+      "count": 17487
+    },
+    {
+      "term": "ADULT LOW DOSE ASPIRIN",
+      "count": 17486
+    },
+    {
+      "term": "ASPIRIN DELAYED RELEASE",
+      "count": 17486
+    },
+    {
+      "term": "ASPIRIN LOW STRENGTH",
+      "count": 17486
+    },
+    {
+      "term": "BAYER ASPIRIN REGIMEN ENTERIC COATED",
+      "count": 17486
+    },
+    {
+      "term": "ENTERIC COATED ASPIRIN",
+      "count": 17486
+    },
+    {
+      "term": "ENTERIC COATED ASPIRIN REGULAR STRENGTH",
+      "count": 17486
+    },
+    {
+      "term": "ADULT CHEWABLE ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "ADULT LOW DOSE CHEWABLE ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "ADULT LOW DOSE ENTERIC COATED ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "ADULT LOW DOSE PAIN RELIEVER",
+      "count": 17485
+    },
+    {
+      "term": "ADULT LOW STRENGTH ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "ASPI-COR",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN 325 MG EC",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN 50 CT",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN 81MG ENTERIC COATED",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN 81MG ENTERIC COATED DELAYED RELEASE",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN 81MG ENTERIC COATED LOW STRENGTH ASPIRIN REGIMEN",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN CHEWABLE, LOW DOSE",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN ENTERIC COATED LOW DOSE",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN ENTERIC COATED, REGULAR STRENGTH",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN ENTERIC SAFETY COATED",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN EXTRA STRENGTH",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN LOW DOSE CHEWABLE",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN LOW DOSE CHEWABLE ORANGE",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN LOW DOSE ENTERIC COATED",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN LOW DOSE SAFETY COATED",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN NSAID",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN PAIN RELIEF",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN PAIN RELIVER",
+      "count": 17485
+    },
+    {
+      "term": "ASPIRIN REGIMEN",
+      "count": 17485
+    },
+    {
+      "term": "BASIC CARE ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "BAYER ASPIRIN ORIGINAL, CVP HEALTH",
+      "count": 17485
+    },
+    {
+      "term": "BAYER ASPIRIN ORIGINAL, TRAVEL BASIX",
+      "count": 17485
+    },
+    {
+      "term": "BAYER CHEWABLE - ASPIRIN REGIMEN LOW DOSE ASPIRIN CHERRY FLAVORED",
+      "count": 17485
+    },
+    {
+      "term": "BEST CHOICE EFFERVESCENT PAIN RELIEVER 36",
+      "count": 17485
+    },
+    {
+      "term": "BUFFERIN REGULAR STRENGTH PAIN RELIEF",
+      "count": 17485
+    },
+    {
+      "term": "CARDIASPIRIN PROTECT",
+      "count": 17485
+    },
+    {
+      "term": "CAREALL ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "CHEWABLE ASPIRIN 81 MG",
+      "count": 17485
+    },
+    {
+      "term": "CHEWABLE LOW DOSE ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "CIRCLE K ASPIRIN 325",
+      "count": 17485
+    },
+    {
+      "term": "CVS EFFERVESCENT PAIN RELIEVER",
+      "count": 17485
+    },
+    {
+      "term": "DG HEALTH ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "DIRECT SAFETY ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "DOLLAR GENERAL EFFERVESCENT PAIN RELIEVER",
+      "count": 17485
+    },
+    {
+      "term": "DRUG MART EFFERVESCENT PAIN RELIEF",
+      "count": 17485
+    },
+    {
+      "term": "DYE-FREE ASPIRIN 81",
+      "count": 17485
+    },
+    {
+      "term": "ECOTRIN REGULAR STRENGTH",
+      "count": 17485
+    },
+    {
+      "term": "EQUALINE EFFERVESCENT PAIN RELIEVER",
+      "count": 17485
+    },
+    {
+      "term": "EXTRA STRENGTH ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "FAMILY WELLNESS PAIN RELIEVER",
+      "count": 17485
+    },
+    {
+      "term": "FIRST AID DIRECT CHEWABLE ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "FOSTER AND THRIVE ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "GENCARE-ASPIRIN LOW DOSE PAIN RELIEVER (NSAID)",
+      "count": 17485
+    },
+    {
+      "term": "GERITREX ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "GOOD NEIGHBOR PHARMACY ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "GOOD SENSE ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "GOOD SENSE EFFERVESCENT PAIN RELIEF",
+      "count": 17485
+    },
+    {
+      "term": "GREEN GUARD CHEWABLE ASPIRIN 81 MG",
+      "count": 17485
+    },
+    {
+      "term": "HEB EFFERVESCENT PAIN RELIEF",
+      "count": 17485
+    },
+    {
+      "term": "LEADER ASPIRIN",
+      "count": 17485
+    },
+    {
+      "term": "LIL DRUG STORE ASPIRIN 325",
+      "count": 17485
+    },
+    {
+      "term": "LOW DOSE ASPIRIN 81MG",
+      "count": 17485
+    }
+  ]
+}

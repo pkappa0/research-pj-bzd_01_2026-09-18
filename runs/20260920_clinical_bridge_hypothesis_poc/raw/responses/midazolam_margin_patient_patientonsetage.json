@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30"
+  },
+  "results": [
+    {
+      "term": 65,
+      "count": 397
+    },
+    {
+      "term": 67,
+      "count": 370
+    },
+    {
+      "term": 60,
+      "count": 358
+    },
+    {
+      "term": 62,
+      "count": 336
+    },
+    {
+      "term": 75,
+      "count": 321
+    },
+    {
+      "term": 58,
+      "count": 303
+    },
+    {
+      "term": 6,
+      "count": 301
+    },
+    {
+      "term": 49,
+      "count": 299
+    },
+    {
+      "term": 57,
+      "count": 297
+    },
+    {
+      "term": 63,
+      "count": 294
+    },
+    {
+      "term": 71,
+      "count": 292
+    },
+    {
+      "term": 54,
+      "count": 282
+    },
+    {
+      "term": 2,
+      "count": 281
+    },
+    {
+      "term": 64,
+      "count": 281
+    },
+    {
+      "term": 31,
+      "count": 279
+    },
+    {
+      "term": 69,
+      "count": 278
+    },
+    {
+      "term": 19,
+      "count": 264
+    },
+    {
+      "term": 72,
+      "count": 260
+    },
+    {
+      "term": 59,
+      "count": 252
+    },
+    {
+      "term": 73,
+      "count": 248
+    },
+    {
+      "term": 17,
+      "count": 246
+    },
+    {
+      "term": 66,
+      "count": 245
+    },
+    {
+      "term": 52,
+      "count": 241
+    },
+    {
+      "term": 55,
+      "count": 238
+    },
+    {
+      "term": 61,
+      "count": 238
+    },
+    {
+      "term": 24,
+      "count": 237
+    },
+    {
+      "term": 53,
+      "count": 236
+    },
+    {
+      "term": 76,
+      "count": 236
+    },
+    {
+      "term": 8,
+      "count": 235
+    },
+    {
+      "term": 51,
+      "count": 235
+    },
+    {
+      "term": 70,
+      "count": 234
+    },
+    {
+      "term": 30,
+      "count": 232
+    },
+    {
+      "term": 56,
+      "count": 231
+    },
+    {
+      "term": 21,
+      "count": 230
+    },
+    {
+      "term": 42,
+      "count": 228
+    },
+    {
+      "term": 40,
+      "count": 227
+    },
+    {
+      "term": 68,
+      "count": 227
+    },
+    {
+      "term": 3,
+      "count": 226
+    },
+    {
+      "term": 16,
+      "count": 224
+    },
+    {
+      "term": 74,
+      "count": 224
+    },
+    {
+      "term": 46,
+      "count": 223
+    },
+    {
+      "term": 18,
+      "count": 221
+    },
+    {
+      "term": 44,
+      "count": 219
+    },
+    {
+      "term": 27,
+      "count": 216
+    },
+    {
+      "term": 41,
+      "count": 211
+    },
+    {
+      "term": 32,
+      "count": 210
+    },
+    {
+      "term": 23,
+      "count": 209
+    },
+    {
+      "term": 47,
+      "count": 206
+    },
+    {
+      "term": 14,
+      "count": 205
+    },
+    {
+      "term": 39,
+      "count": 205
+    },
+    {
+      "term": 4,
+      "count": 204
+    },
+    {
+      "term": 5,
+      "count": 203
+    },
+    {
+      "term": 15,
+      "count": 203
+    },
+    {
+      "term": 28,
+      "count": 203
+    },
+    {
+      "term": 11,
+      "count": 198
+    },
+    {
+      "term": 50,
+      "count": 197
+    },
+    {
+      "term": 22,
+      "count": 196
+    },
+    {
+      "term": 9,
+      "count": 192
+    },
+    {
+      "term": 26,
+      "count": 192
+    },
+    {
+      "term": 36,
+      "count": 187
+    },
+    {
+      "term": 33,
+      "count": 186
+    },
+    {
+      "term": 7,
+      "count": 181
+    },
+    {
+      "term": 10,
+      "count": 179
+    },
+    {
+      "term": 37,
+      "count": 179
+    },
+    {
+      "term": 48,
+      "count": 178
+    },
+    {
+      "term": 78,
+      "count": 173
+    },
+    {
+      "term": 20,
+      "count": 163
+    },
+    {
+      "term": 45,
+      "count": 162
+    },
+    {
+      "term": 35,
+      "count": 161
+    },
+    {
+      "term": 29,
+      "count": 160
+    },
+    {
+      "term": 13,
+      "count": 158
+    },
+    {
+      "term": 25,
+      "count": 158
+    },
+    {
+      "term": 80,
+      "count": 157
+    },
+    {
+      "term": 38,
+      "count": 156
+    },
+    {
+      "term": 77,
+      "count": 155
+    },
+    {
+      "term": 12,
+      "count": 151
+    },
+    {
+      "term": 34,
+      "count": 144
+    },
+    {
+      "term": 79,
+      "count": 138
+    },
+    {
+      "term": 1,
+      "count": 136
+    },
+    {
+      "term": 81,
+      "count": 131
+    },
+    {
+      "term": 43,
+      "count": 128
+    },
+    {
+      "term": 82,
+      "count": 99
+    },
+    {
+      "term": 83,
+      "count": 98
+    },
+    {
+      "term": 84,
+      "count": 78
+    },
+    {
+      "term": 86,
+      "count": 74
+    },
+    {
+      "term": 87,
+      "count": 68
+    },
+    {
+      "term": 85,
+      "count": 67
+    },
+    {
+      "term": 88,
+      "count": 63
+    },
+    {
+      "term": 0,
+      "count": 50
+    },
+    {
+      "term": 92,
+      "count": 32
+    },
+    {
+      "term": 91,
+      "count": 31
+    },
+    {
+      "term": 93,
+      "count": 31
+    },
+    {
+      "term": 89,
+      "count": 26
+    },
+    {
+      "term": 90,
+      "count": 25
+    },
+    {
+      "term": 94,
+      "count": 12
+    },
+    {
+      "term": 97,
+      "count": 8
+    },
+    {
+      "term": 96,
+      "count": 6
+    },
+    {
+      "term": 95,
+      "count": 4
+    },
+    {
+      "term": 98,
+      "count": 4
+    },
+    {
+      "term": 100,
+      "count": 3
+    }
+  ]
+}

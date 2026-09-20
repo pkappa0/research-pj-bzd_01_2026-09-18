@@ -1,0 +1,599 @@
+GitHub repository:
+https://github.com/pkappa0/research-pj-bzd_01_2026-09-18
+
+今回の作業は 2026-09-20 の研究フォルダ / run として新規作成してください。
+
+# 研究目的
+
+今回の目的はMLモデルを構築することではありません。
+
+以下の三層仮説を、
+博士研究の作業仮説として立てるだけの予備的根拠が得られるかを検証します。
+
+X = multi-receptor structural fingerprint
+M = in vivo phenotype fingerprint
+Y = clinical adverse-event phenotype fingerprint
+
+仮説：
+
+「薬剤ごとのmulti-receptor residue interaction fingerprintと
+clinical adverse-event fingerprintの間には対応構造が存在し、
+in vivo phenotype fingerprintはその両者を接続する
+intermediate phenotypeとして利用できる可能性がある」
+
+今回は、
+
+1. X ↔ Y の対応可能性を最優先で検証
+2. 既存Mがある薬剤について X ↔ M ↔ Y を例示
+3. MLへ進む価値があるか判断
+
+までとします。
+
+因果関係・予測性能・mediationはまだ主張しません。
+
+
+# Analysis contract
+
+Primary question:
+
+Structural fingerprintとclinical phenotype fingerprintの間に、
+薬剤間差を対応づけられるsignalが存在するか。
+
+Secondary question:
+
+既存in vivo phenotypeが、
+Structural ↔ Clinical間のintermediate phenotype候補として
+整合する例が存在するか。
+
+今回やらないこと：
+
+- 新規Docking
+- fingerprint再設計
+- structural clustering条件の再調整
+- Random Forest等の教師ありML
+- in vivoデータ不足を無理に補完
+- 臨床副作用を因果的薬理作用とみなす
+
+
+# Step 1. Structural Xをfreeze
+
+既存の10-drug standardized redocking runから
+固定済みmulti-receptor fingerprintを読み込んでください。
+
+対象：
+
+- diazepam
+- alprazolam
+- triazolam
+- zolpidem
+- lorazepam
+- clonazepam
+- midazolam
+- temazepam
+- zopiclone
+- zaleplon
+
+Xは既存の
+
+[alpha1 fingerprint | alpha2 fingerprint]
+
+をそのまま使用。
+
+既存fingerprintのfeature selectionや再計算は禁止。
+
+source run、hash、feature数をmanifestへ保存してください。
+
+
+# Step 2. Clinical phenotype axesを事前定義
+
+臨床側Yは、
+「ふらつき」に関係する副作用を一つのscoreへ潰さず、
+複数のphenotype axisとして保持してください。
+
+Primary clinical axes：
+
+C1 Balance / ataxia
+- ataxia
+- balance disorder
+- coordination abnormal
+- gait disturbance
+- abnormal gait
+
+C2 Fall-related
+- fall
+- tendency to fall
+- injury secondary to fall
+  （利用可能な標準用語に限定）
+
+C3 Sedation / somnolence
+- somnolence
+- sedation
+- drowsiness相当の標準語
+
+C4 Dizziness
+- dizziness
+- vertigoは別termとして保持可能
+
+C5 Muscle / motor weakness
+- muscular weakness
+- hypotonia
+- muscle relaxationに臨床的に対応するterm
+
+C6 Cognitive / amnestic
+- amnesia
+- memory impairment
+- cognitive disorder
+
+用語は実際のMedDRA / データソース表記へmappingしてください。
+
+勝手な同義語統合を行わず、
+mapping tableを必ず残してください。
+
+
+# Step 3. Clinical data source
+
+まず全10薬剤を同一方法で取得できる
+公開臨床adverse-event sourceを使用してください。
+
+Primary candidate：
+FAERS / openFDA drug adverse event data
+
+Secondary supporting source：
+公開drug label / package insert情報
+
+Primary analysisでは、
+できる限り全薬剤で同一source・同一処理を使用してください。
+
+label frequencyとFAERS signalを
+同一数値として混ぜないでください。
+
+
+# Step 4. Drug normalization
+
+各薬剤について、
+
+- generic name
+- ChEMBL compound identity
+- brand synonyms
+- spelling variants
+
+をmapping tableへ保存してください。
+
+FAERS等では可能であればgeneric nameをprimary keyにし、
+brand名の重複countを避けてください。
+
+薬剤同定が曖昧なreportを無理に採用しないでください。
+
+
+# Step 5. FAERS / clinical raw data
+
+取得したraw clinical dataについて最低限、
+
+- drug
+- adverse_event_term
+- phenotype_axis
+- report count
+- total drug reports
+- role_cod / suspect status if available
+- sex
+- age
+- country
+- report date / quarter
+- seriousness
+- source dataset
+- query
+- retrieval date
+
+を保存してください。
+
+可能であればprimary suspectをprimary analysisとし、
+all suspect / concomitantをsecondary sensitivityとして分けてください。
+
+report countはincidenceではないことを明記してください。
+
+
+# Step 6. Clinical phenotype fingerprint Y
+
+各drugについてclinical phenotype vectorを作成してください。
+
+raw countそのものではなく、
+reporting disproportionalityに基づく指標をprimary候補としてください。
+
+可能なら各drug × eventについて、
+
+- a = drug + event
+- b = drug + not event
+- c = not drug + event
+- d = not drug + not event
+
+を構築し、
+
+ROR
+log(ROR)
+95% CI
+report count
+
+を保存してください。
+
+zero cellがある場合の処理規則をconfigに事前記載してください。
+
+最低report数未満はunstable signalとしてflag。
+
+Clinical fingerprintは例えば、
+
+Y_drug =
+[
+logROR_ataxia,
+logROR_balance_disorder,
+logROR_fall,
+logROR_somnolence,
+logROR_dizziness,
+logROR_muscular_weakness,
+logROR_amnesia,
+...
+]
+
+としてください。
+
+axis-level summaryを作る場合も、
+term-level raw vectorは必ず保存してください。
+
+
+# Step 7. Clinical fingerprintだけのQC
+
+Xとの対応を見る前にclinical Y単独をfreezeしてください。
+
+確認項目：
+
+- 10剤coverage
+- missingness
+- report count
+- extreme low-count signal
+- phenotype term coverage
+- duplicate drug mapping
+
+必要に応じてY-only PCA / similarity matrixを作って構いませんが、
+目的は薬剤分類ではなくclinical phenotype representationのQCです。
+
+結果確認後にphenotype termを選び直さないでください。
+
+CLINICAL_RESULTS_FROZEN.json
+を作成してください。
+
+
+# Step 8. X ↔ Y correspondence
+
+XとYの双方をfreezeした後で、
+初めて対応解析を行ってください。
+
+n=10なので教師ありMLは禁止。
+
+以下を探索的に実施してください。
+
+
+## 8-1. Pairwise similarity
+
+各drug pairについて、
+
+Structural similarity:
+multi-receptor fingerprint cosine similarity
+または事前定義済みdistance
+
+Clinical similarity:
+clinical phenotype vector cosine similarity
+またはEuclidean distance
+
+を計算。
+
+45 drug pairsを表にしてください。
+
+
+## 8-2. Structural vs clinical similarity
+
+各drug pairについて、
+
+structural similarity
+vs
+clinical phenotype similarity
+
+をscatter plot。
+
+Spearman rhoも参考値として計算可能ですが、
+45 pairは独立観測ではないため、
+通常のn=45の独立サンプルとしてp-valueを解釈しないでください。
+
+探索的指標に留めてください。
+
+
+## 8-3. Feature × phenotype correspondence
+
+各structural feature X_j と
+各clinical phenotype feature Y_kについて、
+
+drug-level Spearman correlationを計算。
+
+必ず：
+
+- n_effective
+- missingness
+- rho
+
+を保存。
+
+n_effective < 5 は
+exploratory-insufficientとしてflag。
+
+p-value rankingを主結果にしないでください。
+
+
+# Step 9. in vivo Mを後から重ねる
+
+既存runで整理済みのin vivo dataだけを利用してください。
+
+新規Wetデータを仮定しない。
+
+現状では特に、
+
+Nishino2008
+diazepam vs triazolam
+rotarod / motor coordination
+
+をanchor exampleとして使用可能。
+
+各drugについて可能な範囲で、
+
+M_drug =
+[
+motor coordination,
+muscle relaxation,
+sedation / locomotion,
+hypnosis / LORR
+]
+
+を保持。
+
+missingはNA。
+
+
+# Step 10. 三層bridge example
+
+Mが存在するdrugだけについて、
+
+X structural
+↓
+M in vivo
+↓
+Y clinical
+
+を同一図上に並べてください。
+
+diazepam / triazolamについて例えば、
+
+- structural fingerprint difference
+- rotarod failure fraction
+- clinical C1/C2/C3 signals
+
+を横並びにする。
+
+ただしn=2なので、
+
+- correlation
+- mediation
+- causal path
+
+は計算・主張しないでください。
+
+目的は、
+
+「三層を同一drug identityで接続可能である」
+
+ことと、
+
+「方向性が整合する可能性があるか」
+
+を見ることです。
+
+
+# Step 11. 仮説評価
+
+FINAL_REPORTでは以下を別々に評価してください。
+
+
+A. Clinical fingerprint feasibility
+
+10剤についてclinical adverse-event profileを
+共通形式でFingerprint化できたか。
+
+
+B. X ↔ Y correspondence
+
+structural fingerprintとclinical fingerprintに
+薬剤間対応のsignal候補があるか。
+
+評価：
+
+- supported
+- partially supported
+- not supported
+- indeterminate
+
+
+C. Intermediate phenotype feasibility
+
+既存in vivo dataを
+XとYの間のintermediate phenotypeとして
+接続可能な例が存在するか。
+
+ここでは因果性ではなく、
+data linkage feasibilityを評価。
+
+
+D. Three-layer hypothesis
+
+以下の仮説を、
+今後検証する価値のあるworking hypothesisとして
+立てられるだけの根拠があるか。
+
+Structural fingerprint
+       ↓
+in vivo phenotype fingerprint
+       ↓
+clinical phenotype fingerprint
+
+ただし実際の解析上は、
+
+X ↔ M
+X ↔ Y
+M ↔ Y
+
+の三者対応として扱い、
+矢印を因果と断定しないこと。
+
+
+# Step 12. 最重要図
+
+1. three_layer_hypothesis.png/pdf
+
+Structural fingerprint
+↕
+in vivo phenotype fingerprint
+↕
+clinical phenotype fingerprint
+
+現在のevidence coverageも表示。
+
+
+2. clinical_phenotype_fingerprint_heatmap.png/pdf
+
+10 drugs × clinical phenotype features
+
+
+3. structural_vs_clinical_similarity.png/pdf
+
+drug-pair structural similarity vs clinical similarity
+
+
+4. structural_feature_clinical_phenotype_heatmap.png/pdf
+
+rows:
+structural fingerprint features
+
+columns:
+clinical phenotype axes / terms
+
+cell:
+Spearman rho
+
+n_effectiveを併記。
+
+
+5. diazepam_triazolam_three_layer_example.png/pdf
+
+X structural
+M rotarod
+Y clinical AE
+
+を一枚に統合。
+
+
+# Step 13. Output
+
+新しいrun：
+
+runs/20260920_clinical_bridge_hypothesis_poc/
+
+または既存命名規則に合わせた
+2026-09-20フォルダ内の新規run。
+
+tables/
+
+1. structural_fingerprint_frozen_manifest.csv
+2. clinical_term_mapping.csv
+3. drug_name_mapping.csv
+4. clinical_raw_counts.csv
+5. clinical_disproportionality.csv
+6. clinical_fingerprint_10drug.csv
+7. clinical_missingness_summary.csv
+8. structural_clinical_pairwise_similarity.csv
+9. structural_feature_clinical_correlations.csv
+10. invivo_fingerprint_sparse.csv
+11. three_layer_joined_dataset.csv
+
+figures/
+
+12. three_layer_hypothesis.png/pdf
+13. clinical_phenotype_fingerprint_heatmap.png/pdf
+14. structural_vs_clinical_similarity.png/pdf
+15. structural_feature_clinical_phenotype_heatmap.png/pdf
+16. diazepam_triazolam_three_layer_example.png/pdf
+
+reports/
+
+17. FINAL_REPORT.md
+18. QC_REPORT.json
+
+config/
+
+19. clinical_phenotype_config.json
+20. faers_query_config.json
+
+raw/
+
+21. API responses / query provenance
+22. label evidence if used
+
+
+# Step 14. Guardrails
+
+- FAERS report frequency ≠ incidence
+- ROR ≠ risk ratio
+- spontaneous reports ≠ causal adverse effect
+- structural correlation ≠ mechanism
+- in vivo ↔ clinical alignment ≠ mediation
+- missing = NA, not zero
+- clinical terms must be prespecified
+- X and Y must each be frozen before correspondence analysis
+- phenotypeに合わせてstructural featuresを再選択しない
+- n=10でsupervised MLを行わない
+
+
+# Step 15. 最終報告
+
+最後に必ず、
+
+- commit hash
+- run directory
+- clinical data source
+- 10剤中clinical fingerprint作成可能数
+- phenotype axis coverage
+- X↔Y対応の有無
+- 最も大きな対応候補
+- diazepam/triazolam三層例の整合性
+- in vivoをintermediate phenotypeとして扱う仮説が
+  supported / partially supported / not supported / indeterminate
+  のどれか
+- MLへ進む前に不足するもの
+- 最大のlimitation
+
+を報告してください。
+
+
+# 最重要目的
+
+今回は、
+
+「三層モデルが正しいことを証明する」
+
+解析ではありません。
+
+目的は、
+
+「Structural fingerprintとClinical phenotype fingerprintを
+それぞれ独立に構築して対応づけることが可能で、
+さらに既存in vivo phenotypeを中間層として接続する
+working hypothesisを立てるだけの予備的signalがあるか」
+
+を確認することです。
+
+positive resultを作るために条件変更しないでください。
+negative / indeterminateも正式な結果です。

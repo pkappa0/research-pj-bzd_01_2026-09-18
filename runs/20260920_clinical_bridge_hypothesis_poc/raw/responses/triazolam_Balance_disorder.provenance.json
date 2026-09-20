@@ -1,0 +1,11 @@
+{
+  "key": "triazolam_Balance_disorder",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22BALANCE+DISORDER%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"BALANCE DISORDER\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:52:51.883879+00:00",
+  "http_status": 200,
+  "sha256": "136d6cd5e5bd570f2a84b213500eb11f4f83fb75cd04ef7d3ee3a43ab12cec0a"
+}

@@ -1,0 +1,1358 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 131
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "3",
+      "safetyreportid": "10027047",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20150720",
+      "reporttype": "2",
+      "serious": "1",
+      "seriousnessother": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140321",
+      "receiptdateformat": "102",
+      "receiptdate": "20150304",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "US-ABBVIE-14P-163-1213261-00",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "ABBVIE",
+        "duplicatenumb": "US-ABBVIE-14P-163-1213261-00"
+      },
+      "primarysource": {
+        "reportercountry": "COUNTRY NOT SPECIFIED",
+        "qualification": "1"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "53",
+        "patientonsetageunit": "801",
+        "patientweight": "68.1",
+        "patientsex": "2",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Loss of consciousness",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Weight decreased",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Decreased appetite",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Pain in extremity",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Headache",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Incorrect dose administered",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Fall",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Contusion",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Asthenia",
+            "reactionoutcome": "3"
+          },
+          {
+            "reactionmeddraversionpt": "18.0",
+            "reactionmeddrapt": "Dizziness",
+            "reactionoutcome": "1"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "MARINOL",
+            "drugbatchnumb": "UNKNOWN",
+            "drugauthorizationnumb": "018651",
+            "drugadministrationroute": "065",
+            "drugindication": "NAUSEA",
+            "drugstartdateformat": "602",
+            "drugstartdate": "2012",
+            "actiondrug": "1",
+            "activesubstance": {
+              "activesubstancename": "DRONABINOL"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA018651"
+              ],
+              "brand_name": [
+                "MARINOL"
+              ],
+              "generic_name": [
+                "DRONABINOL"
+              ],
+              "manufacturer_name": [
+                "ThePharmaNetwork, LLC"
+              ],
+              "product_ndc": [
+                "53097-568",
+                "53097-569",
+                "53097-570",
+                "53097-571",
+                "53097-572",
+                "53097-573"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "DRONABINOL"
+              ],
+              "rxcui": [
+                "197634",
+                "197635",
+                "197636",
+                "205641",
+                "205642",
+                "205645"
+              ],
+              "spl_id": [
+                "628f9609-6583-49be-be77-b64cfbc46fd7",
+                "5ce802d5-e8ab-4cd1-9ba0-1f39f22ddd48"
+              ],
+              "spl_set_id": [
+                "628f9609-6583-49be-be77-b64cfbc46fd7",
+                "d0efeeec-640d-43c3-8f0a-d31324a11c68"
+              ],
+              "package_ndc": [
+                "53097-568-60",
+                "53097-569-60",
+                "53097-570-60",
+                "53097-571-60",
+                "53097-572-60",
+                "53097-573-60"
+              ],
+              "nui": [
+                "N0000175782",
+                "M0003267"
+              ],
+              "pharm_class_epc": [
+                "Cannabinoid [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Cannabinoids [CS]"
+              ],
+              "unii": [
+                "7J8897W37S"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TRIAZOLAM.",
+            "drugindication": "ANXIETY",
+            "activesubstance": {
+              "activesubstancename": "TRIAZOLAM"
+            },
+            "openfda": {
+              "application_number": [
+                "ANDA214219",
+                "NDA017892",
+                "ANDA213003"
+              ],
+              "brand_name": [
+                "TRIAZOLAM"
+              ],
+              "generic_name": [
+                "TRIAZOLAM"
+              ],
+              "manufacturer_name": [
+                "Ingenus Pharmaceuticals, LLC",
+                "Mylan Pharmaceuticals Inc.",
+                "Zydus Pharmaceuticals USA Inc.",
+                "Zydus Lifesciences Limited"
+              ],
+              "product_ndc": [
+                "50742-645",
+                "50742-646",
+                "59762-3717",
+                "59762-3718",
+                "70710-1289",
+                "70710-1521",
+                "70771-1162",
+                "70771-1576"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "TRIAZOLAM"
+              ],
+              "rxcui": [
+                "198317",
+                "198318"
+              ],
+              "spl_id": [
+                "22a3bdbc-8edf-45a5-ad5c-4a0c3f73f255",
+                "27655a51-bab0-4bde-bd82-c15aa61f4705",
+                "4c2fb12f-623b-4dc9-a9e0-7fac953f5cf0",
+                "fb074b17-c185-44d2-9d5e-2d5836499c3a"
+              ],
+              "spl_set_id": [
+                "a0c99f0b-4122-4611-9b53-80fadfceacb6",
+                "5add318e-11b9-42f8-b052-0d8cebb32fcf",
+                "8d414eb8-eec9-486f-90fc-00eed0cf7daf",
+                "4084da13-5825-4399-ad69-de701508c71d"
+              ],
+              "package_ndc": [
+                "50742-645-01",
+                "50742-646-01",
+                "50742-646-05",
+                "59762-3717-4",
+                "59762-3717-9",
+                "59762-3718-4",
+                "59762-3718-3",
+                "59762-3718-9",
+                "70710-1289-8",
+                "70710-1289-5",
+                "70710-1289-1",
+                "70710-1521-8",
+                "70710-1521-5",
+                "70710-1521-1",
+                "70771-1162-8",
+                "70771-1162-5",
+                "70771-1162-1",
+                "70771-1576-8",
+                "70771-1576-5",
+                "70771-1576-1"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "1HM943223R"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "MARINOL",
+            "drugbatchnumb": "UNKNOWN",
+            "drugauthorizationnumb": "018651",
+            "drugstructuredosagenumb": "5",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosageform": "CAPSULE",
+            "drugadministrationroute": "065",
+            "drugstartdateformat": "610",
+            "drugstartdate": "201403",
+            "drugenddateformat": "102",
+            "drugenddate": "20150224",
+            "actiondrug": "1",
+            "activesubstance": {
+              "activesubstancename": "DRONABINOL"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA018651"
+              ],
+              "brand_name": [
+                "MARINOL"
+              ],
+              "generic_name": [
+                "DRONABINOL"
+              ],
+              "manufacturer_name": [
+                "ThePharmaNetwork, LLC"
+              ],
+              "product_ndc": [
+                "53097-568",
+                "53097-569",
+                "53097-570",
+                "53097-571",
+                "53097-572",
+                "53097-573"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "DRONABINOL"
+              ],
+              "rxcui": [
+                "197634",
+                "197635",
+                "197636",
+                "205641",
+                "205642",
+                "205645"
+              ],
+              "spl_id": [
+                "628f9609-6583-49be-be77-b64cfbc46fd7",
+                "5ce802d5-e8ab-4cd1-9ba0-1f39f22ddd48"
+              ],
+              "spl_set_id": [
+                "628f9609-6583-49be-be77-b64cfbc46fd7",
+                "d0efeeec-640d-43c3-8f0a-d31324a11c68"
+              ],
+              "package_ndc": [
+                "53097-568-60",
+                "53097-569-60",
+                "53097-570-60",
+                "53097-571-60",
+                "53097-572-60",
+                "53097-573-60"
+              ],
+              "nui": [
+                "N0000175782",
+                "M0003267"
+              ],
+              "pharm_class_epc": [
+                "Cannabinoid [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Cannabinoids [CS]"
+              ],
+              "unii": [
+                "7J8897W37S"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "ALPRAZOLAM.",
+            "drugindication": "ANXIETY",
+            "activesubstance": {
+              "activesubstancename": "ALPRAZOLAM"
+            },
+            "openfda": {
+              "application_number": [
+                "ANDA074342",
+                "ANDA203346",
+                "ANDA090871",
+                "NDA018276",
+                "ANDA074174",
+                "ANDA078088",
+                "ANDA078561",
+                "ANDA078387",
+                "ANDA200739",
+                "NDA021434",
+                "ANDA074312",
+                "ANDA074112",
+                "ANDA074909"
+              ],
+              "brand_name": [
+                "ALPRAZOLAM",
+                "XANAX",
+                "XANAX XR",
+                "ALPRAZOLAM XR"
+              ],
+              "generic_name": [
+                "ALPRAZOLAM"
+              ],
+              "manufacturer_name": [
+                "Actavis Pharma, Inc.",
+                "Aurobindo Pharma Limited",
+                "Mylan Pharmaceuticals Inc.",
+                "ANI Pharmaceuticals, Inc.",
+                "Par Health USA, LLC",
+                "Amneal Pharmaceuticals LLC",
+                "Natco Pharma USA LLC",
+                "PHARMACIA & UPJOHN COMPANY LLC",
+                "Viatris Specialty LLC",
+                "Hikma Pharmaceuticals USA Inc.",
+                "Sandoz Inc"
+              ],
+              "product_ndc": [
+                "0228-2027",
+                "0228-2029",
+                "0228-2031",
+                "0228-2039",
+                "65862-676",
+                "65862-677",
+                "65862-678",
+                "65862-679",
+                "65862-454",
+                "65862-455",
+                "65862-456",
+                "65862-457",
+                "59762-3719",
+                "59762-3720",
+                "59762-3721",
+                "59762-3722",
+                "70954-508",
+                "70954-509",
+                "70954-510",
+                "70954-511",
+                "49884-110",
+                "49884-111",
+                "49884-213",
+                "49884-214",
+                "0228-4019",
+                "0228-4022",
+                "0228-4024",
+                "0228-4025",
+                "65162-809",
+                "65162-810",
+                "65162-812",
+                "65162-813",
+                "69339-199",
+                "69339-200",
+                "69339-201",
+                "69339-202",
+                "0009-0029",
+                "0009-0055",
+                "0009-0090",
+                "0009-0094",
+                "58151-505",
+                "58151-503",
+                "58151-504",
+                "58151-506",
+                "59762-0057",
+                "59762-0059",
+                "59762-0066",
+                "59762-0068",
+                "58151-452",
+                "58151-453",
+                "58151-454",
+                "58151-455",
+                "0054-3068",
+                "0781-1061",
+                "0781-1077",
+                "0781-1079",
+                "0781-1089"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ALPRAZOLAM"
+              ],
+              "rxcui": [
+                "197321",
+                "197322",
+                "308047",
+                "308048",
+                "433798",
+                "433799",
+                "433800",
+                "433801",
+                "485413",
+                "485414",
+                "485415",
+                "485416",
+                "141927",
+                "141928",
+                "214003",
+                "214004",
+                "687022",
+                "687023",
+                "687024",
+                "687025",
+                "308050"
+              ],
+              "spl_id": [
+                "08d09d46-386d-4dc8-a0c1-5711261c6282",
+                "7527aeb7-8912-404d-afb7-8c692c84422b",
+                "f2273fea-bd3b-4ef5-b698-73ba677722e3",
+                "0deddc26-2764-4879-a0e4-a29fff246244",
+                "18a6f29f-7eb8-4aa2-8121-d554c59da191",
+                "38e94d5e-f7e2-4349-94f2-2fba605f5ae6",
+                "38c5b407-25a1-48f5-960e-87ef637b644c",
+                "4b2e21bc-ca1c-4ff5-a996-32f1e94d2a91",
+                "885d0fec-f1a6-42f4-8617-1d048cb15ee9",
+                "f5323eac-81d0-4096-ac15-2f25220c5c28",
+                "7ceb0a8d-f766-4806-a289-652080edf4a3",
+                "70f0098e-50b5-4e61-b4e0-141a55d92267",
+                "27062ff4-9ce3-4d8a-aeae-f4468efb623a",
+                "d7b8cdff-1337-4ef6-a5fb-654f1d655bfe",
+                "4c8c7366-aa3b-4124-9d64-67fb0ead6e15"
+              ],
+              "spl_set_id": [
+                "a23063c0-099a-4256-b95f-3a857bbf704b",
+                "d2fd0b3e-9b78-44d0-82a6-96d6c6238750",
+                "326fa31a-5420-429b-9f7f-170cb38f64bd",
+                "13930c94-d83a-414f-be35-b1fef35f738d",
+                "38428a1b-718c-49cc-94ae-2e3644ba6256",
+                "ff1630b4-2044-433c-96bc-0bb4ae8d42a0",
+                "5ceed721-2e65-4c81-bd84-f110b1ac9d2e",
+                "259387c1-e374-4bc2-9510-5f7f2c60d1a5",
+                "b3c55877-2538-4892-bdb1-d618c643d29c",
+                "388e249d-b9b6-44c3-9f8f-880eced0239f",
+                "c8990714-c2f5-4b0c-9f1c-91d77156d962",
+                "1338d1c9-7c75-42ed-95f3-9eb1b6fc51d3",
+                "bb5cf72e-3a41-41a8-9a38-80f974eca33f",
+                "b945ac6f-796e-41ef-85e9-61007e4a4e9a",
+                "d9b0e228-17cf-40d7-b62e-5050311c571c"
+              ],
+              "package_ndc": [
+                "0228-2027-10",
+                "0228-2027-50",
+                "0228-2027-96",
+                "0228-2029-10",
+                "0228-2029-50",
+                "0228-2029-96",
+                "0228-2031-10",
+                "0228-2031-50",
+                "0228-2031-96",
+                "0228-2039-10",
+                "65862-676-01",
+                "65862-676-05",
+                "65862-676-99",
+                "65862-677-01",
+                "65862-677-05",
+                "65862-677-99",
+                "65862-678-01",
+                "65862-678-05",
+                "65862-678-99",
+                "65862-679-01",
+                "65862-679-05",
+                "65862-679-99",
+                "65862-454-60",
+                "65862-454-99",
+                "65862-454-71",
+                "65862-455-60",
+                "65862-455-99",
+                "65862-455-71",
+                "65862-456-60",
+                "65862-456-99",
+                "65862-456-71",
+                "65862-457-60",
+                "65862-457-99",
+                "65862-457-71",
+                "59762-3719-1",
+                "59762-3719-3",
+                "59762-3719-4",
+                "59762-3720-1",
+                "59762-3720-3",
+                "59762-3720-4",
+                "59762-3721-1",
+                "59762-3721-3",
+                "59762-3721-4",
+                "59762-3722-1",
+                "59762-3722-3",
+                "70954-508-10",
+                "70954-508-20",
+                "70954-508-30",
+                "70954-509-10",
+                "70954-509-20",
+                "70954-509-30",
+                "70954-510-10",
+                "70954-510-20",
+                "70954-510-30",
+                "70954-511-10",
+                "70954-511-20",
+                "49884-110-74",
+                "49884-111-74",
+                "49884-213-74",
+                "49884-214-74",
+                "0228-4019-11",
+                "0228-4022-11",
+                "0228-4024-11",
+                "0228-4025-11",
+                "65162-809-03",
+                "65162-809-06",
+                "65162-809-50",
+                "65162-810-03",
+                "65162-810-06",
+                "65162-810-50",
+                "65162-812-03",
+                "65162-812-06",
+                "65162-812-50",
+                "65162-813-03",
+                "65162-813-06",
+                "65162-813-50",
+                "69339-199-01",
+                "69339-199-05",
+                "69339-199-10",
+                "69339-200-01",
+                "69339-200-05",
+                "69339-200-10",
+                "69339-201-01",
+                "69339-201-05",
+                "69339-201-10",
+                "69339-202-01",
+                "69339-202-05",
+                "69339-202-10",
+                "0009-0029-01",
+                "0009-0029-46",
+                "0009-0029-02",
+                "0009-0029-14",
+                "0009-0055-01",
+                "0009-0055-46",
+                "0009-0055-03",
+                "0009-0055-15",
+                "0009-0090-01",
+                "0009-0090-04",
+                "0009-0090-13",
+                "0009-0094-01",
+                "0009-0094-03",
+                "58151-503-91",
+                "58151-504-91",
+                "58151-505-91",
+                "58151-506-91",
+                "59762-0057-1",
+                "59762-0059-1",
+                "59762-0066-1",
+                "59762-0068-1",
+                "58151-452-01",
+                "58151-452-05",
+                "58151-453-01",
+                "58151-453-05",
+                "58151-454-01",
+                "58151-454-05",
+                "58151-455-01",
+                "0054-3068-44",
+                "0781-1061-01",
+                "0781-1061-05",
+                "0781-1061-10",
+                "0781-1077-01",
+                "0781-1077-05",
+                "0781-1077-10",
+                "0781-1079-01",
+                "0781-1079-05",
+                "0781-1079-10",
+                "0781-1089-01",
+                "0781-1089-05"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "YU55MQ3IZY"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "CARISOPRODOL.",
+            "drugindication": "MUSCLE SPASMS",
+            "activesubstance": {
+              "activesubstancename": "CARISOPRODOL"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA011792",
+                "ANDA207237",
+                "ANDA040792",
+                "ANDA040188",
+                "ANDA211789",
+                "ANDA203374",
+                "ANDA040823",
+                "ANDA205126",
+                "ANDA040245"
+              ],
+              "brand_name": [
+                "SOMA",
+                "CARISOPRODOL",
+                "CARISOPRODOL TABLETS, USP, 350 MG"
+              ],
+              "generic_name": [
+                "CARISOPRODOL"
+              ],
+              "manufacturer_name": [
+                "Viatris Specialty LLC",
+                "Westminster Pharmaceuticals, LLC",
+                "Rising Pharma Holdings, Inc.",
+                "Oxford Pharmaceuticals, LLC",
+                "Granulation Technology, Inc.",
+                "Vensun Pharmaceuticals, Inc.",
+                "Mylan Pharmaceuticals Inc.",
+                "ScieGen Pharmaceuticals, Inc.",
+                "Ingenus Pharmaceuticals, LLC",
+                "Aurobindo Pharma Limited",
+                "Wilshire Pharmaceuticals, Inc.",
+                "Chartwell RX, LLC"
+              ],
+              "product_ndc": [
+                "0037-2001",
+                "0037-2250",
+                "69367-419",
+                "69367-420",
+                "16571-780",
+                "16571-781",
+                "69584-111",
+                "63561-0127",
+                "42543-700",
+                "51525-5901",
+                "50228-109",
+                "50742-656",
+                "65862-158",
+                "65862-693",
+                "52536-682",
+                "52536-688",
+                "62135-241"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "CARISOPRODOL"
+              ],
+              "rxcui": [
+                "197446",
+                "213695",
+                "730794",
+                "730918"
+              ],
+              "spl_id": [
+                "7272db18-d8cf-4bd0-ab9d-37e191a06f18",
+                "829cccf4-83d3-48d3-93a3-4e1ec01664ba",
+                "cca322f3-3e46-4de8-9e37-8fe9039d40c7",
+                "c2798091-3c51-4962-b72d-f11592ec00f5",
+                "37394c09-4ae3-400c-e063-6294a90a65d2",
+                "51dfd284-b3d8-4b5c-b8d4-b93a070ddb2e",
+                "8c92753a-4b60-4ecf-b411-d66665ae493e",
+                "60f38a99-69ef-4d7e-80b0-555575993116",
+                "372a2c87-8153-403b-8f40-851e1dddd809",
+                "75754a95-33cf-4bfb-bee1-7d308a227250",
+                "292b367f-9427-b730-e063-6394a90ad340",
+                "458c539a-5c3d-0ecd-e063-6294a90a2de7"
+              ],
+              "spl_set_id": [
+                "6297cf20-830a-11dc-94c8-0002a5d5c51b",
+                "bfb31551-8c57-4360-be3a-f6fbe84a891e",
+                "4d2470cb-7a5d-45f0-b005-534458833d91",
+                "03c3455f-e217-4a7e-908f-609333dc35fc",
+                "2abd11e4-8ce4-4aeb-87c4-3af94c197714",
+                "7c6015ad-2158-400d-8c22-585ab277ea49",
+                "7c9184c0-7a2e-11df-8c8d-0002a5d5c51b",
+                "069ea892-21a6-4703-8dd3-bf19c4406479",
+                "5eff5b4c-c363-45b5-9eef-b724233a51e2",
+                "79637c7b-fe7b-436c-892b-6c36abfdcacc",
+                "f03a1ea6-20c1-406a-a5b6-00f1a056d9ff",
+                "a44a3dfc-a427-4584-a086-4bc0c538b125"
+              ],
+              "package_ndc": [
+                "0037-2250-10",
+                "0037-2250-30",
+                "0037-2001-01",
+                "69367-419-01",
+                "69367-420-01",
+                "69367-420-05",
+                "16571-780-01",
+                "16571-781-01",
+                "16571-781-50",
+                "16571-781-10",
+                "69584-111-10",
+                "69584-111-50",
+                "69584-111-90",
+                "63561-0127-1",
+                "63561-0127-2",
+                "42543-700-01",
+                "42543-700-05",
+                "42543-700-10",
+                "51525-5901-1",
+                "50228-109-30",
+                "50228-109-01",
+                "50228-109-05",
+                "50228-109-10",
+                "50742-656-01",
+                "50742-656-05",
+                "65862-693-30",
+                "65862-693-60",
+                "65862-693-90",
+                "65862-693-01",
+                "65862-693-99",
+                "65862-158-01",
+                "65862-158-05",
+                "65862-158-99",
+                "52536-682-10",
+                "52536-688-10",
+                "62135-241-12"
+              ],
+              "nui": [
+                "N0000175730",
+                "N0000175737"
+              ],
+              "pharm_class_pe": [
+                "Centrally-mediated Muscle Relaxation [PE]"
+              ],
+              "pharm_class_epc": [
+                "Muscle Relaxant [EPC]"
+              ],
+              "unii": [
+                "21925K482H"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "CRESTOR",
+            "drugindication": "PRODUCT USED FOR UNKNOWN INDICATION",
+            "activesubstance": {
+              "activesubstancename": "ROSUVASTATIN CALCIUM"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA021366"
+              ],
+              "brand_name": [
+                "CRESTOR"
+              ],
+              "generic_name": [
+                "ROSUVASTATIN"
+              ],
+              "manufacturer_name": [
+                "AstraZeneca Pharmaceuticals LP"
+              ],
+              "product_ndc": [
+                "0310-7560",
+                "0310-7570",
+                "0310-7580",
+                "0310-7590"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ROSUVASTATIN CALCIUM"
+              ],
+              "rxcui": [
+                "859419",
+                "859421",
+                "859424",
+                "859426",
+                "859747",
+                "859749",
+                "859751",
+                "859753"
+              ],
+              "spl_id": [
+                "afc9b415-ee6f-4905-a281-13e74dcf6ce6"
+              ],
+              "spl_set_id": [
+                "325a5d0e-9a72-4015-9fcd-1655fb504cee"
+              ],
+              "package_ndc": [
+                "0310-7560-90",
+                "0310-7570-90",
+                "0310-7580-90",
+                "0310-7590-30"
+              ],
+              "unii": [
+                "83MVU38M7Q"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "MARINOL",
+            "drugbatchnumb": "UNKNOWN",
+            "drugauthorizationnumb": "018651",
+            "drugstructuredosagenumb": "5",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "3",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosageform": "CAPSULE",
+            "drugadministrationroute": "065",
+            "drugindication": "DECREASED APPETITE",
+            "drugstartdateformat": "602",
+            "drugstartdate": "2013",
+            "drugenddateformat": "610",
+            "drugenddate": "201403",
+            "actiondrug": "1",
+            "activesubstance": {
+              "activesubstancename": "DRONABINOL"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA018651"
+              ],
+              "brand_name": [
+                "MARINOL"
+              ],
+              "generic_name": [
+                "DRONABINOL"
+              ],
+              "manufacturer_name": [
+                "ThePharmaNetwork, LLC"
+              ],
+              "product_ndc": [
+                "53097-568",
+                "53097-569",
+                "53097-570",
+                "53097-571",
+                "53097-572",
+                "53097-573"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "DRONABINOL"
+              ],
+              "rxcui": [
+                "197634",
+                "197635",
+                "197636",
+                "205641",
+                "205642",
+                "205645"
+              ],
+              "spl_id": [
+                "628f9609-6583-49be-be77-b64cfbc46fd7",
+                "5ce802d5-e8ab-4cd1-9ba0-1f39f22ddd48"
+              ],
+              "spl_set_id": [
+                "628f9609-6583-49be-be77-b64cfbc46fd7",
+                "d0efeeec-640d-43c3-8f0a-d31324a11c68"
+              ],
+              "package_ndc": [
+                "53097-568-60",
+                "53097-569-60",
+                "53097-570-60",
+                "53097-571-60",
+                "53097-572-60",
+                "53097-573-60"
+              ],
+              "nui": [
+                "N0000175782",
+                "M0003267"
+              ],
+              "pharm_class_epc": [
+                "Cannabinoid [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Cannabinoids [CS]"
+              ],
+              "unii": [
+                "7J8897W37S"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "NEXIUM",
+            "drugindication": "PRODUCT USED FOR UNKNOWN INDICATION",
+            "activesubstance": {
+              "activesubstancename": "ESOMEPRAZOLE MAGNESIUM"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA022101",
+                "NDA021957",
+                "NDA021153"
+              ],
+              "brand_name": [
+                "NEXIUM"
+              ],
+              "generic_name": [
+                "ESOMEPRAZOLE MAGNESIUM"
+              ],
+              "manufacturer_name": [
+                "AstraZeneca Pharmaceuticals LP"
+              ],
+              "product_ndc": [
+                "0186-4010",
+                "0186-5020",
+                "0186-4020",
+                "0186-4040",
+                "0186-5040",
+                "0186-4025",
+                "0186-4050"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ESOMEPRAZOLE MAGNESIUM TRIHYDRATE"
+              ],
+              "rxcui": [
+                "606726",
+                "606728",
+                "606730",
+                "606731",
+                "692576",
+                "692578",
+                "861568",
+                "861570",
+                "861576",
+                "861583",
+                "1297658",
+                "1297660",
+                "1297761",
+                "1297763"
+              ],
+              "spl_id": [
+                "26f66e74-b652-4b1d-bfff-62a3cc87d590"
+              ],
+              "spl_set_id": [
+                "f4853677-1622-4037-688b-fdf533a11d96"
+              ],
+              "package_ndc": [
+                "0186-5020-31",
+                "0186-5020-54",
+                "0186-5020-82",
+                "0186-4010-01",
+                "0186-4010-02",
+                "0186-4020-01",
+                "0186-4040-01",
+                "0186-4040-02",
+                "0186-5040-31",
+                "0186-5040-35",
+                "0186-5040-55",
+                "0186-5040-85",
+                "0186-5040-54",
+                "0186-5040-82",
+                "0186-5040-05",
+                "0186-4025-01",
+                "0186-4025-02",
+                "0186-4050-01"
+              ],
+              "unii": [
+                "R6DXU4WAY9"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "FENTANYL.",
+            "drugindication": "PAIN",
+            "activesubstance": {
+              "activesubstancename": "FENTANYL"
+            },
+            "openfda": {
+              "application_number": [
+                "ANDA077449",
+                "ANDA202097",
+                "ANDA076258"
+              ],
+              "brand_name": [
+                "FENTANYL",
+                "FENTANYL SYSTEM"
+              ],
+              "generic_name": [
+                "FENTANYL"
+              ],
+              "manufacturer_name": [
+                "Aveva Drug Delivery Systems Inc.",
+                "INGENUS PHARMACEUTICALS, LLC",
+                "ALVOGEN",
+                "Mylan Pharmaceuticals Inc."
+              ],
+              "product_ndc": [
+                "3215-7701",
+                "3215-7702",
+                "3215-7703",
+                "3215-7704",
+                "3215-7705",
+                "3215-7706",
+                "3215-7707",
+                "3215-7708",
+                "50742-549",
+                "50742-550",
+                "50742-551",
+                "50742-552",
+                "50742-553",
+                "50742-554",
+                "50742-555",
+                "50742-556",
+                "47781-423",
+                "47781-424",
+                "47781-426",
+                "47781-427",
+                "47781-428",
+                "0378-9119",
+                "0378-9121",
+                "0378-9125",
+                "0378-9122",
+                "0378-9126",
+                "0378-9123",
+                "0378-9127",
+                "0378-9124"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "TRANSDERMAL"
+              ],
+              "substance_name": [
+                "FENTANYL"
+              ],
+              "rxcui": [
+                "197696",
+                "245134",
+                "245135",
+                "245136",
+                "577057",
+                "1603495",
+                "1603498",
+                "1603501"
+              ],
+              "spl_id": [
+                "4edfc77d-dee4-611b-e063-6294a90a47f8",
+                "4edfd739-fc61-0f08-e063-6394a90ae646",
+                "4b8493ea-0ce4-6949-e063-6294a90a8861",
+                "a6e21c86-57e5-4be5-b1bb-c894893991b2"
+              ],
+              "spl_set_id": [
+                "73897c38-e4ec-40bc-9f41-3359ee23a5a8",
+                "bf02ffd0-cc5d-446b-b648-378f6885052f",
+                "242759ef-cb6d-4e3e-9f8d-5e31efa1f289",
+                "2a2238e9-4b5d-c56d-8663-dd354ff9ae0c"
+              ],
+              "package_ndc": [
+                "3215-7701-01",
+                "3215-7701-05",
+                "3215-7702-01",
+                "3215-7702-05",
+                "3215-7703-01",
+                "3215-7703-05",
+                "3215-7704-01",
+                "3215-7704-05",
+                "3215-7705-01",
+                "3215-7705-05",
+                "3215-7706-01",
+                "3215-7706-05",
+                "3215-7707-01",
+                "3215-7707-05",
+                "3215-7708-01",
+                "3215-7708-05",
+                "50742-549-01",
+                "50742-549-05",
+                "50742-550-01",
+                "50742-550-05",
+                "50742-551-01",
+                "50742-551-05",
+                "50742-552-01",
+                "50742-552-05",
+                "50742-553-01",
+                "50742-553-05",
+                "50742-554-01",
+                "50742-554-05",
+                "50742-555-01",
+                "50742-555-05",
+                "50742-556-01",
+                "50742-556-05",
+                "47781-423-11",
+                "47781-423-47",
+                "47781-424-11",
+                "47781-424-47",
+                "47781-426-11",
+                "47781-426-47",
+                "47781-427-11",
+                "47781-427-47",
+                "47781-428-11",
+                "47781-428-47",
+                "0378-9119-16",
+                "0378-9119-98",
+                "0378-9121-16",
+                "0378-9121-98",
+                "0378-9125-16",
+                "0378-9125-98",
+                "0378-9122-16",
+                "0378-9122-98",
+                "0378-9126-16",
+                "0378-9126-98",
+                "0378-9123-16",
+                "0378-9123-98",
+                "0378-9127-16",
+                "0378-9127-98",
+                "0378-9124-16",
+                "0378-9124-98"
+              ],
+              "nui": [
+                "N0000175684",
+                "N0000175690"
+              ],
+              "pharm_class_moa": [
+                "Full Opioid Agonists [MoA]"
+              ],
+              "pharm_class_epc": [
+                "Opioid Agonist [EPC]"
+              ],
+              "unii": [
+                "UF599785JZ"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "PREMARIN",
+            "drugindication": "PRODUCT USED FOR UNKNOWN INDICATION",
+            "activesubstance": {
+              "activesubstancename": "ESTROGENS, CONJUGATED"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA020216",
+                "NDA010402",
+                "NDA004782"
+              ],
+              "brand_name": [
+                "PREMARIN VAGINAL",
+                "PREMARIN"
+              ],
+              "generic_name": [
+                "CONJUGATED ESTROGENS",
+                "ESTROGENS, CONJUGATED"
+              ],
+              "manufacturer_name": [
+                "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc."
+              ],
+              "product_ndc": [
+                "0046-0872",
+                "0046-0749",
+                "0046-1100",
+                "0046-1101",
+                "0046-1102",
+                "0046-1104",
+                "0046-1103"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "VAGINAL",
+                "INTRAMUSCULAR",
+                "INTRAVENOUS",
+                "ORAL"
+              ],
+              "substance_name": [
+                "ESTROGENS, CONJUGATED"
+              ],
+              "rxcui": [
+                "688240",
+                "688242",
+                "211975",
+                "310203",
+                "150840",
+                "197660",
+                "197661",
+                "197662",
+                "202301",
+                "208513",
+                "208949",
+                "310197",
+                "403849",
+                "404550"
+              ],
+              "spl_id": [
+                "94b7195e-3ce2-4e04-a814-9b63add4896e",
+                "97a59d56-720c-42fd-86b7-00ad93752452",
+                "7b9a0278-b55c-41c5-ba63-c46d05a60918"
+              ],
+              "spl_set_id": [
+                "96609623-528e-4aba-cabe-7254aed816d5",
+                "87e2da8d-432c-4ed5-67a1-dc26294b2295",
+                "258e1602-a3cf-4ccc-ca80-73dbbfb812ff"
+              ],
+              "package_ndc": [
+                "0046-0872-04",
+                "0046-0872-21",
+                "0046-0749-05",
+                "0046-1101-81",
+                "0046-1102-81",
+                "0046-1102-91",
+                "0046-1102-52",
+                "0046-1104-81",
+                "0046-1104-91",
+                "0046-1100-81",
+                "0046-1100-91",
+                "0046-1100-52",
+                "0046-1103-81"
+              ],
+              "nui": [
+                "N0000175825",
+                "N0000000100",
+                "M0007792"
+              ],
+              "pharm_class_epc": [
+                "Estrogen [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Estrogen Receptor Agonists [MoA]"
+              ],
+              "pharm_class_cs": [
+                "Estrogens, Conjugated (USP) [CS]"
+              ],
+              "unii": [
+                "IU5QR144QX"
+              ]
+            }
+          }
+        ],
+        "summary": {
+          "narrativeincludeclinical": "CASE EVENT DATE: 20131211"
+        }
+      }
+    }
+  ]
+}

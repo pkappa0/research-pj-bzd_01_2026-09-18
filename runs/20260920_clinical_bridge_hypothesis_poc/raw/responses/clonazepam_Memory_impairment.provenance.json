@@ -1,0 +1,11 @@
+{
+  "key": "clonazepam_Memory_impairment",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MEMORY+IMPAIRMENT%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"MEMORY IMPAIRMENT\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:54:39.493450+00:00",
+  "http_status": 200,
+  "sha256": "8a2e8dfe4d3bea8328700fcd73613f53d13985ac82596095dbd2a585ba766309"
+}

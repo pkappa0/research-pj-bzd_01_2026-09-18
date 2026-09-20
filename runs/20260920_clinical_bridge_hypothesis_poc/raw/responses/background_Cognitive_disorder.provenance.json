@@ -1,0 +1,11 @@
+{
+  "key": "background_Cognitive_disorder",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22COGNITIVE+DISORDER%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"COGNITIVE DISORDER\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:50:07.785485+00:00",
+  "http_status": 200,
+  "sha256": "ce835225b07f22b51df7c7e98a817613bcaff5434d5671c74e088d921fba3d59"
+}

@@ -1,0 +1,12 @@
+{
+  "key": "lorazepam_margin_receivedate",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29&count=receivedate&limit=100",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\")",
+    "count": "receivedate",
+    "limit": 100
+  },
+  "retrieved_utc": "2026-09-20T01:52:24.394696+00:00",
+  "http_status": 200,
+  "sha256": "e916a05b9e172f418e2c6633a54070199131dc31d185b20c286cb7564cd824ac"
+}

@@ -1,0 +1,12 @@
+{
+  "key": "midazolam_margin_patient_patientsex",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29&count=patient.patientsex&limit=100",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\")",
+    "count": "patient.patientsex",
+    "limit": 100
+  },
+  "retrieved_utc": "2026-09-20T01:54:22.755433+00:00",
+  "http_status": 200,
+  "sha256": "cdb13692ff90eb6f18a8210deb1e7c3931d324c68251ea8ac2df7562e79f3dc8"
+}

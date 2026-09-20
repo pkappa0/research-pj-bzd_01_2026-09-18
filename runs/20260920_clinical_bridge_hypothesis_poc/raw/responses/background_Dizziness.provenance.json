@@ -1,0 +1,11 @@
+{
+  "key": "background_Dizziness",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22DIZZINESS%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"DIZZINESS\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:49:53.281397+00:00",
+  "http_status": 200,
+  "sha256": "ecd8598f1eb1918b07d95f73c2ee28ba2b0475b388fcde8d5bc669b3ea54b33d"
+}

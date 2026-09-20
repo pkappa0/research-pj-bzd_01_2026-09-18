@@ -1,0 +1,12 @@
+{
+  "key": "zaleplon_margin_patient_patientsex",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29&count=patient.patientsex&limit=100",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\")",
+    "count": "patient.patientsex",
+    "limit": 100
+  },
+  "retrieved_utc": "2026-09-20T01:55:28.896876+00:00",
+  "http_status": 200,
+  "sha256": "b86f27dc63dbda6bb34985750c3cc09dc8a8fc5ce4021929e1a09c22a491d9da"
+}

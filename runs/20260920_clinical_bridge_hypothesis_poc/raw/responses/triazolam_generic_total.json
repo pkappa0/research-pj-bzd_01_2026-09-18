@@ -1,0 +1,514 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 3893
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "1",
+      "safetyreportid": "10012907",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141002",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnesshospitalization": "1",
+      "seriousnessother": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140314",
+      "receiptdateformat": "102",
+      "receiptdate": "20140314",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "US-GILEAD-2014-0096749",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "GILEAD",
+        "duplicatenumb": "US-GILEAD-2014-0096749"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "2"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "63",
+        "patientonsetageunit": "801",
+        "patientsex": "1",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Convulsion",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Hypothyroidism",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Insomnia",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Off label use",
+            "reactionoutcome": "6"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "SOVALDI",
+            "drugauthorizationnumb": "204671",
+            "drugdosagetext": "UNK",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "065",
+            "drugindication": "HEPATITIS C",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20140305",
+            "actiondrug": "5",
+            "openfda": {
+              "application_number": [
+                "NDA204671",
+                "NDA212480"
+              ],
+              "brand_name": [
+                "SOVALDI"
+              ],
+              "generic_name": [
+                "SOFOSBUVIR"
+              ],
+              "manufacturer_name": [
+                "Gilead Sciences, Inc."
+              ],
+              "product_ndc": [
+                "61958-1501",
+                "61958-1503",
+                "61958-1504",
+                "61958-1505"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "SOFOSBUVIR"
+              ],
+              "rxcui": [
+                "1484916",
+                "1484922",
+                "2203891",
+                "2203893",
+                "2203993",
+                "2203999",
+                "2204090",
+                "2204092"
+              ],
+              "spl_id": [
+                "74c52ec6-8358-4e63-b299-64ec1ff7f434"
+              ],
+              "spl_set_id": [
+                "80beab2c-396e-4a37-a4dc-40fdb62859cf"
+              ],
+              "package_ndc": [
+                "61958-1501-1",
+                "61958-1503-1",
+                "61958-1504-1",
+                "61958-1505-1"
+              ],
+              "nui": [
+                "N0000191493",
+                "N0000191258"
+              ],
+              "pharm_class_epc": [
+                "Hepatitis C Virus Nucleotide Analog NS5B Polymerase Inhibitor [EPC]"
+              ],
+              "pharm_class_moa": [
+                "RNA Replicase Inhibitors [MoA]"
+              ],
+              "unii": [
+                "WJ6CA3ZU8B"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "SIMEPREVIR",
+            "drugdosagetext": "UNK",
+            "drugadministrationroute": "065",
+            "drugindication": "HEPATITIS C",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20140305",
+            "actiondrug": "5"
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "RIBAVIRIN",
+            "drugdosagetext": "UNK",
+            "drugadministrationroute": "065",
+            "drugindication": "HEPATITIS C",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20140305",
+            "actiondrug": "5",
+            "openfda": {
+              "application_number": [
+                "ANDA079111",
+                "NDA018859",
+                "ANDA079117"
+              ],
+              "brand_name": [
+                "RIBAVIRIN"
+              ],
+              "generic_name": [
+                "RIBAVIRIN"
+              ],
+              "manufacturer_name": [
+                "Aurobindo Pharma Limited",
+                "Oceanside Pharmaceuticals"
+              ],
+              "product_ndc": [
+                "65862-207",
+                "68682-019",
+                "65862-290"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL",
+                "RESPIRATORY (INHALATION)"
+              ],
+              "substance_name": [
+                "RIBAVIRIN"
+              ],
+              "rxcui": [
+                "248109",
+                "312818",
+                "312817"
+              ],
+              "spl_id": [
+                "683ccd3f-445b-4488-b14c-8d5810d8633a",
+                "6b3c6edc-c735-46e0-9b31-fac85dda0992",
+                "229cfa05-05e1-493e-87ba-0511fed12e66"
+              ],
+              "spl_set_id": [
+                "eee304d0-c2ea-44f4-97d9-92a414d31b6c",
+                "d74aa4f3-0b7d-480d-b5bf-41ddf808b260",
+                "35f99f76-f2ef-4a81-91ff-285419664be3"
+              ],
+              "package_ndc": [
+                "65862-207-68",
+                "65862-207-05",
+                "68682-019-06",
+                "68682-019-01",
+                "65862-290-42",
+                "65862-290-56",
+                "65862-290-70",
+                "65862-290-84",
+                "65862-290-18",
+                "65862-290-05"
+              ],
+              "nui": [
+                "N0000175459",
+                "N0000175466"
+              ],
+              "pharm_class_epc": [
+                "Nucleoside Analog Antiviral [EPC]"
+              ],
+              "unii": [
+                "49717AWG6K"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TRUVADA",
+            "drugdosageform": "TABLET",
+            "drugindication": "HIV INFECTION",
+            "drugrecurreadministration": "3",
+            "openfda": {
+              "application_number": [
+                "NDA021752"
+              ],
+              "brand_name": [
+                "TRUVADA"
+              ],
+              "generic_name": [
+                "EMTRICITABINE AND TENOFOVIR DISOPROXIL FUMARATE"
+              ],
+              "manufacturer_name": [
+                "Gilead Sciences, Inc"
+              ],
+              "product_ndc": [
+                "61958-0701",
+                "61958-0703",
+                "61958-0704",
+                "61958-0705"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "EMTRICITABINE",
+                "TENOFOVIR DISOPROXIL FUMARATE"
+              ],
+              "rxcui": [
+                "476556",
+                "639888",
+                "1744001",
+                "1744003",
+                "1744005",
+                "1744007",
+                "1744009",
+                "1744011"
+              ],
+              "spl_id": [
+                "32422ee8-1cdc-4305-bb3e-0458472513fc"
+              ],
+              "spl_set_id": [
+                "54e82b13-a037-49ed-b4b3-030b37c0ecdd"
+              ],
+              "package_ndc": [
+                "61958-0701-1",
+                "61958-0703-1",
+                "61958-0704-1",
+                "61958-0705-1"
+              ],
+              "nui": [
+                "N0000175462",
+                "M0015066",
+                "N0000009947"
+              ],
+              "pharm_class_epc": [
+                "Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Nucleosides [CS]"
+              ],
+              "pharm_class_moa": [
+                "Nucleoside Reverse Transcriptase Inhibitors [MoA]"
+              ],
+              "unii": [
+                "G70B4ETF4S",
+                "OTT9J7900I"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "DOLUTEGRAVIR",
+            "drugindication": "HIV INFECTION",
+            "drugrecurreadministration": "3"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TRAZODONE",
+            "drugindication": "INSOMNIA",
+            "drugrecurreadministration": "3"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TRIAZOLAM",
+            "drugindication": "INSOMNIA",
+            "drugrecurreadministration": "3",
+            "openfda": {
+              "application_number": [
+                "ANDA214219",
+                "NDA017892",
+                "ANDA213003"
+              ],
+              "brand_name": [
+                "TRIAZOLAM"
+              ],
+              "generic_name": [
+                "TRIAZOLAM"
+              ],
+              "manufacturer_name": [
+                "Ingenus Pharmaceuticals, LLC",
+                "Mylan Pharmaceuticals Inc.",
+                "Zydus Pharmaceuticals USA Inc.",
+                "Zydus Lifesciences Limited"
+              ],
+              "product_ndc": [
+                "50742-645",
+                "50742-646",
+                "59762-3717",
+                "59762-3718",
+                "70710-1289",
+                "70710-1521",
+                "70771-1162",
+                "70771-1576"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "TRIAZOLAM"
+              ],
+              "rxcui": [
+                "198317",
+                "198318"
+              ],
+              "spl_id": [
+                "22a3bdbc-8edf-45a5-ad5c-4a0c3f73f255",
+                "27655a51-bab0-4bde-bd82-c15aa61f4705",
+                "4c2fb12f-623b-4dc9-a9e0-7fac953f5cf0",
+                "fb074b17-c185-44d2-9d5e-2d5836499c3a"
+              ],
+              "spl_set_id": [
+                "a0c99f0b-4122-4611-9b53-80fadfceacb6",
+                "5add318e-11b9-42f8-b052-0d8cebb32fcf",
+                "8d414eb8-eec9-486f-90fc-00eed0cf7daf",
+                "4084da13-5825-4399-ad69-de701508c71d"
+              ],
+              "package_ndc": [
+                "50742-645-01",
+                "50742-646-01",
+                "50742-646-05",
+                "59762-3717-4",
+                "59762-3717-9",
+                "59762-3718-4",
+                "59762-3718-3",
+                "59762-3718-9",
+                "70710-1289-8",
+                "70710-1289-5",
+                "70710-1289-1",
+                "70710-1521-8",
+                "70710-1521-5",
+                "70710-1521-1",
+                "70771-1162-8",
+                "70771-1162-5",
+                "70771-1162-1",
+                "70771-1576-8",
+                "70771-1576-5",
+                "70771-1576-1"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "1HM943223R"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "PROPYLTHIOURACIL",
+            "drugindication": "HYPERTHYROIDISM",
+            "drugrecurreadministration": "3",
+            "openfda": {
+              "application_number": [
+                "NDA006188",
+                "ANDA208867",
+                "ANDA080016",
+                "ANDA080154",
+                "ANDA080172"
+              ],
+              "brand_name": [
+                "PROPYLTHIOURACIL"
+              ],
+              "generic_name": [
+                "PROPYLTHIOURACIL"
+              ],
+              "manufacturer_name": [
+                "Par Health USA, LLC",
+                "Macleods Pharmaceuticals Limited",
+                "Chartwell RX, LLC",
+                "QUAGEN PHARMACEUTICALS LLC",
+                "Teva Pharmaceuticals, Inc."
+              ],
+              "product_ndc": [
+                "67253-651",
+                "33342-314",
+                "62135-606",
+                "70752-171",
+                "0480-9242"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "PROPYLTHIOURACIL"
+              ],
+              "spl_id": [
+                "7c284dbd-3508-48d1-86fd-3b50590e31e3",
+                "7e848dc9-0f07-4dd1-8aa6-a64558a1ddb8",
+                "0d6cc91d-1da2-25ae-e063-6394a90aa6a0",
+                "4a15d422-7a6a-4b92-a4cf-3632250c9580",
+                "0c10d860-d116-4178-9ea5-8c067f2c4c26"
+              ],
+              "spl_set_id": [
+                "b0c23a2c-b250-4c0d-9b2a-c1483faa2ca0",
+                "a251e4cb-01f1-4fd8-bd30-362126b85073",
+                "53c5f586-3e72-479d-89ba-379683c8f6ba",
+                "84eae11a-b572-4570-b288-ac2cdd374186",
+                "804fa92a-a5ba-4be0-aa44-a40a2e89fde6"
+              ],
+              "package_ndc": [
+                "67253-651-10",
+                "67253-651-11",
+                "33342-314-11",
+                "33342-314-44",
+                "33342-314-12",
+                "62135-606-90",
+                "70752-171-10",
+                "70752-171-11",
+                "0480-9242-01"
+              ],
+              "nui": [
+                "N0000175918",
+                "N0000175917"
+              ],
+              "pharm_class_epc": [
+                "Thyroid Hormone Synthesis Inhibitor [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Thyroid Hormone Synthesis Inhibitors [MoA]"
+              ],
+              "unii": [
+                "721M9407IY"
+              ],
+              "rxcui": [
+                "198175"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

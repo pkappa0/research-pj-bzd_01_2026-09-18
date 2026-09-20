@@ -1,0 +1,2767 @@
+[
+  {
+    "key": "background_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231]",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:49:31.844165+00:00",
+    "http_status": 200,
+    "sha256": "c6b6b04d00ae0ee21ea3f02d287494e924b79e439e10002ffafcf3b7a9e2537f"
+  },
+  {
+    "key": "background_Ataxia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22ATAXIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"ATAXIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:49:38.454296+00:00",
+    "http_status": 200,
+    "sha256": "4d92538e67d06f0483b0e6b1705e079b5d429ea73a3a385165b1b0976887e163"
+  },
+  {
+    "key": "background_Balance_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22BALANCE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"BALANCE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:49:40.520185+00:00",
+    "http_status": 200,
+    "sha256": "092618b1a531dba205ee850f352f51c9f18aa9895c48eeabf01d768b26b2e399"
+  },
+  {
+    "key": "background_Coordination_abnormal",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22COORDINATION+ABNORMAL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"COORDINATION ABNORMAL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:49:43.790062+00:00",
+    "http_status": 200,
+    "sha256": "60b8b139bfc7146d5f6d449f37a67d1d31a4b09a1e342c02a55c7fbba1a4a47f"
+  },
+  {
+    "key": "background_Gait_disturbance",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22GAIT+DISTURBANCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"GAIT DISTURBANCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:49:44.698097+00:00",
+    "http_status": 200,
+    "sha256": "448f1ac5481d57035da0775aabcae49f2af813f6bd7f501727b19f8922aa1b18"
+  },
+  {
+    "key": "background_Fall",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22FALL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"FALL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:49:45.729775+00:00",
+    "http_status": 200,
+    "sha256": "1e8e8c8ca648c46d9fec2509722f914312f10b1a86ae487d0447e91717945b0e"
+  },
+  {
+    "key": "background_Somnolence",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22SOMNOLENCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"SOMNOLENCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:49:49.035619+00:00",
+    "http_status": 200,
+    "sha256": "b82cf8f6cccd290d94e22203811e05a3837279d38812c3b5745161bb6c643955"
+  },
+  {
+    "key": "background_Sedation",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22SEDATION%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"SEDATION\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:49:49.943462+00:00",
+    "http_status": 200,
+    "sha256": "c47ae91f54353b24c232627f648942b2e7ca449d3b0eba1490ff84d4a7f7844f"
+  },
+  {
+    "key": "background_Dizziness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22DIZZINESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"DIZZINESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:49:53.281397+00:00",
+    "http_status": 200,
+    "sha256": "ecd8598f1eb1918b07d95f73c2ee28ba2b0475b388fcde8d5bc669b3ea54b33d"
+  },
+  {
+    "key": "background_Vertigo",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22VERTIGO%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"VERTIGO\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:49:54.305823+00:00",
+    "http_status": 200,
+    "sha256": "dc04ede7c02c072d415434358fd77cda0624416f0b3663672842b0dafca05ef5"
+  },
+  {
+    "key": "background_Muscular_weakness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22MUSCULAR+WEAKNESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"MUSCULAR WEAKNESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:49:56.548345+00:00",
+    "http_status": 200,
+    "sha256": "eb1cb6b0c275d6278b97d51f608fcdfa99d95803ed604d0af6be553cc39a0312"
+  },
+  {
+    "key": "background_Hypotonia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22HYPOTONIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"HYPOTONIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:49:58.601110+00:00",
+    "http_status": 200,
+    "sha256": "16195c8088051dbb3c3a6516564ec7edc6f9f2f8fea99e55c8ec9185bd4fdaca"
+  },
+  {
+    "key": "background_Amnesia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22AMNESIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"AMNESIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:49:59.958431+00:00",
+    "http_status": 200,
+    "sha256": "f938927388dfe8dbd320c8a738796f2dfed0f818a943d0c6bc3ac2f568c0ad26"
+  },
+  {
+    "key": "background_Memory_impairment",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22MEMORY+IMPAIRMENT%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"MEMORY IMPAIRMENT\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:50:04.362113+00:00",
+    "http_status": 200,
+    "sha256": "eee69a2d36437eeaefcd273de72f8d44900352ed4370f9fbc157078ed776d8d2"
+  },
+  {
+    "key": "background_Cognitive_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22COGNITIVE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"COGNITIVE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:50:07.785485+00:00",
+    "http_status": 200,
+    "sha256": "ce835225b07f22b51df7c7e98a817613bcaff5434d5671c74e088d921fba3d59"
+  },
+  {
+    "key": "triazolam_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\")",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:50:09.819636+00:00",
+    "http_status": 200,
+    "sha256": "6c557406d79af104230eb4a65bd3ecbdc51070c539b2d1f51ad08af874ea1239"
+  },
+  {
+    "key": "diazepam_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\")",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:50:09.874351+00:00",
+    "http_status": 200,
+    "sha256": "80bc1a61395fc2f8656b074630c15d22ad7b71fe3eca10b17dc7cd56e9b3a703"
+  },
+  {
+    "key": "alprazolam_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\")",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:50:12.865202+00:00",
+    "http_status": 200,
+    "sha256": "c631f2306dccd2394d753d820b2e2abb0bcc1c10b4a2d20c8b9348ff7f566ac7"
+  },
+  {
+    "key": "diazepam_generic_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.drug.openfda.generic_name.exact:\"DIAZEPAM\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:50:19.284771+00:00",
+    "http_status": 200,
+    "sha256": "80bc1a61395fc2f8656b074630c15d22ad7b71fe3eca10b17dc7cd56e9b3a703"
+  },
+  {
+    "key": "alprazolam_generic_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:50:15.771201+00:00",
+    "http_status": 200,
+    "sha256": "c631f2306dccd2394d753d820b2e2abb0bcc1c10b4a2d20c8b9348ff7f566ac7"
+  },
+  {
+    "key": "triazolam_generic_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:50:11.748032+00:00",
+    "http_status": 200,
+    "sha256": "6c557406d79af104230eb4a65bd3ecbdc51070c539b2d1f51ad08af874ea1239"
+  },
+  {
+    "key": "alprazolam_margin_patient_drug_openfda_brand_name_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29&count=patient.drug.openfda.brand_name.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\")",
+      "count": "patient.drug.openfda.brand_name.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:51:52.329409+00:00",
+    "http_status": 200,
+    "sha256": "4dbb608bff0b3ae7e4f0c195f596e15d3660bcacafb0a6da82c71959d794447d"
+  },
+  {
+    "key": "diazepam_margin_patient_drug_openfda_brand_name_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29&count=patient.drug.openfda.brand_name.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\")",
+      "count": "patient.drug.openfda.brand_name.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:51:54.320747+00:00",
+    "http_status": 200,
+    "sha256": "fcd34f3453d385f76e77866e1c3e806cfc86a158a5968e3ff708513b3da115c3"
+  },
+  {
+    "key": "triazolam_margin_patient_drug_openfda_brand_name_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29&count=patient.drug.openfda.brand_name.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\")",
+      "count": "patient.drug.openfda.brand_name.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:51:53.846495+00:00",
+    "http_status": 200,
+    "sha256": "8e2773bdfedfe319658054c5ec89c10c1ba50dc063e3dbdc129ce1ef9b8d2e61"
+  },
+  {
+    "key": "diazepam_margin_patient_patientsex",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29&count=patient.patientsex&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\")",
+      "count": "patient.patientsex",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:51:56.252146+00:00",
+    "http_status": 200,
+    "sha256": "ab1356f125d946d89b4617ddec67bf67fefaf5d717b254665c33aca31354e495"
+  },
+  {
+    "key": "triazolam_margin_patient_patientsex",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29&count=patient.patientsex&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\")",
+      "count": "patient.patientsex",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:51:55.724793+00:00",
+    "http_status": 200,
+    "sha256": "f5d52dc52fcec6e2a89c2109f1e3ccdb1e7c2f58d11a33dd595148482c87b6bd"
+  },
+  {
+    "key": "alprazolam_margin_patient_patientsex",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29&count=patient.patientsex&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\")",
+      "count": "patient.patientsex",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:51:53.249492+00:00",
+    "http_status": 200,
+    "sha256": "dab8aec5636e90f894e9fc244fdf9f251fb75ed61812f7fe69e7919cb1fc4121"
+  },
+  {
+    "key": "triazolam_margin_patient_patientonsetage",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29&count=patient.patientonsetage&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\")",
+      "count": "patient.patientonsetage",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:00.979604+00:00",
+    "http_status": 200,
+    "sha256": "71e26f3fabfe95c74e36311d79b90022acae24eb5cc26047ce791a7c8472f562"
+  },
+  {
+    "key": "diazepam_margin_patient_patientonsetage",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29&count=patient.patientonsetage&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\")",
+      "count": "patient.patientonsetage",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:07.260220+00:00",
+    "http_status": 200,
+    "sha256": "1313d9803d30f0bb0ae7f55cf256d862ad303e1d1bd101052157479f55107e5b"
+  },
+  {
+    "key": "diazepam_margin_primarysourcecountry_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29&count=primarysourcecountry.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\")",
+      "count": "primarysourcecountry.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:09.294145+00:00",
+    "http_status": 200,
+    "sha256": "40cb13d26cfffe5a3cb880197888ce310e3cd9d6a5502fb4fd711640567b18ec"
+  },
+  {
+    "key": "triazolam_margin_primarysourcecountry_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29&count=primarysourcecountry.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\")",
+      "count": "primarysourcecountry.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:05.661716+00:00",
+    "http_status": 200,
+    "sha256": "50d4d5d11a464d592d244f05e9094bfe34e81e300fb1def020cc45a852751a78"
+  },
+  {
+    "key": "alprazolam_margin_patient_patientonsetage",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29&count=patient.patientonsetage&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\")",
+      "count": "patient.patientonsetage",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:51:54.216506+00:00",
+    "http_status": 200,
+    "sha256": "2b792353cbf3a4de3372059378085e6cdcb24d23272cedd8f047677a5f576683"
+  },
+  {
+    "key": "diazepam_margin_receivedate",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29&count=receivedate&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\")",
+      "count": "receivedate",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:10.915567+00:00",
+    "http_status": 200,
+    "sha256": "106327b23b26a596fbed187de6b1575c1eba23fcf78d77ed5dd077808feb8186"
+  },
+  {
+    "key": "alprazolam_margin_primarysourcecountry_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29&count=primarysourcecountry.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\")",
+      "count": "primarysourcecountry.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:51:55.757858+00:00",
+    "http_status": 200,
+    "sha256": "62dfaf4ca6a5dfaffa3e006e53e749b0f426ab172c45c0f59897cd7bf81dc5cf"
+  },
+  {
+    "key": "triazolam_margin_receivedate",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29&count=receivedate&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\")",
+      "count": "receivedate",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:10.063967+00:00",
+    "http_status": 200,
+    "sha256": "1bfd6e6dc18b73bd5beb1d78c3a40e1a8cefed2b910a9aea40c530efcb716c89"
+  },
+  {
+    "key": "alprazolam_margin_receivedate",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29&count=receivedate&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\")",
+      "count": "receivedate",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:51:58.107141+00:00",
+    "http_status": 200,
+    "sha256": "d8c3428f95a95ec1da3c8b49b3843f2c5ebf0012dc833424b5a12458b2f408ea"
+  },
+  {
+    "key": "triazolam_margin_serious",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29&count=serious&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\")",
+      "count": "serious",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:39.844493+00:00",
+    "http_status": 200,
+    "sha256": "6016669d012a12974a1d38160f472185739c706150b5e5d5008f1c427139f7ae"
+  },
+  {
+    "key": "diazepam_margin_serious",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29&count=serious&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\")",
+      "count": "serious",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:39.888091+00:00",
+    "http_status": 200,
+    "sha256": "6e2e9abe9b8dc47c818c9e222a8311ee256339075d75bee70c655ac83834e62a"
+  },
+  {
+    "key": "alprazolam_margin_serious",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29&count=serious&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\")",
+      "count": "serious",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:39.972597+00:00",
+    "http_status": 200,
+    "sha256": "9a4294c34d7726fcdb3db2620be43591ed22b43a80caac4094a47307c2bc491b"
+  },
+  {
+    "key": "diazepam_margin_patient_drug_drugcharacterization",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29&count=patient.drug.drugcharacterization&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\")",
+      "count": "patient.drug.drugcharacterization",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:41.858123+00:00",
+    "http_status": 200,
+    "sha256": "b7aab6116147ab9d94f52683c71650b11ff3f2d6f8bea9fa002c5ef11c120a5b"
+  },
+  {
+    "key": "diazepam_Ataxia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22ATAXIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"ATAXIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:43.274976+00:00",
+    "http_status": 200,
+    "sha256": "7da7b132870cd0e780140dcc4bd336820d3a665ccb727c862e8587fa05597de5"
+  },
+  {
+    "key": "alprazolam_margin_patient_drug_drugcharacterization",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29&count=patient.drug.drugcharacterization&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\")",
+      "count": "patient.drug.drugcharacterization",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:44.107688+00:00",
+    "http_status": 200,
+    "sha256": "46729083644977f16828fb0a0bd4f05075fa3cd936559eabc0cb1cc6b5f86041"
+  },
+  {
+    "key": "diazepam_Balance_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22BALANCE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"BALANCE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:44.226411+00:00",
+    "http_status": 200,
+    "sha256": "1388e3a4d4046f2c2b2f69235d8302d7d04043cfa16f5e9e3435396e69a07acb"
+  },
+  {
+    "key": "triazolam_margin_patient_drug_drugcharacterization",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29&count=patient.drug.drugcharacterization&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\")",
+      "count": "patient.drug.drugcharacterization",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:44.942707+00:00",
+    "http_status": 200,
+    "sha256": "7c72fa62ed2474b856677091da90157d923f7a2b2d1e611c91a21ca875ba044e"
+  },
+  {
+    "key": "diazepam_Coordination_abnormal",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COORDINATION+ABNORMAL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"COORDINATION ABNORMAL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:45.248484+00:00",
+    "http_status": 200,
+    "sha256": "92b4e663e4a9ab80b650e59c39f6c6a49eae99975d70951aac65443e0609c33b"
+  },
+  {
+    "key": "alprazolam_Ataxia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22ATAXIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"ATAXIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:46.268620+00:00",
+    "http_status": 200,
+    "sha256": "000cc1476f439ef5aad011a6d5d5a471c9d4ff9053195ad999a3b9117f35c5d4"
+  },
+  {
+    "key": "alprazolam_Balance_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22BALANCE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"BALANCE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:47.560973+00:00",
+    "http_status": 200,
+    "sha256": "7c59aabd114727dc3ba10e7f85c9ff6ef87b712b797d92a44907a63ca1f06c0e"
+  },
+  {
+    "key": "diazepam_Gait_disturbance",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22GAIT+DISTURBANCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"GAIT DISTURBANCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:47.578638+00:00",
+    "http_status": 200,
+    "sha256": "8ebed5952488528501a740ea052693dbd08b179878f3afeaf33099df6a058221"
+  },
+  {
+    "key": "alprazolam_Coordination_abnormal",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COORDINATION+ABNORMAL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"COORDINATION ABNORMAL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:48.433367+00:00",
+    "http_status": 200,
+    "sha256": "399be1a8f66632abf16598ec07ce0077bb2ae8b4e8c8d063b8e3c9841355dc87"
+  },
+  {
+    "key": "alprazolam_Gait_disturbance",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22GAIT+DISTURBANCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"GAIT DISTURBANCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:49.698351+00:00",
+    "http_status": 200,
+    "sha256": "47af3e5d85a0a5c7ce2bc400149ba78eb134c293f8d99d23ff341c1b26ee2631"
+  },
+  {
+    "key": "diazepam_Fall",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22FALL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"FALL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:50.701964+00:00",
+    "http_status": 200,
+    "sha256": "4503b637026ac6e8b97d217575c5a624562e52ef862b06878a0b012345bd6cc3"
+  },
+  {
+    "key": "triazolam_Ataxia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22ATAXIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"ATAXIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:51.027472+00:00",
+    "http_status": 200,
+    "sha256": "a8e304e3bc94ef1dc621402360a858ccbb0ca930cc46678d8e965967e4c50b55"
+  },
+  {
+    "key": "diazepam_Somnolence",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SOMNOLENCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"SOMNOLENCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:51.578077+00:00",
+    "http_status": 200,
+    "sha256": "432c8a6e28d1b433b6ab04f5a2c0214f43919b586e76559d21a94191f5aa96be"
+  },
+  {
+    "key": "triazolam_Balance_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22BALANCE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"BALANCE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:51.883879+00:00",
+    "http_status": 200,
+    "sha256": "136d6cd5e5bd570f2a84b213500eb11f4f83fb75cd04ef7d3ee3a43ab12cec0a"
+  },
+  {
+    "key": "alprazolam_Fall",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22FALL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"FALL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:51.949858+00:00",
+    "http_status": 200,
+    "sha256": "93ac1fb7198ca2778d99cbcb7a594f05030e02858523e965b4984f61b92c6bbd"
+  },
+  {
+    "key": "triazolam_Coordination_abnormal",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COORDINATION+ABNORMAL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"COORDINATION ABNORMAL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:55.148155+00:00",
+    "http_status": 200,
+    "sha256": "d07a2422b3ed5cf079a7f63e00391359e95ae9f885beb0b7b69fa9e164c95816"
+  },
+  {
+    "key": "alprazolam_Somnolence",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SOMNOLENCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"SOMNOLENCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:56.381524+00:00",
+    "http_status": 200,
+    "sha256": "2d23d9330c70d81b2b96d2eca5c4bfa7650cf93d7144107d6eea26101971e146"
+  },
+  {
+    "key": "alprazolam_Sedation",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SEDATION%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"SEDATION\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:57.361706+00:00",
+    "http_status": 200,
+    "sha256": "8f8aadfeea34d170b6370a0fba3556810c91e5b5752748a6fc4187cffc177bc0"
+  },
+  {
+    "key": "diazepam_Sedation",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SEDATION%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"SEDATION\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:52:59.918841+00:00",
+    "http_status": 200,
+    "sha256": "fab12e54c39824937b008e8a0656d17b8c378c36e01a6db132caa66c46603e6c"
+  },
+  {
+    "key": "diazepam_Dizziness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22DIZZINESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"DIZZINESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:00.949704+00:00",
+    "http_status": 200,
+    "sha256": "ec63cc5e90e47a91de13cc312277bc8f9e38cdc684faa741edd7d7255300e172"
+  },
+  {
+    "key": "alprazolam_Dizziness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22DIZZINESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"DIZZINESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:00.952840+00:00",
+    "http_status": 200,
+    "sha256": "06a9bcbe89970ced7f66db293a4ff43c8590e11ca974fbe9425c38da386417e5"
+  },
+  {
+    "key": "diazepam_Vertigo",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22VERTIGO%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"VERTIGO\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:03.080371+00:00",
+    "http_status": 200,
+    "sha256": "8c8b7e1d665e1d26e01b00bceb1528afef8dd44cb130aa938925270fb64758a5"
+  },
+  {
+    "key": "alprazolam_Vertigo",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22VERTIGO%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"VERTIGO\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:03.450492+00:00",
+    "http_status": 200,
+    "sha256": "6207be23d7fdaa4e5e3216fb36e4da249be825b0c6d7d3f2e7c513fc60ac32bd"
+  },
+  {
+    "key": "triazolam_Gait_disturbance",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22GAIT+DISTURBANCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"GAIT DISTURBANCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:04.861128+00:00",
+    "http_status": 200,
+    "sha256": "ab3109af319a202c59a45c613475591bd42771e69b60c9b1d9aca461a5feb8b8"
+  },
+  {
+    "key": "alprazolam_Muscular_weakness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MUSCULAR+WEAKNESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"MUSCULAR WEAKNESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:05.909738+00:00",
+    "http_status": 200,
+    "sha256": "c10f797c8d3e612ced02c545575cb37fb4d36542cb937ec5b9c01e2af8dbd89c"
+  },
+  {
+    "key": "diazepam_Muscular_weakness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MUSCULAR+WEAKNESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"MUSCULAR WEAKNESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:07.482013+00:00",
+    "http_status": 200,
+    "sha256": "e8df3c2fee1262bf84c24b2caaceee8823ffc3ddd32999e83aa1045e60bbe3f0"
+  },
+  {
+    "key": "diazepam_Hypotonia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22HYPOTONIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"HYPOTONIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:08.529670+00:00",
+    "http_status": 200,
+    "sha256": "81b7d546317fe915bba6be6a5d71967cb14fe85385c568000e3bee85bded3643"
+  },
+  {
+    "key": "alprazolam_Hypotonia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22HYPOTONIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"HYPOTONIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:10.109897+00:00",
+    "http_status": 200,
+    "sha256": "770706f04cd43936efe7ad65a259fe6da6b3a0776f40f262a1f94e07c4cce013"
+  },
+  {
+    "key": "alprazolam_Amnesia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22AMNESIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"AMNESIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:11.671970+00:00",
+    "http_status": 200,
+    "sha256": "4a1c71a3ff0baf4a01632ffef20cc3719e01dad823ef65126ce5efe0c2cd0f89"
+  },
+  {
+    "key": "diazepam_Amnesia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22AMNESIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"AMNESIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:12.036589+00:00",
+    "http_status": 200,
+    "sha256": "d7e12bf19b1af2b729a71167e1111ae4a12954624a4a33e6f2072ffbb31797bb"
+  },
+  {
+    "key": "alprazolam_Memory_impairment",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MEMORY+IMPAIRMENT%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"MEMORY IMPAIRMENT\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:15.345966+00:00",
+    "http_status": 200,
+    "sha256": "54a18f20756e3d006bc5e970fa8d2aed06f4e21df1a6f97fe8115f9a35687467"
+  },
+  {
+    "key": "diazepam_Memory_impairment",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MEMORY+IMPAIRMENT%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"MEMORY IMPAIRMENT\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:16.919365+00:00",
+    "http_status": 200,
+    "sha256": "0cb632b98c1e0dbd910c884e570714c6f46a018e3aa74458a797122f807cb0f3"
+  },
+  {
+    "key": "alprazolam_Cognitive_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COGNITIVE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"COGNITIVE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:17.965981+00:00",
+    "http_status": 200,
+    "sha256": "e77d74c398fd116dd46e1db0f7c35f924c79f41a1e9663b442b6a5ffba35653f"
+  },
+  {
+    "key": "zolpidem_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\")",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:50:16.142565+00:00",
+    "http_status": 200,
+    "sha256": "713265c8624e1c63fb70d1f7a39c6edd67a3d162b93959d2887c4c03efb4376d"
+  },
+  {
+    "key": "zolpidem_generic_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:50:25.829641+00:00",
+    "http_status": 404,
+    "sha256": "57b1e7534d003e4246182162fd2469cdf038de39405056f44fc006715e5496da"
+  },
+  {
+    "key": "zolpidem_margin_patient_drug_openfda_brand_name_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29&count=patient.drug.openfda.brand_name.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\")",
+      "count": "patient.drug.openfda.brand_name.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:02.828529+00:00",
+    "http_status": 200,
+    "sha256": "8bde33116c87401500cd1de153e4dfbdb41635fc4aa339cc6c67ca1c128ab40e"
+  },
+  {
+    "key": "zolpidem_margin_patient_patientsex",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29&count=patient.patientsex&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\")",
+      "count": "patient.patientsex",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:03.843399+00:00",
+    "http_status": 200,
+    "sha256": "a4697c7062406c568de4772c96d4bd39943bdf89188f0920e994c14946c6252a"
+  },
+  {
+    "key": "zolpidem_margin_patient_patientonsetage",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29&count=patient.patientonsetage&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\")",
+      "count": "patient.patientonsetage",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:04.762655+00:00",
+    "http_status": 200,
+    "sha256": "ec01419eb4673711263d85b8f6b96895c973741c315a1fb9213df1060d3eace4"
+  },
+  {
+    "key": "zolpidem_margin_primarysourcecountry_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29&count=primarysourcecountry.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\")",
+      "count": "primarysourcecountry.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:22.693812+00:00",
+    "http_status": 200,
+    "sha256": "7f696c41546a9430229f505e07fa7668352560d663df661307960bfc0f6ff4e5"
+  },
+  {
+    "key": "zolpidem_margin_receivedate",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29&count=receivedate&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\")",
+      "count": "receivedate",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:23.968510+00:00",
+    "http_status": 200,
+    "sha256": "fbea2d118e07274dcfd0dc242119676871b0a2cba38a188a790772d848692379"
+  },
+  {
+    "key": "zolpidem_margin_serious",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29&count=serious&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\")",
+      "count": "serious",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:53:19.813509+00:00",
+    "http_status": 200,
+    "sha256": "3eda3a320099e3912fe73226c1f3616cc657e61854f20b94d7316fbb1423a5cc"
+  },
+  {
+    "key": "diazepam_Cognitive_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22DIAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22DIAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COGNITIVE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"DIAZEPAM\" OR patient.drug.medicinalproduct.exact:\"DIAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"COGNITIVE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:24.615872+00:00",
+    "http_status": 200,
+    "sha256": "89a5315cedf57948acbb9fcf2b760f38ede9f7eeb7f2d6323fb6de0cf16dc975"
+  },
+  {
+    "key": "lorazepam_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\")",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:50:19.793063+00:00",
+    "http_status": 200,
+    "sha256": "e316acc38fbced680bc122f91937c57065b8a5f5dee02fb47b979e0d6968e14e"
+  },
+  {
+    "key": "lorazepam_generic_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.drug.openfda.generic_name.exact:\"LORAZEPAM\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:50:20.701677+00:00",
+    "http_status": 200,
+    "sha256": "e316acc38fbced680bc122f91937c57065b8a5f5dee02fb47b979e0d6968e14e"
+  },
+  {
+    "key": "lorazepam_margin_patient_drug_openfda_brand_name_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29&count=patient.drug.openfda.brand_name.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\")",
+      "count": "patient.drug.openfda.brand_name.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:14.341330+00:00",
+    "http_status": 200,
+    "sha256": "9037b10d20716df45d0f5080d6c443d2b15e84940e8f1db6480181d0e67c6b51"
+  },
+  {
+    "key": "lorazepam_margin_patient_patientsex",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29&count=patient.patientsex&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\")",
+      "count": "patient.patientsex",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:20.481646+00:00",
+    "http_status": 200,
+    "sha256": "31f7fe55e4d80e9088589063446cbfbd498effb6e94d3d557e9a07b48b54a7c6"
+  },
+  {
+    "key": "lorazepam_margin_patient_patientonsetage",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29&count=patient.patientonsetage&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\")",
+      "count": "patient.patientonsetage",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:22.396926+00:00",
+    "http_status": 200,
+    "sha256": "6dc4d726d90c17f191abcdbf5565b797347ca9b54f53eaa08a40e0f4076e33e6"
+  },
+  {
+    "key": "lorazepam_margin_primarysourcecountry_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29&count=primarysourcecountry.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\")",
+      "count": "primarysourcecountry.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:23.328813+00:00",
+    "http_status": 200,
+    "sha256": "3950306e1893956eccae4750f2dced63266a9593f6679332e9b95f5d1d1f6656"
+  },
+  {
+    "key": "lorazepam_margin_receivedate",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29&count=receivedate&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\")",
+      "count": "receivedate",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:24.394696+00:00",
+    "http_status": 200,
+    "sha256": "e916a05b9e172f418e2c6633a54070199131dc31d185b20c286cb7564cd824ac"
+  },
+  {
+    "key": "lorazepam_margin_serious",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29&count=serious&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\")",
+      "count": "serious",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:53:28.774051+00:00",
+    "http_status": 200,
+    "sha256": "7410274a58e54f787b8b046a6acd51641c4bacad1ff8210b1500ac2c85912514"
+  },
+  {
+    "key": "lorazepam_margin_patient_drug_drugcharacterization",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29&count=patient.drug.drugcharacterization&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\")",
+      "count": "patient.drug.drugcharacterization",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:53:29.763853+00:00",
+    "http_status": 200,
+    "sha256": "4b525e6920a3cb9254f87764f18bbccddb8a321e753a7e052f96568ccd849178"
+  },
+  {
+    "key": "triazolam_Fall",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22FALL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"FALL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:30.730768+00:00",
+    "http_status": 200,
+    "sha256": "b7f8af8c76d88d814289e45cb27f4313a6671633f08b2aa44965afd24cb4feee"
+  },
+  {
+    "key": "triazolam_Somnolence",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SOMNOLENCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"SOMNOLENCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:31.600542+00:00",
+    "http_status": 200,
+    "sha256": "fad8759865ac85b8ef3d7f4a09d22545f086a6c0af25614e7b54e8ffd3997571"
+  },
+  {
+    "key": "zolpidem_margin_patient_drug_drugcharacterization",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29&count=patient.drug.drugcharacterization&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\")",
+      "count": "patient.drug.drugcharacterization",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:53:32.990564+00:00",
+    "http_status": 200,
+    "sha256": "7a48f4dc71e237a8e15302c7f59c8d8e5b62bb6723bfd7668cde5411162d535b"
+  },
+  {
+    "key": "lorazepam_Ataxia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22ATAXIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"ATAXIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:34.221641+00:00",
+    "http_status": 200,
+    "sha256": "54394bc6efd4ee80bc98b47859e49cfa4edbf76904e806438d41f24c12ff1473"
+  },
+  {
+    "key": "triazolam_Sedation",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SEDATION%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"SEDATION\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:34.748492+00:00",
+    "http_status": 200,
+    "sha256": "4dbc358960e1cd9a6ff9eed7530c28d9caa52c6d1c1196718dc6cb775efcfb88"
+  },
+  {
+    "key": "zolpidem_Ataxia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22ATAXIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"ATAXIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:35.270146+00:00",
+    "http_status": 200,
+    "sha256": "83caccc3ebddda55edbb4d72fcab533149344882c339e6c1f96c7c22b235e72c"
+  },
+  {
+    "key": "lorazepam_Balance_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22BALANCE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"BALANCE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:36.110159+00:00",
+    "http_status": 200,
+    "sha256": "f1f7232ebe0273b901d209bbb19b4c4c118866fdd46269c9f0941270a26ad683"
+  },
+  {
+    "key": "zolpidem_Balance_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22BALANCE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"BALANCE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:37.145933+00:00",
+    "http_status": 200,
+    "sha256": "4cd302b5cc94f878fd753696b3050f03ad8ca3da16607f1e52b1814695e5947c"
+  },
+  {
+    "key": "lorazepam_Coordination_abnormal",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COORDINATION+ABNORMAL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"COORDINATION ABNORMAL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:39.989979+00:00",
+    "http_status": 200,
+    "sha256": "b0264bddf6ac45fb6b028986f11b6abb4824b4472eaa8c0b55f9cc07a0170960"
+  },
+  {
+    "key": "zolpidem_Coordination_abnormal",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COORDINATION+ABNORMAL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"COORDINATION ABNORMAL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:40.859386+00:00",
+    "http_status": 200,
+    "sha256": "dccd6e0f28102c32e635b9c4d70df2135e4455f4434c30e9826affaa028eabf6"
+  },
+  {
+    "key": "triazolam_Dizziness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22DIZZINESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"DIZZINESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:41.187815+00:00",
+    "http_status": 200,
+    "sha256": "b7c810d84c55dd69b453154c235710dcc1e827a8771d3b73c9424ebe9d578667"
+  },
+  {
+    "key": "zolpidem_Gait_disturbance",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22GAIT+DISTURBANCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"GAIT DISTURBANCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:42.110223+00:00",
+    "http_status": 200,
+    "sha256": "af79f6128387b7307ea8492de463bb382f80c6c4058491a8d064614db5783152"
+  },
+  {
+    "key": "lorazepam_Gait_disturbance",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22GAIT+DISTURBANCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"GAIT DISTURBANCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:43.666593+00:00",
+    "http_status": 200,
+    "sha256": "2a67a7915140871661a4342a44332b262aa99760f3031bd439af30053699e7e7"
+  },
+  {
+    "key": "lorazepam_Fall",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22FALL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"FALL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:44.773973+00:00",
+    "http_status": 200,
+    "sha256": "d97a6d7bf39eaa58e2fd30e62575eb9196fc2f35e59c3f2cefaccc646a0e59d4"
+  },
+  {
+    "key": "zolpidem_Fall",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22FALL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"FALL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:45.759108+00:00",
+    "http_status": 200,
+    "sha256": "cb5da3026b3cb1fe3d1367b9fc8b792863477369b2a5631cf6e3600289145a51"
+  },
+  {
+    "key": "triazolam_Vertigo",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22VERTIGO%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"VERTIGO\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:46.399138+00:00",
+    "http_status": 200,
+    "sha256": "3d5383b1c68a4815a9e3fffebd5e671a75928c3f3abaa80e1835751b6b3916c2"
+  },
+  {
+    "key": "lorazepam_Somnolence",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SOMNOLENCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"SOMNOLENCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:46.965877+00:00",
+    "http_status": 200,
+    "sha256": "00d4c3b0e756375b015da6814d0b3203c37c3fbb4af075dc18e287d29c94162b"
+  },
+  {
+    "key": "triazolam_Muscular_weakness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MUSCULAR+WEAKNESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"MUSCULAR WEAKNESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:48.678243+00:00",
+    "http_status": 200,
+    "sha256": "97a2e4f1391f5247196e6e95be9f19b271439b7163e855e9206794faaa6263ab"
+  },
+  {
+    "key": "zolpidem_Somnolence",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SOMNOLENCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"SOMNOLENCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:48.739874+00:00",
+    "http_status": 200,
+    "sha256": "69117782d0f68ef4f102840c4f820595b6866b7a59a3c9c9d876cd97e507b2e5"
+  },
+  {
+    "key": "lorazepam_Sedation",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SEDATION%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"SEDATION\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:49.073442+00:00",
+    "http_status": 200,
+    "sha256": "fe428ef66f83d05dcacd025854e21e6f59264d8aa65c67abebe8a038ffd1b706"
+  },
+  {
+    "key": "zolpidem_Sedation",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SEDATION%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"SEDATION\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:49.751758+00:00",
+    "http_status": 200,
+    "sha256": "97be9d17102d1e3f560f65815ef1587b03ef19db31e662c5ea9722e6ad9ba078"
+  },
+  {
+    "key": "triazolam_Hypotonia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22HYPOTONIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"HYPOTONIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:49.818127+00:00",
+    "http_status": 200,
+    "sha256": "7d0099819be940fc9ec4fe66004136d533c24405b8fbd50ef688611f69c3bea1"
+  },
+  {
+    "key": "lorazepam_Dizziness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22DIZZINESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"DIZZINESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:49.955773+00:00",
+    "http_status": 200,
+    "sha256": "7d48ecd8aef1ed53fc9dac3aab7aa202f0f29f4ff0c94a3d5ed656b3221e51be"
+  },
+  {
+    "key": "triazolam_Amnesia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22AMNESIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"AMNESIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:50.622162+00:00",
+    "http_status": 200,
+    "sha256": "abb4572cf33c504226fc5dd0c2254e07a0b6c705070c2566ea4984aa72859257"
+  },
+  {
+    "key": "lorazepam_Vertigo",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22VERTIGO%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"VERTIGO\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:52.044808+00:00",
+    "http_status": 200,
+    "sha256": "8a276f266c61084d3d4408f315bf5e83ff6645dc505bf0f06bb9159116a7090a"
+  },
+  {
+    "key": "zolpidem_Dizziness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22DIZZINESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"DIZZINESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:52.227009+00:00",
+    "http_status": 200,
+    "sha256": "475cad0d6e84640411a5ab6ec4f9e834ada41189adf0c0af590279019baebb81"
+  },
+  {
+    "key": "zolpidem_Vertigo",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22VERTIGO%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"VERTIGO\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:54.333166+00:00",
+    "http_status": 200,
+    "sha256": "fa0fb40a3c6b1e614b49e43c3bb9649aa2bb5c4379d579c3a88886fa7f4e613d"
+  },
+  {
+    "key": "lorazepam_Muscular_weakness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MUSCULAR+WEAKNESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"MUSCULAR WEAKNESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:55.391470+00:00",
+    "http_status": 200,
+    "sha256": "c3a187c2d31aa54738c3c4282dee8798842c9f43853d034a6b2ef76a5b7502d7"
+  },
+  {
+    "key": "zolpidem_Muscular_weakness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MUSCULAR+WEAKNESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"MUSCULAR WEAKNESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:58.192914+00:00",
+    "http_status": 200,
+    "sha256": "8cdd478d9f5f22f7bbc1c4f0a391fb754e610a4a80e234b7b616e31d2a01bd56"
+  },
+  {
+    "key": "lorazepam_Hypotonia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22HYPOTONIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"HYPOTONIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:59.390526+00:00",
+    "http_status": 200,
+    "sha256": "74568e62564c69f47eeab962b8a3e7b09f5d675f1721308ab317abe62148af42"
+  },
+  {
+    "key": "zolpidem_Hypotonia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22HYPOTONIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"HYPOTONIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:53:59.452391+00:00",
+    "http_status": 200,
+    "sha256": "1626c9ad0f2eb14f0797d2ef7c5eb001eb9001b2b048dad67bf9f03eaa79515b"
+  },
+  {
+    "key": "triazolam_Memory_impairment",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MEMORY+IMPAIRMENT%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"MEMORY IMPAIRMENT\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:00.279057+00:00",
+    "http_status": 200,
+    "sha256": "1c11aa82275e53ee29eb3142260c1e07f636f585a124736e7258396b6d461f05"
+  },
+  {
+    "key": "zolpidem_Amnesia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22AMNESIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"AMNESIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:01.833068+00:00",
+    "http_status": 200,
+    "sha256": "42365767f91ea284dfe05db54715da568eb507767e19d9fe744282eebdb8a591"
+  },
+  {
+    "key": "triazolam_Cognitive_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TRIAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TRIAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COGNITIVE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TRIAZOLAM\" OR patient.drug.medicinalproduct.exact:\"TRIAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"COGNITIVE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:02.099625+00:00",
+    "http_status": 200,
+    "sha256": "037431d8f0ba7ab1826d88c6baf060c05b88a1372578f149fe2a2698288a62bb"
+  },
+  {
+    "key": "clonazepam_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\")",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:50:24.898598+00:00",
+    "http_status": 200,
+    "sha256": "95fadd01af4b1bba4c32ff02d886e9a6abbee7374efd729e02729015daeb9907"
+  },
+  {
+    "key": "clonazepam_generic_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:50:27.740123+00:00",
+    "http_status": 200,
+    "sha256": "95fadd01af4b1bba4c32ff02d886e9a6abbee7374efd729e02729015daeb9907"
+  },
+  {
+    "key": "clonazepam_margin_patient_drug_openfda_brand_name_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29&count=patient.drug.openfda.brand_name.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\")",
+      "count": "patient.drug.openfda.brand_name.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:15.723839+00:00",
+    "http_status": 200,
+    "sha256": "5c17b8f3f22ee7525c993ed67dde2e7cbc7523e652fbd0e6d6514c2e6076fb4c"
+  },
+  {
+    "key": "clonazepam_margin_patient_patientsex",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29&count=patient.patientsex&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\")",
+      "count": "patient.patientsex",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:19.255709+00:00",
+    "http_status": 200,
+    "sha256": "12fc00a01550dd674e4fab57f20dba13d47ee54777cf2f41b538c4351ba565b1"
+  },
+  {
+    "key": "clonazepam_margin_patient_patientonsetage",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29&count=patient.patientonsetage&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\")",
+      "count": "patient.patientonsetage",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:20.201015+00:00",
+    "http_status": 200,
+    "sha256": "abcc7bf6a85ccdf5eeb0328212b1f5b773019fe5fab0d9f03e3795d29692cc18"
+  },
+  {
+    "key": "clonazepam_margin_primarysourcecountry_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29&count=primarysourcecountry.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\")",
+      "count": "primarysourcecountry.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:21.204888+00:00",
+    "http_status": 200,
+    "sha256": "fc45ccdbe80678850244fecc3ad7d803808e92182141d80d73eb8683439598d0"
+  },
+  {
+    "key": "clonazepam_margin_receivedate",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29&count=receivedate&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\")",
+      "count": "receivedate",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:52:23.466502+00:00",
+    "http_status": 200,
+    "sha256": "3b62efa8a6403194d320d6ea4afd88f7869023b40eacd031cb379aa97b2519f3"
+  },
+  {
+    "key": "clonazepam_margin_serious",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29&count=serious&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\")",
+      "count": "serious",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:54:03.203273+00:00",
+    "http_status": 200,
+    "sha256": "96d251a93f755f3f44320822baa4e4af6f8bd8f8f47e7b4c8d878c22d5bb312c"
+  },
+  {
+    "key": "clonazepam_margin_patient_drug_drugcharacterization",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29&count=patient.drug.drugcharacterization&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\")",
+      "count": "patient.drug.drugcharacterization",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:54:05.227207+00:00",
+    "http_status": 200,
+    "sha256": "6baadc550cd68210caef6af03ba90390bc8bddcf20243d5aed81239535791692"
+  },
+  {
+    "key": "zolpidem_Memory_impairment",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MEMORY+IMPAIRMENT%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"MEMORY IMPAIRMENT\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:05.392335+00:00",
+    "http_status": 200,
+    "sha256": "e32a35f0ca8884ccec39fb1effa709870e51427e44c756f2eef100bd3ac2e668"
+  },
+  {
+    "key": "clonazepam_Ataxia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22ATAXIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"ATAXIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:08.623837+00:00",
+    "http_status": 200,
+    "sha256": "aea9efea1054a7ba2fd7cc4bc1918ed3d758ee5f09a29a7d1a18a124b976d04d"
+  },
+  {
+    "key": "zolpidem_Cognitive_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COGNITIVE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\") AND patient.reaction.reactionmeddrapt.exact:\"COGNITIVE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:08.823666+00:00",
+    "http_status": 200,
+    "sha256": "cb435c0ab9abb34f59f1d2df5213f39abf262a6510b51085110b6204192f6fed"
+  },
+  {
+    "key": "clonazepam_Balance_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22BALANCE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"BALANCE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:10.600719+00:00",
+    "http_status": 200,
+    "sha256": "e103b7fe0412b22cc8a30762e2241c6712ec3b6bf70249c5aa4b5dab41a319d7"
+  },
+  {
+    "key": "midazolam_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\")",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:12.119129+00:00",
+    "http_status": 200,
+    "sha256": "2b8d1b1dece7ff5d3d234637826a433f3d0080e2dad9ecb2c276e02d997355d4"
+  },
+  {
+    "key": "clonazepam_Coordination_abnormal",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COORDINATION+ABNORMAL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"COORDINATION ABNORMAL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:14.065623+00:00",
+    "http_status": 200,
+    "sha256": "fede6c17371d2e687480c73abf13b02894040cf00bb335aaeca68d58b74ad4e8"
+  },
+  {
+    "key": "midazolam_generic_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:15.457137+00:00",
+    "http_status": 200,
+    "sha256": "2b8d1b1dece7ff5d3d234637826a433f3d0080e2dad9ecb2c276e02d997355d4"
+  },
+  {
+    "key": "clonazepam_Gait_disturbance",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22GAIT+DISTURBANCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"GAIT DISTURBANCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:17.120087+00:00",
+    "http_status": 200,
+    "sha256": "fe1d6f1b4403876035c4f930792645b363dc5b3a52303ed5de3ca3fdbc17aa40"
+  },
+  {
+    "key": "midazolam_margin_patient_drug_openfda_brand_name_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29&count=patient.drug.openfda.brand_name.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\")",
+      "count": "patient.drug.openfda.brand_name.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:54:19.569244+00:00",
+    "http_status": 200,
+    "sha256": "093c2919d89d1e3711f2c37e09cca09eec86ecdac5ad4b084454b3fa2bc69c71"
+  },
+  {
+    "key": "clonazepam_Fall",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22FALL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"FALL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:20.074183+00:00",
+    "http_status": 200,
+    "sha256": "45e6beeae9b943c41605f8a09c429cc788f8d62f232b3b922ae491713704b783"
+  },
+  {
+    "key": "clonazepam_Somnolence",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SOMNOLENCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"SOMNOLENCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:21.029602+00:00",
+    "http_status": 200,
+    "sha256": "730bd784fde065a6a25a0fbae65ca4f7f957f2251c656d37c72caa7c4d24c523"
+  },
+  {
+    "key": "lorazepam_Amnesia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22AMNESIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"AMNESIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:22.278197+00:00",
+    "http_status": 200,
+    "sha256": "563d5246f9c6d7bf7d6aa65d8f6ffbd5d868ea0d14c73cd3bf66ce7d32b8fc82"
+  },
+  {
+    "key": "midazolam_margin_patient_patientsex",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29&count=patient.patientsex&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\")",
+      "count": "patient.patientsex",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:54:22.755433+00:00",
+    "http_status": 200,
+    "sha256": "cdb13692ff90eb6f18a8210deb1e7c3931d324c68251ea8ac2df7562e79f3dc8"
+  },
+  {
+    "key": "lorazepam_Memory_impairment",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MEMORY+IMPAIRMENT%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"MEMORY IMPAIRMENT\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:23.157735+00:00",
+    "http_status": 200,
+    "sha256": "7989552ae422316f2f2d4ffcf79839a4c612dfe8e0f863fcc068ca8a91d20f94"
+  },
+  {
+    "key": "clonazepam_Sedation",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SEDATION%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"SEDATION\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:23.311503+00:00",
+    "http_status": 200,
+    "sha256": "bd1bc4a42f755df8f72397d7a2cee086b9a38b2939dbf6dfb159866d49cc533f"
+  },
+  {
+    "key": "midazolam_margin_patient_patientonsetage",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29&count=patient.patientonsetage&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\")",
+      "count": "patient.patientonsetage",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:54:24.748084+00:00",
+    "http_status": 200,
+    "sha256": "752156c8babbefdd815eec1e45a6ea8553767e8df758ef50da9d2d8a0e7b4ead"
+  },
+  {
+    "key": "lorazepam_Cognitive_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22LORAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22LORAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COGNITIVE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"LORAZEPAM\" OR patient.drug.medicinalproduct.exact:\"LORAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"COGNITIVE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:25.267233+00:00",
+    "http_status": 200,
+    "sha256": "05e4d0b388d8ddcd0dcbb51aa39cf5f53edaaa34fdae8e7a496fd72ec315fec2"
+  },
+  {
+    "key": "clonazepam_Dizziness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22DIZZINESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"DIZZINESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:25.430399+00:00",
+    "http_status": 200,
+    "sha256": "60346685bfa0dce1328c1755a5a90e4a7f58363c8dd2803dbad1282e08cd3d81"
+  },
+  {
+    "key": "midazolam_margin_primarysourcecountry_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29&count=primarysourcecountry.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\")",
+      "count": "primarysourcecountry.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:54:25.676714+00:00",
+    "http_status": 200,
+    "sha256": "4cdd8a4584ba50c6f9f4d4cf944d453105e8f261c3f6706d2ad6ca284d23e9d7"
+  },
+  {
+    "key": "midazolam_margin_receivedate",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29&count=receivedate&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\")",
+      "count": "receivedate",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:54:28.775353+00:00",
+    "http_status": 200,
+    "sha256": "c4dfb91d22e911e32dd8f7d15332bdcef479bed1a81f0970e08f2861b2a4a295"
+  },
+  {
+    "key": "clonazepam_Vertigo",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22VERTIGO%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"VERTIGO\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:28.801195+00:00",
+    "http_status": 200,
+    "sha256": "1050c54968bef8edecab3f8eda697f630fbb41a1a3003ff63f3cff42ee4fe674"
+  },
+  {
+    "key": "midazolam_margin_serious",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29&count=serious&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\")",
+      "count": "serious",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:54:29.792109+00:00",
+    "http_status": 200,
+    "sha256": "14e1adaf428dfc39bb3e671197459b4da95f39b19543c73e295f116bc27cdf16"
+  },
+  {
+    "key": "midazolam_margin_patient_drug_drugcharacterization",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29&count=patient.drug.drugcharacterization&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\")",
+      "count": "patient.drug.drugcharacterization",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:54:31.890740+00:00",
+    "http_status": 200,
+    "sha256": "acdd8334522a77090ca1b569c646a68cc6ccd42a922f8cad514c1f3a4d972503"
+  },
+  {
+    "key": "clonazepam_Muscular_weakness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MUSCULAR+WEAKNESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"MUSCULAR WEAKNESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:32.131366+00:00",
+    "http_status": 200,
+    "sha256": "aa2b921f0a6b9bc9431c973dc7fe2603e0fcbd985b7c448711766f1b1a0907a2"
+  },
+  {
+    "key": "clonazepam_Hypotonia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22HYPOTONIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"HYPOTONIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:33.082249+00:00",
+    "http_status": 200,
+    "sha256": "25d0fe0dabbb5b95a880ce78401135e784ba5dc2564f687952f0beb7d6006c8d"
+  },
+  {
+    "key": "temazepam_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\")",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:33.536685+00:00",
+    "http_status": 200,
+    "sha256": "151bc5d386cb2467c192323eb00496f6f350bcbadd1c9d105f3320e8db6d1605"
+  },
+  {
+    "key": "midazolam_Ataxia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22ATAXIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"ATAXIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:34.519552+00:00",
+    "http_status": 200,
+    "sha256": "b52cb90de1f5406981a6ca47c368ff48985ab8fcc8af995fe829d82b2dc41ace"
+  },
+  {
+    "key": "clonazepam_Amnesia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22AMNESIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"AMNESIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:35.394393+00:00",
+    "http_status": 200,
+    "sha256": "e317dafae4d06116fa4a39bb8358c481465ca4ce4e6f6b2227ec372e28fb4f5f"
+  },
+  {
+    "key": "temazepam_generic_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:36.827222+00:00",
+    "http_status": 200,
+    "sha256": "151bc5d386cb2467c192323eb00496f6f350bcbadd1c9d105f3320e8db6d1605"
+  },
+  {
+    "key": "clonazepam_Memory_impairment",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MEMORY+IMPAIRMENT%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"MEMORY IMPAIRMENT\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:39.493450+00:00",
+    "http_status": 200,
+    "sha256": "8a2e8dfe4d3bea8328700fcd73613f53d13985ac82596095dbd2a585ba766309"
+  },
+  {
+    "key": "midazolam_Balance_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22BALANCE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"BALANCE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:41.330730+00:00",
+    "http_status": 200,
+    "sha256": "33501164e6941a9d1a670e8d9791fb4b5a4476b59321d1f6237b250037154cba"
+  },
+  {
+    "key": "clonazepam_Cognitive_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COGNITIVE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"COGNITIVE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:41.383077+00:00",
+    "http_status": 200,
+    "sha256": "0eef65ef49e1b1ef73742a9ed1ae99dbdcb1c45e8c7c108c699a8514033e11fb"
+  },
+  {
+    "key": "midazolam_Coordination_abnormal",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COORDINATION+ABNORMAL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"COORDINATION ABNORMAL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:44.044636+00:00",
+    "http_status": 200,
+    "sha256": "3d7d7948942db04b1ca7c51cfc9845bb5e53303276df48aa1666f65fab4e85cd"
+  },
+  {
+    "key": "zopiclone_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\")",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:44.850634+00:00",
+    "http_status": 200,
+    "sha256": "c06442932e6b8127e125e4b45e01adfef3749e8677c61d97e6d0e6a7f969a621"
+  },
+  {
+    "key": "zopiclone_generic_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.drug.openfda.generic_name.exact:\"ZOPICLONE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:45.781574+00:00",
+    "http_status": 404,
+    "sha256": "57b1e7534d003e4246182162fd2469cdf038de39405056f44fc006715e5496da"
+  },
+  {
+    "key": "midazolam_Gait_disturbance",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22GAIT+DISTURBANCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"GAIT DISTURBANCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:47.103914+00:00",
+    "http_status": 200,
+    "sha256": "f9e19aebbe9928ec940871a50b6ab55fb1a14e83cd83e02d8869642bb4f3e9f6"
+  },
+  {
+    "key": "midazolam_Fall",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22FALL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"FALL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:48.175231+00:00",
+    "http_status": 200,
+    "sha256": "36e1eaae7a7bc3c73609398c4d3517e26fcae6d324014fff88d9ad161688ff30"
+  },
+  {
+    "key": "midazolam_Somnolence",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SOMNOLENCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"SOMNOLENCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:49.053263+00:00",
+    "http_status": 200,
+    "sha256": "98519c1528b21e13f66aebfe6cb03621d70c2e8f5b707af4272f0fe93098188e"
+  },
+  {
+    "key": "zopiclone_margin_patient_drug_openfda_brand_name_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29&count=patient.drug.openfda.brand_name.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\")",
+      "count": "patient.drug.openfda.brand_name.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:54:51.573067+00:00",
+    "http_status": 200,
+    "sha256": "af50bd76804f1a41a00aecbe101634c6db1fb7e72f9609542e6665ef6ca99688"
+  },
+  {
+    "key": "midazolam_Sedation",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SEDATION%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"SEDATION\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:52.052120+00:00",
+    "http_status": 200,
+    "sha256": "65e937e069cc736b0f9907d12fa7387bb954fbd13a225933dc15b9185d26ca2f"
+  },
+  {
+    "key": "midazolam_Dizziness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22DIZZINESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"DIZZINESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:54.776076+00:00",
+    "http_status": 200,
+    "sha256": "1db0bef05b5b9dbb65054a78fa7091cb5cfa3277fc0b75fd78d04925365612b6"
+  },
+  {
+    "key": "zopiclone_margin_patient_patientsex",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29&count=patient.patientsex&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\")",
+      "count": "patient.patientsex",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:54:55.377284+00:00",
+    "http_status": 200,
+    "sha256": "a87206b27f67c8682bc0c8bf64f57dab8f0f1f538a10795428340e906c19d7eb"
+  },
+  {
+    "key": "midazolam_Vertigo",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22VERTIGO%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"VERTIGO\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:56.024998+00:00",
+    "http_status": 200,
+    "sha256": "9ba9e8eccd6b1487be3e6e2a4e4ee7673d459dfbfe713aeab5cff72555d604f4"
+  },
+  {
+    "key": "midazolam_Muscular_weakness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MUSCULAR+WEAKNESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"MUSCULAR WEAKNESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:54:58.637347+00:00",
+    "http_status": 200,
+    "sha256": "bf2483fdb64a8b9a9d9f729520ddd0d188104aa6e34aec5015f0ddb5ec26dc52"
+  },
+  {
+    "key": "zopiclone_margin_patient_patientonsetage",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29&count=patient.patientonsetage&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\")",
+      "count": "patient.patientonsetage",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:00.992769+00:00",
+    "http_status": 200,
+    "sha256": "2d38606edd911efce248379401cfa6374db7a69346fd6d234ad46429357abcae"
+  },
+  {
+    "key": "zopiclone_margin_primarysourcecountry_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29&count=primarysourcecountry.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\")",
+      "count": "primarysourcecountry.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:04.176378+00:00",
+    "http_status": 200,
+    "sha256": "b7abbd93b3aac64794784c80318e9c4c293e75684cb696524954b3d34c56028e"
+  },
+  {
+    "key": "temazepam_margin_patient_drug_openfda_brand_name_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29&count=patient.drug.openfda.brand_name.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\")",
+      "count": "patient.drug.openfda.brand_name.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:05.175882+00:00",
+    "http_status": 200,
+    "sha256": "34048599af06bf46c728868e47aacdba8c3f818983fe10b14d4fa5db74c48a73"
+  },
+  {
+    "key": "zopiclone_margin_receivedate",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29&count=receivedate&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\")",
+      "count": "receivedate",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:05.507146+00:00",
+    "http_status": 200,
+    "sha256": "5e833e5dbbed1b32934bb334bc667e279c4516716aebf97cb89491ee92e78126"
+  },
+  {
+    "key": "temazepam_margin_patient_patientsex",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29&count=patient.patientsex&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\")",
+      "count": "patient.patientsex",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:06.157363+00:00",
+    "http_status": 200,
+    "sha256": "c422ed1c9128a6033e3d5f6bf5d85432f63b2cf260eec2595a8d6637a024ad9a"
+  },
+  {
+    "key": "midazolam_Hypotonia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22HYPOTONIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"HYPOTONIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:06.278932+00:00",
+    "http_status": 200,
+    "sha256": "e931978715d9bd644caf241ffe241d2473b1aead9ac304b8f6ab262e10588020"
+  },
+  {
+    "key": "zopiclone_margin_serious",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29&count=serious&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\")",
+      "count": "serious",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:06.495439+00:00",
+    "http_status": 200,
+    "sha256": "487e8b9d00b2c955b57f7d2fee23b3c6e2ef7eb33dc62e036b3d83ef144eb392"
+  },
+  {
+    "key": "temazepam_margin_patient_patientonsetage",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29&count=patient.patientonsetage&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\")",
+      "count": "patient.patientonsetage",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:07.078300+00:00",
+    "http_status": 200,
+    "sha256": "f1e003efd913fa78a2e12694b113628ba06a8383255028922d4b64b97cbdbe25"
+  },
+  {
+    "key": "temazepam_margin_primarysourcecountry_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29&count=primarysourcecountry.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\")",
+      "count": "primarysourcecountry.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:09.223702+00:00",
+    "http_status": 200,
+    "sha256": "2c39c8bd7813d789d03b239646ca5c81057a262688ad4494ffb1d56e25d1d112"
+  },
+  {
+    "key": "zopiclone_margin_patient_drug_drugcharacterization",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29&count=patient.drug.drugcharacterization&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\")",
+      "count": "patient.drug.drugcharacterization",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:09.672087+00:00",
+    "http_status": 200,
+    "sha256": "7f76d18e2ebe899fa716c9c419bb85e0bf2d49101190f47159494e15c867592c"
+  },
+  {
+    "key": "zopiclone_Ataxia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22ATAXIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\") AND patient.reaction.reactionmeddrapt.exact:\"ATAXIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:11.739426+00:00",
+    "http_status": 200,
+    "sha256": "fd11c5edc61cf116751da379f8f347f7f8a9cc38001c9bc0920fd6166e91eca2"
+  },
+  {
+    "key": "midazolam_Amnesia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22AMNESIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"AMNESIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:12.785185+00:00",
+    "http_status": 200,
+    "sha256": "3f71c393e9ffa4b5b92e952989e3f45448e3923ca0102104f36a50fbc1316ec1"
+  },
+  {
+    "key": "temazepam_margin_receivedate",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29&count=receivedate&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\")",
+      "count": "receivedate",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:12.945871+00:00",
+    "http_status": 200,
+    "sha256": "e4a57ab197ffe00f046a480960055cd5b34c410f6a25347cfb879794e6b6e3d0"
+  },
+  {
+    "key": "zopiclone_Balance_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22BALANCE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\") AND patient.reaction.reactionmeddrapt.exact:\"BALANCE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:13.631336+00:00",
+    "http_status": 200,
+    "sha256": "14d94381ffb109a9c515ea646447ddc1b741dcf9b7ca9f72f1aa90712a540d81"
+  },
+  {
+    "key": "temazepam_margin_serious",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29&count=serious&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\")",
+      "count": "serious",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:13.872992+00:00",
+    "http_status": 200,
+    "sha256": "61fa5810fe224a74fedffff8d05297c0ac9aa45bb94935bf2447d6d075c7fe76"
+  },
+  {
+    "key": "midazolam_Memory_impairment",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MEMORY+IMPAIRMENT%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"MEMORY IMPAIRMENT\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:14.732618+00:00",
+    "http_status": 200,
+    "sha256": "c468c2af68b7fa947cf1caf19ff100729b8700f557763b846daa41dcf28ad050"
+  },
+  {
+    "key": "midazolam_Cognitive_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22MIDAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22MIDAZOLAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COGNITIVE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"MIDAZOLAM\" OR patient.drug.medicinalproduct.exact:\"MIDAZOLAM\") AND patient.reaction.reactionmeddrapt.exact:\"COGNITIVE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:16.123175+00:00",
+    "http_status": 200,
+    "sha256": "89493feafe01ffa1f673568d823339783172c494d8e34a59f02ac92acf1d677c"
+  },
+  {
+    "key": "temazepam_margin_patient_drug_drugcharacterization",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29&count=patient.drug.drugcharacterization&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\")",
+      "count": "patient.drug.drugcharacterization",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:17.241454+00:00",
+    "http_status": 200,
+    "sha256": "740183a9a68e56e21da0952d70a0edf549787eac3c3921b25f0730a1c4952652"
+  },
+  {
+    "key": "zopiclone_Coordination_abnormal",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COORDINATION+ABNORMAL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\") AND patient.reaction.reactionmeddrapt.exact:\"COORDINATION ABNORMAL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:19.263079+00:00",
+    "http_status": 200,
+    "sha256": "ac873f1db1578ec22eb9c7bfd0f5bacc68a65a32612da98c0a56bb38a567bc5c"
+  },
+  {
+    "key": "zopiclone_Gait_disturbance",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22GAIT+DISTURBANCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\") AND patient.reaction.reactionmeddrapt.exact:\"GAIT DISTURBANCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:20.729996+00:00",
+    "http_status": 200,
+    "sha256": "b808ce790884d4adfe091bacc9c8ccec1d003cc39c2fa7322783b1f26442d45a"
+  },
+  {
+    "key": "temazepam_Ataxia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22ATAXIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"ATAXIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:21.535469+00:00",
+    "http_status": 200,
+    "sha256": "81981e881ed74f767063715008e3534080cc40b5def0f843551cf2963d7157ad"
+  },
+  {
+    "key": "zopiclone_Fall",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22FALL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\") AND patient.reaction.reactionmeddrapt.exact:\"FALL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:21.853526+00:00",
+    "http_status": 200,
+    "sha256": "7592903de4585f1599659df07e323b3516788768cd2b22bfff3045f0e3935c29"
+  },
+  {
+    "key": "zaleplon_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\")",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:22.537235+00:00",
+    "http_status": 200,
+    "sha256": "21af444a65ea9ee23d4d93a11bb97bf7b19adfa83d400f68971e8c3f2ef9ca45"
+  },
+  {
+    "key": "temazepam_Balance_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22BALANCE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"BALANCE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:22.560698+00:00",
+    "http_status": 200,
+    "sha256": "8d16b7bad053838d65cea7e4034858b6d790619b926367a5aa0e7a14a195ac87"
+  },
+  {
+    "key": "temazepam_Coordination_abnormal",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COORDINATION+ABNORMAL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"COORDINATION ABNORMAL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:23.399737+00:00",
+    "http_status": 200,
+    "sha256": "b7a27ee426410010d36cb9f3b43c25ef6262a4009ca8edff261d90d949f27cd6"
+  },
+  {
+    "key": "zaleplon_generic_total",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND patient.drug.openfda.generic_name.exact:\"ZALEPLON\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:23.420031+00:00",
+    "http_status": 200,
+    "sha256": "21af444a65ea9ee23d4d93a11bb97bf7b19adfa83d400f68971e8c3f2ef9ca45"
+  },
+  {
+    "key": "zopiclone_Somnolence",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SOMNOLENCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\") AND patient.reaction.reactionmeddrapt.exact:\"SOMNOLENCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:23.501070+00:00",
+    "http_status": 200,
+    "sha256": "4e1aa3f535d3eab87242bd3706b8c9212dc3a0caf3486dcec660326b7469731e"
+  },
+  {
+    "key": "temazepam_Gait_disturbance",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22GAIT+DISTURBANCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"GAIT DISTURBANCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:26.322105+00:00",
+    "http_status": 200,
+    "sha256": "2a12951049f2a98d37be314fd016c084609ee3ef09f029a48d5c8185afdefbdd"
+  },
+  {
+    "key": "zaleplon_margin_patient_drug_openfda_brand_name_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29&count=patient.drug.openfda.brand_name.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\")",
+      "count": "patient.drug.openfda.brand_name.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:26.755453+00:00",
+    "http_status": 200,
+    "sha256": "b79886838558b1d78368336b67fe0164a38cb6c0b230a285548ffbf45939bb60"
+  },
+  {
+    "key": "zopiclone_Sedation",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SEDATION%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\") AND patient.reaction.reactionmeddrapt.exact:\"SEDATION\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:27.466182+00:00",
+    "http_status": 200,
+    "sha256": "7766f61862d8a59163dd15254a09f47cef513c6d3be19d3792c7ccb9cc23192e"
+  },
+  {
+    "key": "zaleplon_margin_patient_patientsex",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29&count=patient.patientsex&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\")",
+      "count": "patient.patientsex",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:28.896876+00:00",
+    "http_status": 200,
+    "sha256": "b86f27dc63dbda6bb34985750c3cc09dc8a8fc5ce4021929e1a09c22a491d9da"
+  },
+  {
+    "key": "temazepam_Fall",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22FALL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"FALL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:29.037421+00:00",
+    "http_status": 200,
+    "sha256": "5abda9f1bcb32d826715ce327091d5003e316c4e98bf1c21604e6862f679cbe6"
+  },
+  {
+    "key": "zopiclone_Dizziness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22DIZZINESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\") AND patient.reaction.reactionmeddrapt.exact:\"DIZZINESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:29.565672+00:00",
+    "http_status": 200,
+    "sha256": "82b4ce0727fbab032461cff5966238747bf6b8d6a5f1cd72d532012c3ee332b7"
+  },
+  {
+    "key": "zopiclone_Vertigo",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22VERTIGO%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\") AND patient.reaction.reactionmeddrapt.exact:\"VERTIGO\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:30.617597+00:00",
+    "http_status": 200,
+    "sha256": "6a1840548549c1e00bffce0d43da85b09ccea4bf0c9b67a474505e735ca01147"
+  },
+  {
+    "key": "temazepam_Somnolence",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SOMNOLENCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"SOMNOLENCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:30.658932+00:00",
+    "http_status": 200,
+    "sha256": "1f3200dbeed19494e41c4c3ac14a56eb0c76dd95956d68116c87c4e9eb6989bb"
+  },
+  {
+    "key": "zaleplon_margin_patient_patientonsetage",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29&count=patient.patientonsetage&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\")",
+      "count": "patient.patientonsetage",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:33.525341+00:00",
+    "http_status": 200,
+    "sha256": "57a6dabc110a13784a10698cbefd10e09c955c65de676dd44f8cede4fe605036"
+  },
+  {
+    "key": "temazepam_Sedation",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SEDATION%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"SEDATION\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:33.632246+00:00",
+    "http_status": 200,
+    "sha256": "90f0fc11b8179357150bc8dbede0dcb537ee1207c57b47072f525b342dbf50d5"
+  },
+  {
+    "key": "zopiclone_Muscular_weakness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MUSCULAR+WEAKNESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\") AND patient.reaction.reactionmeddrapt.exact:\"MUSCULAR WEAKNESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:33.854814+00:00",
+    "http_status": 200,
+    "sha256": "f0951d4b6f8d95f3b274a7b0bb39e6585ef738562f490759944b8ed1c1d2b55c"
+  },
+  {
+    "key": "zaleplon_margin_primarysourcecountry_exact",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29&count=primarysourcecountry.exact&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\")",
+      "count": "primarysourcecountry.exact",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:35.437802+00:00",
+    "http_status": 200,
+    "sha256": "1b74cf47ae17fe29bbc85a6fd0d7393fe8e1387dc360eadc90723e0f9a1cb3b5"
+  },
+  {
+    "key": "zopiclone_Hypotonia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22HYPOTONIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\") AND patient.reaction.reactionmeddrapt.exact:\"HYPOTONIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:36.161946+00:00",
+    "http_status": 200,
+    "sha256": "fdaa3a284eb05e1242d1f1e4724ac5aaf31cabb474b656bfb6089e4e9d8d944a"
+  },
+  {
+    "key": "temazepam_Dizziness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22DIZZINESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"DIZZINESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:37.020543+00:00",
+    "http_status": 200,
+    "sha256": "240c5babfa94ae29d2684a9f219c708d8c41e5fe7d4aff7c0d973e01e91028b7"
+  },
+  {
+    "key": "zaleplon_margin_receivedate",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29&count=receivedate&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\")",
+      "count": "receivedate",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:37.315203+00:00",
+    "http_status": 200,
+    "sha256": "7cdc5cc309f76ffaefa74f5bc3c925f5ed24420229fe91664f76aebcfd19e891"
+  },
+  {
+    "key": "temazepam_Vertigo",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22VERTIGO%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"VERTIGO\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:37.951200+00:00",
+    "http_status": 200,
+    "sha256": "3dc88082eade95753952aec8d181e0d2639c4cd1a4cbb50038a24a23a245e204"
+  },
+  {
+    "key": "zaleplon_margin_serious",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29&count=serious&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\")",
+      "count": "serious",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:38.052669+00:00",
+    "http_status": 200,
+    "sha256": "ccf9f9909f31e593607c2bca7f3630b3ee44408d32d0678801a7ced95b97d192"
+  },
+  {
+    "key": "zopiclone_Amnesia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22AMNESIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\") AND patient.reaction.reactionmeddrapt.exact:\"AMNESIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:38.669591+00:00",
+    "http_status": 200,
+    "sha256": "1b2ed543a8ae0577b9b1abe967412a1890e856814bfa9b2c9cde64cada864a16"
+  },
+  {
+    "key": "temazepam_Muscular_weakness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MUSCULAR+WEAKNESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"MUSCULAR WEAKNESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:39.000969+00:00",
+    "http_status": 200,
+    "sha256": "613a2e693e0d9e8386762d3075a5dd2b5de179bf76c8915a53d82796828c8107"
+  },
+  {
+    "key": "zopiclone_Memory_impairment",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MEMORY+IMPAIRMENT%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\") AND patient.reaction.reactionmeddrapt.exact:\"MEMORY IMPAIRMENT\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:39.733634+00:00",
+    "http_status": 200,
+    "sha256": "2bbc9da27f9021745ffc1013b0ed31607401a88be2494588cc2185022dada07d"
+  },
+  {
+    "key": "zaleplon_margin_patient_drug_drugcharacterization",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29&count=patient.drug.drugcharacterization&limit=100",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\")",
+      "count": "patient.drug.drugcharacterization",
+      "limit": 100
+    },
+    "retrieved_utc": "2026-09-20T01:55:40.051580+00:00",
+    "http_status": 200,
+    "sha256": "615d0bcc01dc126a0f4e411cf6ead39715abd561b308b2ddb80f2b9360e3e7e9"
+  },
+  {
+    "key": "temazepam_Hypotonia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22HYPOTONIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"HYPOTONIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:40.129048+00:00",
+    "http_status": 200,
+    "sha256": "2171bbc02adac6f04350424f2d85c37bcd3b7e8a2c73abfaffecf944437e42f7"
+  },
+  {
+    "key": "zopiclone_Cognitive_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOPICLONE%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOPICLONE%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COGNITIVE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOPICLONE\" OR patient.drug.medicinalproduct.exact:\"ZOPICLONE\") AND patient.reaction.reactionmeddrapt.exact:\"COGNITIVE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:40.574286+00:00",
+    "http_status": 200,
+    "sha256": "bc11a08c87449164461168c47f9f41a211d6e94b94b791f3b5c53e795a0415b8"
+  },
+  {
+    "key": "zaleplon_Ataxia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22ATAXIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\") AND patient.reaction.reactionmeddrapt.exact:\"ATAXIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:41.333094+00:00",
+    "http_status": 200,
+    "sha256": "6379b10713a5f3a659c618f09ec1d5e4edf0e54b3b3aa0a1e54e28e75fe05479"
+  },
+  {
+    "key": "temazepam_Amnesia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22AMNESIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"AMNESIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:42.433643+00:00",
+    "http_status": 200,
+    "sha256": "1c3e7b5862da27cd9689cdd6e06e997c82ed477e627082f178b21d5a56c150f8"
+  },
+  {
+    "key": "temazepam_Memory_impairment",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MEMORY+IMPAIRMENT%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"MEMORY IMPAIRMENT\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:44.608366+00:00",
+    "http_status": 200,
+    "sha256": "986eb115053daff64097424a819e7fc94584a45cf43efbbdfa799d7973e3134f"
+  },
+  {
+    "key": "temazepam_Cognitive_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22TEMAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22TEMAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COGNITIVE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"TEMAZEPAM\" OR patient.drug.medicinalproduct.exact:\"TEMAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"COGNITIVE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:48.322565+00:00",
+    "http_status": 200,
+    "sha256": "77e35e13035f1167100a52c015610427c52a667be65678dd5cdc9b1b67393ce9"
+  },
+  {
+    "key": "zaleplon_Balance_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22BALANCE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\") AND patient.reaction.reactionmeddrapt.exact:\"BALANCE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:49.127443+00:00",
+    "http_status": 200,
+    "sha256": "e6bb84594c84f32d84d24a79a8642b0739e3d990903dcd30a185aa1578c90064"
+  },
+  {
+    "key": "zaleplon_Coordination_abnormal",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COORDINATION+ABNORMAL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\") AND patient.reaction.reactionmeddrapt.exact:\"COORDINATION ABNORMAL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:51.612604+00:00",
+    "http_status": 200,
+    "sha256": "a503719be5ddff52e5d0abccfdea6aa1a851bef32037344e5ba42860bcefa06e"
+  },
+  {
+    "key": "zaleplon_Gait_disturbance",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22GAIT+DISTURBANCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\") AND patient.reaction.reactionmeddrapt.exact:\"GAIT DISTURBANCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:52.814757+00:00",
+    "http_status": 200,
+    "sha256": "372c320cc2f64a47ea8603802755a46e96094c3b14117d1c63a45e72e316ba97"
+  },
+  {
+    "key": "zaleplon_Fall",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22FALL%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\") AND patient.reaction.reactionmeddrapt.exact:\"FALL\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:55.552363+00:00",
+    "http_status": 200,
+    "sha256": "6a78318ddfa0023ad073fd455d5aa28d345679fb8d8e1452f53ee23ec2a5e284"
+  },
+  {
+    "key": "zaleplon_Somnolence",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SOMNOLENCE%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\") AND patient.reaction.reactionmeddrapt.exact:\"SOMNOLENCE\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:55:57.710907+00:00",
+    "http_status": 200,
+    "sha256": "77c08e7460ae0cea865594b8d56ae52bd5f90c8015d95971bd1d1ba667cd471e"
+  },
+  {
+    "key": "zaleplon_Sedation",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22SEDATION%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\") AND patient.reaction.reactionmeddrapt.exact:\"SEDATION\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:56:00.860580+00:00",
+    "http_status": 200,
+    "sha256": "6bc0abdeb39e8e2eefa65a62c220584f8a8f88ff065faf387115fbb18de2ebce"
+  },
+  {
+    "key": "zaleplon_Dizziness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22DIZZINESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\") AND patient.reaction.reactionmeddrapt.exact:\"DIZZINESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:56:02.938938+00:00",
+    "http_status": 200,
+    "sha256": "8dfb76d322ec1825ecf21f3edc1e6cad896b43f7ece25e5ab13256298aff2ca1"
+  },
+  {
+    "key": "zaleplon_Vertigo",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22VERTIGO%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\") AND patient.reaction.reactionmeddrapt.exact:\"VERTIGO\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:56:04.972282+00:00",
+    "http_status": 200,
+    "sha256": "b36c6fe834b6602624b77df1517774f195e63dfb02f2d87798f657c377ddb570"
+  },
+  {
+    "key": "zaleplon_Muscular_weakness",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MUSCULAR+WEAKNESS%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\") AND patient.reaction.reactionmeddrapt.exact:\"MUSCULAR WEAKNESS\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:56:09.056761+00:00",
+    "http_status": 200,
+    "sha256": "f9a6acefb4167d3d493f10309d99951fe51049ce689c368941c392e348f6e5cd"
+  },
+  {
+    "key": "zaleplon_Hypotonia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22HYPOTONIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\") AND patient.reaction.reactionmeddrapt.exact:\"HYPOTONIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:56:10.979538+00:00",
+    "http_status": 404,
+    "sha256": "57b1e7534d003e4246182162fd2469cdf038de39405056f44fc006715e5496da"
+  },
+  {
+    "key": "zaleplon_Amnesia",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22AMNESIA%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\") AND patient.reaction.reactionmeddrapt.exact:\"AMNESIA\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:56:14.654062+00:00",
+    "http_status": 200,
+    "sha256": "dbb2c8d0ee5200ba5012f90e89bac5ae5981b02aacd6de24502630aefb56d6e5"
+  },
+  {
+    "key": "zaleplon_Memory_impairment",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22MEMORY+IMPAIRMENT%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\") AND patient.reaction.reactionmeddrapt.exact:\"MEMORY IMPAIRMENT\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:56:16.748222+00:00",
+    "http_status": 200,
+    "sha256": "43abdd5c253724b7198c45e7dafbdf733e1883b1d9b48a7bd3dc33c5253fc32f"
+  },
+  {
+    "key": "zaleplon_Cognitive_disorder",
+    "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22COGNITIVE+DISORDER%22&limit=1",
+    "params": {
+      "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\") AND patient.reaction.reactionmeddrapt.exact:\"COGNITIVE DISORDER\"",
+      "limit": 1
+    },
+    "retrieved_utc": "2026-09-20T01:56:21.655676+00:00",
+    "http_status": 200,
+    "sha256": "6d0fe075594e8ce76ed99a9e599cabe7759bdd20ecf0b09861b6fd1e44799e5b"
+  }
+]

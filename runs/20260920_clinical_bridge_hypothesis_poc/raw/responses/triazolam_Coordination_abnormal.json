@@ -1,0 +1,1171 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 4
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "3",
+      "safetyreportid": "11641844",
+      "primarysourcecountry": "IE",
+      "occurcountry": "IE",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20160304",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnesshospitalization": "1",
+      "seriousnessdisabling": "1",
+      "seriousnessother": "1",
+      "receivedateformat": "102",
+      "receivedate": "20151019",
+      "receiptdateformat": "102",
+      "receiptdate": "20151203",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "IE-JNJFOC-20151013580",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "JANSSEN",
+        "duplicatenumb": "IE-JNJFOC-20151013580"
+      },
+      "primarysource": {
+        "reportercountry": "IE",
+        "qualification": "2"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "80",
+        "patientonsetageunit": "801",
+        "patientagegroup": "6",
+        "patientsex": "1",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "18.1",
+            "reactionmeddrapt": "Dysarthria",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "18.1",
+            "reactionmeddrapt": "Confusional state",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "18.1",
+            "reactionmeddrapt": "Balance disorder",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "18.1",
+            "reactionmeddrapt": "Ataxia",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "18.1",
+            "reactionmeddrapt": "Metastasis",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "18.1",
+            "reactionmeddrapt": "Intentional product use issue",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "18.1",
+            "reactionmeddrapt": "Dizziness",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "18.1",
+            "reactionmeddrapt": "Off label use",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "18.1",
+            "reactionmeddrapt": "Coordination abnormal",
+            "reactionoutcome": "1"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "HYOSCINE BUTYLBROMIDE",
+            "drugstructuredosagenumb": "10",
+            "drugstructuredosageunit": "003",
+            "drugdosageform": "UNSPECIFIED",
+            "drugadministrationroute": "065",
+            "activesubstance": {
+              "activesubstancename": "BUTYLSCOPOLAMINE"
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "LEVOMEPROMAZINE",
+            "drugstructuredosagenumb": "6",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosageform": "UNSPECIFIED",
+            "drugadministrationroute": "048",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20150905",
+            "activesubstance": {
+              "activesubstancename": "LEVOMEPROMAZINE"
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "XARELTO",
+            "drugbatchnumb": "UNKNOWN",
+            "drugstructuredosagenumb": "20",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "drugindication": "EMBOLISM VENOUS",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20151002",
+            "actiondrug": "1",
+            "drugrecurreadministration": "3",
+            "activesubstance": {
+              "activesubstancename": "RIVAROXABAN"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA215859",
+                "NDA022406"
+              ],
+              "brand_name": [
+                "XARELTO"
+              ],
+              "generic_name": [
+                "RIVAROXABAN"
+              ],
+              "manufacturer_name": [
+                "Janssen Pharmaceuticals, Inc."
+              ],
+              "product_ndc": [
+                "50458-575",
+                "50458-577",
+                "50458-580",
+                "50458-578",
+                "50458-579",
+                "50458-584"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "RIVAROXABAN"
+              ],
+              "spl_id": [
+                "5294926b-7812-41da-a0e8-56f492198450"
+              ],
+              "spl_set_id": [
+                "10db92f9-2300-4a80-836b-673e1ae91610"
+              ],
+              "package_ndc": [
+                "50458-577-60",
+                "50458-577-18",
+                "50458-577-14",
+                "50458-577-01",
+                "50458-577-10",
+                "50458-580-01",
+                "50458-580-10",
+                "50458-580-30",
+                "50458-580-07",
+                "50458-580-90",
+                "50458-578-01",
+                "50458-578-10",
+                "50458-578-30",
+                "50458-578-90",
+                "50458-578-14",
+                "50458-578-07",
+                "50458-579-01",
+                "50458-579-10",
+                "50458-579-30",
+                "50458-579-90",
+                "50458-579-99",
+                "50458-579-07",
+                "50458-579-89",
+                "50458-584-51",
+                "50458-584-52",
+                "50458-575-01"
+              ],
+              "nui": [
+                "N0000175635",
+                "N0000175637"
+              ],
+              "pharm_class_moa": [
+                "Factor Xa Inhibitors [MoA]"
+              ],
+              "pharm_class_epc": [
+                "Factor Xa Inhibitor [EPC]"
+              ],
+              "unii": [
+                "9NDF7JZ4M3"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "ESOMEPRAZOLE",
+            "drugstructuredosagenumb": "40",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosageform": "UNSPECIFIED",
+            "drugadministrationroute": "048",
+            "activesubstance": {
+              "activesubstancename": "ESOMEPRAZOLE"
+            },
+            "openfda": {
+              "application_number": [
+                "ANDA207193",
+                "ANDA212866",
+                "ANDA208511",
+                "ANDA212507"
+              ],
+              "brand_name": [
+                "KIRKLAND SIGNATURE ESOMEPRAZOLE MAGNESIUM",
+                "ESOMEPRAZOLE MAGNESIUM",
+                "ESOMEPRAZOLE",
+                "DG HEALTH ESOMEPRAZOLE MAGNESIUM",
+                "LEADER ESOMEPRAZOLE MAGNESIUM",
+                "GOOD NEIGHBOR PHARMACY ESOMEPRAZOLE MAGNESIUM",
+                "EQUATE ESOMEPRAZOLE MAGNESIUM",
+                "SIGNATURE CARE ESOMEPRAZOLE MAGNESIUM",
+                "BASIC CARE ESOMEPRAZOLE MAGNESIUM",
+                "GOOD SENSE ESOMEPRAZOLE MAGNESIUM",
+                "MEMBERS MARK ESOMEPRAZOLE MAGNESIUM",
+                "EXCHANGE SELECT ESOMEPRAZOLE MAGNESIUM",
+                "UP AND UP ESOMEPRAZOLE MAGNESIUM",
+                "CAREONE ESOMEPRAZOLE MAGNESIUM",
+                "BERKLEY AND JENSEN HEARTBURN TREATMENT",
+                "FOSTER AND THRIVE ACID REDUCER",
+                "RIOPAN"
+              ],
+              "generic_name": [
+                "ESOMEPRAZOLE",
+                "ESOMEPRAZOLE MAGNESIUM"
+              ],
+              "manufacturer_name": [
+                "Costco Wholesale Company",
+                "CVS WOONSOCKET PRESCRIPTION CENTER, INCORPORATED",
+                "INNOVUS PHARMACEUTICALS, INC.",
+                "Dolgencorp, LLC",
+                "YYBA CORP",
+                "Macleods Pharmaceuticals Limited",
+                "Cardinal Health 110, LLC. dba Leader",
+                "Amerisource Bergen",
+                "CVS Pharmacy",
+                "Wal-Mart Stores Inc",
+                "HyVee Inc",
+                "Dolgencorp Inc",
+                "Safeway",
+                "H E B",
+                "Amazon.com Services LLC",
+                "VALU MERCHANDISERS COMPANY",
+                "THE KROGER COMPANY",
+                "L. Perrigo Company",
+                "Rite Aid Corporation",
+                "Sam's West Inc",
+                "CVS",
+                "Army & Air Force Exchange Service",
+                "Target Corporation",
+                "GERI-CARE PHARMACEUTICALS, CORP",
+                "Safeway, Inc.",
+                "American Sales Company",
+                "Walgreen Company",
+                "HARRIS TEETER",
+                "Ohm Laboratories Inc.",
+                "Publix Super Markets Inc",
+                "Meijer, Inc.",
+                "BJWC",
+                "Meijer Distribution Inc",
+                "Strategic Sourcing Services LLC",
+                "OPMX LLC",
+                "Kroger Company",
+                "WALMART INC."
+              ],
+              "product_ndc": [
+                "63981-898",
+                "51316-220",
+                "57483-900",
+                "55910-250",
+                "73581-013",
+                "33342-306",
+                "33342-307",
+                "70000-0727",
+                "46122-641",
+                "69842-898",
+                "49035-921",
+                "42507-898",
+                "55910-593",
+                "21130-714",
+                "37808-719",
+                "21130-088",
+                "72288-563",
+                "63941-999",
+                "30142-989",
+                "55910-640",
+                "72288-700",
+                "72288-898",
+                "0113-0651",
+                "11822-0898",
+                "68196-898",
+                "51316-715",
+                "55301-898",
+                "11673-898",
+                "0113-2022",
+                "57896-740",
+                "21130-926",
+                "41520-727",
+                "0363-7223",
+                "72036-982",
+                "51660-027",
+                "56062-898",
+                "72288-669",
+                "79481-0411",
+                "68391-898",
+                "72288-560",
+                "0113-0898",
+                "41250-900",
+                "70677-1099",
+                "69729-791",
+                "30142-273",
+                "79903-419"
+              ],
+              "product_type": [
+                "HUMAN OTC DRUG",
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ESOMEPRAZOLE",
+                "ESOMEPRAZOLE MAGNESIUM TRIHYDRATE",
+                "ESOMEPRAZOLE MAGNESIUM"
+              ],
+              "rxcui": [
+                "606726",
+                "606730",
+                "433733"
+              ],
+              "spl_id": [
+                "7eb4e2fc-b372-464a-b0aa-d63d52c6717e",
+                "ff0d65ca-7ca9-4689-b5f9-1065402c91b2",
+                "8f25bf5e-bf0d-413e-8f91-d3537939592b",
+                "3924ab5d-59a4-41c0-9ff8-b03ac6dd317a",
+                "43f3c680-d4a7-5094-e063-6394a90a6ef0",
+                "d68c9247-91c7-4e0f-adc4-2cfa7446580f",
+                "70bfe4f8-4dba-4b46-abbd-7ff48928c9d5",
+                "855c9137-5be7-405e-82af-61c6cd8ed401",
+                "49ebfeb6-d3ff-4eca-a18b-6c54d6dae782",
+                "d4a545cc-a934-4205-97e0-ceb4550d86d1",
+                "320a5a94-ab7d-4d44-9201-b73e7aab50e5",
+                "1c810178-5b0b-4390-bf2e-ee36839b2617",
+                "f00018f1-772f-4ac0-a1fe-41c1f59c15f0",
+                "e03b4775-6fd8-4d45-83e8-bc405104c539",
+                "71c83766-70ff-401d-901a-41f66ed26f55",
+                "e63fa8bc-cfba-4850-bf49-343492b2f405",
+                "2bac9451-0cc9-49a4-ad53-5ca6648a64ce",
+                "d1f98f06-8779-4753-af5f-b45fffea3d92",
+                "d5a842f3-d21b-4ddf-87f1-e44daf5cfe05",
+                "4df7a0fa-f656-49a8-85fb-2ad2ee20bf28",
+                "2eb11ddf-dd57-441d-beb9-23690187f152",
+                "d4793305-cd87-49cc-b1b1-7c891c986d88",
+                "aea67549-d9d2-4431-8973-a5b6a6909a03",
+                "566fb836-800f-4bbc-baf0-5ae366d06d55",
+                "3ed41fde-979d-6204-e063-6394a90ad1c1",
+                "1ee6f7c0-dff3-4372-a901-c2adef3902b1",
+                "77452ea9-bfd7-426f-9a66-1f5f759b4295",
+                "674a7792-7ba0-4a78-acd3-0dfcde8128d5",
+                "53a17381-d2f1-143f-e063-6394a90a07a6",
+                "8b9a5e10-02a5-4a3d-a4c2-83ca4e47c02d",
+                "96c2b7f1-ae2c-4b41-b58a-183b654a70ff",
+                "1b5303d0-8b4e-4420-b976-03ba683923db",
+                "97ef0c76-1b40-4263-9ec0-eba9a9f3d454",
+                "53a1652c-a8b0-ed15-e063-6394a90a0a6b",
+                "dd61324d-e918-43f2-8c65-ddbdf7102fee",
+                "9688d181-7842-4957-b438-4f574d943194",
+                "aee69f51-77b9-48c9-8de3-2aa42dc88125",
+                "ef5ff944-86d5-487c-86df-e255793a9f52",
+                "0c2ceff8-ed3a-425c-8cd7-22600d26406a",
+                "34b0e9f8-27ec-49a8-a373-2a43ce42861d",
+                "bda89e2d-5798-402f-9ddb-c8f4d7fc9140",
+                "5c410f5e-26ec-470a-93cb-9be23e33e788",
+                "4dc7f12f-7e83-aca2-e063-6294a90ac1dc",
+                "a0b2b851-7ffd-4143-a57b-0d4f18902268",
+                "4adcde28-8101-4dc3-88e6-c78ba95fc746"
+              ],
+              "spl_set_id": [
+                "4a87d5d5-c98b-4dc5-81be-50183342b047",
+                "19fa87e4-8225-4969-9857-1bf43db4427b",
+                "b3d10f0b-52af-408c-9b3d-f8f25f7c42bd",
+                "8f974698-ce9c-4ffb-b77e-9bad2c2ee2a1",
+                "0912d311-e26c-479d-9f13-ef0ac403e9b8",
+                "d68c9247-91c7-4e0f-adc4-2cfa7446580f",
+                "c9472b82-d345-4531-bf07-bd55c94876ab",
+                "b596055c-98b2-47b1-b174-ae7ad3ba97ee",
+                "6f1d75c1-3c0d-41c2-a625-1ee1bf642c32",
+                "aaafc536-f846-4019-a629-b52b3f36e682",
+                "b0968243-171e-428a-b692-740e0c05a0fc",
+                "2b0e555d-3ed5-4ec4-82a6-855351c503b3",
+                "972bb479-7146-454d-ace4-f9314f0e584e",
+                "0d08dd06-8df6-43ff-9033-8eebd215bec1",
+                "238b27e3-6993-4213-b7eb-062309398d1b",
+                "90d6a679-2968-4b20-a2a6-f3a9908a7e2e",
+                "ab83bbdd-2c8e-46bd-b39e-69199e004be4",
+                "7fa75bbe-5b9f-49ca-84de-f80e5a858de4",
+                "d5a842f3-d21b-4ddf-87f1-e44daf5cfe05",
+                "0b115351-318c-4bd9-935c-704a09bcdf52",
+                "2466913b-7292-4dfd-8ac9-429256faacee",
+                "e54f2cc9-1d5f-4f0a-8bcf-bd5b917d98ec",
+                "6996642f-a63e-4be9-aefd-0634e9914c2b",
+                "87913038-4b90-40a0-bce5-2d368bd5758c",
+                "b68035d0-195a-41e8-9928-8b1bd57917c0",
+                "5fa9089f-90d1-48b6-bb79-c6171eeeaa03",
+                "717e5d5b-4bf7-415e-b259-44056bc96d8b",
+                "f13088de-6841-453e-acb0-08bbdf9529d1",
+                "53a21928-8f5b-52c1-e063-6294a90add6c",
+                "7c497204-29ce-45e0-84d4-91b981c9b7aa",
+                "3f9a2747-8afd-4898-bbfb-5f379293137e",
+                "d6a55d37-c53b-4451-859b-4dbe1988eb9d",
+                "ea9ef7b0-7397-470f-b852-397e8b0e66e4",
+                "e6d19b0a-44a8-42fe-8a6c-717ecb3ac1c4",
+                "60554fd6-96d5-4e73-b676-332116caa800",
+                "4ba317eb-e007-4c97-b382-2b7cac0f6845",
+                "8799c88f-dafb-4be6-b279-a54d916162fe",
+                "2369c948-d46f-4ace-bc51-47477631bc43",
+                "42dd2e93-776c-4f49-b590-afc7dab6ef2f",
+                "4a89b4b5-5c42-44ee-98a9-e26a237aaef7",
+                "126c269b-260d-40f4-879d-169c09251c67",
+                "32933772-c0ef-46ad-84e5-d70218bcc866",
+                "4c37280d-25b6-ad2f-e063-6394a90a0b9d",
+                "da02c079-ed18-4896-896d-0489c8f43554",
+                "ce5f2915-327d-4a91-b7fd-e399664a250f"
+              ],
+              "package_ndc": [
+                "63981-898-01",
+                "63981-898-03",
+                "51316-220-01",
+                "51316-220-03",
+                "57483-900-42",
+                "55910-250-01",
+                "55910-250-02",
+                "55910-250-03",
+                "73581-013-42",
+                "33342-306-07",
+                "33342-306-10",
+                "33342-307-07",
+                "33342-307-10",
+                "70000-0727-2",
+                "70000-0727-1",
+                "46122-641-63",
+                "46122-641-04",
+                "69842-898-01",
+                "69842-898-02",
+                "69842-898-03",
+                "49035-921-01",
+                "49035-921-02",
+                "49035-921-03",
+                "49035-921-14",
+                "49035-921-28",
+                "49035-921-42",
+                "42507-898-00",
+                "42507-898-42",
+                "55910-593-01",
+                "55910-593-02",
+                "55910-593-03",
+                "21130-714-01",
+                "21130-714-03",
+                "37808-719-01",
+                "37808-719-03",
+                "21130-088-01",
+                "21130-088-02",
+                "21130-088-03",
+                "72288-563-00",
+                "72288-563-01",
+                "63941-999-42",
+                "63941-999-14",
+                "30142-989-14",
+                "30142-989-28",
+                "55910-640-01",
+                "72288-700-01",
+                "72288-700-03",
+                "72288-898-01",
+                "72288-898-03",
+                "0113-0651-01",
+                "0113-0651-02",
+                "0113-0651-03",
+                "11822-0898-1",
+                "11822-0898-2",
+                "11822-0898-3",
+                "68196-898-01",
+                "68196-898-03",
+                "51316-715-42",
+                "51316-715-28",
+                "51316-715-14",
+                "55301-898-01",
+                "55301-898-03",
+                "11673-898-01",
+                "11673-898-03",
+                "0113-2022-01",
+                "0113-2022-02",
+                "57896-740-42",
+                "21130-926-42",
+                "21130-926-28",
+                "21130-926-14",
+                "41520-727-01",
+                "41520-727-03",
+                "41520-727-02",
+                "0363-7223-03",
+                "0363-7223-01",
+                "72036-982-42",
+                "51660-027-44",
+                "51660-027-27",
+                "51660-027-14",
+                "56062-898-01",
+                "56062-898-02",
+                "56062-898-03",
+                "72288-669-00",
+                "72288-669-01",
+                "72288-669-03",
+                "79481-0411-1",
+                "79481-0411-0",
+                "68391-898-00",
+                "68391-898-03",
+                "72288-560-01",
+                "72288-560-03",
+                "0113-0898-01",
+                "0113-0898-02",
+                "0113-0898-03",
+                "41250-900-01",
+                "41250-900-02",
+                "41250-900-03",
+                "70677-1099-1",
+                "70677-1099-2",
+                "70677-1099-3",
+                "69729-791-14",
+                "30142-273-01",
+                "30142-273-03",
+                "79903-419-14",
+                "79903-419-42"
+              ],
+              "nui": [
+                "N0000175525",
+                "N0000000147",
+                "N0000182140"
+              ],
+              "pharm_class_epc": [
+                "Proton Pump Inhibitor [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Proton Pump Inhibitors [MoA]",
+                "Cytochrome P450 2C19 Inhibitors [MoA]"
+              ],
+              "unii": [
+                "N3PA6559FT",
+                "R6DXU4WAY9"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "PHENYTOIN.",
+            "drugstructuredosagenumb": "200",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "2",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosageform": "UNSPECIFIED",
+            "drugadministrationroute": "048",
+            "activesubstance": {
+              "activesubstancename": "PHENYTOIN"
+            },
+            "openfda": {
+              "application_number": [
+                "ANDA200691",
+                "ANDA040521",
+                "ANDA084427",
+                "NDA008762",
+                "ANDA200565"
+              ],
+              "brand_name": [
+                "PHENYTOIN",
+                "PHENYTOIN INFATABS",
+                "DILANTIN-125",
+                "DILANTIN INFATABS"
+              ],
+              "generic_name": [
+                "PHENYTOIN"
+              ],
+              "manufacturer_name": [
+                "Rising Pharma Holdings, Inc.",
+                "Sun Pharmaceutical Industries, Inc.",
+                "Prasco Laboratories",
+                "Viatris Specialty LLC",
+                "Parke-Davis Div of Pfizer Inc",
+                "Mylan Pharmaceuticals Inc."
+              ],
+              "product_ndc": [
+                "64980-573",
+                "51672-4069",
+                "66993-372",
+                "58151-115",
+                "0071-0007",
+                "51672-4146",
+                "59762-0531"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "PHENYTOIN"
+              ],
+              "rxcui": [
+                "1313885",
+                "1313112",
+                "1313884",
+                "1313887"
+              ],
+              "spl_id": [
+                "14ec4c18-fa7a-46e6-ac18-a7c23253e51c",
+                "3cbd8a0c-6cfb-e0dd-e063-6394a90a8a26",
+                "7cdde2aa-57b2-49e4-8563-bbe86f67cd39",
+                "f339f9e4-b289-4efe-82b9-46c57d1dc277",
+                "80f0cff3-357e-4328-860e-bbd525d80e6b",
+                "4e03fb7d-d33a-2472-e063-6394a90a9b81",
+                "212141a3-fffd-49e0-96d5-57cc921a99d1"
+              ],
+              "spl_set_id": [
+                "e95cad66-b5f9-4802-a35f-fed340bf09ab",
+                "093fd736-5971-47af-b4ef-08c1696cebe8",
+                "3580e6a8-f7c3-44a0-a1eb-2a84ae589d21",
+                "f339f9e4-b289-4efe-82b9-46c57d1dc277",
+                "ca119a89-2394-4d34-8078-cd1fa4e8e2f1",
+                "78b38e7b-1460-4adc-b738-320ffa6259c2",
+                "37943ec1-a8d2-42df-967e-6f96f84c017b"
+              ],
+              "package_ndc": [
+                "64980-573-01",
+                "51672-4069-1",
+                "51672-4069-2",
+                "66993-372-02",
+                "58151-115-35",
+                "0071-0007-40",
+                "0071-0007-24",
+                "51672-4146-6",
+                "51672-4146-1",
+                "51672-4146-3",
+                "59762-0531-2"
+              ],
+              "nui": [
+                "N0000175753",
+                "N0000008486",
+                "N0000191266",
+                "N0000187064",
+                "N0000187063",
+                "N0000185607",
+                "N0000191267",
+                "N0000190118",
+                "N0000185507"
+              ],
+              "pharm_class_epc": [
+                "Anti-epileptic Agent [EPC]"
+              ],
+              "pharm_class_pe": [
+                "Decreased Central Nervous System Disorganized Electrical Activity [PE]"
+              ],
+              "pharm_class_moa": [
+                "Cytochrome P450 1A2 Inducers [MoA]",
+                "Cytochrome P450 2B6 Inducers [MoA]",
+                "Cytochrome P450 2C8 Inducers [MoA]",
+                "Cytochrome P450 2C19 Inducers [MoA]",
+                "Cytochrome P450 2D6 Inducers [MoA]",
+                "Cytochrome P450 3A Inducers [MoA]",
+                "Cytochrome P450 2C9 Inducers [MoA]"
+              ],
+              "unii": [
+                "6158TKW0C5"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "SENNA",
+            "drugstructuredosagenumb": "7.5",
+            "drugstructuredosageunit": "003",
+            "drugdosageform": "UNSPECIFIED",
+            "drugadministrationroute": "048",
+            "activesubstance": {
+              "activesubstancename": "SENNA LEAF\\SENNOSIDES\\SENNOSIDES A AND B"
+            },
+            "openfda": {
+              "application_number": [
+                "M007",
+                "505G(a)(3)",
+                "M008"
+              ],
+              "brand_name": [
+                "SENNA",
+                "SENNA TABS",
+                "ONELAX SENNA"
+              ],
+              "generic_name": [
+                "SENNOSIDES 8.6 MG TABLETS",
+                "SENNOSIDES",
+                "SENNA LEAF",
+                "SENNA"
+              ],
+              "manufacturer_name": [
+                "Aarkish Pharmaceuticals NJ Inc.",
+                "American Health Packaging",
+                "Family Dollar Services Inc",
+                "Boiron",
+                "H E B",
+                "Patrin Pharma, Inc.",
+                "AmerisourceBergen (Good Neighbor Pharmacy) 46122",
+                "QUALITY CHOICE (Chain Drug Marketing Association)",
+                "Pharbest Pharmaceuticals, Inc.",
+                "Reliable 1 Laboratories LLC",
+                "Major Pharmaceuticals",
+                "Akron Pharma Inc.",
+                "Rugby Laboratories",
+                "AARNA USA INC.",
+                "Rite Aid Corporation",
+                "PAI Holdings, LLC dba PAI Pharma",
+                "Walgreens"
+              ],
+              "product_ndc": [
+                "81005-101",
+                "60687-851",
+                "55319-298",
+                "0220-4642",
+                "37808-675",
+                "39328-020",
+                "39328-120",
+                "39328-220",
+                "0220-4643",
+                "46122-702",
+                "83324-004",
+                "16103-363",
+                "69618-069",
+                "0904-7528",
+                "37808-782",
+                "71399-0027",
+                "0536-1483",
+                "82568-0006",
+                "11822-0298",
+                "0121-4967",
+                "69618-064",
+                "71399-1017",
+                "82568-0024",
+                "0363-8820"
+              ],
+              "product_type": [
+                "HUMAN OTC DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "SENNOSIDES",
+                "SENNA LEAF",
+                "SENNOSIDES A AND B"
+              ],
+              "rxcui": [
+                "312935",
+                "702311"
+              ],
+              "spl_id": [
+                "56d3eab0-0040-da54-e063-6294a90a09e2",
+                "4860231c-fcbe-78df-e063-6394a90a26b0",
+                "127bd8dd-7c0b-48ca-9662-1c5a6138b376",
+                "3c591996-cf43-f089-e063-6394a90aff49",
+                "cde8b1e7-b335-4d27-98bd-7686c5d660d9",
+                "b42865b6-223b-461b-aabd-ca548a0339fa",
+                "3b8d8a9c-2bea-881c-e063-6294a90abd8e",
+                "ecb36956-0a73-4225-9f0a-a5286f7c6ee2",
+                "22d033e2-47a4-4667-98a1-1968050a535f",
+                "61f99f78-d945-4004-a167-f3a80979f4a4",
+                "2de53996-629d-7455-e063-6294a90a21e4",
+                "77e88305-734a-4b15-bbfe-67a32f02c143",
+                "ffd1f134-7073-471d-9655-fc41a2543490",
+                "5a6593f8-d323-3cb0-e063-6294a90a0dba",
+                "94ef8dee-13d8-44b1-9eaa-fce49ed0cea6",
+                "364d4dfc-a08a-1a27-e063-6394a90ad77b",
+                "a8902034-4df3-4582-a632-07b003d46a2c",
+                "788bfeed-afae-42ae-a24b-0634f35f000b",
+                "2bc82d20-1476-46c7-e063-6394a90a0d44",
+                "35428dd1-59c5-58f3-e063-6394a90af628",
+                "d1e612c9-ccc5-4e54-912f-fdcdf2120e66",
+                "b3e7783e-7909-46e5-8601-2684995904f6"
+              ],
+              "spl_set_id": [
+                "564bc9a5-13b5-4cce-a349-6b2e122683ed",
+                "e3cbb71b-b45c-4ce1-820b-959dde04360d",
+                "7dbcf9f4-eb98-41d9-9c2c-55d9d26942cb",
+                "80b365a8-2911-1144-e053-2a91aa0a8985",
+                "d047e4e9-b8ac-498e-9fde-8af5d415edaa",
+                "a9f1ef8d-8700-481f-a709-972bb9d27153",
+                "3b8d8a9c-2be9-881c-e063-6294a90abd8e",
+                "da4b5f33-aee7-4c21-acf2-98649ec8bbf3",
+                "1959ef47-95c1-4234-9e1c-ad679b8dfb77",
+                "b9f8ea59-932f-4827-a87c-b4aff909c43f",
+                "c8aa7ae9-7d00-db7d-e053-2995a90ae72b",
+                "cfb6bf89-c77e-4372-9bc9-44d6a659c955",
+                "60de7967-279c-478c-b4dd-e3b283375025",
+                "27fa8f54-ed84-4afd-8da3-8754da48643b",
+                "41d53783-7ac2-411c-b9bf-afd87b3af30d",
+                "364d4dfc-a089-1a27-e063-6394a90ad77b",
+                "f3a0938e-dbdb-4988-aa1e-78564948d6a0",
+                "7c28ffb8-149f-4a5a-ab98-dfa7b3b0f6ed",
+                "ae46a611-20f2-74c8-e053-2995a90a32ce",
+                "55ce3969-d7a6-49c4-8c13-d95690efc1a6",
+                "7ad21fb7-20eb-48d6-be15-450aa2ec97d3",
+                "2875fe94-07a0-4e6e-b574-0d8d7cdf0a11"
+              ],
+              "package_ndc": [
+                "81005-101-30",
+                "81005-101-10",
+                "60687-851-40",
+                "60687-851-46",
+                "60687-851-77",
+                "55319-298-12",
+                "0220-4642-41",
+                "37808-675-10",
+                "39328-020-08",
+                "39328-120-05",
+                "39328-120-50",
+                "39328-120-99",
+                "39328-220-15",
+                "39328-220-50",
+                "0220-4643-41",
+                "46122-702-78",
+                "83324-004-01",
+                "16103-363-08",
+                "16103-363-11",
+                "69618-069-58",
+                "0904-7528-41",
+                "0904-7528-94",
+                "37808-782-10",
+                "71399-0027-8",
+                "0536-1483-59",
+                "82568-0006-1",
+                "82568-0006-2",
+                "82568-0006-3",
+                "11822-0298-2",
+                "11822-0298-6",
+                "11822-0298-4",
+                "0121-4967-05",
+                "0121-4967-40",
+                "69618-064-01",
+                "71399-1017-1",
+                "71399-1017-2",
+                "71399-1017-3",
+                "82568-0024-8",
+                "0363-8820-50",
+                "0363-8820-10",
+                "0363-8820-30"
+              ],
+              "unii": [
+                "3FYP5M0IJX",
+                "AK7JF626KX",
+                "1B5FPI42EN"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "XARELTO",
+            "drugbatchnumb": "UNKNOWN",
+            "drugauthorizationnumb": "022406",
+            "drugstructuredosagenumb": "20",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "1",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "drugindication": "DEEP VEIN THROMBOSIS",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20151002",
+            "actiondrug": "1",
+            "drugrecurreadministration": "3",
+            "activesubstance": {
+              "activesubstancename": "RIVAROXABAN"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA215859",
+                "NDA022406"
+              ],
+              "brand_name": [
+                "XARELTO"
+              ],
+              "generic_name": [
+                "RIVAROXABAN"
+              ],
+              "manufacturer_name": [
+                "Janssen Pharmaceuticals, Inc."
+              ],
+              "product_ndc": [
+                "50458-575",
+                "50458-577",
+                "50458-580",
+                "50458-578",
+                "50458-579",
+                "50458-584"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "RIVAROXABAN"
+              ],
+              "spl_id": [
+                "5294926b-7812-41da-a0e8-56f492198450"
+              ],
+              "spl_set_id": [
+                "10db92f9-2300-4a80-836b-673e1ae91610"
+              ],
+              "package_ndc": [
+                "50458-577-60",
+                "50458-577-18",
+                "50458-577-14",
+                "50458-577-01",
+                "50458-577-10",
+                "50458-580-01",
+                "50458-580-10",
+                "50458-580-30",
+                "50458-580-07",
+                "50458-580-90",
+                "50458-578-01",
+                "50458-578-10",
+                "50458-578-30",
+                "50458-578-90",
+                "50458-578-14",
+                "50458-578-07",
+                "50458-579-01",
+                "50458-579-10",
+                "50458-579-30",
+                "50458-579-90",
+                "50458-579-99",
+                "50458-579-07",
+                "50458-579-89",
+                "50458-584-51",
+                "50458-584-52",
+                "50458-575-01"
+              ],
+              "nui": [
+                "N0000175635",
+                "N0000175637"
+              ],
+              "pharm_class_moa": [
+                "Factor Xa Inhibitors [MoA]"
+              ],
+              "pharm_class_epc": [
+                "Factor Xa Inhibitor [EPC]"
+              ],
+              "unii": [
+                "9NDF7JZ4M3"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TRIAZOLAM.",
+            "drugstructuredosagenumb": ".25",
+            "drugstructuredosageunit": "003",
+            "drugdosageform": "UNSPECIFIED",
+            "drugadministrationroute": "048",
+            "activesubstance": {
+              "activesubstancename": "TRIAZOLAM"
+            },
+            "openfda": {
+              "application_number": [
+                "ANDA214219",
+                "NDA017892",
+                "ANDA213003"
+              ],
+              "brand_name": [
+                "TRIAZOLAM"
+              ],
+              "generic_name": [
+                "TRIAZOLAM"
+              ],
+              "manufacturer_name": [
+                "Ingenus Pharmaceuticals, LLC",
+                "Mylan Pharmaceuticals Inc.",
+                "Zydus Pharmaceuticals USA Inc.",
+                "Zydus Lifesciences Limited"
+              ],
+              "product_ndc": [
+                "50742-645",
+                "50742-646",
+                "59762-3717",
+                "59762-3718",
+                "70710-1289",
+                "70710-1521",
+                "70771-1162",
+                "70771-1576"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "TRIAZOLAM"
+              ],
+              "rxcui": [
+                "198317",
+                "198318"
+              ],
+              "spl_id": [
+                "22a3bdbc-8edf-45a5-ad5c-4a0c3f73f255",
+                "27655a51-bab0-4bde-bd82-c15aa61f4705",
+                "4c2fb12f-623b-4dc9-a9e0-7fac953f5cf0",
+                "fb074b17-c185-44d2-9d5e-2d5836499c3a"
+              ],
+              "spl_set_id": [
+                "a0c99f0b-4122-4611-9b53-80fadfceacb6",
+                "5add318e-11b9-42f8-b052-0d8cebb32fcf",
+                "8d414eb8-eec9-486f-90fc-00eed0cf7daf",
+                "4084da13-5825-4399-ad69-de701508c71d"
+              ],
+              "package_ndc": [
+                "50742-645-01",
+                "50742-646-01",
+                "50742-646-05",
+                "59762-3717-4",
+                "59762-3717-9",
+                "59762-3718-4",
+                "59762-3718-3",
+                "59762-3718-9",
+                "70710-1289-8",
+                "70710-1289-5",
+                "70710-1289-1",
+                "70710-1521-8",
+                "70710-1521-5",
+                "70710-1521-1",
+                "70771-1162-8",
+                "70771-1162-5",
+                "70771-1162-1",
+                "70771-1576-8",
+                "70771-1576-5",
+                "70771-1576-1"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "1HM943223R"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "XALATAN",
+            "drugdosageform": "UNSPECIFIED",
+            "drugadministrationroute": "065",
+            "activesubstance": {
+              "activesubstancename": "LATANOPROST"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA020597"
+              ],
+              "brand_name": [
+                "XALATAN"
+              ],
+              "generic_name": [
+                "LATANOPROST"
+              ],
+              "manufacturer_name": [
+                "Viatris Specialty LLC"
+              ],
+              "product_ndc": [
+                "58151-419"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "OPHTHALMIC"
+              ],
+              "substance_name": [
+                "LATANOPROST"
+              ],
+              "rxcui": [
+                "314072",
+                "542527"
+              ],
+              "spl_id": [
+                "45489b8b-2aab-4336-8552-1524493289f9"
+              ],
+              "spl_set_id": [
+                "a98595b3-9f47-48e0-b18d-550a2095f264"
+              ],
+              "package_ndc": [
+                "58151-419-35"
+              ],
+              "nui": [
+                "N0000175454",
+                "M0017805"
+              ],
+              "pharm_class_epc": [
+                "Prostaglandin Analog [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Prostaglandins [CS]"
+              ],
+              "unii": [
+                "6Z5B6HVF6O"
+              ]
+            }
+          }
+        ],
+        "summary": {
+          "narrativeincludeclinical": "CASE EVENT DATE: 201510"
+        }
+      }
+    }
+  ]
+}

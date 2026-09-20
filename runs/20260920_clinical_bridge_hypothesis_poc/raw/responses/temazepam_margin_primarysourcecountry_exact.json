@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30"
+  },
+  "results": [
+    {
+      "term": "US",
+      "count": 18221
+    },
+    {
+      "term": "CA",
+      "count": 2683
+    },
+    {
+      "term": "GB",
+      "count": 1539
+    },
+    {
+      "term": "AU",
+      "count": 1526
+    },
+    {
+      "term": "NL",
+      "count": 951
+    },
+    {
+      "term": "DE",
+      "count": 425
+    },
+    {
+      "term": "FR",
+      "count": 233
+    },
+    {
+      "term": "PR",
+      "count": 202
+    },
+    {
+      "term": "FI",
+      "count": 144
+    },
+    {
+      "term": "EU",
+      "count": 129
+    },
+    {
+      "term": "IE",
+      "count": 52
+    },
+    {
+      "term": "IT",
+      "count": 50
+    },
+    {
+      "term": "NZ",
+      "count": 35
+    },
+    {
+      "term": "ES",
+      "count": 27
+    },
+    {
+      "term": "SE",
+      "count": 27
+    },
+    {
+      "term": "DK",
+      "count": 22
+    },
+    {
+      "term": "PL",
+      "count": 21
+    },
+    {
+      "term": "JM",
+      "count": 14
+    },
+    {
+      "term": "PT",
+      "count": 10
+    },
+    {
+      "term": "JP",
+      "count": 8
+    },
+    {
+      "term": "BE",
+      "count": 7
+    },
+    {
+      "term": "HK",
+      "count": 7
+    },
+    {
+      "term": "AT",
+      "count": 6
+    },
+    {
+      "term": "RS",
+      "count": 4
+    },
+    {
+      "term": "CH",
+      "count": 3
+    },
+    {
+      "term": "GR",
+      "count": 3
+    },
+    {
+      "term": "IN",
+      "count": 2
+    },
+    {
+      "term": "MT",
+      "count": 2
+    },
+    {
+      "term": "ZA",
+      "count": 2
+    },
+    {
+      "term": "AR",
+      "count": 1
+    },
+    {
+      "term": "BR",
+      "count": 1
+    },
+    {
+      "term": "CN",
+      "count": 1
+    },
+    {
+      "term": "HU",
+      "count": 1
+    },
+    {
+      "term": "TW",
+      "count": 1
+    },
+    {
+      "term": "UG",
+      "count": 1
+    },
+    {
+      "term": "UM",
+      "count": 1
+    },
+    {
+      "term": "UY",
+      "count": 1
+    }
+  ]
+}

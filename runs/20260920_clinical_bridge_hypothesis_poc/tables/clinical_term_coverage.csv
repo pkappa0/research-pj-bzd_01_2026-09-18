@@ -1,0 +1,15 @@
+axis,term,background_reports,stable_drugs,source_term_available
+C1,Ataxia,11464,9,True
+C1,Balance disorder,83538,10,True
+C1,Coordination abnormal,13648,8,True
+C1,Gait disturbance,185496,10,True
+C2,Fall,319310,10,True
+C3,Somnolence,193065,10,True
+C3,Sedation,24810,10,True
+C4,Dizziness,477766,10,True
+C4,Vertigo,58684,10,True
+C5,Muscular weakness,109349,10,True
+C5,Hypotonia,9684,8,True
+C6,Amnesia,63053,10,True
+C6,Memory impairment,132715,10,True
+C6,Cognitive disorder,44588,9,True

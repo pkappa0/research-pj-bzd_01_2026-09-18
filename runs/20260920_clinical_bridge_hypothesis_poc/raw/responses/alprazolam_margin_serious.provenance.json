@@ -1,0 +1,12 @@
+{
+  "key": "alprazolam_margin_serious",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22+OR+patient.drug.medicinalproduct.exact%3A%22ALPRAZOLAM%22%29&count=serious&limit=100",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\" OR patient.drug.medicinalproduct.exact:\"ALPRAZOLAM\")",
+    "count": "serious",
+    "limit": 100
+  },
+  "retrieved_utc": "2026-09-20T01:52:39.972597+00:00",
+  "http_status": 200,
+  "sha256": "9a4294c34d7726fcdb3db2620be43591ed22b43a80caac4094a47307c2bc491b"
+}

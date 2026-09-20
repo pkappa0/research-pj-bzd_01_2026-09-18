@@ -1,0 +1,848 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1087
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "1",
+      "safetyreportid": "10016803",
+      "primarysourcecountry": "DE",
+      "occurcountry": "DE",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141002",
+      "reporttype": "3",
+      "serious": "1",
+      "seriousnesshospitalization": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140318",
+      "receiptdateformat": "102",
+      "receiptdate": "20140318",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "DE-GLENMARK GENERICS INC.-2014GMK008823",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "GLENMARK",
+        "duplicatenumb": "DE-GLENMARK GENERICS INC.-2014GMK008823"
+      },
+      "primarysource": {
+        "reportercountry": "DE",
+        "qualification": "5"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "90",
+        "patientonsetageunit": "801",
+        "patientsex": "2",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Fall",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Movement disorder",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Speech disorder",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Eating disorder",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Salivary hypersecretion",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Sedation",
+            "reactionoutcome": "6"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "PRAMIPEXOLE",
+            "drugauthorizationnumb": "090781",
+            "drugdosagetext": "UNK",
+            "drugindication": "PRODUCT USED FOR UNKNOWN INDICATION",
+            "actiondrug": "5",
+            "openfda": {
+              "application_number": [
+                "ANDA203855"
+              ],
+              "brand_name": [
+                "PRAMIPEXOLE"
+              ],
+              "generic_name": [
+                "PRAMIPEXOLE"
+              ],
+              "manufacturer_name": [
+                "Camber Pharmaceuticals, Inc."
+              ],
+              "product_ndc": [
+                "31722-906",
+                "31722-907",
+                "31722-908",
+                "31722-909",
+                "31722-910",
+                "31722-911"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "PRAMIPEXOLE DIHYDROCHLORIDE"
+              ],
+              "rxcui": [
+                "858625",
+                "859033",
+                "859040",
+                "859044",
+                "859048",
+                "859052"
+              ],
+              "spl_id": [
+                "540a17f8-b64d-41e1-a96b-d55bc8c48f3d"
+              ],
+              "spl_set_id": [
+                "a7405a56-de1c-4875-b57f-210c991474ba"
+              ],
+              "package_ndc": [
+                "31722-906-90",
+                "31722-906-10",
+                "31722-906-05",
+                "31722-907-90",
+                "31722-907-10",
+                "31722-907-05",
+                "31722-908-90",
+                "31722-908-10",
+                "31722-908-05",
+                "31722-909-90",
+                "31722-909-10",
+                "31722-909-05",
+                "31722-910-90",
+                "31722-910-10",
+                "31722-910-05",
+                "31722-911-90",
+                "31722-911-10",
+                "31722-911-05"
+              ],
+              "unii": [
+                "3D867NP06J"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "RISPERDAL",
+            "drugstructuredosagenumb": "3",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "3 MG, UNK",
+            "drugindication": "PRODUCT USED FOR UNKNOWN INDICATION",
+            "actiondrug": "5",
+            "openfda": {
+              "application_number": [
+                "NDA020272",
+                "NDA020588"
+              ],
+              "brand_name": [
+                "RISPERDAL"
+              ],
+              "generic_name": [
+                "RISPERIDONE"
+              ],
+              "manufacturer_name": [
+                "Janssen Pharmaceuticals, Inc."
+              ],
+              "product_ndc": [
+                "50458-300",
+                "50458-302",
+                "50458-320",
+                "50458-330",
+                "50458-350",
+                "50458-395",
+                "50458-315",
+                "50458-325",
+                "50458-335",
+                "50458-355",
+                "50458-305"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "RISPERIDONE"
+              ],
+              "rxcui": [
+                "104781",
+                "104782",
+                "104783",
+                "104784",
+                "199387",
+                "211489",
+                "262222",
+                "312829",
+                "312830",
+                "312831",
+                "312832",
+                "314211",
+                "401953",
+                "401954",
+                "403825",
+                "616698",
+                "616705",
+                "630890",
+                "630974",
+                "806297",
+                "806298",
+                "806299"
+              ],
+              "spl_id": [
+                "15ff9571-c82c-48d9-84d3-a7a6abaae93e"
+              ],
+              "spl_set_id": [
+                "7e117c7e-02fc-4343-92a1-230061dfc5e0"
+              ],
+              "package_ndc": [
+                "50458-302-06",
+                "50458-302-50",
+                "50458-302-01",
+                "50458-300-06",
+                "50458-300-50",
+                "50458-300-01",
+                "50458-320-06",
+                "50458-320-50",
+                "50458-320-01",
+                "50458-330-06",
+                "50458-330-50",
+                "50458-330-01",
+                "50458-350-06",
+                "50458-350-01",
+                "50458-395-28",
+                "50458-395-30",
+                "50458-315-28",
+                "50458-315-30",
+                "50458-325-28",
+                "50458-335-28",
+                "50458-355-28",
+                "50458-305-03"
+              ],
+              "nui": [
+                "N0000175430"
+              ],
+              "pharm_class_epc": [
+                "Atypical Antipsychotic [EPC]"
+              ],
+              "unii": [
+                "L6UH7ZF8HC"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "ZYPREXA",
+            "drugstructuredosagenumb": "5",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "5 MG, UNK",
+            "drugindication": "PRODUCT USED FOR UNKNOWN INDICATION",
+            "actiondrug": "5",
+            "openfda": {
+              "application_number": [
+                "NDA020592",
+                "NDA021253",
+                "NDA021086",
+                "NDA022173"
+              ],
+              "brand_name": [
+                "ZYPREXA",
+                "ZYPREXA INTRAMUSCULAR",
+                "ZYPREXA ZYDIS",
+                "ZYPREXA RELPREVV"
+              ],
+              "generic_name": [
+                "OLANZAPINE",
+                "OLANZAPINE PAMOATE"
+              ],
+              "manufacturer_name": [
+                "H2-Pharma LLC"
+              ],
+              "product_ndc": [
+                "61269-630",
+                "61269-631",
+                "61269-632",
+                "61269-633",
+                "61269-634",
+                "61269-635",
+                "61269-650",
+                "61269-651",
+                "61269-652",
+                "61269-653",
+                "61269-640",
+                "61269-660",
+                "61269-661",
+                "61269-662"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL",
+                "INTRAMUSCULAR"
+              ],
+              "substance_name": [
+                "OLANZAPINE"
+              ],
+              "rxcui": [
+                "153046",
+                "153047",
+                "153048",
+                "200034",
+                "212405",
+                "261337",
+                "283639",
+                "284514",
+                "312076",
+                "312077",
+                "312078",
+                "312079",
+                "314154",
+                "314155",
+                "351107",
+                "351108",
+                "485968",
+                "545353",
+                "754503",
+                "754504",
+                "754505",
+                "754506",
+                "1718925",
+                "1718928",
+                "1718930",
+                "1718932",
+                "1718934",
+                "1718936"
+              ],
+              "spl_id": [
+                "40d4ed67-c51d-40d0-8a32-ecfdbf069f9a",
+                "9c56e9db-742e-4263-96b4-d92064f9baba"
+              ],
+              "spl_set_id": [
+                "b418946a-1ab4-4d89-a012-d94fc361a3c4",
+                "11544cba-64a9-49cb-8d74-da228053b252"
+              ],
+              "package_ndc": [
+                "61269-630-30",
+                "61269-631-30",
+                "61269-632-30",
+                "61269-633-30",
+                "61269-634-30",
+                "61269-635-30",
+                "61269-650-01",
+                "61269-650-35",
+                "61269-651-01",
+                "61269-651-35",
+                "61269-652-01",
+                "61269-652-35",
+                "61269-653-01",
+                "61269-653-35",
+                "61269-640-20",
+                "61269-660-20",
+                "61269-661-20",
+                "61269-662-20"
+              ],
+              "nui": [
+                "N0000175430"
+              ],
+              "pharm_class_epc": [
+                "Atypical Antipsychotic [EPC]"
+              ],
+              "unii": [
+                "N7U69T4SZR"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "VALDOXAN",
+            "drugstructuredosagenumb": "25",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "25 MG, UNK",
+            "drugindication": "PRODUCT USED FOR UNKNOWN INDICATION",
+            "actiondrug": "5"
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "DIAZEPAM",
+            "drugstructuredosagenumb": "15",
+            "drugstructuredosageunit": "031",
+            "drugseparatedosagenumb": "3",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosagetext": "15 GTT, TID",
+            "drugindication": "PRODUCT USED FOR UNKNOWN INDICATION",
+            "actiondrug": "5",
+            "openfda": {
+              "application_number": [
+                "ANDA072079",
+                "ANDA210363",
+                "NDA020124",
+                "ANDA218422",
+                "NDA020648",
+                "NDA211635",
+                "ANDA070464",
+                "ANDA217468",
+                "ANDA070313",
+                "ANDA206477",
+                "NDA013263",
+                "ANDA071583",
+                "ANDA070325",
+                "ANDA217843",
+                "ANDA071307",
+                "ANDA071321",
+                "ANDA071322",
+                "ANDA218450",
+                "ANDA070311",
+                "ANDA219882",
+                "ANDA070302",
+                "ANDA070303",
+                "ANDA070304",
+                "ANDA214745",
+                "ANDA070928",
+                "ANDA211998",
+                "ANDA204433",
+                "ANDA091076"
+              ],
+              "brand_name": [
+                "DIAZEPAM",
+                "VALTOCO",
+                "VALIUM"
+              ],
+              "generic_name": [
+                "DIAZEPAM",
+                "DIAZEPAM ORAL",
+                "DIAZEPAM ORAL SOLUTION (CONCENTRATE)"
+              ],
+              "manufacturer_name": [
+                "Hospira, Inc.",
+                "Natco Pharma USA LLC",
+                "Meridian Medical Technologies LLC",
+                "Dr. Reddy's Laboratories Inc",
+                "Oceanside Pharmaceuticals",
+                "Neurelis, Inc",
+                "Sunrise Pharmaceutical, Inc.",
+                "Navinta LLC",
+                "Zydus Pharmaceuticals USA Inc.",
+                "Civica, Inc.",
+                "Chartwell Governmental & Specialty RX, LLC.",
+                "Roche Laboratories Inc.",
+                "Mylan Pharmaceuticals Inc.",
+                "Hikma Pharmaceuticals USA Inc.",
+                "Aurobindo Pharma Limited",
+                "Teva Pharmaceuticals USA, Inc.",
+                "Alembic Pharmaceuticals Limited",
+                "Alembic Pharmaceuticals Inc.",
+                "Baxter Healthcare Corporation",
+                "Chartwell RX, LLC",
+                "Fresenius Kabi USA, LLC",
+                "Waylis Therapuetics LLC",
+                "Sagent Pharmaceuticals",
+                "Lupin Pharmaceuticals,Inc."
+              ],
+              "product_ndc": [
+                "0409-1273",
+                "69339-136",
+                "11704-600",
+                "43598-106",
+                "68682-650",
+                "68682-652",
+                "68682-655",
+                "72252-505",
+                "72252-515",
+                "72252-510",
+                "72252-520",
+                "11534-199",
+                "11534-202",
+                "11534-203",
+                "68475-802",
+                "68475-803",
+                "68475-804",
+                "70710-2078",
+                "70710-2079",
+                "70710-2080",
+                "72572-175",
+                "68999-767",
+                "0140-0004",
+                "0140-0005",
+                "0409-3213",
+                "72572-140",
+                "0378-0271",
+                "0378-0345",
+                "0378-0477",
+                "0641-6244",
+                "59651-652",
+                "59651-653",
+                "59651-654",
+                "0172-3925",
+                "0172-3926",
+                "0172-3927",
+                "46708-811",
+                "0641-6243",
+                "0641-6283",
+                "62332-811",
+                "43066-121",
+                "43066-123",
+                "62135-786",
+                "62135-787",
+                "62135-788",
+                "76045-204",
+                "80725-004",
+                "80725-005",
+                "80725-006",
+                "0054-3188",
+                "69339-137",
+                "25021-618",
+                "62135-767",
+                "62135-768",
+                "43386-280",
+                "43386-281"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "INTRAMUSCULAR",
+                "INTRAVENOUS",
+                "RECTAL",
+                "NASAL",
+                "ORAL"
+              ],
+              "substance_name": [
+                "DIAZEPAM"
+              ],
+              "rxcui": [
+                "1807459",
+                "2120550",
+                "1807452",
+                "801957",
+                "801961",
+                "801966",
+                "2272613",
+                "2272619",
+                "2272621",
+                "2272622",
+                "2272623",
+                "2272624",
+                "2272626",
+                "2272627",
+                "2272629",
+                "2272630",
+                "2272632",
+                "2272633",
+                "2272635",
+                "2272636",
+                "197589",
+                "197590",
+                "197591",
+                "309843",
+                "104699",
+                "104700",
+                "309845",
+                "2749119",
+                "104701",
+                "309844"
+              ],
+              "spl_id": [
+                "88590f46-0e4c-4a4b-97de-05a1344514b7",
+                "2188da13-b1b1-4190-98f6-dedf2489aeb9",
+                "9e08d47f-b706-44b2-9e2f-9ca972592050",
+                "169f5115-24f1-4e7e-8981-5df941ce087d",
+                "5fd42d35-ec9c-8237-9edd-dfd883869b84",
+                "0e23d654-d8b9-af1c-e063-6294a90a6f14",
+                "6642d0cb-3186-4b4c-8a67-c3f92081fbd0",
+                "e95b8ea6-9d51-4621-bb87-a365121b08bb",
+                "84740b28-54e6-43df-8f50-063191eb1281",
+                "ef34ecf3-de17-4493-82ef-857565ac4340",
+                "ba3b152b-865c-450e-8ac2-8eb346d0e82b",
+                "433f5cb2-eae0-c144-e063-6294a90a9cd9",
+                "ea505cdb-6d89-4b8c-8007-ec5a5fe920ce",
+                "54805cd5-8b81-402d-bb07-ffb5293222b9",
+                "7c8644aa-0bb2-4573-b238-681b82933f0b",
+                "983a3fdc-04ca-4621-a57c-56ad36015d36",
+                "273ae796-6561-4aaf-a38b-ea61be408347",
+                "2f799120-0d08-47cd-8183-a98f0267c845",
+                "db225e5f-9265-4460-ab58-3305246c6258",
+                "5d20d4f6-965c-49b5-b1d1-1a778d565bef",
+                "3324176f-d150-41ad-b21f-a2f75a06c85f",
+                "3779694b-e1cc-44ec-92c3-3299d3734bee",
+                "a0813073-d0b0-4fd7-b307-56f69c910c82",
+                "178ca1de-fc5d-991b-e063-6294a90a2570",
+                "429d0ffe-9774-b285-8534-bb76611da385",
+                "c6b235b0-6b36-4e9b-a214-2b924f0d4126",
+                "162faa32-b6de-4c5d-a971-c908c9a951d2",
+                "d1ff8e50-faf9-4475-9fa0-314a620f8869",
+                "2a224626-a982-4a57-9ff6-8b4f69e0c4c0",
+                "ab45bb85-7915-4e85-8090-1efae274ba18",
+                "4517b811-0a91-89f5-e063-6294a90a9a30",
+                "91b10d2a-111a-4f2b-8b9a-d9c5d4a783f5"
+              ],
+              "spl_set_id": [
+                "41044928-dd1f-40bf-1fa6-709dff559124",
+                "a14f5930-a3ac-4996-9778-df5baa3d0bab",
+                "fa352464-14c8-49e9-b8b7-5a968b1cfa93",
+                "6b8dc373-fa01-42c9-89af-4e00bf00180a",
+                "2a633cef-6dfc-4186-b595-174db2d8330e",
+                "b1b2848b-b265-4f6f-9141-bf106dec0726",
+                "1a8bcc90-68fa-474d-832c-0df01e825f39",
+                "34ac0b9d-d4ad-4aaa-8bee-902365f4e9a8",
+                "b5b17a28-2cab-4c0d-8f9d-7b224e4d0989",
+                "652714c7-25c4-4d05-979d-8eee3b6f2f4d",
+                "cf7bd9ba-5030-479a-8448-3a99395b0d0c",
+                "167ee280-be68-4a28-a7d8-de41df14bc48",
+                "554baee5-b171-4452-a50a-41a0946f956c",
+                "7e7dd743-a87b-4ab3-b6ae-f116cd0c8b0f",
+                "83646a0f-eb43-4871-b95e-683c2533d2be",
+                "c397a9da-862f-4f3f-8109-7d21691de53a",
+                "2719720b-4918-4f08-b1de-b267f404505f",
+                "2f799120-0d08-47cd-8183-a98f0267c845",
+                "48aa32cb-047a-414a-822e-82a5f26d8817",
+                "1632f040-3b2c-43da-a42f-f2baf5ec778a",
+                "f466f8a3-f31c-44f4-b0e8-444464f20f66",
+                "6b6ca65b-4ede-47b9-bbf3-05bb67c0c71d",
+                "a0813073-d0b0-4fd7-b307-56f69c910c82",
+                "6cb19468-be02-4219-9e80-94a28e2317b9",
+                "9a860a4e-d670-d050-499d-eb1fd6b16176",
+                "ae52866a-0b9a-4baf-af1b-f9d5e00c0e56",
+                "260e2041-2bb3-482f-850e-b5d47a7bdbe6",
+                "9e85abed-1a8b-4762-a31f-f2c7f196b8af",
+                "19d0e3e5-f081-4574-9f0a-e7e97a88c7a9",
+                "7a912f1a-deee-46df-a8df-22a0afb06529",
+                "cdb839fb-27e5-4a11-aed6-da0a7ab6e996",
+                "d99b68aa-b3dc-49c8-8894-3da255cd26b0"
+              ],
+              "package_ndc": [
+                "0409-1273-03",
+                "0409-1273-32",
+                "69339-136-93",
+                "69339-136-97",
+                "11704-600-01",
+                "69339-136-02",
+                "69339-136-32",
+                "69339-136-03",
+                "69339-136-34",
+                "43598-106-11",
+                "43598-106-10",
+                "68682-652-20",
+                "68682-655-20",
+                "68682-650-20",
+                "72252-505-02",
+                "72252-505-05",
+                "72252-515-04",
+                "72252-515-10",
+                "72252-510-02",
+                "72252-510-05",
+                "72252-520-04",
+                "72252-520-10",
+                "11534-199-01",
+                "11534-199-04",
+                "11534-199-03",
+                "11534-202-01",
+                "11534-202-04",
+                "11534-202-03",
+                "11534-203-01",
+                "11534-203-04",
+                "11534-203-03",
+                "68475-802-02",
+                "68475-803-02",
+                "68475-804-02",
+                "70710-2078-2",
+                "70710-2079-2",
+                "70710-2080-2",
+                "72572-175-01",
+                "72572-175-10",
+                "68999-767-45",
+                "68999-767-24",
+                "0140-0004-01",
+                "0140-0005-01",
+                "0140-0005-14",
+                "0409-3213-11",
+                "0409-3213-12",
+                "72572-140-01",
+                "72572-140-02",
+                "0378-0271-01",
+                "0378-0271-05",
+                "0378-0345-01",
+                "0378-0345-05",
+                "0378-0477-01",
+                "0378-0477-05",
+                "0641-6244-10",
+                "59651-652-01",
+                "59651-652-05",
+                "59651-653-01",
+                "59651-653-05",
+                "59651-653-99",
+                "59651-654-01",
+                "59651-654-05",
+                "59651-654-99",
+                "0172-3925-60",
+                "0172-3925-70",
+                "0172-3926-60",
+                "0172-3926-70",
+                "0172-3926-80",
+                "0172-3927-60",
+                "0172-3927-70",
+                "0172-3927-80",
+                "46708-811-02",
+                "46708-811-20",
+                "0641-6243-10",
+                "0641-6283-01",
+                "0641-6283-25",
+                "62332-811-02",
+                "62332-811-20",
+                "43066-121-01",
+                "43066-121-10",
+                "43066-123-01",
+                "43066-123-10",
+                "62135-786-90",
+                "62135-787-90",
+                "62135-788-90",
+                "43598-106-58",
+                "76045-204-00",
+                "76045-204-20",
+                "80725-004-01",
+                "80725-005-01",
+                "80725-006-01",
+                "0054-3188-63",
+                "69339-137-01",
+                "69339-137-05",
+                "25021-618-72",
+                "62135-767-45",
+                "62135-767-24",
+                "62135-767-47",
+                "62135-768-43",
+                "43386-280-03",
+                "43386-280-01",
+                "43386-280-02",
+                "43386-281-03",
+                "43386-281-01",
+                "43386-281-02"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "Q3JTX2Q7TU"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "LEVODOPA",
+            "drugdosagetext": "UNK",
+            "drugindication": "PRODUCT USED FOR UNKNOWN INDICATION",
+            "actiondrug": "5",
+            "openfda": {
+              "application_number": [
+                "NDA209184"
+              ],
+              "brand_name": [
+                "INBRIJA"
+              ],
+              "generic_name": [
+                "LEVODOPA"
+              ],
+              "manufacturer_name": [
+                "Merz Pharmaceuticals, LLC"
+              ],
+              "product_ndc": [
+                "10144-342",
+                "0259-6142"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "RESPIRATORY (INHALATION)"
+              ],
+              "substance_name": [
+                "LEVODOPA"
+              ],
+              "rxcui": [
+                "2107616",
+                "2107621"
+              ],
+              "spl_id": [
+                "03ec2066-f288-45cb-9919-c49fe175d8ca",
+                "ec522c79-6f5a-41f8-b3b1-78159a36f3b6"
+              ],
+              "spl_set_id": [
+                "a906f8e1-6e1c-480a-8276-c01bc65dd3be",
+                "077c0f39-a3a2-4b2b-a184-09131889dcfb"
+              ],
+              "package_ndc": [
+                "10144-342-01",
+                "10144-342-92",
+                "10144-342-60",
+                "10144-342-32",
+                "10144-342-16",
+                "10144-342-04",
+                "10144-342-12",
+                "0259-6142-01",
+                "0259-6142-60",
+                "0259-6142-32",
+                "0259-6142-16"
+              ],
+              "nui": [
+                "N0000193220",
+                "M0370111"
+              ],
+              "pharm_class_epc": [
+                "Aromatic Amino Acid [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Amino Acids, Aromatic [CS]"
+              ],
+              "unii": [
+                "46627O600J"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "background_Sedation",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22SEDATION%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"SEDATION\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:49:49.943462+00:00",
+  "http_status": 200,
+  "sha256": "c47ae91f54353b24c232627f648942b2e7ca449d3b0eba1490ff84d4a7f7844f"
+}

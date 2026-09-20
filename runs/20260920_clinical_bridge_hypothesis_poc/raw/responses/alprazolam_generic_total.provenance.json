@@ -1,0 +1,11 @@
+{
+  "key": "alprazolam_generic_total",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.drug.openfda.generic_name.exact%3A%22ALPRAZOLAM%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND patient.drug.openfda.generic_name.exact:\"ALPRAZOLAM\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:50:15.771201+00:00",
+  "http_status": 200,
+  "sha256": "c631f2306dccd2394d753d820b2e2abb0bcc1c10b4a2d20c8b9348ff7f566ac7"
+}

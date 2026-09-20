@@ -1,0 +1,11 @@
+{
+  "key": "clonazepam_Ataxia",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22ATAXIA%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"ATAXIA\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:54:08.623837+00:00",
+  "http_status": 200,
+  "sha256": "aea9efea1054a7ba2fd7cc4bc1918ed3d758ee5f09a29a7d1a18a124b976d04d"
+}

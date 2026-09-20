@@ -1,0 +1,807 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 19
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "1",
+      "safetyreportid": "10412812",
+      "primarysourcecountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20150326",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnessother": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140825",
+      "receiptdateformat": "102",
+      "receiptdate": "20140825",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "2010S1000490",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "CB FLEET",
+        "duplicatenumb": "2010S1000490"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "4"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "63",
+        "patientonsetageunit": "801",
+        "patientsex": "1",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Renal failure chronic"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Prostatic disorder"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Dysuria"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Sleep disorder"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Neuritis"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Gastric ulcer"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Urethral stenosis"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Paraesthesia"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Radiculitis"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Memory impairment"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Bladder diverticulum"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Obstructive uropathy"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Neuralgia"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Hypertonic bladder"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Gastritis"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Hiatus hernia"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Cognitive disorder"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Hypoaesthesia"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Nephropathy"
+          },
+          {
+            "reactionmeddraversionpt": "17.1",
+            "reactionmeddrapt": "Hypertension"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "EFFEXOR",
+            "activesubstance": {
+              "activesubstancename": "VENLAFAXINE HYDROCHLORIDE"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA020699"
+              ],
+              "brand_name": [
+                "EFFEXOR XR"
+              ],
+              "generic_name": [
+                "VENLAFAXINE HYDROCHLORIDE"
+              ],
+              "manufacturer_name": [
+                "Viatris Specialty LLC"
+              ],
+              "product_ndc": [
+                "58151-125",
+                "58151-126",
+                "58151-127"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "VENLAFAXINE HYDROCHLORIDE"
+              ],
+              "rxcui": [
+                "313581",
+                "313583",
+                "313585",
+                "729929",
+                "729931",
+                "729932"
+              ],
+              "spl_id": [
+                "2319042f-5d24-42d3-9b0a-8893bed66813"
+              ],
+              "spl_set_id": [
+                "c848a5d8-ba94-4c84-80e3-0bf35fb8e32e"
+              ],
+              "package_ndc": [
+                "58151-125-93",
+                "58151-125-77",
+                "58151-126-93",
+                "58151-126-77",
+                "58151-127-93",
+                "58151-127-77"
+              ],
+              "unii": [
+                "7D7RX5A8MO"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TRIAZOLAM.",
+            "activesubstance": {
+              "activesubstancename": "TRIAZOLAM"
+            },
+            "openfda": {
+              "application_number": [
+                "ANDA214219",
+                "NDA017892",
+                "ANDA213003"
+              ],
+              "brand_name": [
+                "TRIAZOLAM"
+              ],
+              "generic_name": [
+                "TRIAZOLAM"
+              ],
+              "manufacturer_name": [
+                "Ingenus Pharmaceuticals, LLC",
+                "Mylan Pharmaceuticals Inc.",
+                "Zydus Pharmaceuticals USA Inc.",
+                "Zydus Lifesciences Limited"
+              ],
+              "product_ndc": [
+                "50742-645",
+                "50742-646",
+                "59762-3717",
+                "59762-3718",
+                "70710-1289",
+                "70710-1521",
+                "70771-1162",
+                "70771-1576"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "TRIAZOLAM"
+              ],
+              "rxcui": [
+                "198317",
+                "198318"
+              ],
+              "spl_id": [
+                "22a3bdbc-8edf-45a5-ad5c-4a0c3f73f255",
+                "27655a51-bab0-4bde-bd82-c15aa61f4705",
+                "4c2fb12f-623b-4dc9-a9e0-7fac953f5cf0",
+                "fb074b17-c185-44d2-9d5e-2d5836499c3a"
+              ],
+              "spl_set_id": [
+                "a0c99f0b-4122-4611-9b53-80fadfceacb6",
+                "5add318e-11b9-42f8-b052-0d8cebb32fcf",
+                "8d414eb8-eec9-486f-90fc-00eed0cf7daf",
+                "4084da13-5825-4399-ad69-de701508c71d"
+              ],
+              "package_ndc": [
+                "50742-645-01",
+                "50742-646-01",
+                "50742-646-05",
+                "59762-3717-4",
+                "59762-3717-9",
+                "59762-3718-4",
+                "59762-3718-3",
+                "59762-3718-9",
+                "70710-1289-8",
+                "70710-1289-5",
+                "70710-1289-1",
+                "70710-1521-8",
+                "70710-1521-5",
+                "70710-1521-1",
+                "70771-1162-8",
+                "70771-1162-5",
+                "70771-1162-1",
+                "70771-1576-8",
+                "70771-1576-5",
+                "70771-1576-1"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "1HM943223R"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "PHOSPHO-SODA",
+            "drugadministrationroute": "048",
+            "drugindication": "COLONOSCOPY",
+            "drugstartdateformat": "102",
+            "drugstartdate": "19980603",
+            "activesubstance": {
+              "activesubstancename": "SODIUM PHOSPHATE, DIBASIC\\SODIUM PHOSPHATE, MONOBASIC"
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "ATENOLOL.",
+            "activesubstance": {
+              "activesubstancename": "ATENOLOL"
+            },
+            "openfda": {
+              "application_number": [
+                "NDA018240",
+                "ANDA078512",
+                "ANDA213136",
+                "ANDA077443",
+                "ANDA076900",
+                "ANDA077877",
+                "ANDA073457",
+                "ANDA074056"
+              ],
+              "brand_name": [
+                "TENORMIN",
+                "ATENOLOL"
+              ],
+              "generic_name": [
+                "ATENOLOL"
+              ],
+              "manufacturer_name": [
+                "Almatica Pharma LLC",
+                "Aurobindo Pharma Limited",
+                "Unichem Pharmaceuticals (USA), Inc.",
+                "Rising Pharma Holdings, Inc.",
+                "Zydus Lifesciences Limited",
+                "Upsher-Smith Laboratories, LLC",
+                "Ipca Laboratories Limited",
+                "Mylan Pharmaceuticals Inc.",
+                "Zydus Pharmaceuticals USA Inc.",
+                "Teva Pharmaceuticals USA, Inc."
+              ],
+              "product_ndc": [
+                "52427-430",
+                "52427-429",
+                "52427-431",
+                "65862-168",
+                "65862-169",
+                "65862-170",
+                "29300-410",
+                "29300-411",
+                "29300-412",
+                "64980-437",
+                "64980-438",
+                "64980-439",
+                "65841-022",
+                "65841-023",
+                "65841-024",
+                "24979-244",
+                "24979-245",
+                "24979-246",
+                "83980-022",
+                "83980-023",
+                "83980-024",
+                "0378-0218",
+                "0378-0231",
+                "0378-0757",
+                "68382-022",
+                "68382-023",
+                "68382-024",
+                "0093-0752",
+                "0093-0787",
+                "0093-0753"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ATENOLOL"
+              ],
+              "rxcui": [
+                "150750",
+                "152414",
+                "197379",
+                "197380",
+                "197381",
+                "201322"
+              ],
+              "spl_id": [
+                "ecd0de7b-801e-a5d6-01b7-01b89a8f3a78",
+                "c5b37783-b0a1-4d21-b0cc-69a13cc4d2db",
+                "b84110b2-cefb-49d0-8b08-1057dbdc258b",
+                "7bf7d854-7736-4159-81e0-2f9f0c12d73c",
+                "f4fb6b85-6379-4e8a-9ee3-402819d128a0",
+                "c804fa73-5b5a-4e20-a1f5-6a13155df21f",
+                "d32b777e-6c64-4899-934b-4fb73d9eba85",
+                "9df3aeb2-2d70-4d49-9b45-a25e3a371cf9",
+                "860eb406-b330-4b72-b768-122d57c74293",
+                "19103c06-1fed-45a4-a110-66465b4f2233"
+              ],
+              "spl_set_id": [
+                "746db603-a6e1-4dc3-c2d8-92314419098c",
+                "1b8a4689-3916-4f4b-b54a-bbb4e322d79b",
+                "35d99c43-7305-4a4a-886e-a9bf3ee88fa8",
+                "96dd038f-b363-4e24-9c67-82b7c85c3bc4",
+                "2492d5f6-00b0-42c9-a793-2be83ea81ad1",
+                "6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a",
+                "98d29958-b026-4888-a516-7bb85bb7d479",
+                "a7048c81-6769-436b-8397-fbaa7489fcdf",
+                "db801706-1362-44c7-92ab-f584f96c7e1c",
+                "25a72ec9-de0f-44e5-90b8-da1aab0d3588"
+              ],
+              "package_ndc": [
+                "52427-429-90",
+                "52427-430-90",
+                "52427-431-90",
+                "65862-168-01",
+                "65862-168-99",
+                "65862-169-01",
+                "65862-169-99",
+                "65862-170-01",
+                "65862-170-99",
+                "29300-410-01",
+                "29300-410-05",
+                "29300-410-10",
+                "29300-411-05",
+                "29300-411-01",
+                "29300-411-10",
+                "29300-412-01",
+                "29300-412-05",
+                "29300-412-10",
+                "64980-437-01",
+                "64980-437-10",
+                "64980-438-01",
+                "64980-438-10",
+                "64980-439-01",
+                "64980-439-10",
+                "65841-022-16",
+                "65841-022-01",
+                "65841-022-10",
+                "65841-022-40",
+                "65841-022-24",
+                "65841-023-16",
+                "65841-023-01",
+                "65841-023-10",
+                "65841-023-02",
+                "65841-023-40",
+                "65841-023-24",
+                "65841-024-01",
+                "65841-024-10",
+                "65841-024-40",
+                "65841-024-16",
+                "24979-244-07",
+                "24979-245-07",
+                "24979-246-07",
+                "83980-022-97",
+                "83980-022-01",
+                "83980-022-10",
+                "83980-023-97",
+                "83980-023-01",
+                "83980-023-10",
+                "83980-024-97",
+                "83980-024-01",
+                "83980-024-10",
+                "0378-0218-01",
+                "0378-0218-10",
+                "0378-0231-01",
+                "0378-0231-10",
+                "0378-0757-01",
+                "0378-0757-10",
+                "68382-022-16",
+                "68382-022-01",
+                "68382-022-10",
+                "68382-022-40",
+                "68382-022-24",
+                "68382-023-16",
+                "68382-023-01",
+                "68382-023-10",
+                "68382-023-02",
+                "68382-023-40",
+                "68382-023-24",
+                "68382-024-16",
+                "68382-024-01",
+                "68382-024-10",
+                "68382-024-40",
+                "0093-0787-01",
+                "0093-0787-10",
+                "0093-0752-01",
+                "0093-0752-10",
+                "0093-0753-01",
+                "0093-0753-05"
+              ],
+              "nui": [
+                "N0000000161",
+                "N0000175556"
+              ],
+              "pharm_class_moa": [
+                "Adrenergic beta-Antagonists [MoA]"
+              ],
+              "pharm_class_epc": [
+                "beta-Adrenergic Blocker [EPC]"
+              ],
+              "unii": [
+                "50VV3VW0TI"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "CHLORTHALIDONE.",
+            "activesubstance": {
+              "activesubstancename": "CHLORTHALIDONE"
+            },
+            "openfda": {
+              "application_number": [
+                "ANDA212229",
+                "ANDA215587",
+                "ANDA211627",
+                "ANDA211063",
+                "ANDA213412",
+                "ANDA211320",
+                "ANDA214129",
+                "ANDA207204",
+                "ANDA207813",
+                "NDA019574",
+                "ANDA207222",
+                "ANDA089286",
+                "ANDA086831",
+                "NDA218647",
+                "ANDA212878",
+                "ANDA212875",
+                "ANDA210742",
+                "ANDA216262",
+                "ANDA206904"
+              ],
+              "brand_name": [
+                "CHLORTHALIDONE",
+                "THALITONE",
+                "HEMICLOR",
+                "CHLORTHALIDONE CHLORTHALIDONE"
+              ],
+              "generic_name": [
+                "CHLORTHALIDONE"
+              ],
+              "manufacturer_name": [
+                "Macleods Pharmaceuticals Limited",
+                "Lifestar Pharma LLC",
+                "Unichem Pharmaceuticals (USA), Inc.",
+                "Chartwell RX, LLC",
+                "Ascend Laboratories, LLC",
+                "Rising Pharma Holdings, Inc.",
+                "Ajanta Pharma USA Inc.",
+                "Amneal Pharmaceuticals LLC",
+                "Zydus Lifesciences Limited",
+                "JUBILANT CADISTA PHARMACEUTICALS,INC.",
+                "Northstar Rx LLC.",
+                "Casper Pharma LLC",
+                "Zydus Pharmaceuticals USA Inc.",
+                "Nivagen Pharmaceuticals, INC.",
+                "Sun Pharmaceutical Industries, Inc.",
+                "Mylan Pharmaceuticals Inc.",
+                "Ingenus Pharmaceuticals, LLC",
+                "TAGI Pharma, Inc.",
+                "Dr. Reddy's Laboratories Inc.",
+                "Alembic Pharmaceuticals Limited",
+                "Umedica Laboratories USA Inc.",
+                "Alembic Pharmaceuticals Inc."
+              ],
+              "product_ndc": [
+                "33342-425",
+                "33342-426",
+                "70756-011",
+                "70756-020",
+                "29300-333",
+                "29300-334",
+                "62135-505",
+                "62135-506",
+                "67877-696",
+                "67877-697",
+                "64980-599",
+                "64980-600",
+                "27241-216",
+                "27241-217",
+                "65162-247",
+                "65162-250",
+                "70771-1369",
+                "70771-1370",
+                "59746-760",
+                "59746-761",
+                "16714-128",
+                "16714-129",
+                "70199-017",
+                "70199-001",
+                "68382-970",
+                "68382-971",
+                "75834-109",
+                "75834-110",
+                "57664-648",
+                "57664-649",
+                "0378-0213",
+                "0378-0222",
+                "50742-285",
+                "51224-018",
+                "51224-118",
+                "43598-719",
+                "43598-720",
+                "43598-167",
+                "43598-170",
+                "46708-676",
+                "46708-677",
+                "64980-303",
+                "64980-304",
+                "60290-004",
+                "60290-005",
+                "62332-676",
+                "62332-677"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "CHLORTHALIDONE"
+              ],
+              "spl_id": [
+                "5de362df-8fb9-4421-864c-7ea06339d6e7",
+                "2a4e8dca-dfb5-4baf-889e-9ae0237ef081",
+                "a126115d-3e90-411b-91de-ccde9090e90f",
+                "459bb5c2-1a17-e530-e063-6294a90a8e0b",
+                "c8bc4f9d-d8fe-47fa-8643-95a371c5d23b",
+                "6404aaa7-05c8-4f96-a091-3f07248ffbd5",
+                "b86aa381-0b56-4d5f-b75a-5648eabefa5d",
+                "14c59688-433d-42f4-8dbe-035e6735a396",
+                "bd8a63d4-056c-46d9-9e98-4c64cb097f41",
+                "51e6a425-96fd-4941-8c4d-4ba8c5dfb762",
+                "1a83a458-0a7f-44f1-b805-6288b06a4359",
+                "fd617814-535d-4aa0-a182-cadbc691781d",
+                "1db5deb3-2699-4c73-a11e-1e4aa12e97fb",
+                "4581106c-4e01-7df9-e063-6294a90ac29f",
+                "eca591c9-75f8-2cbb-e053-2a95a90a7cf4",
+                "21d4a0c6-4112-42bd-8738-2df8d81debf1",
+                "2757ac31-07b3-4df2-80cc-f9918606c08a",
+                "98c8ff40-9e00-4793-ba69-5e36ced32984",
+                "46902081-6a2d-4489-b828-351a33d405b5",
+                "bd2e4486-0720-4d09-b4f5-472c4478af0e",
+                "1b98d1a1-9d3d-41d2-a5e9-744b851d30d4",
+                "94ef7a73-3872-4d19-bdde-881862337783",
+                "50581ec8-6ab6-82ae-e063-6294a90af70f",
+                "56256d08-66bc-4424-84d4-2db217e5f4d6"
+              ],
+              "spl_set_id": [
+                "5de362df-8fb9-4421-864c-7ea06339d6e7",
+                "c8e2b475-a8e9-4aa9-b4e9-66d746bbdc70",
+                "01065eda-7515-46bc-b858-a062c3aa35bd",
+                "648f005f-1eae-4718-bc3a-2587d706fae2",
+                "d104583e-e983-4230-b6d1-4455ee1060a5",
+                "71b1d074-0521-4cd1-beb5-fedd61f52eca",
+                "284f4707-14ab-426f-80d6-79f1186419f9",
+                "c4c1bfe5-b5c8-43c0-9428-62337095b2bd",
+                "6b432c76-b171-4c29-abf4-6d357976e6ef",
+                "ca0df4ae-c424-44d2-8611-1637f1a101a8",
+                "56635d7a-1fff-4d1f-bf2c-def4b1ad8208",
+                "bc5a0299-115b-4e60-bb3f-c75a95c51c15",
+                "ef8023a3-b2be-436e-9085-576781950665",
+                "36ef8d83-45f2-4873-b7cb-1be096d14d18",
+                "a304de67-cd2b-4933-937e-4eeecf6cda40",
+                "15dd224a-87ad-48dc-80b1-e8382a452c4c",
+                "3f0f3ee0-f5a6-4bda-8160-a77744e9fa46",
+                "bd92c59b-3a65-47c3-b3c8-37090b4ae464",
+                "9e9e9ced-6960-4d2f-bb23-ef8b2435da75",
+                "bd2e4486-0720-4d09-b4f5-472c4478af0e",
+                "1b98d1a1-9d3d-41d2-a5e9-744b851d30d4",
+                "f96b2d0b-a141-4efb-8ccc-c447dfc6024a",
+                "645734ab-d6aa-4368-9a5a-b550e2717770",
+                "a1043a72-8e64-49da-a7e4-eadee083022e"
+              ],
+              "package_ndc": [
+                "33342-425-07",
+                "33342-425-10",
+                "33342-425-11",
+                "33342-425-44",
+                "33342-426-07",
+                "33342-426-10",
+                "33342-426-11",
+                "33342-426-44",
+                "70756-011-11",
+                "70756-011-12",
+                "70756-020-11",
+                "70756-020-12",
+                "29300-333-10",
+                "29300-333-01",
+                "29300-334-01",
+                "29300-334-10",
+                "62135-505-30",
+                "62135-505-90",
+                "62135-506-30",
+                "62135-506-90",
+                "67877-696-01",
+                "67877-696-10",
+                "67877-696-38",
+                "67877-696-33",
+                "67877-697-01",
+                "67877-697-10",
+                "67877-697-38",
+                "67877-697-33",
+                "64980-599-01",
+                "64980-599-10",
+                "64980-600-01",
+                "27241-216-01",
+                "27241-217-01",
+                "65162-247-03",
+                "65162-247-09",
+                "65162-250-03",
+                "65162-250-09",
+                "70771-1369-1",
+                "70771-1369-0",
+                "70771-1370-1",
+                "70771-1370-0",
+                "59746-760-01",
+                "59746-760-36",
+                "59746-761-01",
+                "16714-128-01",
+                "16714-129-01",
+                "70199-017-01",
+                "70199-017-30",
+                "70199-001-01",
+                "70199-001-30",
+                "68382-970-01",
+                "68382-970-10",
+                "68382-971-01",
+                "68382-971-10",
+                "75834-110-01",
+                "75834-110-10",
+                "75834-109-01",
+                "75834-109-10",
+                "57664-648-88",
+                "57664-648-18",
+                "57664-649-88",
+                "57664-649-18",
+                "0378-0222-01",
+                "0378-0222-10",
+                "0378-0213-01",
+                "0378-0213-10",
+                "50742-285-30",
+                "50742-285-90",
+                "51224-018-50",
+                "51224-018-70",
+                "51224-118-50",
+                "51224-118-70",
+                "43598-719-01",
+                "43598-719-10",
+                "43598-720-01",
+                "43598-720-10",
+                "43598-170-01",
+                "43598-170-10",
+                "43598-167-01",
+                "43598-167-10",
+                "46708-676-90",
+                "46708-676-31",
+                "46708-676-91",
+                "46708-677-90",
+                "46708-677-31",
+                "46708-677-91",
+                "64980-303-01",
+                "64980-303-10",
+                "64980-304-01",
+                "60290-005-01",
+                "60290-005-02",
+                "60290-004-01",
+                "60290-004-02",
+                "62332-676-90",
+                "62332-676-31",
+                "62332-676-91",
+                "62332-677-90",
+                "62332-677-31",
+                "62332-677-91"
+              ],
+              "nui": [
+                "N0000175359",
+                "N0000175420"
+              ],
+              "pharm_class_pe": [
+                "Increased Diuresis [PE]"
+              ],
+              "pharm_class_epc": [
+                "Thiazide-like Diuretic [EPC]"
+              ],
+              "unii": [
+                "Q0MQD1073Q"
+              ],
+              "rxcui": [
+                "197499",
+                "197500",
+                "197498",
+                "214081",
+                "214083",
+                "428539",
+                "2709679"
+              ]
+            }
+          }
+        ],
+        "summary": {
+          "narrativeincludeclinical": "CASE EVENT DATE: 2003"
+        }
+      }
+    }
+  ]
+}

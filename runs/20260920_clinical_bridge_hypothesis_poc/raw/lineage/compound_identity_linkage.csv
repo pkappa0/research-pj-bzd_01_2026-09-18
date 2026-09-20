@@ -1,0 +1,11 @@
+drug_id,molecule_chembl_id,standard_inchikey,stereochemistry_flag,literature_link_status
+diazepam,CHEMBL12,AAOVKJBEBIDNHE-UHFFFAOYSA-N,no_unassigned_atom_stereocentre,manual named-drug mapping to fixed X; literature salt/stereo not assumed identical; no new chemical identity merge
+alprazolam,CHEMBL661,VREFGVBLTWBCJP-UHFFFAOYSA-N,no_unassigned_atom_stereocentre,manual named-drug mapping to fixed X; literature salt/stereo not assumed identical; no new chemical identity merge
+triazolam,CHEMBL646,JOFWLTCLBGQGBO-UHFFFAOYSA-N,no_unassigned_atom_stereocentre,manual named-drug mapping to fixed X; literature salt/stereo not assumed identical; no new chemical identity merge
+zolpidem,CHEMBL911,ZAFYATHCZYHLPB-UHFFFAOYSA-N,no_unassigned_atom_stereocentre,manual named-drug mapping to fixed X; literature salt/stereo not assumed identical; no new chemical identity merge
+lorazepam,CHEMBL580,DIWRORZWFLOCLC-UHFFFAOYSA-N,source_unspecified_single_sample_not_known_isomer,manual named-drug mapping to fixed X; literature salt/stereo not assumed identical; no new chemical identity merge
+clonazepam,CHEMBL452,DGBIGWXXNGSACT-UHFFFAOYSA-N,no_unassigned_atom_stereocentre,manual named-drug mapping to fixed X; literature salt/stereo not assumed identical; no new chemical identity merge
+midazolam,CHEMBL655,DDLIGBOFAVUZHB-UHFFFAOYSA-N,no_unassigned_atom_stereocentre,manual named-drug mapping to fixed X; literature salt/stereo not assumed identical; no new chemical identity merge
+temazepam,CHEMBL967,SEQDDYPDSLOBDC-UHFFFAOYSA-N,source_unspecified_single_sample_not_known_isomer,manual named-drug mapping to fixed X; literature salt/stereo not assumed identical; no new chemical identity merge
+zopiclone,CHEMBL135400,GBBSUAFBMRNDJC-UHFFFAOYSA-N,source_unspecified_single_sample_not_known_isomer,manual named-drug mapping to fixed X; literature salt/stereo not assumed identical; no new chemical identity merge
+zaleplon,CHEMBL1521,HUNXMJYCHXQEGX-UHFFFAOYSA-N,no_unassigned_atom_stereocentre,manual named-drug mapping to fixed X; literature salt/stereo not assumed identical; no new chemical identity merge

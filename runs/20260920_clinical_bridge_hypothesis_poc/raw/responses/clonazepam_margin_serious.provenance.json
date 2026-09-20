@@ -1,0 +1,12 @@
+{
+  "key": "clonazepam_margin_serious",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29&count=serious&limit=100",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\")",
+    "count": "serious",
+    "limit": 100
+  },
+  "retrieved_utc": "2026-09-20T01:54:03.203273+00:00",
+  "http_status": 200,
+  "sha256": "96d251a93f755f3f44320822baa4e4af6f8bd8f8f47e7b4c8d878c22d5bb312c"
+}

@@ -1,0 +1,11 @@
+{
+  "key": "clonazepam_Vertigo",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22VERTIGO%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"VERTIGO\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:54:28.801195+00:00",
+  "http_status": 200,
+  "sha256": "1050c54968bef8edecab3f8eda697f630fbb41a1a3003ff63f3cff42ee4fe674"
+}

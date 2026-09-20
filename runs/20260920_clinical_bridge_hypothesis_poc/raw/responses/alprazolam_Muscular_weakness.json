@@ -1,0 +1,1038 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1746
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "2",
+      "safetyreportid": "10017076",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141212",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnesshospitalization": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140318",
+      "receiptdateformat": "102",
+      "receiptdate": "20140507",
+      "fulfillexpeditecriteria": "1",
+      "companynumb": "US-BIOGENIDEC-2014BI022545",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "BIOGEN",
+        "duplicatenumb": "US-BIOGENIDEC-2014BI022545"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "1"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "77",
+        "patientonsetageunit": "801",
+        "patientsex": "2",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Spinal column stenosis",
+            "reactionoutcome": "1"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Muscular weakness",
+            "reactionoutcome": "3"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "TECFIDERA",
+            "drugauthorizationnumb": "204063",
+            "drugstructuredosagenumb": "240",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "2",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosageform": "PROLONGED-RELEASE CAPSULE",
+            "drugadministrationroute": "048",
+            "drugindication": "MULTIPLE SCLEROSIS",
+            "drugstartdateformat": "610",
+            "drugstartdate": "201401",
+            "actiondrug": "4",
+            "openfda": {
+              "application_number": [
+                "NDA204063"
+              ],
+              "brand_name": [
+                "TECFIDERA"
+              ],
+              "generic_name": [
+                "DIMETHYL FUMARATE"
+              ],
+              "manufacturer_name": [
+                "Biogen Inc."
+              ],
+              "product_ndc": [
+                "64406-005",
+                "64406-007",
+                "64406-006"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "DIMETHYL FUMARATE"
+              ],
+              "rxcui": [
+                "1373483",
+                "1373489",
+                "1373491",
+                "1373493",
+                "1373497",
+                "1373498"
+              ],
+              "spl_id": [
+                "521e4305-9450-42a4-881b-05946acaa8fa"
+              ],
+              "spl_set_id": [
+                "665d7e74-036c-5f68-5b67-ab84b9b49151"
+              ],
+              "package_ndc": [
+                "64406-007-03",
+                "64406-005-01",
+                "64406-006-02"
+              ],
+              "unii": [
+                "FO2303MNI2"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "ALPHAGAN P",
+            "openfda": {
+              "application_number": [
+                "NDA021262",
+                "NDA021770"
+              ],
+              "brand_name": [
+                "ALPHAGAN P"
+              ],
+              "generic_name": [
+                "BRIMONIDINE TARTRATE"
+              ],
+              "manufacturer_name": [
+                "Allergan, Inc."
+              ],
+              "product_ndc": [
+                "0023-9177",
+                "0023-9321"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "OPHTHALMIC"
+              ],
+              "substance_name": [
+                "BRIMONIDINE TARTRATE"
+              ],
+              "rxcui": [
+                "861204",
+                "861206",
+                "861208",
+                "861210"
+              ],
+              "spl_id": [
+                "d93b4518-c444-4a54-ba55-1fbfc7542911"
+              ],
+              "spl_set_id": [
+                "264c4494-c225-486f-888a-caaf36be46b3"
+              ],
+              "package_ndc": [
+                "0023-9321-03",
+                "0023-9321-05",
+                "0023-9321-10",
+                "0023-9321-15",
+                "0023-9177-05",
+                "0023-9177-10",
+                "0023-9177-15"
+              ],
+              "unii": [
+                "4S9CL2DY2H"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "BETAGAN"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "DIOVAN",
+            "openfda": {
+              "application_number": [
+                "NDA021283"
+              ],
+              "brand_name": [
+                "DIOVAN"
+              ],
+              "generic_name": [
+                "VALSARTAN"
+              ],
+              "manufacturer_name": [
+                "Novartis Pharmaceuticals Corporation"
+              ],
+              "product_ndc": [
+                "0078-0358",
+                "0078-0423",
+                "0078-1245",
+                "0078-0359",
+                "0078-1252",
+                "0078-0360",
+                "0078-1259"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "VALSARTAN"
+              ],
+              "rxcui": [
+                "349199",
+                "349200",
+                "349201",
+                "349483",
+                "351761",
+                "351762",
+                "352001",
+                "352274"
+              ],
+              "spl_id": [
+                "8b57e357-5cfb-49a6-a600-59ce118fd1e9"
+              ],
+              "spl_set_id": [
+                "5ddba454-f3e6-43c2-a7a6-58365d297213"
+              ],
+              "package_ndc": [
+                "0078-0423-15",
+                "0078-0358-34",
+                "0078-1245-34",
+                "0078-0359-34",
+                "0078-1252-34",
+                "0078-0360-34",
+                "0078-1259-34"
+              ],
+              "nui": [
+                "N0000000070",
+                "N0000175561"
+              ],
+              "pharm_class_moa": [
+                "Angiotensin 2 Receptor Antagonists [MoA]"
+              ],
+              "pharm_class_epc": [
+                "Angiotensin 2 Receptor Blocker [EPC]"
+              ],
+              "unii": [
+                "80M03YXJ7I"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "FLONASE",
+            "openfda": {
+              "application_number": [
+                "NDA205434",
+                "M012"
+              ],
+              "brand_name": [
+                "FLONASE ALLERGY RELIEF",
+                "FLONASE HEADACHE AND ALLERGY RELIEF"
+              ],
+              "generic_name": [
+                "FLUTICASONE PROPIONATE",
+                "ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, PHENYLEPHRINE HCL"
+              ],
+              "manufacturer_name": [
+                "Haleon US Holdings LLC"
+              ],
+              "product_ndc": [
+                "0135-0576",
+                "0135-0578"
+              ],
+              "product_type": [
+                "HUMAN OTC DRUG"
+              ],
+              "route": [
+                "NASAL",
+                "ORAL"
+              ],
+              "substance_name": [
+                "FLUTICASONE PROPIONATE",
+                "ACETAMINOPHEN",
+                "CHLORPHENIRAMINE MALEATE",
+                "PHENYLEPHRINE HYDROCHLORIDE"
+              ],
+              "rxcui": [
+                "1797907",
+                "1797933",
+                "1046781"
+              ],
+              "spl_id": [
+                "fe356980-6a1c-4830-b69c-7adb271b2e20",
+                "1599c55d-8de5-cc14-e063-6394a90aba82"
+              ],
+              "spl_set_id": [
+                "b6134ba0-b70a-4eac-9a82-cef64b242c1d",
+                "282c103c-3888-4a35-a5b1-d492ed6892c1"
+              ],
+              "package_ndc": [
+                "0135-0576-01",
+                "0135-0576-02",
+                "0135-0576-03",
+                "0135-0576-04",
+                "0135-0576-12",
+                "0135-0576-14",
+                "0135-0576-15",
+                "0135-0576-16",
+                "0135-0576-17",
+                "0135-0576-18",
+                "0135-0578-01",
+                "0135-0578-02",
+                "0135-0578-03"
+              ],
+              "unii": [
+                "O2GMZ0LF5W",
+                "362O9ITL9D",
+                "V1Q0O9OJ9Z",
+                "04JA59TNSJ"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "JANUVIA",
+            "openfda": {
+              "application_number": [
+                "NDA021995"
+              ],
+              "brand_name": [
+                "JANUVIA"
+              ],
+              "generic_name": [
+                "SITAGLIPTIN"
+              ],
+              "manufacturer_name": [
+                "Merck Sharp & Dohme LLC"
+              ],
+              "product_ndc": [
+                "0006-0112",
+                "0006-0221",
+                "0006-0277"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "SITAGLIPTIN PHOSPHATE"
+              ],
+              "rxcui": [
+                "665036",
+                "665040",
+                "665044",
+                "2709603",
+                "2709608",
+                "2709612"
+              ],
+              "spl_id": [
+                "71d449de-955b-4711-9a44-1e1f66e2e9eb"
+              ],
+              "spl_set_id": [
+                "f85a48d0-0407-4c50-b0fa-7673a160bf01"
+              ],
+              "package_ndc": [
+                "0006-0221-01",
+                "0006-0221-28",
+                "0006-0221-31",
+                "0006-0221-54",
+                "0006-0112-01",
+                "0006-0112-28",
+                "0006-0112-31",
+                "0006-0112-54",
+                "0006-0277-01",
+                "0006-0277-28",
+                "0006-0277-31",
+                "0006-0277-54",
+                "0006-0277-02",
+                "0006-0277-33",
+                "0006-0277-82",
+                "0006-0277-14",
+                "0006-0277-27",
+                "0006-0277-30"
+              ],
+              "unii": [
+                "TS63EW8X6F"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "KLOR-CON 10"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "LEXAPRO",
+            "openfda": {
+              "application_number": [
+                "NDA021323"
+              ],
+              "brand_name": [
+                "LEXAPRO"
+              ],
+              "generic_name": [
+                "ESCITALOPRAM"
+              ],
+              "manufacturer_name": [
+                "Allergan, Inc."
+              ],
+              "product_ndc": [
+                "0456-2005",
+                "0456-2010",
+                "0456-2020",
+                "0456-2101"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ESCITALOPRAM OXALATE"
+              ],
+              "rxcui": [
+                "349332",
+                "351249",
+                "351250",
+                "351285",
+                "352272",
+                "352273",
+                "404408",
+                "404420"
+              ],
+              "spl_id": [
+                "9ff46a66-0f97-4a78-9d18-ec576f63bae7"
+              ],
+              "spl_set_id": [
+                "13bb8267-1cab-43e5-acae-55a4d957630a"
+              ],
+              "package_ndc": [
+                "0456-2005-01",
+                "0456-2010-01",
+                "0456-2010-11",
+                "0456-2010-63",
+                "0456-2020-01",
+                "0456-2020-11",
+                "0456-2020-63",
+                "0456-2101-08"
+              ],
+              "unii": [
+                "5U85DBW7LO"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "MODAFINIL",
+            "openfda": {
+              "application_number": [
+                "ANDA202700",
+                "ANDA077667",
+                "ANDA202566",
+                "NDA020717",
+                "ANDA209966",
+                "ANDA078963",
+                "ANDA207196"
+              ],
+              "brand_name": [
+                "MODAFINIL",
+                "PROVIGIL"
+              ],
+              "generic_name": [
+                "MODAFINIL"
+              ],
+              "manufacturer_name": [
+                "Alembic Pharmaceuticals Limited",
+                "Apotex Corp.",
+                "Alembic Pharmaceuticals Inc.",
+                "Rising Pharma Holdings, Inc.",
+                "CIMA LABS INC.",
+                "Cephalon, LLC",
+                "Zydus Lifesciences Limited",
+                "Aurobindo Pharma Limited",
+                "Bionpharma Inc.",
+                "Apotex Corp",
+                "Viona Pharmaceuticals Inc",
+                "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+              ],
+              "product_ndc": [
+                "46708-385",
+                "46708-386",
+                "60505-2526",
+                "60505-2527",
+                "62332-385",
+                "62332-386",
+                "57237-154",
+                "57237-155",
+                "55253-801",
+                "55253-802",
+                "63459-101",
+                "63459-201",
+                "70771-1051",
+                "70771-1052",
+                "65862-601",
+                "65862-602",
+                "69452-342",
+                "69452-343",
+                "60505-4851",
+                "60505-4852",
+                "72578-005",
+                "72578-006",
+                "23155-604",
+                "23155-605",
+                "23155-862"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "MODAFINIL"
+              ],
+              "rxcui": [
+                "205324",
+                "260218",
+                "213471",
+                "226426"
+              ],
+              "spl_id": [
+                "975cac47-5a4b-4a5d-a8c5-2aea808f30ca",
+                "e96ded7a-6c39-63d4-2029-f6db4dc3cd32",
+                "7aa21a37-6c25-44ce-869c-c1b2309398bd",
+                "2f270ddd-1b6f-40bf-bfdc-c3f47f716dd1",
+                "428b6de2-f791-43db-a186-d19312a348fd",
+                "a505a386-c2a1-4a32-9523-b33b1528fb48",
+                "e22df34a-3c16-4062-9882-be9840afb8cf",
+                "f2c9beee-f9fc-44c5-bbbd-0d617c04ab0d",
+                "45322b3a-fdbe-466f-a2d3-b64e12b36efe",
+                "ff96d3ff-6a1c-2545-b939-f383e0262179",
+                "452d2687-49ff-4734-8799-a4a5264cc584",
+                "539210d2-638a-4fd5-a934-d7b5fac982e4"
+              ],
+              "spl_set_id": [
+                "5b8496fe-b647-4ce6-aeef-71245712e46f",
+                "944daf47-49a6-93ca-e348-4a0f1b6d937e",
+                "41f9ddbd-5228-4f0c-b0aa-2056af79a21e",
+                "4b63aac6-4385-44a3-8390-cdbb0b4b5fe0",
+                "9f3b0bd2-72a3-411f-aeec-b533373f1a97",
+                "e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "f39820fb-8248-4d42-854c-6fe2d9b92d36",
+                "f51ca007-3955-4540-a88a-0ddae8d8e8ab",
+                "63604fef-0b80-40ce-8dbf-3384f1aee395",
+                "0391f182-1958-9fef-a944-53b229ce99e7",
+                "15739a31-2433-49b5-90ea-b974214f73be",
+                "1a309416-bd6a-45b1-982f-b689b097453d"
+              ],
+              "package_ndc": [
+                "46708-385-30",
+                "46708-385-91",
+                "46708-385-10",
+                "46708-385-60",
+                "46708-385-90",
+                "46708-386-30",
+                "46708-386-91",
+                "46708-386-10",
+                "46708-386-60",
+                "46708-386-90",
+                "60505-2526-3",
+                "60505-2526-1",
+                "60505-2526-8",
+                "60505-2526-0",
+                "60505-2526-9",
+                "60505-2527-3",
+                "60505-2527-1",
+                "60505-2527-5",
+                "60505-2527-8",
+                "60505-2527-0",
+                "60505-2527-9",
+                "62332-385-30",
+                "62332-385-91",
+                "62332-385-10",
+                "62332-385-60",
+                "62332-385-90",
+                "62332-386-30",
+                "62332-386-91",
+                "62332-386-10",
+                "62332-386-60",
+                "62332-386-90",
+                "57237-154-30",
+                "57237-154-90",
+                "57237-154-01",
+                "57237-155-30",
+                "57237-155-90",
+                "57237-155-01",
+                "55253-801-30",
+                "55253-801-90",
+                "55253-802-30",
+                "55253-802-90",
+                "63459-101-01",
+                "63459-101-30",
+                "63459-201-01",
+                "63459-201-30",
+                "70771-1051-3",
+                "70771-1051-9",
+                "70771-1051-1",
+                "70771-1052-3",
+                "70771-1052-9",
+                "70771-1052-1",
+                "65862-601-30",
+                "65862-601-90",
+                "65862-601-01",
+                "65862-601-99",
+                "65862-602-30",
+                "65862-602-90",
+                "65862-602-01",
+                "65862-602-05",
+                "69452-342-13",
+                "69452-342-19",
+                "69452-342-20",
+                "69452-343-13",
+                "69452-343-19",
+                "69452-343-20",
+                "60505-4851-3",
+                "60505-4852-3",
+                "72578-005-06",
+                "72578-005-16",
+                "72578-005-01",
+                "72578-006-06",
+                "72578-006-16",
+                "72578-006-01",
+                "23155-604-03",
+                "23155-604-09",
+                "23155-604-01",
+                "23155-604-05",
+                "23155-605-03",
+                "23155-605-09",
+                "23155-605-01",
+                "23155-605-05",
+                "23155-862-03",
+                "23155-862-09",
+                "23155-862-01",
+                "23155-862-05"
+              ],
+              "nui": [
+                "N0000175729",
+                "N0000175651",
+                "N0000175769"
+              ],
+              "pharm_class_pe": [
+                "Central Nervous System Stimulation [PE]",
+                "Increased Sympathetic Activity [PE]"
+              ],
+              "pharm_class_epc": [
+                "Sympathomimetic-like Agent [EPC]"
+              ],
+              "unii": [
+                "R3UK8X3U3D"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "NEURONTIN",
+            "openfda": {
+              "application_number": [
+                "NDA020235",
+                "NDA021129",
+                "NDA020882"
+              ],
+              "brand_name": [
+                "NEURONTIN"
+              ],
+              "generic_name": [
+                "GABAPENTIN"
+              ],
+              "manufacturer_name": [
+                "Parke-Davis Div of Pfizer Inc",
+                "Viatris Specialty LLC"
+              ],
+              "product_ndc": [
+                "0071-0805",
+                "0071-0803",
+                "0071-0806",
+                "0071-0513",
+                "0071-0401",
+                "0071-2012",
+                "58151-281",
+                "58151-282",
+                "58151-283",
+                "58151-284",
+                "58151-285",
+                "58151-290"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "GABAPENTIN"
+              ],
+              "rxcui": [
+                "105028",
+                "105029",
+                "105030",
+                "261280",
+                "261281",
+                "283523",
+                "310430",
+                "310431",
+                "310432",
+                "310433",
+                "310434",
+                "351973"
+              ],
+              "spl_id": [
+                "e730d5df-d47b-4d7f-ae3b-bd449f6b1213",
+                "2d43f32d-2d96-4011-84ac-507c3307dc27"
+              ],
+              "spl_set_id": [
+                "ee9ad9ed-6d9f-4ee1-9d7f-cfad438df388",
+                "97935fd9-1d4a-43b6-a5d9-de994591187b"
+              ],
+              "package_ndc": [
+                "0071-0803-24",
+                "0071-0803-40",
+                "0071-0805-24",
+                "0071-0805-40",
+                "0071-0806-24",
+                "0071-0806-40",
+                "0071-0513-24",
+                "0071-0401-24",
+                "0071-2012-23",
+                "0071-2012-44",
+                "0071-2012-47",
+                "58151-281-01",
+                "58151-282-01",
+                "58151-283-01",
+                "58151-284-01",
+                "58151-285-01",
+                "58151-290-35"
+              ],
+              "nui": [
+                "N0000008486"
+              ],
+              "pharm_class_pe": [
+                "Decreased Central Nervous System Disorganized Electrical Activity [PE]"
+              ],
+              "unii": [
+                "6CW7F3G59X"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "PREMPO"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "SYNTHROID",
+            "openfda": {
+              "application_number": [
+                "NDA021402"
+              ],
+              "brand_name": [
+                "SYNTHROID"
+              ],
+              "generic_name": [
+                "LEVOTHYROXINE SODIUM"
+              ],
+              "manufacturer_name": [
+                "AbbVie Inc."
+              ],
+              "product_ndc": [
+                "0074-3727",
+                "0074-4341",
+                "0074-4552",
+                "0074-5182",
+                "0074-6594",
+                "0074-6624",
+                "0074-9296",
+                "0074-7068",
+                "0074-7069",
+                "0074-7070",
+                "0074-7148",
+                "0074-7149"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "LEVOTHYROXINE SODIUM"
+              ],
+              "rxcui": [
+                "892246",
+                "892251",
+                "892255",
+                "966158",
+                "966171",
+                "966185",
+                "966191",
+                "966201",
+                "966205",
+                "966218",
+                "966220",
+                "966221",
+                "966222",
+                "966224",
+                "966225",
+                "966247",
+                "966248",
+                "966249",
+                "966250",
+                "966251",
+                "966253",
+                "966270",
+                "966271",
+                "966282"
+              ],
+              "spl_id": [
+                "b85ab7fa-ba96-43cd-b736-44b3924e644c"
+              ],
+              "spl_set_id": [
+                "1e11ad30-1041-4520-10b0-8f9d30d30fcc"
+              ],
+              "package_ndc": [
+                "0074-4341-13",
+                "0074-4341-90",
+                "0074-4341-19",
+                "0074-4341-72",
+                "0074-4552-13",
+                "0074-4552-90",
+                "0074-4552-19",
+                "0074-4552-11",
+                "0074-4552-71",
+                "0074-4552-72",
+                "0074-5182-13",
+                "0074-5182-90",
+                "0074-5182-71",
+                "0074-5182-19",
+                "0074-5182-11",
+                "0074-5182-72",
+                "0074-6594-13",
+                "0074-6594-90",
+                "0074-6594-71",
+                "0074-6594-19",
+                "0074-6594-72",
+                "0074-6624-13",
+                "0074-6624-90",
+                "0074-6624-19",
+                "0074-6624-11",
+                "0074-6624-71",
+                "0074-6624-72",
+                "0074-9296-13",
+                "0074-9296-90",
+                "0074-9296-19",
+                "0074-9296-71",
+                "0074-9296-72",
+                "0074-7068-13",
+                "0074-7068-90",
+                "0074-7068-71",
+                "0074-7068-19",
+                "0074-7068-11",
+                "0074-7068-72",
+                "0074-3727-13",
+                "0074-3727-90",
+                "0074-3727-71",
+                "0074-3727-19",
+                "0074-3727-72",
+                "0074-7069-90",
+                "0074-7069-71",
+                "0074-7069-19",
+                "0074-7069-11",
+                "0074-7069-72",
+                "0074-7070-13",
+                "0074-7070-90",
+                "0074-7070-71",
+                "0074-7070-19",
+                "0074-7070-72",
+                "0074-7148-90",
+                "0074-7148-19",
+                "0074-7148-71",
+                "0074-7148-11",
+                "0074-7148-72",
+                "0074-7149-90",
+                "0074-7149-19"
+              ],
+              "unii": [
+                "9J765S329G"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "ULTRAM"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "VOLTAREN XR"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "XANAX",
+            "openfda": {
+              "application_number": [
+                "NDA018276",
+                "NDA021434"
+              ],
+              "brand_name": [
+                "XANAX",
+                "XANAX XR"
+              ],
+              "generic_name": [
+                "ALPRAZOLAM"
+              ],
+              "manufacturer_name": [
+                "PHARMACIA & UPJOHN COMPANY LLC",
+                "Viatris Specialty LLC"
+              ],
+              "product_ndc": [
+                "0009-0029",
+                "0009-0055",
+                "0009-0090",
+                "0009-0094",
+                "58151-505",
+                "58151-503",
+                "58151-504",
+                "58151-506",
+                "58151-452",
+                "58151-453",
+                "58151-454",
+                "58151-455"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ALPRAZOLAM"
+              ],
+              "rxcui": [
+                "141927",
+                "141928",
+                "197321",
+                "197322",
+                "214003",
+                "214004",
+                "308047",
+                "308048",
+                "433798",
+                "433799",
+                "433800",
+                "433801",
+                "687022",
+                "687023",
+                "687024",
+                "687025"
+              ],
+              "spl_id": [
+                "f5323eac-81d0-4096-ac15-2f25220c5c28",
+                "7ceb0a8d-f766-4806-a289-652080edf4a3",
+                "27062ff4-9ce3-4d8a-aeae-f4468efb623a"
+              ],
+              "spl_set_id": [
+                "388e249d-b9b6-44c3-9f8f-880eced0239f",
+                "c8990714-c2f5-4b0c-9f1c-91d77156d962",
+                "bb5cf72e-3a41-41a8-9a38-80f974eca33f"
+              ],
+              "package_ndc": [
+                "0009-0029-01",
+                "0009-0029-46",
+                "0009-0029-02",
+                "0009-0029-14",
+                "0009-0055-01",
+                "0009-0055-46",
+                "0009-0055-03",
+                "0009-0055-15",
+                "0009-0090-01",
+                "0009-0090-04",
+                "0009-0090-13",
+                "0009-0094-01",
+                "0009-0094-03",
+                "58151-503-91",
+                "58151-504-91",
+                "58151-505-91",
+                "58151-506-91",
+                "58151-452-01",
+                "58151-452-05",
+                "58151-453-01",
+                "58151-453-05",
+                "58151-454-01",
+                "58151-454-05",
+                "58151-455-01"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "YU55MQ3IZY"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

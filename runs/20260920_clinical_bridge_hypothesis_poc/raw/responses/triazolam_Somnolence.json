@@ -1,0 +1,895 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 114
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "1",
+      "safetyreportid": "10017421",
+      "primarysourcecountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141002",
+      "reporttype": "1",
+      "serious": "1",
+      "seriousnessother": "1",
+      "receivedateformat": "102",
+      "receivedate": "20140313",
+      "receiptdateformat": "102",
+      "receiptdate": "20140313",
+      "fulfillexpeditecriteria": "2",
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "5"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientweight": "72.58",
+        "patientsex": "1",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Palpitations"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Somnolence"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Dyspnoea"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Asphyxia"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Restlessness"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "TRIAZOLAM",
+            "drugstructuredosagenumb": "0.125",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "3",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "drugindication": "NERVOUSNESS",
+            "openfda": {
+              "application_number": [
+                "ANDA214219",
+                "NDA017892",
+                "ANDA213003"
+              ],
+              "brand_name": [
+                "TRIAZOLAM"
+              ],
+              "generic_name": [
+                "TRIAZOLAM"
+              ],
+              "manufacturer_name": [
+                "Ingenus Pharmaceuticals, LLC",
+                "Mylan Pharmaceuticals Inc.",
+                "Zydus Pharmaceuticals USA Inc.",
+                "Zydus Lifesciences Limited"
+              ],
+              "product_ndc": [
+                "50742-645",
+                "50742-646",
+                "59762-3717",
+                "59762-3718",
+                "70710-1289",
+                "70710-1521",
+                "70771-1162",
+                "70771-1576"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "TRIAZOLAM"
+              ],
+              "rxcui": [
+                "198317",
+                "198318"
+              ],
+              "spl_id": [
+                "22a3bdbc-8edf-45a5-ad5c-4a0c3f73f255",
+                "27655a51-bab0-4bde-bd82-c15aa61f4705",
+                "4c2fb12f-623b-4dc9-a9e0-7fac953f5cf0",
+                "fb074b17-c185-44d2-9d5e-2d5836499c3a"
+              ],
+              "spl_set_id": [
+                "a0c99f0b-4122-4611-9b53-80fadfceacb6",
+                "5add318e-11b9-42f8-b052-0d8cebb32fcf",
+                "8d414eb8-eec9-486f-90fc-00eed0cf7daf",
+                "4084da13-5825-4399-ad69-de701508c71d"
+              ],
+              "package_ndc": [
+                "50742-645-01",
+                "50742-646-01",
+                "50742-646-05",
+                "59762-3717-4",
+                "59762-3717-9",
+                "59762-3718-4",
+                "59762-3718-3",
+                "59762-3718-9",
+                "70710-1289-8",
+                "70710-1289-5",
+                "70710-1289-1",
+                "70710-1521-8",
+                "70710-1521-5",
+                "70710-1521-1",
+                "70771-1162-8",
+                "70771-1162-5",
+                "70771-1162-1",
+                "70771-1576-8",
+                "70771-1576-5",
+                "70771-1576-1"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "1HM943223R"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "TRIAZOLAM",
+            "drugstructuredosagenumb": "0.125",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "3",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "drugindication": "ANXIETY",
+            "openfda": {
+              "application_number": [
+                "ANDA214219",
+                "NDA017892",
+                "ANDA213003"
+              ],
+              "brand_name": [
+                "TRIAZOLAM"
+              ],
+              "generic_name": [
+                "TRIAZOLAM"
+              ],
+              "manufacturer_name": [
+                "Ingenus Pharmaceuticals, LLC",
+                "Mylan Pharmaceuticals Inc.",
+                "Zydus Pharmaceuticals USA Inc.",
+                "Zydus Lifesciences Limited"
+              ],
+              "product_ndc": [
+                "50742-645",
+                "50742-646",
+                "59762-3717",
+                "59762-3718",
+                "70710-1289",
+                "70710-1521",
+                "70771-1162",
+                "70771-1576"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "TRIAZOLAM"
+              ],
+              "rxcui": [
+                "198317",
+                "198318"
+              ],
+              "spl_id": [
+                "22a3bdbc-8edf-45a5-ad5c-4a0c3f73f255",
+                "27655a51-bab0-4bde-bd82-c15aa61f4705",
+                "4c2fb12f-623b-4dc9-a9e0-7fac953f5cf0",
+                "fb074b17-c185-44d2-9d5e-2d5836499c3a"
+              ],
+              "spl_set_id": [
+                "a0c99f0b-4122-4611-9b53-80fadfceacb6",
+                "5add318e-11b9-42f8-b052-0d8cebb32fcf",
+                "8d414eb8-eec9-486f-90fc-00eed0cf7daf",
+                "4084da13-5825-4399-ad69-de701508c71d"
+              ],
+              "package_ndc": [
+                "50742-645-01",
+                "50742-646-01",
+                "50742-646-05",
+                "59762-3717-4",
+                "59762-3717-9",
+                "59762-3718-4",
+                "59762-3718-3",
+                "59762-3718-9",
+                "70710-1289-8",
+                "70710-1289-5",
+                "70710-1289-1",
+                "70710-1521-8",
+                "70710-1521-5",
+                "70710-1521-1",
+                "70771-1162-8",
+                "70771-1162-5",
+                "70771-1162-1",
+                "70771-1576-8",
+                "70771-1576-5",
+                "70771-1576-1"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "1HM943223R"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "TRIAZOLAM",
+            "drugstructuredosagenumb": "0.125",
+            "drugstructuredosageunit": "003",
+            "drugseparatedosagenumb": "3",
+            "drugintervaldosageunitnumb": "1",
+            "drugintervaldosagedefinition": "804",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "drugindication": "SLEEP DISORDER",
+            "openfda": {
+              "application_number": [
+                "ANDA214219",
+                "NDA017892",
+                "ANDA213003"
+              ],
+              "brand_name": [
+                "TRIAZOLAM"
+              ],
+              "generic_name": [
+                "TRIAZOLAM"
+              ],
+              "manufacturer_name": [
+                "Ingenus Pharmaceuticals, LLC",
+                "Mylan Pharmaceuticals Inc.",
+                "Zydus Pharmaceuticals USA Inc.",
+                "Zydus Lifesciences Limited"
+              ],
+              "product_ndc": [
+                "50742-645",
+                "50742-646",
+                "59762-3717",
+                "59762-3718",
+                "70710-1289",
+                "70710-1521",
+                "70771-1162",
+                "70771-1576"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "TRIAZOLAM"
+              ],
+              "rxcui": [
+                "198317",
+                "198318"
+              ],
+              "spl_id": [
+                "22a3bdbc-8edf-45a5-ad5c-4a0c3f73f255",
+                "27655a51-bab0-4bde-bd82-c15aa61f4705",
+                "4c2fb12f-623b-4dc9-a9e0-7fac953f5cf0",
+                "fb074b17-c185-44d2-9d5e-2d5836499c3a"
+              ],
+              "spl_set_id": [
+                "a0c99f0b-4122-4611-9b53-80fadfceacb6",
+                "5add318e-11b9-42f8-b052-0d8cebb32fcf",
+                "8d414eb8-eec9-486f-90fc-00eed0cf7daf",
+                "4084da13-5825-4399-ad69-de701508c71d"
+              ],
+              "package_ndc": [
+                "50742-645-01",
+                "50742-646-01",
+                "50742-646-05",
+                "59762-3717-4",
+                "59762-3717-9",
+                "59762-3718-4",
+                "59762-3718-3",
+                "59762-3718-9",
+                "70710-1289-8",
+                "70710-1289-5",
+                "70710-1289-1",
+                "70710-1521-8",
+                "70710-1521-5",
+                "70710-1521-1",
+                "70771-1162-8",
+                "70771-1162-5",
+                "70771-1162-1",
+                "70771-1576-8",
+                "70771-1576-5",
+                "70771-1576-1"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "1HM943223R"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TAMSOLOCIN HCL"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "AMLODIPINE BESYLATE",
+            "openfda": {
+              "application_number": [
+                "ANDA078226",
+                "NDA019787",
+                "ANDA077955",
+                "ANDA077073",
+                "ANDA078552",
+                "ANDA078021",
+                "ANDA090752",
+                "ANDA078043",
+                "ANDA206367",
+                "ANDA076719",
+                "ANDA078414",
+                "ANDA076846",
+                "ANDA078925",
+                "ANDA203245"
+              ],
+              "brand_name": [
+                "AMLODIPINE BESYLATE",
+                "NORVASC",
+                "AMLODIPINE BESYLATE 2.5 MG",
+                "AMLODIPINE BESYLATE 5 MG",
+                "AMLODIPINE BESYLATE 10 MG"
+              ],
+              "generic_name": [
+                "AMLODIPINE BESYLATE"
+              ],
+              "manufacturer_name": [
+                "Zydus Pharmaceuticals USA Inc.",
+                "Viatris Specialty LLC",
+                "Cipla USA Inc.",
+                "Quallent Pharmaceuticals Health LLC",
+                "Epic Pharma, LLC",
+                "Aurobindo Pharma Limited",
+                "Zydus Lifesciences Limited",
+                "Mylan Pharmaceuticals Inc.",
+                "China Resources Saike Pharmaceutical Co., Ltd.",
+                "PFIZER LABORATORIES DIV PFIZER INC",
+                "Exelan Pharmaceuticals, Inc.",
+                "Lupin Pharmaceuticals, Inc.",
+                "PD-Rx Pharmaceuticals, Inc.",
+                "Oxford Pharmaceuticals, LLC",
+                "Teva Pharmaceuticals, Inc.",
+                "GSMS, Incorporated",
+                "Ascend Laboratories, LLC",
+                "Unichem Pharmaceuticals (USA), Inc."
+              ],
+              "product_ndc": [
+                "68382-121",
+                "68382-122",
+                "68382-123",
+                "58151-353",
+                "58151-354",
+                "58151-355",
+                "69097-836",
+                "69097-837",
+                "69097-838",
+                "69097-126",
+                "69097-127",
+                "69097-128",
+                "82009-026",
+                "82009-027",
+                "82009-028",
+                "42806-055",
+                "42806-056",
+                "42806-057",
+                "65862-101",
+                "65862-102",
+                "65862-103",
+                "65841-620",
+                "65841-621",
+                "65841-622",
+                "59762-2010",
+                "59762-2242",
+                "59762-2135",
+                "43489-100",
+                "43489-101",
+                "43489-102",
+                "0069-1520",
+                "0069-1530",
+                "0069-1540",
+                "76282-237",
+                "76282-238",
+                "76282-239",
+                "68180-233",
+                "68180-750",
+                "68180-751",
+                "68180-752",
+                "68180-719",
+                "68180-720",
+                "68180-721",
+                "68180-455",
+                "76282-507",
+                "76282-508",
+                "76282-509",
+                "72789-514",
+                "72789-515",
+                "72789-516",
+                "69584-021",
+                "69584-022",
+                "69584-023",
+                "0480-0083",
+                "0480-7167",
+                "0480-7168",
+                "51407-950",
+                "51407-951",
+                "67877-900",
+                "67877-901",
+                "67877-902",
+                "67877-197",
+                "67877-198",
+                "67877-199",
+                "29300-396",
+                "29300-397",
+                "29300-398"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "AMLODIPINE BESYLATE"
+              ],
+              "rxcui": [
+                "197361",
+                "308135",
+                "308136",
+                "212542",
+                "212549",
+                "212575"
+              ],
+              "spl_id": [
+                "cd7a7360-2639-480a-af3d-0cb410c22110",
+                "643fa1a0-53d9-4ce8-bc04-44285b006997",
+                "adb955ec-2369-441f-9db6-0a22bb5b2e7e",
+                "7cbe66f6-99fb-403f-9c6b-e4ecc7549eaf",
+                "72ad7e01-b3db-46b3-af3f-746e5ec70cd0",
+                "ea20d1c2-78a5-4674-b2c2-f74e9fdcdf28",
+                "7929af8c-f3da-4b86-8388-20bbe247336e",
+                "cb1a9e7c-aa86-4596-bc0d-86d8b5750963",
+                "4826ff96-be7a-460d-8ec0-d6bd025d1162",
+                "53c969a7-d151-97a6-e063-6394a90ae408",
+                "3714a872-b6c6-4d74-88d2-add8a895e311",
+                "44d49d27-9fc5-42f5-9366-be150a8d47ea",
+                "cc27c9a5-dd2e-4a79-af00-28f51408362a",
+                "17a72ab9-cae7-43c3-9913-fff5e038970b",
+                "5118f5b1-9768-ddc2-e063-6394a90a4b58",
+                "afdff9c9-5e2d-44e7-b5ea-a4d8836ddf05",
+                "2e80607e-f2c3-4966-b360-4b39d3d1dfd1",
+                "a6c15fed-d823-4cd4-83fb-2773c4c3f9ce",
+                "700631a3-7f24-4699-a195-0a6a7fae214e",
+                "9fb4b641-2b16-4bcb-89de-d8d5893916ec",
+                "0f1b84e6-292c-4f46-b475-26c4dec1fbc2"
+              ],
+              "spl_set_id": [
+                "fda0739d-b355-478c-acae-8f773a3ec4b3",
+                "7367289c-b0b0-466a-83e2-558e2985c29f",
+                "0c8d6b2f-3e4a-47a2-80e2-a34dcb337555",
+                "5409b296-3bed-47cd-abba-9fe6f6833af6",
+                "c262dedb-1d13-4447-9355-f11e1dbbfb4d",
+                "090f3e51-8129-4b5d-97f9-ab410e14df2d",
+                "b6f298ba-2d7e-4a3c-9edb-8b60aba716d6",
+                "cacb3551-c579-41cb-bed6-4b4d8b0644fc",
+                "180ee374-24f2-4b9c-9d54-8815f2b1dc9b",
+                "3518853a-4c5b-4161-a178-8da7f656f009",
+                "abd6a2ca-40c2-485c-bc53-db1c652505ed",
+                "efd9eda5-f497-45a3-ae13-dee729add999",
+                "003dd1ec-16f8-4f96-b6a8-c4689d35892a",
+                "1a24433f-4464-4c6d-9456-ed1ce38e8ec4",
+                "5a0b3dd4-91f5-4173-a992-e91b1cac6a18",
+                "6f20efca-943b-4bc2-a157-0931bd4d4585",
+                "47edc328-2444-4ca1-a5c1-7c83141e105c",
+                "9c0f83f4-06ad-4bb1-a8e3-dcac43b840cf",
+                "2b0bcb95-dc85-46f7-8b69-ca55cd58b30e",
+                "3f4703c0-0b9e-41a0-8b70-da26683d9ed2",
+                "a516b336-8f60-4b86-8921-c7d6c07629f2"
+              ],
+              "package_ndc": [
+                "68382-121-01",
+                "68382-121-05",
+                "68382-121-16",
+                "68382-121-77",
+                "68382-122-16",
+                "68382-122-01",
+                "68382-122-05",
+                "68382-122-77",
+                "68382-123-16",
+                "68382-123-01",
+                "68382-123-05",
+                "68382-123-77",
+                "58151-353-77",
+                "58151-354-77",
+                "58151-354-88",
+                "58151-354-30",
+                "58151-355-77",
+                "58151-355-88",
+                "69097-836-05",
+                "69097-836-15",
+                "69097-837-05",
+                "69097-837-15",
+                "69097-838-05",
+                "69097-838-15",
+                "69097-126-05",
+                "69097-126-15",
+                "69097-127-05",
+                "69097-127-15",
+                "69097-128-05",
+                "69097-128-15",
+                "82009-026-90",
+                "82009-026-10",
+                "82009-027-10",
+                "82009-028-10",
+                "42806-055-09",
+                "42806-055-05",
+                "42806-055-10",
+                "42806-056-09",
+                "42806-056-05",
+                "42806-056-10",
+                "42806-057-09",
+                "42806-057-05",
+                "42806-057-10",
+                "65862-101-30",
+                "65862-101-90",
+                "65862-101-05",
+                "65862-101-99",
+                "65862-102-30",
+                "65862-102-90",
+                "65862-102-05",
+                "65862-102-99",
+                "65862-103-30",
+                "65862-103-90",
+                "65862-103-05",
+                "65862-103-99",
+                "65841-620-16",
+                "65841-620-01",
+                "65841-620-05",
+                "65841-620-77",
+                "65841-621-16",
+                "65841-621-01",
+                "65841-621-05",
+                "65841-621-77",
+                "65841-622-16",
+                "65841-622-01",
+                "65841-622-05",
+                "65841-622-77",
+                "59762-2242-9",
+                "59762-2242-3",
+                "59762-2010-9",
+                "59762-2010-3",
+                "59762-2010-1",
+                "59762-2135-9",
+                "59762-2135-1",
+                "43489-100-01",
+                "43489-100-03",
+                "43489-100-05",
+                "43489-101-01",
+                "43489-101-03",
+                "43489-101-05",
+                "43489-102-01",
+                "43489-102-10",
+                "0069-1520-68",
+                "0069-1530-68",
+                "0069-1530-41",
+                "0069-1530-72",
+                "0069-1540-68",
+                "0069-1540-41",
+                "76282-237-90",
+                "76282-237-05",
+                "76282-237-10",
+                "76282-238-90",
+                "76282-238-05",
+                "76282-238-10",
+                "76282-239-90",
+                "76282-239-05",
+                "76282-239-10",
+                "68180-750-09",
+                "68180-751-09",
+                "68180-751-03",
+                "68180-751-17",
+                "68180-752-09",
+                "68180-752-03",
+                "68180-719-03",
+                "68180-719-09",
+                "68180-720-09",
+                "68180-720-03",
+                "68180-721-03",
+                "68180-721-09",
+                "68180-233-01",
+                "68180-233-02",
+                "68180-455-02",
+                "68180-455-01",
+                "76282-507-90",
+                "76282-507-05",
+                "76282-507-10",
+                "76282-508-90",
+                "76282-508-05",
+                "76282-508-10",
+                "76282-509-90",
+                "76282-509-05",
+                "76282-509-10",
+                "72789-515-95",
+                "72789-515-90",
+                "72789-515-30",
+                "72789-515-60",
+                "72789-516-95",
+                "72789-516-30",
+                "72789-516-90",
+                "72789-514-95",
+                "72789-514-90",
+                "72789-514-30",
+                "69584-021-09",
+                "69584-021-50",
+                "69584-021-90",
+                "69584-022-09",
+                "69584-022-50",
+                "69584-022-90",
+                "69584-022-95",
+                "69584-023-09",
+                "69584-023-50",
+                "69584-023-90",
+                "69584-023-93",
+                "69584-023-95",
+                "0480-0083-98",
+                "0480-0083-05",
+                "0480-7167-98",
+                "0480-7167-10",
+                "0480-7168-98",
+                "0480-7168-10",
+                "51407-950-90",
+                "51407-950-10",
+                "51407-951-90",
+                "51407-951-10",
+                "67877-900-90",
+                "67877-900-05",
+                "67877-900-10",
+                "67877-901-90",
+                "67877-901-05",
+                "67877-901-10",
+                "67877-902-90",
+                "67877-902-05",
+                "67877-902-10",
+                "67877-197-90",
+                "67877-197-05",
+                "67877-197-10",
+                "67877-197-38",
+                "67877-198-90",
+                "67877-198-05",
+                "67877-198-10",
+                "67877-198-38",
+                "67877-199-90",
+                "67877-199-05",
+                "67877-199-10",
+                "67877-199-38",
+                "29300-396-19",
+                "29300-396-05",
+                "29300-396-10",
+                "29300-397-19",
+                "29300-397-05",
+                "29300-397-10",
+                "29300-398-19",
+                "29300-398-05",
+                "29300-398-10"
+              ],
+              "unii": [
+                "864V2Q084H"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "DOXEPIN",
+            "openfda": {
+              "application_number": [
+                "ANDA202337",
+                "ANDA216041",
+                "ANDA202761",
+                "ANDA201951",
+                "ANDA202510",
+                "ANDA218564"
+              ],
+              "brand_name": [
+                "DOXEPIN"
+              ],
+              "generic_name": [
+                "DOXEPIN",
+                "DOXEPIN HYDROCHLORIDE"
+              ],
+              "manufacturer_name": [
+                "North Star Rx LLC",
+                "Archis Pharma LLC",
+                "Aurobindo Pharma Limited",
+                "Zydus Lifesciences Limited",
+                "NorthStar Rx LLC",
+                "Actavis Pharma, Inc.",
+                "Marlex Pharmaceuticals, Inc.",
+                "Strides Pharma Science Limited",
+                "Viona Pharmaceuticals Inc",
+                "Ajanta Pharma USA Inc."
+              ],
+              "product_ndc": [
+                "72603-222",
+                "72603-223",
+                "72819-161",
+                "72819-162",
+                "59651-844",
+                "59651-845",
+                "70771-1528",
+                "70771-1529",
+                "72603-919",
+                "72603-920",
+                "0228-3315",
+                "0228-3316",
+                "10135-758",
+                "10135-764",
+                "64380-203",
+                "64380-204",
+                "72578-181",
+                "72578-182",
+                "27241-280",
+                "27241-281"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "DOXEPIN HYDROCHLORIDE"
+              ],
+              "rxcui": [
+                "966787",
+                "966793"
+              ],
+              "spl_id": [
+                "472f1364-17cc-0996-e063-6394a90aa786",
+                "0e1f91fa-a035-857e-e063-6394a90a68c9",
+                "29b3bf98-2c57-4d87-b5eb-5232e46dc639",
+                "2a2843b4-5867-4df6-af9a-dbe0264d6f1b",
+                "77782f36-d120-4c3d-bebd-c8b0f4749d98",
+                "7f10f9b0-b39a-49a0-a3ea-01ae9ac49f33",
+                "43029ddd-8941-add8-e063-6394a90a1e4d",
+                "b6b0f575-6e3a-4011-b33f-a051103058c2",
+                "d569143c-aee2-4e03-988d-1ef10950e7ce",
+                "bfe69bed-a77f-4fa8-adef-a300fb87b7f9"
+              ],
+              "spl_set_id": [
+                "12edd5c6-c863-b83a-e063-6294a90a2f36",
+                "e3eac8e4-224e-4b7b-81d3-071301f914fa",
+                "29b3bf98-2c57-4d87-b5eb-5232e46dc639",
+                "1461ede6-24f0-42a1-b801-0cf4ef404985",
+                "77782f36-d120-4c3d-bebd-c8b0f4749d98",
+                "c42333f8-1add-4f33-9458-6fe4436874a1",
+                "06e79a65-1455-804e-e063-6394a90a2f3d",
+                "399866d5-3fa6-46d0-9c62-492d5997bc4f",
+                "3377541d-db46-4fd9-9a4b-faa5f6108e67",
+                "b198ade7-fe78-437e-82b4-693dfe45ab51"
+              ],
+              "package_ndc": [
+                "72603-222-01",
+                "72603-223-01",
+                "72819-161-03",
+                "72819-161-10",
+                "72819-161-11",
+                "72819-162-03",
+                "72819-162-10",
+                "72819-162-11",
+                "59651-844-30",
+                "59651-845-30",
+                "70771-1528-3",
+                "70771-1528-9",
+                "70771-1528-1",
+                "70771-1528-5",
+                "70771-1528-0",
+                "70771-1528-4",
+                "70771-1529-3",
+                "70771-1529-9",
+                "70771-1529-1",
+                "70771-1529-5",
+                "70771-1529-0",
+                "70771-1529-4",
+                "72603-919-01",
+                "72603-920-01",
+                "0228-3315-03",
+                "0228-3316-03",
+                "10135-764-30",
+                "10135-758-30",
+                "64380-204-01",
+                "64380-204-02",
+                "64380-204-03",
+                "64380-203-01",
+                "64380-203-02",
+                "64380-203-03",
+                "72578-181-06",
+                "72578-181-16",
+                "72578-181-01",
+                "72578-181-05",
+                "72578-181-10",
+                "72578-181-77",
+                "72578-182-06",
+                "72578-182-16",
+                "72578-182-01",
+                "72578-182-05",
+                "72578-182-10",
+                "72578-182-77",
+                "27241-280-30",
+                "27241-281-30"
+              ],
+              "unii": [
+                "3U9A0FE9N5"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1449 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 5617
+    }
+  },
+  "results": [
+    {
+      "safetyreportversion": "2",
+      "safetyreportid": "10010109",
+      "primarysourcecountry": "US",
+      "occurcountry": "US",
+      "transmissiondateformat": "102",
+      "transmissiondate": "20141002",
+      "reporttype": "1",
+      "serious": "2",
+      "receivedateformat": "102",
+      "receivedate": "20140312",
+      "receiptdateformat": "102",
+      "receiptdate": "20140312",
+      "fulfillexpeditecriteria": "2",
+      "companynumb": "US-INCYTE CORPORATION-2013IN001333",
+      "duplicate": "1",
+      "reportduplicate": {
+        "duplicatesource": "INCYTE",
+        "duplicatenumb": "US-INCYTE CORPORATION-2013IN001333"
+      },
+      "primarysource": {
+        "reportercountry": "US",
+        "qualification": "5"
+      },
+      "sender": {
+        "sendertype": "2",
+        "senderorganization": "FDA-Public Use"
+      },
+      "receiver": {
+        "receivertype": "6",
+        "receiverorganization": "FDA"
+      },
+      "patient": {
+        "patientonsetage": "56",
+        "patientonsetageunit": "801",
+        "patientweight": "67.12",
+        "patientsex": "2",
+        "reaction": [
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Somnolence",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Night sweats",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Migraine",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "White blood cell count decreased",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Haemoglobin decreased",
+            "reactionoutcome": "6"
+          },
+          {
+            "reactionmeddraversionpt": "17.0",
+            "reactionmeddrapt": "Platelet count decreased",
+            "reactionoutcome": "6"
+          }
+        ],
+        "drug": [
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "JAKAFI",
+            "drugbatchnumb": "A79945T",
+            "drugstructuredosagenumb": "20",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "20 MG, QD",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "drugindication": "MYELOFIBROSIS",
+            "drugstartdateformat": "102",
+            "drugstartdate": "20130619",
+            "actiondrug": "4",
+            "openfda": {
+              "application_number": [
+                "NDA202192"
+              ],
+              "brand_name": [
+                "JAKAFI"
+              ],
+              "generic_name": [
+                "RUXOLITINIB"
+              ],
+              "manufacturer_name": [
+                "Incyte Corporation"
+              ],
+              "product_ndc": [
+                "50881-005",
+                "50881-010",
+                "50881-015",
+                "50881-020",
+                "50881-025",
+                "50881-011",
+                "50881-022",
+                "50881-033",
+                "50881-044",
+                "50881-055"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "RUXOLITINIB"
+              ],
+              "rxcui": [
+                "1193331",
+                "1193337",
+                "1193339",
+                "1193341",
+                "1193343",
+                "1193345",
+                "1193347",
+                "1193349",
+                "1193351",
+                "1193353",
+                "2743012",
+                "2743016",
+                "2743019",
+                "2743022",
+                "2743025",
+                "2743028",
+                "2743032",
+                "2743035",
+                "2743041",
+                "2743044"
+              ],
+              "spl_id": [
+                "1c261eb0-f426-47a1-8281-62282d207644"
+              ],
+              "spl_set_id": [
+                "f1c82580-87ae-11e0-bc84-0002a5d5c51b"
+              ],
+              "package_ndc": [
+                "50881-005-60",
+                "50881-010-01",
+                "50881-010-60",
+                "50881-015-60",
+                "50881-020-60",
+                "50881-025-60",
+                "50881-011-08",
+                "50881-022-08",
+                "50881-033-08",
+                "50881-044-08",
+                "50881-055-08"
+              ],
+              "nui": [
+                "N0000175605",
+                "N0000190858",
+                "N0000190857"
+              ],
+              "pharm_class_epc": [
+                "Kinase Inhibitor [EPC]",
+                "Janus Kinase Inhibitor [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Janus Kinase Inhibitors [MoA]"
+              ],
+              "unii": [
+                "82S8X8XX8H"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "1",
+            "medicinalproduct": "JAKAFI",
+            "drugstructuredosagenumb": "10",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "10 MG, BID",
+            "drugdosageform": "TABLET",
+            "drugadministrationroute": "048",
+            "actiondrug": "4",
+            "openfda": {
+              "application_number": [
+                "NDA202192"
+              ],
+              "brand_name": [
+                "JAKAFI"
+              ],
+              "generic_name": [
+                "RUXOLITINIB"
+              ],
+              "manufacturer_name": [
+                "Incyte Corporation"
+              ],
+              "product_ndc": [
+                "50881-005",
+                "50881-010",
+                "50881-015",
+                "50881-020",
+                "50881-025",
+                "50881-011",
+                "50881-022",
+                "50881-033",
+                "50881-044",
+                "50881-055"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "RUXOLITINIB"
+              ],
+              "rxcui": [
+                "1193331",
+                "1193337",
+                "1193339",
+                "1193341",
+                "1193343",
+                "1193345",
+                "1193347",
+                "1193349",
+                "1193351",
+                "1193353",
+                "2743012",
+                "2743016",
+                "2743019",
+                "2743022",
+                "2743025",
+                "2743028",
+                "2743032",
+                "2743035",
+                "2743041",
+                "2743044"
+              ],
+              "spl_id": [
+                "1c261eb0-f426-47a1-8281-62282d207644"
+              ],
+              "spl_set_id": [
+                "f1c82580-87ae-11e0-bc84-0002a5d5c51b"
+              ],
+              "package_ndc": [
+                "50881-005-60",
+                "50881-010-01",
+                "50881-010-60",
+                "50881-015-60",
+                "50881-020-60",
+                "50881-025-60",
+                "50881-011-08",
+                "50881-022-08",
+                "50881-033-08",
+                "50881-044-08",
+                "50881-055-08"
+              ],
+              "nui": [
+                "N0000175605",
+                "N0000190858",
+                "N0000190857"
+              ],
+              "pharm_class_epc": [
+                "Kinase Inhibitor [EPC]",
+                "Janus Kinase Inhibitor [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Janus Kinase Inhibitors [MoA]"
+              ],
+              "unii": [
+                "82S8X8XX8H"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "CALCIUM SUPPLEMENT"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "VITAMIN D3",
+            "openfda": {
+              "application_number": [
+                "ANDA090455"
+              ],
+              "brand_name": [
+                "VITAMIN D"
+              ],
+              "generic_name": [
+                "ERGOCALCIFEROL"
+              ],
+              "manufacturer_name": [
+                "Strides Pharma Science Limited"
+              ],
+              "product_ndc": [
+                "64380-737"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ERGOCALCIFEROL"
+              ],
+              "rxcui": [
+                "1367410"
+              ],
+              "spl_id": [
+                "1cc589f7-cd6d-40a6-8fce-c965e8945eae"
+              ],
+              "spl_set_id": [
+                "2c4c0a36-12cf-444d-9d57-de983eef4d36"
+              ],
+              "package_ndc": [
+                "64380-737-06",
+                "64380-737-25"
+              ],
+              "nui": [
+                "M0007651",
+                "N0000175909"
+              ],
+              "pharm_class_cs": [
+                "Ergocalciferols [CS]"
+              ],
+              "pharm_class_epc": [
+                "Provitamin D2 Compound [EPC]"
+              ],
+              "unii": [
+                "VS041H42XC"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "VITAMIN E",
+            "openfda": {
+              "application_number": [
+                "505G(a)(3)"
+              ],
+              "brand_name": [
+                "STYE EYE RELIEF SERUM"
+              ],
+              "generic_name": [
+                "VITAMIN E"
+              ],
+              "manufacturer_name": [
+                "Guangzhou Mizi Biotechnology Co., LTD."
+              ],
+              "product_ndc": [
+                "84896-001"
+              ],
+              "product_type": [
+                "HUMAN OTC DRUG"
+              ],
+              "route": [
+                "TOPICAL"
+              ],
+              "substance_name": [
+                "ACETYL HEXAPEPTIDE-8 AMIDE",
+                "ASCORBIC ACID",
+                "PREZATIDE COPPER",
+                "ASPARTIC ACID",
+                "LYSINE"
+              ],
+              "spl_id": [
+                "46218208-8a0f-d622-e063-6394a90ab43c"
+              ],
+              "spl_set_id": [
+                "3f60193e-4b95-6759-e063-6394a90a991c"
+              ],
+              "package_ndc": [
+                "84896-001-01"
+              ],
+              "nui": [
+                "N0000193618",
+                "M0001797"
+              ],
+              "pharm_class_epc": [
+                "Vitamin C [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Ascorbic Acid [CS]"
+              ],
+              "unii": [
+                "L4EL31FWIL",
+                "PQ6CK8PD0R",
+                "6BJQ43T1I9",
+                "30KYC7MIAI",
+                "K3Z4F929H6"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "PENTOXIFYLLINE",
+            "openfda": {
+              "application_number": [
+                "ANDA075191",
+                "ANDA074878",
+                "ANDA074425"
+              ],
+              "brand_name": [
+                "PENTOXIFYLLINE"
+              ],
+              "generic_name": [
+                "PENTOXIFYLLINE"
+              ],
+              "manufacturer_name": [
+                "Apotex Corp.",
+                "ANI Pharmaceuticals, Inc.",
+                "Rising Pharma Holdings, Inc."
+              ],
+              "product_ndc": [
+                "60505-0033",
+                "70954-668",
+                "16571-856"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "PENTOXIFYLLINE"
+              ],
+              "rxcui": [
+                "312301"
+              ],
+              "spl_id": [
+                "e67bdb49-8c37-8b4f-c982-67d024d3f2aa",
+                "9732cf08-dad4-42a4-a10e-0284848724d7",
+                "465e591b-4af7-4b59-a076-73bc26758eda"
+              ],
+              "spl_set_id": [
+                "40ae2d9a-0d95-640d-0640-f76e7e1a13cb",
+                "9ca79c97-e4e5-4297-85eb-7a9b3d8083b5",
+                "cd840a2c-2a0e-4b2b-84ff-a0406bb6fa37"
+              ],
+              "package_ndc": [
+                "60505-0033-6",
+                "60505-0033-7",
+                "60505-0033-9",
+                "60505-0033-8",
+                "70954-668-10",
+                "70954-668-20",
+                "16571-856-01",
+                "16571-856-50",
+                "16571-856-90",
+                "16571-856-11",
+                "16571-856-05"
+              ],
+              "nui": [
+                "N0000175895",
+                "N0000009065"
+              ],
+              "pharm_class_epc": [
+                "Blood Viscosity Reducer [EPC]"
+              ],
+              "pharm_class_pe": [
+                "Hematologic Activity Alteration [PE]"
+              ],
+              "unii": [
+                "SD6QCT3TSU"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "CEPHALEXIN",
+            "drugdosagetext": "500 MG AS DIRECTED",
+            "drugadministrationroute": "048",
+            "openfda": {
+              "application_number": [
+                "ANDA065253",
+                "ANDA090836",
+                "ANDA062702",
+                "ANDA065152",
+                "ANDA065234",
+                "ANDA065229",
+                "ANDA062713",
+                "ANDA218817",
+                "ANDA218947",
+                "ANDA210221",
+                "ANDA062703",
+                "ANDA063024",
+                "ANDA065336",
+                "ANDA213568"
+              ],
+              "brand_name": [
+                "CEPHALEXIN"
+              ],
+              "generic_name": [
+                "CEPHALEXIN"
+              ],
+              "manufacturer_name": [
+                "AMELLA PHARMA, LLC",
+                "Cronus Pharma LLC",
+                "AvPAK",
+                "AVKARE",
+                "Pharma-C, Inc.",
+                "Major Pharmaceuticals",
+                "Chartwell RX, LLC",
+                "Aurobindo Pharma Limited",
+                "Lupin Pharmaceuticals, Inc.",
+                "Ascend Laboratories, LLC",
+                "AvKARE",
+                "American Health Packaging",
+                "Teva Pharmaceuticals USA, Inc.",
+                "Chartwell RX, LLC."
+              ],
+              "product_ndc": [
+                "72287-310",
+                "69043-008",
+                "69043-009",
+                "50268-151",
+                "50268-152",
+                "42291-006",
+                "42291-007",
+                "69778-930",
+                "69778-931",
+                "0904-7336",
+                "0904-7337",
+                "62135-710",
+                "65862-018",
+                "65862-019",
+                "68180-440",
+                "68180-123",
+                "68180-124",
+                "68180-441",
+                "68180-121",
+                "68180-122",
+                "67877-219",
+                "67877-220",
+                "67877-254",
+                "67877-255",
+                "42291-208",
+                "42291-209",
+                "59651-783",
+                "59651-784",
+                "67877-891",
+                "67877-892",
+                "60687-152",
+                "60687-163",
+                "67877-544",
+                "67877-545",
+                "59651-728",
+                "0093-3145",
+                "0093-3147",
+                "0093-4175",
+                "0093-4177",
+                "0093-2238",
+                "0093-2240",
+                "62135-711",
+                "62135-480",
+                "62135-481",
+                "59651-322",
+                "59651-323"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "CEPHALEXIN"
+              ],
+              "rxcui": [
+                "309114",
+                "309112",
+                "309110",
+                "309113",
+                "637173",
+                "645617",
+                "197454",
+                "309115"
+              ],
+              "spl_id": [
+                "cb0fecbf-5c35-49d9-8382-295e45929fc1",
+                "c71c6d65-8fdd-496e-9338-c70276699886",
+                "426b7e9a-a0f9-c61c-e063-6294a90a0b98",
+                "563f2702-2b5f-464a-9f1f-9d5a7ac00c2a",
+                "5f2379e6-9041-4de6-83a2-f63fa36db0d9",
+                "1c1fbad7-bef4-42a0-a8c9-b35168f5d533",
+                "459b593b-9fc1-fa2e-e063-6394a90a5092",
+                "51110cd1-498e-42ac-87a8-dc1e9f7e732b",
+                "e632e484-a5f0-46b3-8204-7221083d2528",
+                "dd33d596-c8e5-4438-ab5e-b6deaa3fe809",
+                "b0eb4846-bf8b-4322-b8c6-bfb2c252d5d4",
+                "57c64610-7957-082e-e063-6294a90ae472",
+                "e46059e1-3ce9-4a3c-80ce-464b140600ce",
+                "779b70b9-d16c-4421-9e45-7800e947690d",
+                "297a2904-b417-5ef6-e063-6394a90a35cf",
+                "84f07b4a-a15e-41cb-af85-e110c5cf342e",
+                "e52db116-14f2-437d-8097-0150193d4655",
+                "c75c0bb6-fe3e-43c6-bdde-edd904731795",
+                "39e510b0-2478-4e34-81a1-20f002a6ae35",
+                "2472c9a9-0d24-baae-e063-6294a90a081b",
+                "459b5240-6bbf-1d2d-e063-6294a90aac45",
+                "1a37b4f8-8f1f-4aed-9409-6c22716c5b68"
+              ],
+              "spl_set_id": [
+                "602fae70-3b8a-4f09-8db1-41fef4a2ecd7",
+                "a4e861e2-5803-4c4a-a962-92f5755e1ab5",
+                "5975f293-8bb3-3242-aca7-d7d0c7e1bdc8",
+                "74f83298-57f7-4166-8dd8-db3e556a68d8",
+                "bf9a6c06-11fd-4fb7-9cf5-e8e787758c1c",
+                "1c1fbad7-bef4-42a0-a8c9-b35168f5d533",
+                "d315cce8-9784-419e-818b-16d68d1dbd6e",
+                "8e28f049-6110-4473-830f-c494191a7197",
+                "25ef498a-7a7e-4543-a544-b9d0e99f9cd9",
+                "1d3e6d33-5dc2-498e-8efa-e3c4fca15dff",
+                "4fec8daf-6e09-4153-926f-64709dbdd26c",
+                "03f6f6ae-66bc-6819-8ba9-7c9c3fbef90d",
+                "e46059e1-3ce9-4a3c-80ce-464b140600ce",
+                "36882c6d-7b6f-41e3-8c54-e3b0073b8c07",
+                "cb64cab2-5297-4ed2-a50a-2e5d5e14fa8d",
+                "bb28751c-bd1b-4e7f-8271-a14c1b4314e3",
+                "f957ea27-2906-40c7-ac03-eb2f742473a0",
+                "19307ff0-71de-477b-965d-ea243e5ede3a",
+                "445b2a87-2e4f-483a-abe8-26fefd67514a",
+                "3c459965-2d42-488b-80c4-ce801f94839c",
+                "8a09bccd-1864-4dc3-9c31-6187d8e0fc99",
+                "655f38e8-1c4d-4cbc-9f52-bb881f065b2d"
+              ],
+              "package_ndc": [
+                "72287-310-01",
+                "69043-008-01",
+                "69043-008-05",
+                "69043-009-01",
+                "69043-009-05",
+                "50268-152-11",
+                "50268-152-15",
+                "50268-151-11",
+                "50268-151-15",
+                "42291-006-50",
+                "42291-007-50",
+                "69778-930-04",
+                "69778-931-04",
+                "0904-7337-06",
+                "0904-7337-61",
+                "0904-7336-61",
+                "62135-710-74",
+                "65862-018-20",
+                "65862-018-40",
+                "65862-018-01",
+                "65862-018-05",
+                "65862-019-20",
+                "65862-019-40",
+                "65862-019-01",
+                "65862-019-05",
+                "68180-123-01",
+                "68180-123-02",
+                "68180-124-01",
+                "68180-124-02",
+                "68180-440-01",
+                "68180-440-02",
+                "68180-441-01",
+                "68180-441-02",
+                "68180-121-01",
+                "68180-121-02",
+                "68180-122-01",
+                "68180-122-02",
+                "67877-219-20",
+                "67877-219-01",
+                "67877-219-05",
+                "67877-219-10",
+                "67877-219-84",
+                "67877-219-74",
+                "67877-219-38",
+                "67877-220-20",
+                "67877-220-01",
+                "67877-220-05",
+                "67877-220-10",
+                "67877-220-84",
+                "67877-220-74",
+                "67877-220-38",
+                "67877-254-20",
+                "67877-254-01",
+                "67877-254-05",
+                "67877-254-10",
+                "67877-254-38",
+                "67877-255-20",
+                "67877-255-01",
+                "67877-255-05",
+                "67877-255-10",
+                "67877-255-23",
+                "42291-208-50",
+                "42291-209-50",
+                "59651-783-01",
+                "59651-784-01",
+                "67877-891-01",
+                "67877-892-01",
+                "60687-152-11",
+                "60687-152-01",
+                "60687-163-11",
+                "60687-163-01",
+                "67877-544-88",
+                "67877-544-68",
+                "67877-545-88",
+                "67877-545-68",
+                "59651-728-20",
+                "59651-728-50",
+                "0093-3145-01",
+                "0093-3145-05",
+                "0093-3147-01",
+                "0093-3147-05",
+                "0093-4175-73",
+                "0093-4175-74",
+                "0093-4177-73",
+                "0093-4177-74",
+                "0093-2238-01",
+                "0093-2240-01",
+                "62135-711-74",
+                "62135-480-42",
+                "62135-480-49",
+                "62135-481-42",
+                "62135-481-49",
+                "59651-322-01",
+                "59651-322-02",
+                "59651-323-01",
+                "59651-323-02"
+              ],
+              "unii": [
+                "OBN7UDS42Y"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "ANASTROZOLE",
+            "drugdosagetext": "1 MG AS DIRECTED",
+            "drugadministrationroute": "048",
+            "openfda": {
+              "application_number": [
+                "ANDA079220",
+                "NDA020541",
+                "ANDA206037",
+                "ANDA078921",
+                "ANDA078058",
+                "ANDA090568",
+                "ANDA212434"
+              ],
+              "brand_name": [
+                "ANASTROZOLE",
+                "ARIMIDEX"
+              ],
+              "generic_name": [
+                "ANASTROZOLE",
+                "ANASTROZOLE TABLETS"
+              ],
+              "manufacturer_name": [
+                "Natco Pharma Limited",
+                "ANI Pharmaceuticals, Inc.",
+                "Avet Pharmaceuticals Inc",
+                "Zydus Lifesciences Limited",
+                "BluePoint Laboratories",
+                "Zydus Pharmaceuticals USA Inc.",
+                "Breckenridge Pharmaceutical, Inc.",
+                "Chartwell RX, LLC",
+                "Teva Pharmaceuticals USA, Inc.",
+                "Accord Healthcare Inc.",
+                "Upsher-Smith Laboratories, LLC",
+                "Aurobindo Pharma Limited",
+                "Yiling Pharmaceutical, Inc."
+              ],
+              "product_ndc": [
+                "63850-0010",
+                "62559-670",
+                "23155-857",
+                "65841-743",
+                "68001-155",
+                "68382-209",
+                "51991-620",
+                "62135-490",
+                "0093-7536",
+                "16729-035",
+                "24979-725",
+                "59651-236",
+                "69117-0003"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ANASTROZOLE"
+              ],
+              "rxcui": [
+                "199224",
+                "151124"
+              ],
+              "spl_id": [
+                "605b2a4c-1f1d-473d-a911-133ca46f0538",
+                "e8849657-0444-4ca8-bf66-2017f60d5652",
+                "4713d319-eace-08c3-e063-6294a90ac02d",
+                "756f0274-e970-4317-92c0-f5005b5bf9f3",
+                "2dc9d4ae-4fbc-df45-e063-6394a90a09a0",
+                "577b7171-5da0-4291-af07-5e4653ffb3aa",
+                "c014dfc0-811e-46bc-bcb7-3da430074a56",
+                "458bf011-d6c4-f0c4-e063-6394a90a638b",
+                "a02eea00-78b1-4cf8-93f7-5d43f59722f0",
+                "4a900d2c-12d3-6bfa-e063-6294a90af009",
+                "398a1cb9-25cd-a30d-e063-6394a90a1956",
+                "6b709b22-b3d8-4846-b48e-b975a80c0998",
+                "4721ce01-03c8-f2d8-e063-6394a90ac3b6"
+              ],
+              "spl_set_id": [
+                "df55dc4c-9a53-4a37-a90f-c4e88d458b89",
+                "acbfaaa9-503c-4691-9828-76a7146ed6de",
+                "f86d2158-b078-3f74-e053-6394a90aa4b6",
+                "965c4cb1-f6b8-47ac-bf13-c36639aa908f",
+                "3cd04ed6-7c5a-4c4a-9955-ee40839dfea0",
+                "ca16f8de-d9a5-4c6c-957b-ae28497b67ac",
+                "ca9d4aff-ffdf-4a46-ad20-e47e5886a19e",
+                "da6ae05c-81e9-492a-a4c9-be3f1f367b59",
+                "c58c7013-50a0-4734-8a78-38ff20a3e7eb",
+                "03586c40-eb32-45c5-beb7-6762a6b78790",
+                "7e0bd2cc-d3cc-403f-a6b6-4597ccb2f685",
+                "71f053c2-8d0d-41a1-8630-2d797eced799",
+                "7b3da447-8e7c-2aaa-e053-2a91aa0a2821"
+              ],
+              "package_ndc": [
+                "63850-0010-1",
+                "63850-0010-2",
+                "62559-670-30",
+                "23155-857-03",
+                "23155-857-09",
+                "23155-857-05",
+                "65841-743-06",
+                "65841-743-10",
+                "68001-155-04",
+                "68001-155-08",
+                "68382-209-06",
+                "68382-209-10",
+                "51991-620-33",
+                "51991-620-10",
+                "51991-620-90",
+                "62135-490-30",
+                "62135-490-90",
+                "0093-7536-56",
+                "16729-035-10",
+                "16729-035-15",
+                "16729-035-16",
+                "16729-035-17",
+                "24979-725-06",
+                "24979-725-07",
+                "59651-236-30",
+                "59651-236-90",
+                "69117-0003-1",
+                "69117-0003-4"
+              ],
+              "nui": [
+                "N0000175563",
+                "N0000175080"
+              ],
+              "pharm_class_epc": [
+                "Aromatase Inhibitor [EPC]"
+              ],
+              "pharm_class_moa": [
+                "Aromatase Inhibitors [MoA]"
+              ],
+              "unii": [
+                "2Z07MYW1AZ"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "ASPIR-81",
+            "drugstructuredosagenumb": "81",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "81 MG, QD",
+            "drugadministrationroute": "048"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "TRAMADOL",
+            "drugstructuredosagenumb": "50",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "50 MG, QD PRN",
+            "drugadministrationroute": "048"
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "AMLODIPINE",
+            "drugstructuredosagenumb": "5",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "5 MG, QD PRN",
+            "drugadministrationroute": "048",
+            "openfda": {
+              "application_number": [
+                "NDA219531",
+                "NDA214439",
+                "NDA211340"
+              ],
+              "brand_name": [
+                "SDAMLO",
+                "NORLIQVA",
+                "KATERZIA"
+              ],
+              "generic_name": [
+                "AMLODIPINE"
+              ],
+              "manufacturer_name": [
+                "Pangea Pharmaceuticals, LLC",
+                "CMP Pharma, Inc.",
+                "Azurity Pharmaceuticals, Inc."
+              ],
+              "product_ndc": [
+                "81279-133",
+                "81279-134",
+                "81279-135",
+                "46287-035",
+                "46287-037",
+                "52652-5001"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "AMLODIPINE BESYLATE",
+                "AMLODIPINE",
+                "AMLODIPINE BENZOATE"
+              ],
+              "rxcui": [
+                "2726058",
+                "2726064",
+                "2726065",
+                "2726067",
+                "2726068",
+                "2726070",
+                "2599173",
+                "2599179",
+                "2184120",
+                "2184126"
+              ],
+              "spl_id": [
+                "4b0523be-cded-6306-e063-6394a90a8a12",
+                "63a6bb49-fb68-4351-be5f-a6b6e8f6b540",
+                "4fee8eba-2fa2-4a9c-884a-ccec171e1977",
+                "461e8d10-1805-e107-e063-6294a90aa288"
+              ],
+              "spl_set_id": [
+                "886a7f97-60a4-4206-a6c7-5206069ed487",
+                "c1730a51-4383-4c61-a9a1-7e1326bd0abe",
+                "614d974f-51c7-4b18-8171-39eb6e8d4c03",
+                "df673a4d-acb8-444c-a472-c87ab8cbd366"
+              ],
+              "package_ndc": [
+                "81279-133-10",
+                "81279-134-10",
+                "81279-135-10",
+                "46287-035-15",
+                "46287-037-01",
+                "52652-5001-1"
+              ],
+              "unii": [
+                "864V2Q084H",
+                "1J444QC288",
+                "XD75TQ8A2P"
+              ],
+              "nui": [
+                "N0000000069",
+                "N0000175421",
+                "N0000175566",
+                "M0006414",
+                "N0000190114"
+              ],
+              "pharm_class_moa": [
+                "Calcium Channel Antagonists [MoA]",
+                "Cytochrome P450 3A Inhibitors [MoA]"
+              ],
+              "pharm_class_epc": [
+                "Dihydropyridine Calcium Channel Blocker [EPC]",
+                "Calcium Channel Blocker [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Dihydropyridines [CS]"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "MECLIZINE",
+            "drugstructuredosagenumb": "12.5",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "12.5 MG, QD PRN",
+            "drugadministrationroute": "048",
+            "openfda": {
+              "application_number": [
+                "M009",
+                "ANDA202640",
+                "ANDA201451",
+                "ANDA205136"
+              ],
+              "brand_name": [
+                "MECLIZINE",
+                "MECLIZINE HYDROCHLORIDE"
+              ],
+              "generic_name": [
+                "MECLIZINE HCL 12.5 MG",
+                "MECLIZINE HCL 25 MG",
+                "MECLIZINE HYDROCHLORIDE",
+                "MECLIZINE",
+                "MECLIZINE HCL 25MG",
+                "MECLIZINE HCL 12.5MG"
+              ],
+              "manufacturer_name": [
+                "Advanced Rx LLC",
+                "Bi-Mart",
+                "Pharbest Pharmaceuticals, Inc.",
+                "Aurobindo Pharma Limited",
+                "RUGBY LABORATORIES",
+                "Amneal Pharmaceuticals LLC",
+                "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+                "Ulai Health LLC"
+              ],
+              "product_ndc": [
+                "80513-427",
+                "37835-202",
+                "16103-386",
+                "80513-421",
+                "59651-807",
+                "59651-808",
+                "59651-809",
+                "0536-1297",
+                "16103-387",
+                "65162-441",
+                "65162-442",
+                "65162-444",
+                "23155-943",
+                "73057-386"
+              ],
+              "product_type": [
+                "HUMAN OTC DRUG",
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "MECLIZINE HYDROCHLORIDE"
+              ],
+              "rxcui": [
+                "995624",
+                "995632",
+                "995666",
+                "995686"
+              ],
+              "spl_id": [
+                "3e5a4128-ff9c-6f2b-e063-6394a90a42e6",
+                "48513500-7464-3c2f-e063-6294a90a8b3d",
+                "d7d81436-c338-4988-bf9e-a721e0cb8f91",
+                "27e17bc9-1e66-cc1f-e063-6394a90a4dcb",
+                "beb3c7f2-c0f4-41d9-a903-63a6847e0997",
+                "e35b2d6b-c702-4a55-a4bb-929b8a40012f",
+                "f25eaba1-2538-4b14-bc67-aa45e07b3014",
+                "50a794d1-8c02-4419-a037-de9d3825d342",
+                "eb857fbb-87f5-41dc-941a-21f6fb8df1e9",
+                "2c27a466-defa-b729-e063-6394a90a61d3"
+              ],
+              "spl_set_id": [
+                "032a89f2-17e7-45d2-94a1-cc7a601ebdee",
+                "2e2c8189-c026-48f8-bbc6-371498ccf444",
+                "8b3c9283-b618-4d57-9f15-7cf73e8737f5",
+                "b0a2a1f7-354e-48bd-9e98-9207bf9f53fd",
+                "beb3c7f2-c0f4-41d9-a903-63a6847e0997",
+                "8a234ce3-eb6b-49dd-9d78-7fc7bdd49d35",
+                "4bac2765-045c-405e-8006-8c5cfdfa89bc",
+                "666dc4d8-7b16-4c3c-84e4-645548dbee68",
+                "b11c10b9-f40e-4ea7-9c5d-118517049f9d",
+                "d304e205-85fa-494a-9a68-ae6855b139b1"
+              ],
+              "package_ndc": [
+                "80513-427-02",
+                "37835-202-01",
+                "16103-386-08",
+                "16103-386-11",
+                "80513-421-02",
+                "59651-807-01",
+                "59651-807-99",
+                "59651-808-01",
+                "59651-808-99",
+                "59651-809-90",
+                "59651-809-05",
+                "0536-1297-01",
+                "0536-1297-10",
+                "16103-387-08",
+                "16103-387-11",
+                "65162-441-03",
+                "65162-441-10",
+                "65162-441-50",
+                "65162-441-11",
+                "65162-441-60",
+                "65162-442-03",
+                "65162-442-10",
+                "65162-442-50",
+                "65162-442-11",
+                "65162-442-60",
+                "65162-444-03",
+                "65162-444-10",
+                "65162-444-50",
+                "65162-444-11",
+                "65162-444-60",
+                "23155-943-01",
+                "23155-943-10",
+                "73057-386-11",
+                "73057-386-08"
+              ],
+              "unii": [
+                "HDP7W44CIO"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "ZOLPIDEM",
+            "drugstructuredosagenumb": "10",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "10 MG, QD, PRN",
+            "drugadministrationroute": "048",
+            "openfda": {
+              "application_number": [
+                "ANDA077214"
+              ],
+              "brand_name": [
+                "ZOLPIDEM"
+              ],
+              "generic_name": [
+                "ZOLPIDEM TARTRATE"
+              ],
+              "manufacturer_name": [
+                "ACI Healthcare USA, Inc"
+              ],
+              "product_ndc": [
+                "71093-155",
+                "71093-156"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "ZOLPIDEM TARTRATE"
+              ],
+              "rxcui": [
+                "854873",
+                "854876"
+              ],
+              "spl_id": [
+                "69a3d187-578f-4e49-b8b3-109219a7bdf6"
+              ],
+              "spl_set_id": [
+                "021153ce-fe27-4ed1-8d88-b4157b0ed734"
+              ],
+              "package_ndc": [
+                "71093-155-06",
+                "71093-155-04",
+                "71093-156-04",
+                "71093-156-06"
+              ],
+              "unii": [
+                "WY6W63843K"
+              ]
+            }
+          },
+          {
+            "drugcharacterization": "2",
+            "medicinalproduct": "CLONAZEPAM",
+            "drugstructuredosagenumb": ".5",
+            "drugstructuredosageunit": "003",
+            "drugdosagetext": "0.5 MG, QD, PRN",
+            "openfda": {
+              "application_number": [
+                "ANDA075468",
+                "ANDA077194",
+                "ANDA077171",
+                "ANDA074569",
+                "ANDA075150",
+                "ANDA077147",
+                "ANDA216988",
+                "ANDA074925",
+                "ANDA211033",
+                "ANDA077856",
+                "NDA017533"
+              ],
+              "brand_name": [
+                "CLONAZEPAM",
+                "KLONOPIN"
+              ],
+              "generic_name": [
+                "CLONAZEPAM"
+              ],
+              "manufacturer_name": [
+                "Advagen Pharma Ltd",
+                "Teva Pharmaceuticals USA, Inc.",
+                "Par Health USA, LLC",
+                "Aurobindo Pharma Limited",
+                "Accord Healthcare Inc.",
+                "Chartwell RX, LLC",
+                "Alembic Pharmaceuticals Inc.",
+                "TruPharma LLC",
+                "Solco Healthcare LLC",
+                "Alembic Pharmaceuticals Limited",
+                "H2-Pharma, LLC",
+                "Northstar Rx LLC"
+              ],
+              "product_ndc": [
+                "72888-152",
+                "72888-497",
+                "72888-153",
+                "72888-154",
+                "0093-9290",
+                "0093-9291",
+                "0093-9292",
+                "0093-9293",
+                "0093-9294",
+                "49884-306",
+                "49884-307",
+                "49884-308",
+                "49884-309",
+                "49884-310",
+                "0093-0832",
+                "0093-3212",
+                "0093-3213",
+                "59651-722",
+                "59651-723",
+                "59651-724",
+                "16729-136",
+                "16729-137",
+                "16729-138",
+                "72888-133",
+                "72888-134",
+                "72888-135",
+                "72888-136",
+                "72888-137",
+                "62135-769",
+                "62135-770",
+                "62135-771",
+                "62332-364",
+                "62332-365",
+                "62332-366",
+                "62332-367",
+                "62332-368",
+                "52817-305",
+                "43547-406",
+                "43547-407",
+                "43547-408",
+                "46708-364",
+                "46708-365",
+                "46708-366",
+                "46708-367",
+                "46708-368",
+                "61269-605",
+                "61269-610",
+                "61269-620",
+                "72603-307",
+                "72603-308",
+                "72603-309"
+              ],
+              "product_type": [
+                "HUMAN PRESCRIPTION DRUG"
+              ],
+              "route": [
+                "ORAL"
+              ],
+              "substance_name": [
+                "CLONAZEPAM"
+              ],
+              "rxcui": [
+                "197527",
+                "197528",
+                "197529",
+                "204892",
+                "349194",
+                "349195",
+                "349196",
+                "349197",
+                "349198",
+                "206157",
+                "206159",
+                "206160"
+              ],
+              "spl_id": [
+                "5510f17b-a980-f412-e063-6394a90ae1c4",
+                "a2f2eb5b-f890-4d6d-b728-5f63eb7dc11c",
+                "cb847105-dbbe-4e7a-ab2b-ad0731638ce6",
+                "d6abe4e3-7699-4ead-95f4-739a961b23ad",
+                "b1582eb7-af35-45d5-a52e-0e380d08527d",
+                "0e1e7f41-f78b-27cf-e063-6394a90a1ae0",
+                "52c6d077-2562-84e0-e063-6394a90ae280",
+                "09184e1a-1808-d656-e063-6294a90aa6f8",
+                "f619cc4e-e90b-4683-8959-864afafb3c44",
+                "5aa81a23-db1d-80a0-e063-6394a90a8a04",
+                "dc17b9d4-2890-4f6c-8476-daa39d0cbc9c",
+                "e19dd42d-3043-4605-9adf-001741e03942",
+                "63cfdab9-fb3d-4c2b-bf88-8ba841dba839",
+                "4764ed40-0c42-835c-e063-6394a90a9b68"
+              ],
+              "spl_set_id": [
+                "30d674f9-f1b3-4c2d-a8e9-3bc8e476f1ec",
+                "cb2e209e-e69b-422b-8abb-34df2bc92caa",
+                "1aef0069-80ea-483d-ac70-c8d485462c5b",
+                "8069b1a0-7c06-4252-b44e-e2eef065d9b8",
+                "b1582eb7-af35-45d5-a52e-0e380d08527d",
+                "ebc11109-e7bf-452d-b675-4b3236d54164",
+                "19fc756c-72fe-4504-beaa-4fa2235af18c",
+                "7b543f77-4388-4227-942f-7933f200b3a5",
+                "ecb28fcb-f0d1-4558-b460-ecabd0f6009e",
+                "fa50aceb-a113-4c07-98e0-f1824d4ff30e",
+                "4acbb7a9-4db5-4497-b8db-9f358b3f6fb4",
+                "43ee20ce-0015-413c-b230-822e390b02f7",
+                "cfa0d79a-843c-4b88-95a1-e9511d649ca1",
+                "017534e6-49ff-45f3-b88f-2f34cf0cf8fd"
+              ],
+              "package_ndc": [
+                "72888-497-01",
+                "72888-497-02",
+                "72888-497-03",
+                "72888-497-04",
+                "72888-152-30",
+                "72888-152-01",
+                "72888-152-05",
+                "72888-152-00",
+                "72888-153-30",
+                "72888-153-01",
+                "72888-153-05",
+                "72888-153-00",
+                "72888-154-30",
+                "72888-154-01",
+                "72888-154-05",
+                "72888-154-00",
+                "0093-9290-67",
+                "0093-9291-67",
+                "0093-9292-67",
+                "0093-9293-67",
+                "0093-9294-67",
+                "49884-306-02",
+                "49884-307-02",
+                "49884-308-02",
+                "49884-309-02",
+                "49884-310-02",
+                "0093-0832-01",
+                "0093-0832-05",
+                "0093-3212-01",
+                "0093-3212-05",
+                "0093-3213-01",
+                "0093-3213-05",
+                "59651-722-01",
+                "59651-722-99",
+                "59651-723-01",
+                "59651-723-99",
+                "59651-724-01",
+                "59651-724-05",
+                "16729-136-00",
+                "16729-136-16",
+                "16729-137-00",
+                "16729-137-16",
+                "16729-138-00",
+                "16729-138-16",
+                "72888-133-31",
+                "72888-133-29",
+                "72888-134-31",
+                "72888-134-29",
+                "72888-135-31",
+                "72888-135-29",
+                "72888-136-31",
+                "72888-136-29",
+                "72888-137-31",
+                "72888-137-29",
+                "62135-769-90",
+                "62135-770-90",
+                "62135-771-90",
+                "62332-364-06",
+                "62332-365-06",
+                "62332-366-06",
+                "62332-367-06",
+                "62332-368-06",
+                "52817-305-90",
+                "43547-406-10",
+                "43547-406-50",
+                "43547-406-11",
+                "43547-407-10",
+                "43547-407-50",
+                "43547-407-11",
+                "43547-408-10",
+                "43547-408-50",
+                "46708-364-06",
+                "46708-365-06",
+                "46708-366-06",
+                "46708-367-06",
+                "46708-368-06",
+                "61269-605-10",
+                "61269-610-10",
+                "61269-620-10",
+                "72603-307-01",
+                "72603-307-02",
+                "72603-308-01",
+                "72603-308-02",
+                "72603-308-03",
+                "72603-309-01",
+                "72603-309-02"
+              ],
+              "nui": [
+                "N0000175694",
+                "M0002356"
+              ],
+              "pharm_class_epc": [
+                "Benzodiazepine [EPC]"
+              ],
+              "pharm_class_cs": [
+                "Benzodiazepines [CS]"
+              ],
+              "unii": [
+                "5PE9FDE8GB"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

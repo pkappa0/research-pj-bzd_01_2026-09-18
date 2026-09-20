@@ -1,0 +1,12 @@
+{
+  "key": "zaleplon_margin_primarysourcecountry_exact",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZALEPLON%22+OR+patient.drug.medicinalproduct.exact%3A%22ZALEPLON%22%29&count=primarysourcecountry.exact&limit=100",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZALEPLON\" OR patient.drug.medicinalproduct.exact:\"ZALEPLON\")",
+    "count": "primarysourcecountry.exact",
+    "limit": 100
+  },
+  "retrieved_utc": "2026-09-20T01:55:35.437802+00:00",
+  "http_status": 200,
+  "sha256": "1b74cf47ae17fe29bbc85a6fd0d7393fe8e1387dc360eadc90723e0f9a1cb3b5"
+}

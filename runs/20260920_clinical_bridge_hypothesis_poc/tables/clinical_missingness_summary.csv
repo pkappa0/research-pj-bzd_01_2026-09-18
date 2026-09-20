@@ -1,0 +1,11 @@
+drug,nonmissing_features,missing_features,total_drug_reports,unstable_cells
+diazepam,14,0,118049,0
+alprazolam,14,0,200932,0
+triazolam,12,2,3893,2
+zolpidem,14,0,49105,0
+lorazepam,14,0,174733,0
+clonazepam,14,0,155429,0
+midazolam,14,0,24085,0
+temazepam,14,0,36961,0
+zopiclone,14,0,42339,0
+zaleplon,10,4,1544,4

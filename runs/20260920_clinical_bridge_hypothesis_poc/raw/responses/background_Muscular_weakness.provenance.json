@@ -1,0 +1,11 @@
+{
+  "key": "background_Muscular_weakness",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+patient.reaction.reactionmeddrapt.exact%3A%22MUSCULAR+WEAKNESS%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND patient.reaction.reactionmeddrapt.exact:\"MUSCULAR WEAKNESS\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:49:56.548345+00:00",
+  "http_status": 200,
+  "sha256": "eb1cb6b0c275d6278b97d51f608fcdfa99d95803ed604d0af6be553cc39a0312"
+}

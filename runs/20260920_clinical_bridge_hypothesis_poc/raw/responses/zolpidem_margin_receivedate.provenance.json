@@ -1,0 +1,12 @@
+{
+  "key": "zolpidem_margin_receivedate",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22ZOLPIDEM%22+OR+patient.drug.medicinalproduct.exact%3A%22ZOLPIDEM%22%29&count=receivedate&limit=100",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"ZOLPIDEM\" OR patient.drug.medicinalproduct.exact:\"ZOLPIDEM\")",
+    "count": "receivedate",
+    "limit": 100
+  },
+  "retrieved_utc": "2026-09-20T01:52:23.968510+00:00",
+  "http_status": 200,
+  "sha256": "fbea2d118e07274dcfd0dc242119676871b0a2cba38a188a790772d848692379"
+}

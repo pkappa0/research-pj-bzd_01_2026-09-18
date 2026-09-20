@@ -1,0 +1,39 @@
+{
+  "pair_rho": -0.19999999999999996,
+  "pair_count": 45,
+  "drug_label_permutation_tail_fraction": 0.4548,
+  "all_estimable_sensitivity_rho": -0.15928853754940708,
+  "leave_one_drug_out_rho_range": [
+    -0.35778635778635787,
+    -0.07696267696267697
+  ],
+  "top_absolute_feature_correlation": {
+    "structural_feature": "alpha2|BZD_GAMMA2_192|ASP|any_contact_frequency",
+    "phenotype_term": "Muscular weakness",
+    "phenotype_axis": "C5",
+    "n_effective": 10,
+    "missingness": 0,
+    "rho": 0.8963581269790831,
+    "status": "estimable"
+  },
+  "axis_drug_coverage": {
+    "C1": 10,
+    "C2": 10,
+    "C3": 10,
+    "C4": 10,
+    "C5": 10,
+    "C6": 10
+  },
+  "clinical_drug_count": 10,
+  "rotarod_triazolam_higher_contexts": 7,
+  "rotarod_tied_contexts": 1,
+  "clinical_triazolam_minus_diazepam": {
+    "Ataxia": -0.05669991453556045,
+    "Balance disorder": -0.44673756026054434,
+    "Coordination abnormal": null,
+    "Gait disturbance": -0.20586201468385568,
+    "Fall": 0.004827118588861978,
+    "Somnolence": -0.38483483847661604,
+    "Sedation": -1.0588181895577637
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30"
+  },
+  "results": [
+    {
+      "term": "NAYZILAM",
+      "count": 24085
+    },
+    {
+      "term": "MIDAZOLAM",
+      "count": 23196
+    },
+    {
+      "term": "MIDAZOLAM IN SODIUM CHLORIDE",
+      "count": 23196
+    },
+    {
+      "term": "DIPRIVAN",
+      "count": 7870
+    },
+    {
+      "term": "PROPOFOL",
+      "count": 7651
+    },
+    {
+      "term": "FENTANYL",
+      "count": 7042
+    },
+    {
+      "term": "FENTANYL SYSTEM",
+      "count": 7042
+    },
+    {
+      "term": "MEDLINE",
+      "count": 4860
+    },
+    {
+      "term": "PAIN RELIEF",
+      "count": 4452
+    },
+    {
+      "term": "KEPPRA XR",
+      "count": 4367
+    },
+    {
+      "term": "KEPPRA",
+      "count": 4360
+    },
+    {
+      "term": "ELEPSIA XR 1000 MG",
+      "count": 3801
+    },
+    {
+      "term": "ELEPSIA XR 1500 MG",
+      "count": 3801
+    },
+    {
+      "term": "LEVETIRACETAM",
+      "count": 3801
+    },
+    {
+      "term": "LEVETIRACETAM ER",
+      "count": 3801
+    },
+    {
+      "term": "LEVETIRACETAM EXTENDED-RELEASE",
+      "count": 3801
+    },
+    {
+      "term": "LEVETIRACETAM IN SODIUM CHLORIDE",
+      "count": 3801
+    },
+    {
+      "term": "LEVETIRACETAM SOLUTION",
+      "count": 3801
+    },
+    {
+      "term": "ROWEEPRA",
+      "count": 3801
+    },
+    {
+      "term": "SPRITAM",
+      "count": 3801
+    },
+    {
+      "term": "RAPIDOL",
+      "count": 3364
+    },
+    {
+      "term": "GOODNOW PAIN RELIEF",
+      "count": 2954
+    },
+    {
+      "term": "TYLENOL EXTRA STRENGTH",
+      "count": 2875
+    },
+    {
+      "term": "TYLENOL REGULAR STRENGTH",
+      "count": 2866
+    },
+    {
+      "term": "ATIVAN",
+      "count": 2750
+    },
+    {
+      "term": "ARTHRITIS PAIN RELIEF",
+      "count": 2655
+    },
+    {
+      "term": "ARTHRITIS PAIN RELIEVER",
+      "count": 2655
+    },
+    {
+      "term": "APAP",
+      "count": 2626
+    },
+    {
+      "term": "PANADOL",
+      "count": 2626
+    },
+    {
+      "term": "PANADOL EXTRA STRENGTH",
+      "count": 2626
+    },
+    {
+      "term": "CHILDRENS TYLENOL",
+      "count": 2620
+    },
+    {
+      "term": "TYLENOL EXTRA STRENGTH CAPLET",
+      "count": 2617
+    },
+    {
+      "term": "TYLENOL 8HR",
+      "count": 2615
+    },
+    {
+      "term": "PAIN RELIEVER",
+      "count": 2612
+    },
+    {
+      "term": "EXCEDRIN RAPID RELIEF",
+      "count": 2611
+    },
+    {
+      "term": "INFANTS TYLENOL",
+      "count": 2610
+    },
+    {
+      "term": "ACETAMINOPHEN 325 MG",
+      "count": 2609
+    },
+    {
+      "term": "ACETAMINOPHEN 500 MG",
+      "count": 2609
+    },
+    {
+      "term": "EXTRA STRENGTH PAIN RELIEVER",
+      "count": 2609
+    },
+    {
+      "term": "PAIN RELIEF EXTRA STRENGTH",
+      "count": 2609
+    },
+    {
+      "term": "PHARBETOL",
+      "count": 2609
+    },
+    {
+      "term": "365 WHOLE FOODS MARKET ACETAMINOPHEN",
+      "count": 2608
+    },
+    {
+      "term": "8 HOUR ARTHRITIS PAIN",
+      "count": 2608
+    },
+    {
+      "term": "8 HOUR PAIN RELIEF",
+      "count": 2608
+    },
+    {
+      "term": "8 HR ARTHRITIS PAIN",
+      "count": 2608
+    },
+    {
+      "term": "8 HR ARTHRITIS PAIN RELIEF",
+      "count": 2608
+    },
+    {
+      "term": "8 HR MUSCLE ACHES AND PAIN",
+      "count": 2608
+    },
+    {
+      "term": "8 HR PAIN RELIEF",
+      "count": 2608
+    },
+    {
+      "term": "8HR ARTHRITIS PAIN",
+      "count": 2608
+    },
+    {
+      "term": "8HR ARTHRITIS PAIN RELIEF",
+      "count": 2608
+    },
+    {
+      "term": "8HR MUSCLE ACHES AND PAIN",
+      "count": 2608
+    },
+    {
+      "term": "8HR MUSCLE ACHES AND PAIN RELIEF",
+      "count": 2608
+    },
+    {
+      "term": "8HR PAIN RELIEF",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN (RED)",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN 325MG",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN 650MG",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN CAPLETS",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN EASY TABS EXTRA STRENGTH",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN EXTENDED-RELEASE",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN EXTENDED-RELEASE TABLETS, 650 MG",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN EXTRA STRENGTH",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN FOR CHILDREN",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN GELCAPS",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN GELCAPS EXTRA STRENGTH",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN PAIN RELIEVER FEVER REDUCER",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN REGULAR STRENGTH",
+      "count": 2608
+    },
+    {
+      "term": "ACETAMINOPHEN SOLUTION",
+      "count": 2608
+    },
+    {
+      "term": "ADWE CHILDRENS PAIN FEVER",
+      "count": 2608
+    },
+    {
+      "term": "ADWE FEVERX ACETAMINOPHEN CAPLETS, 500 MG EXTRA STRENGTH",
+      "count": 2608
+    },
+    {
+      "term": "AMAZON BASIC CARE ACETAMINOPHEN",
+      "count": 2608
+    },
+    {
+      "term": "AMAZON BASICS ACETAMINOPHEN",
+      "count": 2608
+    },
+    {
+      "term": "APHEN",
+      "count": 2608
+    },
+    {
+      "term": "ARTHRITIS PAIN",
+      "count": 2608
+    },
+    {
+      "term": "ARTHRITIS PAIN ACETAMINOPHEN",
+      "count": 2608
+    },
+    {
+      "term": "ATAMEL FORTE",
+      "count": 2608
+    },
+    {
+      "term": "AUROPHEN EXTRA STRENGTH FOR ADULTS",
+      "count": 2608
+    },
+    {
+      "term": "AUROPHEN REGULAR STRENGTH",
+      "count": 2608
+    },
+    {
+      "term": "BACTIMICINA CHILDRENS PAIN AND FEVER",
+      "count": 2608
+    },
+    {
+      "term": "BASIC CARE ACETAMINOPHEN",
+      "count": 2608
+    },
+    {
+      "term": "BASIC CARE CHILDRENS PAIN AND FEVER",
+      "count": 2608
+    },
+    {
+      "term": "BASIC CARE INFANTS PAIN AND FEVER",
+      "count": 2608
+    },
+    {
+      "term": "BERKLEY AND JENSEN ACETAMINOPHEN",
+      "count": 2608
+    },
+    {
+      "term": "BERKLEY AND JENSEN PAIN RELIEF",
+      "count": 2608
+    },
+    {
+      "term": "BERKLEY AND JENSEN RAPID RELEASE ACETAMINOPHEN",
+      "count": 2608
+    },
+    {
+      "term": "BETTER LIVING BRANDS CHILDRENS FEVER AND PAIN RELIVER",
+      "count": 2608
+    },
+    {
+      "term": "CABINET PAIN RELIEVER AND FEVER REDUCER REFILL ACETAMINOPHEN",
+      "count": 2608
+    },
+    {
+      "term": "CARE ONE ARTHRITIS PAIN RELIEF",
+      "count": 2608
+    },
+    {
+      "term": "CAREALL ACETAMINOPHEN",
+      "count": 2608
+    },
+    {
+      "term": "CAREALL ACETAMINOPHEN EXTRA STRENGTH",
+      "count": 2608
+    },
+    {
+      "term": "CAREALL NON ASPIRIN EXTRA STRENGTH",
+      "count": 2608
+    },
+    {
+      "term": "CAREONE 8 HOUR PAIN RELIEF",
+      "count": 2608
+    },
+    {
+      "term": "CAREONE ACETAMINOPHEN",
+      "count": 2608
+    },
+    {
+      "term": "CAREONE CHILDRENS ACETAMINOPHEN",
+      "count": 2608
+    },
+    {
+      "term": "CAREONE INFANTS ACETAMINOPHEN",
+      "count": 2608
+    },
+    {
+      "term": "CETAFEN",
+      "count": 2608
+    },
+    {
+      "term": "CETAFEN EXTRA",
+      "count": 2608
+    },
+    {
+      "term": "CHEWABLE ACETAMINOPHEN CHILDRENS",
+      "count": 2608
+    },
+    {
+      "term": "CHILDREN ACETAMINOPHEN",
+      "count": 2608
+    },
+    {
+      "term": "CHILDREN ACETAMINOPHEN ORAL SOLUTION",
+      "count": 2608
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "clonazepam_Hypotonia",
+  "url": "https://api.fda.gov/drug/event.json?search=receivedate%3A%5B20040101+TO+20251231%5D+AND+%28patient.drug.openfda.generic_name.exact%3A%22CLONAZEPAM%22+OR+patient.drug.medicinalproduct.exact%3A%22CLONAZEPAM%22%29+AND+patient.reaction.reactionmeddrapt.exact%3A%22HYPOTONIA%22&limit=1",
+  "params": {
+    "search": "receivedate:[20040101 TO 20251231] AND (patient.drug.openfda.generic_name.exact:\"CLONAZEPAM\" OR patient.drug.medicinalproduct.exact:\"CLONAZEPAM\") AND patient.reaction.reactionmeddrapt.exact:\"HYPOTONIA\"",
+    "limit": 1
+  },
+  "retrieved_utc": "2026-09-20T01:54:33.082249+00:00",
+  "http_status": 200,
+  "sha256": "25d0fe0dabbb5b95a880ce78401135e784ba5dc2564f687952f0beb7d6006c8d"
+}
