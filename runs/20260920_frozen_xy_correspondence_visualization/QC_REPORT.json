@@ -1,0 +1,37 @@
+{
+  "X_frozen_sha256": "c986ba328a01fd4bc6909ca24e4724d7eea5971e5a5ea6ae0fc2faa3147b2f10",
+  "Y_frozen_sha256": "8475dd9e413a97075820b93531550ffa8be49dba591834dab3f4e5ccdcb01ea2",
+  "X_shape": [
+    10,
+    48
+  ],
+  "Y_shape": [
+    10,
+    14
+  ],
+  "drug_order": [
+    "diazepam",
+    "alprazolam",
+    "triazolam",
+    "zolpidem",
+    "lorazepam",
+    "clonazepam",
+    "midazolam",
+    "temazepam",
+    "zopiclone",
+    "zaleplon"
+  ],
+  "Y_NA_cells": 6,
+  "correlation_cells": 672,
+  "n_effective_annotations": 672,
+  "anchor_rows": 16,
+  "feature_selection": false,
+  "input_recalculation": false,
+  "correlation_recalculation": false,
+  "same_drug_order": true,
+  "causal_arrows": false,
+  "source_run": "runs/20260920_clinical_bridge_hypothesis_poc",
+  "visual_review": "passed; PNG labels, row alignment, legends and anchor inspected",
+  "svg_xml_valid": true,
+  "all_input_snapshots_byte_identical": true
+}
