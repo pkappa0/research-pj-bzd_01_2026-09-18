@@ -1,0 +1,27 @@
+[
+  {
+    "source_file": "runs/20260920_clinical_bridge_hypothesis_poc/raw/lineage/structural_fingerprint.csv",
+    "snapshot_file": "data/frozen_plif_fingerprint.csv",
+    "sha256": "c986ba328a01fd4bc6909ca24e4724d7eea5971e5a5ea6ae0fc2faa3147b2f10"
+  },
+  {
+    "source_file": "runs/20260920_clinical_bridge_hypothesis_poc/tables/clinical_fingerprint_10drug.csv",
+    "snapshot_file": "data/frozen_clinical_fingerprint.csv",
+    "sha256": "8475dd9e413a97075820b93531550ffa8be49dba591834dab3f4e5ccdcb01ea2"
+  },
+  {
+    "source_file": "runs/20260920_clinical_bridge_hypothesis_poc/STRUCTURAL_RESULTS_FROZEN.json",
+    "snapshot_file": "config/STRUCTURAL_RESULTS_FROZEN_source.json",
+    "sha256": "8d30f564745ff34db470b0d9a60e976dfcfffaaae8d2dac798fb87678dd5c2a4"
+  },
+  {
+    "source_file": "runs/20260920_clinical_bridge_hypothesis_poc/CLINICAL_RESULTS_FROZEN.json",
+    "snapshot_file": "config/CLINICAL_RESULTS_FROZEN_source.json",
+    "sha256": "622f045c7d509dd9ec463402cf8af0069c0f73eec907f0768ad9af5e962ebde5"
+  },
+  {
+    "source_file": "runs/20260920_archived_vina_score_recovery/scripts/recover_vina_scores.py",
+    "snapshot_file": "config/original_recovery_script.py",
+    "sha256": "afd007b481593acc215a3778c98cf91e9d7e5ae46427f09f277153e3f808786c"
+  }
+]

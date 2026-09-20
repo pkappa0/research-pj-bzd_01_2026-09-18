@@ -1,0 +1,11 @@
+{
+  "created_utc": "2026-09-20T08:32:55.897530+00:00",
+  "files": {
+    "vina_scores_all_poses.csv": "95493bbeb9ded7b08cd1b323dda30211efe76d578dfd250e88fc4e11d5a4270d",
+    "vina_scores_seed_best.csv": "b327ca344b43fc35833dd5f3a468a416affd71624485b2bdc394e577601d1b81",
+    "vina_scores_drug_receptor_summary.csv": "5df035098369358f3ccb2dd29b6237caae2a2bf841faa92d3b895ccf91419a5d"
+  },
+  "primary_score": "median of seed-level minima, by receptor independently",
+  "favorability": "negative of median raw score",
+  "clinical_values_used": false
+}

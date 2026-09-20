@@ -1,0 +1,51 @@
+{
+  "docking_rerun": false,
+  "PLIF_recomputed": false,
+  "clinical_optimization": false,
+  "drug_order": [
+    "diazepam",
+    "alprazolam",
+    "triazolam",
+    "zolpidem",
+    "lorazepam",
+    "clonazepam",
+    "midazolam",
+    "temazepam",
+    "zopiclone",
+    "zaleplon"
+  ],
+  "receptor_blocks": [
+    "alpha1",
+    "alpha2"
+  ],
+  "expected_seeds": [
+    2026091901,
+    2026091902,
+    2026091903,
+    2026091904,
+    2026091905
+  ],
+  "expected_outputs": 100,
+  "parsed_pdbqt_outputs": 100,
+  "preserved_result_records": 883,
+  "valid_result_records": 883,
+  "seed_rows": 100,
+  "usable_seed_scores": 100,
+  "drug_receptor_summary_rows": 20,
+  "missing_seeds": 0,
+  "parsing_or_provenance_issues": 0,
+  "rank1_best_agreement": 100,
+  "all_archives_hash_match": true,
+  "all_output_files_hash_match": true,
+  "frozen_X_sha256_verified": "c986ba328a01fd4bc6909ca24e4724d7eea5971e5a5ea6ae0fc2faa3147b2f10",
+  "frozen_Y_sha256_verified": "8475dd9e413a97075820b93531550ffa8be49dba591834dab3f4e5ccdcb01ea2",
+  "score_layer_frozen_before_clinical_correspondence": true,
+  "sample_SD_ddof": 1,
+  "cross_receptor_descriptive_rho": -0.1515151515151515,
+  "C1_correspondence_rows": 8,
+  "raw_favorability_rho_sign_reversal_verified": true,
+  "multiview_index_rows": 10,
+  "PLIF_vector_reference_count": 20,
+  "PLIF_numeric_integration": false,
+  "p_value_hit_calling": false
+}

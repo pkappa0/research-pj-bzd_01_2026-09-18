@@ -1,0 +1,81 @@
+drug,receptor_block,clinical_term,median_best_seed_vina_score,vina_favorability,clinical_logROR,included_in_correlation
+diazepam,alpha1,Ataxia,-10.13,10.13,1.7432409355600529,True
+alprazolam,alpha1,Ataxia,-10.581,10.581,0.8749964171405225,True
+triazolam,alpha1,Ataxia,-10.887,10.887,1.6865410210244924,True
+zolpidem,alpha1,Ataxia,-10.359,10.359,1.2864893986645851,True
+lorazepam,alpha1,Ataxia,-8.499,8.499,1.6490313378829775,True
+clonazepam,alpha1,Ataxia,-9.497,9.497,1.7462926870502995,True
+midazolam,alpha1,Ataxia,-10.753,10.753,1.1639459867974793,True
+temazepam,alpha1,Ataxia,-9.788,9.788,1.2439897372335924,True
+zopiclone,alpha1,Ataxia,-9.677,9.677,1.6673843604813676,True
+zaleplon,alpha1,Ataxia,-9.18,9.18,NA,False
+diazepam,alpha1,Balance disorder,-10.13,10.13,1.0296588944790876,True
+alprazolam,alpha1,Balance disorder,-10.581,10.581,0.7992309188660318,True
+triazolam,alpha1,Balance disorder,-10.887,10.887,0.5829213342185433,True
+zolpidem,alpha1,Balance disorder,-10.359,10.359,0.6547479032255996,True
+lorazepam,alpha1,Balance disorder,-8.499,8.499,0.8961640084358731,True
+clonazepam,alpha1,Balance disorder,-9.497,9.497,1.2903961838418194,True
+midazolam,alpha1,Balance disorder,-10.753,10.753,-0.2045072313156311,True
+temazepam,alpha1,Balance disorder,-9.788,9.788,1.0049136694974763,True
+zopiclone,alpha1,Balance disorder,-9.677,9.677,1.0878717014596084,True
+zaleplon,alpha1,Balance disorder,-9.18,9.18,0.9159189890724022,True
+diazepam,alpha1,Coordination abnormal,-10.13,10.13,1.4472063768972523,True
+alprazolam,alpha1,Coordination abnormal,-10.581,10.581,0.7726707977348326,True
+triazolam,alpha1,Coordination abnormal,-10.887,10.887,NA,False
+zolpidem,alpha1,Coordination abnormal,-10.359,10.359,1.954594651604564,True
+lorazepam,alpha1,Coordination abnormal,-8.499,8.499,1.1195345714817255,True
+clonazepam,alpha1,Coordination abnormal,-9.497,9.497,1.571005386042435,True
+midazolam,alpha1,Coordination abnormal,-10.753,10.753,0.8930682886215138,True
+temazepam,alpha1,Coordination abnormal,-9.788,9.788,1.5532425864567792,True
+zopiclone,alpha1,Coordination abnormal,-9.677,9.677,1.7441868383585053,True
+zaleplon,alpha1,Coordination abnormal,-9.18,9.18,NA,False
+diazepam,alpha1,Gait disturbance,-10.13,10.13,0.7543273613777952,True
+alprazolam,alpha1,Gait disturbance,-10.581,10.581,0.5959569981189823,True
+triazolam,alpha1,Gait disturbance,-10.887,10.887,0.5484653466939395,True
+zolpidem,alpha1,Gait disturbance,-10.359,10.359,0.4298310426140528,True
+lorazepam,alpha1,Gait disturbance,-8.499,8.499,0.8113274336511367,True
+clonazepam,alpha1,Gait disturbance,-9.497,9.497,0.9704937375491234,True
+midazolam,alpha1,Gait disturbance,-10.753,10.753,-0.2746813883398147,True
+temazepam,alpha1,Gait disturbance,-9.788,9.788,0.869839558657473,True
+zopiclone,alpha1,Gait disturbance,-9.677,9.677,0.9008080646549104,True
+zaleplon,alpha1,Gait disturbance,-9.18,9.18,0.6434869541662476,True
+diazepam,alpha2,Ataxia,-7.774,7.774,1.7432409355600529,True
+alprazolam,alpha2,Ataxia,-7.657,7.657,0.8749964171405225,True
+triazolam,alpha2,Ataxia,-6.82,6.82,1.6865410210244924,True
+zolpidem,alpha2,Ataxia,-7.525,7.525,1.2864893986645851,True
+lorazepam,alpha2,Ataxia,-6.848,6.848,1.6490313378829775,True
+clonazepam,alpha2,Ataxia,-6.873,6.873,1.7462926870502995,True
+midazolam,alpha2,Ataxia,-7.546,7.546,1.1639459867974793,True
+temazepam,alpha2,Ataxia,-6.893,6.893,1.2439897372335924,True
+zopiclone,alpha2,Ataxia,-8.1,8.1,1.6673843604813676,True
+zaleplon,alpha2,Ataxia,-8.601,8.601,NA,False
+diazepam,alpha2,Balance disorder,-7.774,7.774,1.0296588944790876,True
+alprazolam,alpha2,Balance disorder,-7.657,7.657,0.7992309188660318,True
+triazolam,alpha2,Balance disorder,-6.82,6.82,0.5829213342185433,True
+zolpidem,alpha2,Balance disorder,-7.525,7.525,0.6547479032255996,True
+lorazepam,alpha2,Balance disorder,-6.848,6.848,0.8961640084358731,True
+clonazepam,alpha2,Balance disorder,-6.873,6.873,1.2903961838418194,True
+midazolam,alpha2,Balance disorder,-7.546,7.546,-0.2045072313156311,True
+temazepam,alpha2,Balance disorder,-6.893,6.893,1.0049136694974763,True
+zopiclone,alpha2,Balance disorder,-8.1,8.1,1.0878717014596084,True
+zaleplon,alpha2,Balance disorder,-8.601,8.601,0.9159189890724022,True
+diazepam,alpha2,Coordination abnormal,-7.774,7.774,1.4472063768972523,True
+alprazolam,alpha2,Coordination abnormal,-7.657,7.657,0.7726707977348326,True
+triazolam,alpha2,Coordination abnormal,-6.82,6.82,NA,False
+zolpidem,alpha2,Coordination abnormal,-7.525,7.525,1.954594651604564,True
+lorazepam,alpha2,Coordination abnormal,-6.848,6.848,1.1195345714817255,True
+clonazepam,alpha2,Coordination abnormal,-6.873,6.873,1.571005386042435,True
+midazolam,alpha2,Coordination abnormal,-7.546,7.546,0.8930682886215138,True
+temazepam,alpha2,Coordination abnormal,-6.893,6.893,1.5532425864567792,True
+zopiclone,alpha2,Coordination abnormal,-8.1,8.1,1.7441868383585053,True
+zaleplon,alpha2,Coordination abnormal,-8.601,8.601,NA,False
+diazepam,alpha2,Gait disturbance,-7.774,7.774,0.7543273613777952,True
+alprazolam,alpha2,Gait disturbance,-7.657,7.657,0.5959569981189823,True
+triazolam,alpha2,Gait disturbance,-6.82,6.82,0.5484653466939395,True
+zolpidem,alpha2,Gait disturbance,-7.525,7.525,0.4298310426140528,True
+lorazepam,alpha2,Gait disturbance,-6.848,6.848,0.8113274336511367,True
+clonazepam,alpha2,Gait disturbance,-6.873,6.873,0.9704937375491234,True
+midazolam,alpha2,Gait disturbance,-7.546,7.546,-0.2746813883398147,True
+temazepam,alpha2,Gait disturbance,-6.893,6.893,0.869839558657473,True
+zopiclone,alpha2,Gait disturbance,-8.1,8.1,0.9008080646549104,True
+zaleplon,alpha2,Gait disturbance,-8.601,8.601,0.6434869541662476,True

@@ -1,0 +1,16 @@
+{
+  "clinical_terms": [
+    "Ataxia",
+    "Balance disorder",
+    "Coordination abnormal",
+    "Gait disturbance"
+  ],
+  "primary_score": "median_best_seed_score",
+  "derived_score": "vina_favorability = -median_best_seed_score",
+  "missingness": "pairwise complete drugs for each term; no imputation",
+  "correlation": "Spearman across drugs; no p-values or hit calling; n<5 marked exploratory-insufficient; constant vectors return NA",
+  "PLIF_integration": "identity/source index only; no vector weighting, joint metric or feature selection",
+  "sd_definition": "sample SD of seed best scores, ddof=1",
+  "IQR_definition": "Q75-Q25, linear interpolation",
+  "interpretation": "Vina docking-score proxy, not experimental affinity; association/correspondence only"
+}

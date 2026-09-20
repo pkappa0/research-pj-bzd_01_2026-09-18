@@ -1,0 +1,27 @@
+[
+  {
+    "source_file": "runs/20260919_0724_10drug_standardized_redocking/config/docking_config.json",
+    "snapshot_file": "config/docking_config_source.json",
+    "sha256": "d3c6a7fd0b773c2a2d0811451bd8de7c9e952f8e0e19992686fa5060b76aa35b"
+  },
+  {
+    "source_file": "runs/20260919_0724_10drug_standardized_redocking/tables/docking_run_manifest.csv",
+    "snapshot_file": "config/docking_run_manifest_source.csv",
+    "sha256": "270a9fc583715392ee7ceecdde37a8478e25cdb2e717721723ddd13168a9a613"
+  },
+  {
+    "source_file": "runs/20260919_0724_10drug_standardized_redocking/tables/raw_archive_manifest.csv",
+    "snapshot_file": "config/raw_archive_manifest_source.csv",
+    "sha256": "ca79e5a3d5b6a35df0e5ea27ec9a64f1980edf02ad28bdae0015b018018ad055"
+  },
+  {
+    "source_file": "ANALYSIS_CONTRACT.md",
+    "snapshot_file": "config/ANALYSIS_CONTRACT_source.md",
+    "sha256": "5735c6ad2067f4110cf81046429e32fae6f24e8731b7caa4f9313fd0a82520b0"
+  },
+  {
+    "source_file": "runs/20260920_wobbling_focused_correspondence/tables/drug_display_order.csv",
+    "snapshot_file": "config/drug_display_order.csv",
+    "sha256": "749c1fbe652574c2ed0f78488557d916979b29df8e93216418f79dc1cff73347"
+  }
+]
